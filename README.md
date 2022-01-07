@@ -124,11 +124,11 @@ Basically, you transcribe everything from Hangeul or Hunminjeongeum letter by le
 | Text | Transcription | Misc. |
 | - | - | - |
 | ᆝ | yv | |
-| (ᆢ) | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨x⟩ needs to be used in between any vowels. |
+| (ᆢ) | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨x⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
 | ㆉ | yoj | |
 | ㆌ | yooj | |
 | ᆜ | ye | |
-| (ᆖ) | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨x⟩ needs to be used in between any vowels. |
+| (ᆖ) | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨x⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
 | ㆎ | vj | |
 
 * For sibilant variants, use IPA characters
