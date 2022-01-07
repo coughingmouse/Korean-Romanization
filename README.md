@@ -1,6 +1,7 @@
 # Latransyskos 국문로마자전자법
 Latin Transliteration System for Korean Scripts, made to be used.
-실용성을 중심으로 만든 대한민국문로마자전자법을 소개합니다.
+
+실용성을 중심으로 만든 국문로마자전자법을 소개합니다.
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
@@ -150,7 +151,7 @@ This are the better ways to write in latin letters, but they are not translitera
 | ㅙ | we | |
 | ㅞ | we | |
 | ㅢ | i | ⟨e⟩ when used as postposition -의 |
-* 사이히읗은 write as ⟨h⟩
+* 사이히읗 is written as ⟨h⟩
 
 | Transcription | Text |
 | - | - | - |
