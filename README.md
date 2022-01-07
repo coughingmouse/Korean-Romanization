@@ -1,5 +1,5 @@
 # Latransyskos
-Latin Transliteration System for Korean Scripts
+Latin Transliteration System for Korean Scripts, made to be used.
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
