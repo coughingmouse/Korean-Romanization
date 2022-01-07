@@ -1,9 +1,10 @@
-# Latransyskos
+# Latransyskos 국문로마자전자법
 Latin Transliteration System for Korean Scripts, made to be used.
+실용성을 중심으로 만든 대한민국문로마자전자법을 소개합니다.
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
-) romanization of Korean is in general not so great. So I decided I'd make a [better one](https://xkcd.com/927/) that is useful.
+) romanization of Korean is in general not in a great condition. So I decided I'd make a [better one](https://xkcd.com/927/) that may come useful.
 
 There are some transcription systems in use, the most common being Revised Romanization of Korean, but they just don't work. As for the RRK, the transcription system relies on the pronunciation, but also because there's not enough correlation between the romanized forms and the form written in Korea-originated scripts. Korean is a language with numerous liasons and sandhis. Phonetic transcription makes it impossible to comprehend what the words are. They tried to mitigate that by making a complex hyphenation system that is only used for the romanization, and is not very well kept anyway. All in all, it kinda works when you're trying to make someone pronounce a meaningless phrase without knowing what it means. The romanization is too complicated for uses other than just that.
 
