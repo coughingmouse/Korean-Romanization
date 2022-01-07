@@ -115,10 +115,10 @@ Basically, you transcribe everything from Hangeul or Hunminjeongeum letter by le
 
 | Text | Transcription | Misc. |
 | - | - | - |
-| ㅱ | mh | |
+| ㅱ | mx | |
 | ㅸ | f | |
-| ㅹ | bh | |
-| ㆄ | ph | |
+| ㅹ | bx | |
+| ㆄ | px | |
 | ᄛ(ퟝ) | r | |
 
 | Text | Transcription | Misc. |
