@@ -1,7 +1,8 @@
-# Mawse Korean-to-Latin Script Romanization 마우스 국문 로마자 전자법
+# Mawse Korean-to-Latin Script Romanization 
+
 Latin Transliteration and Transcription System for Korean Scripts, made to be used.
 
-실용성을 중심으로 만든 국문 로마자 전자법을 소개합니다.
+마우스 국문 로마자 전자법. 실용성을 중심으로 만든 국문 로마자 전자법을 소개합니다.
 
 #### tl;dr
 | Letter | Tranliteration | Misc. |
