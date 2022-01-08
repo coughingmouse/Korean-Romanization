@@ -1,11 +1,11 @@
 # Latransyskos 국문로마자전자법
 Latin Transliteration and Transcription System for Korean Scripts, made to be used.
 
-실용성을 중심으로 만든 국문로마자전자법을 소개합니다.
+실용성을 중심으로 만든 국문 로마자 전자법을 소개합니다.
 
-[tl;dr]
-| Letter | Transcription | Misc. |
-| - | - |
+#### tl;dr
+| Letter | Tranliteration | Misc. |
+| - | - | - |
 | ㅜ | w | Also a semivowel. |
 | ㅡ | e |
 | ㅓ | u |
@@ -14,16 +14,16 @@ Latin Transliteration and Transcription System for Korean Scripts, made to be us
 | ㅇ | ' | Not used in Modern Korean. |
 | ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
 | ㆁ | g |
-| ㄲ | qq | ⟨Q⟩ is allowed. |
+| ㄲ | qq | ⟨Q⟩ is allowed but not recommended. |
 | ㆆ | 7 | ⟨ʔ⟩ is allowed but not recommended. |
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
-) romanization of Korean is in general not in a great condition. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/).
+) romanization of Korean is in general not in a great condition. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). They can be used for mapping regular, phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
 
 ## Modern Korean version
 
-| Text | Tranliteration | Transcription (diff) | Misc. |
+| Text | Tranliteration | Alternative (diff) | Misc. |
 | - | - | - | - |
 | ㅏ | a | |
 | ㅓ | u | |
@@ -52,9 +52,9 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㅍ | p |
 | ㅎ | h |
 | Text | Tranliteration | Misc. |
-| ㄲ | qq | ⟨Q⟩ is allowed.
-| ㄸ | dd | ⟨D⟩ is allowed.
-| ㅃ | bb | ⟨B⟩ is allowed.
+| ㄲ | qq | ⟨Q⟩ is allowed but not recommended. |
+| ㄸ | dd | ⟨D⟩ is allowed but not recommended. |
+| ㅃ | bb | ⟨B⟩ is allowed but not recommended. |
 | ㅆ | s |
 | ㅉ | j |
 
@@ -77,22 +77,22 @@ ______
 | ㅣ | i/y | ⟨y⟩ when used as onset. |
 | ㅡ | e | |
 
-| Text | Tranliteration | Transcription |
+| Text | Tranliteration | Alternative |
 | - | - | - |
 | ㅐ | ai | ei |
 | ㅒ | yai | yei |
 | ㅔ | ui | ei |
 | ㅖ | yui | yei |
 
-| Text | Transliteration | Transcription | Misc. |
+| Text | Transliteration | Alternative | Misc. |
 | - | - | - | - |
 | ㅜ | w | |
 | ㅠ | yw | |
-| ㅘ | wa | |
+| ㅘ | wa | | ⟨wva⟩ in old text. |
 | ㅝ | wu | |
-| ㅚ | oi | wei | ⟨wvi⟩ in old text.
+| ㅚ | oi | wei | ⟨wvi⟩ in old text. |
 | ㅟ | wi | |
-| ㅙ | wai | wei |
+| ㅙ | wai | wei | ⟨wvai⟩ in old text. |
 | ㅞ | wui | wei |
 | ㅢ | ei | i/ei | In transcription, use ⟨ei⟩ only when uesd as the preposition -의. |
 
@@ -158,16 +158,16 @@ Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_reg
 
 These are the better ways to write in latin letters, but they are not transliterally compatible with older systems. Here are some suggestions.
 
-1. Write 사이히읗 as ⟨h⟩
+1. Write 사이히읗 as ⟨h'⟩ explicitly
 
-| Text | Transliteration |
-| - | - | - |
-| 가당치도 | qadagchido |
-| 가당ㅎ지도 | qadaghcido |
+| Text | Transliteration | Phonemic Transliteration | Phonetic Transliteration |
+| - | - | - | - |
+| 가당치도 | qadagchido | qadaghcido | qadagchido
+| 가당ㅎ지도 | qadagh'cido | qadaghcido | qadagchido
 
 2. Write ⟨d⟩ whenever archaic word s exists and is not pronounced as a liquid, and ⟨n⟩ when pronounced as a liquid (in front of ⟨i⟩/⟨y⟩)
 
-| Text | Transliteration | Transcription |
+| Text | Transliteration | Alternative |
 | - | - | - |
 | 숫자 | xwdca |
 | 멸족 | myuldcog |
@@ -199,13 +199,14 @@ ______
 * Be intuitive for Koreans
 * Be intuitive for English users
 * Be intuitive for Chinese
+* Avoid using two or more letters for a single phoneme 
 _______
 
 ## Why...?
 
 There are some transcription systems in use, the most common being Revised Romanization of Korean, but they just don't work. As for the RRK, the transcription system relies on the pronunciation, but also because there's not enough correlation between the romanized forms and the form written in Korea-originated scripts. Korean is a language with numerous liasons and sandhis. Phonetic transcription makes it impossible to comprehend what the words are. They tried to mitigate that by making a complex hyphenation system that is only used for the romanization, and is not very well kept anyway. All in all, it kinda works when you're trying to make someone pronounce a meaningless phrase without knowing what it means. The romanization is too complicated for uses other than just that.
 
-Yale Romanization of Korean is used often and it's a pretty sound system overall, but there are slight problems regarding intuitivity, casual readability, and effeciency. It also doesn't get much support from Korea just because it wasn't made in or by a Korean, which is quite significant to the point that RRK is being more often used instead where it should not be.
+Yale Romanization of Korean is used often and it's a pretty sound system overall, but there are slight problems regarding intuitivity, casual readability, and effeciency, all of which are not critical in academic use case but more necessary in everyday use. It also doesn't get much support from Korea just because it wasn't made in or by a Korean, which is quite significant to the point that RRK is being more often used where it should not be.
 
 The differences from the Yale Romanization are as follows.
 | Text | Here | Yale | Misc. |
@@ -234,11 +235,13 @@ The differences from the Yale Romanization are as follows.
 | ㆄ | p' | ? |
 | ᄛ(ퟝ) | r | ? |
 
+The other romanization systems that I looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing.
+
 ______
 
 ### Examples
 
-| Text | Transcription |
+| Transliteration | Text |
 | - | - |
 | muqbag | 먹방 |
 | qim cugen | 김정은 |
@@ -247,13 +250,12 @@ ______
 | qqoch | 꽃 |
 | qoc | 곶 |
 | qox | 곳 |
-| jang | 짱 |
+| jag | 짱 |
 | qemdogmileqboxalbangaxaywxag | 금동미륵보살반가사유상 |
 | milke | 밀크 |
 | ladio | 라디오 |
 | bulaq obama | 버락 오바마 |
-| xinchung | 신청 |
-| xachunxung | 사천성 |
+| xinchug | 신청 |
+| xachunxug | 사천성 |
 | manhwa | 만화 |
 | il i xam xa o lywq chil pal qw xip | 일 이 … 십 |
-
