@@ -15,7 +15,7 @@ Latin Transliteration and Transcription System for Korean Scripts, made to be us
 | ㅇ | ' | Not used in Modern Korean. |
 | ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
 | ㆁ | g |
-| ㄲ | qq | ⟨Q⟩ is allowed but not recommended. |
+| ㄲ | qq |
 | ㆆ | 7 | ⟨ʔ⟩ is allowed but not recommended. |
 
 ## Introduction
@@ -53,9 +53,9 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㅍ | p |
 | ㅎ | h |
 | Text | Tranliteration | Misc. |
-| ㄲ | qq | ⟨Q⟩ is allowed but not recommended. |
-| ㄸ | dd | ⟨D⟩ is allowed but not recommended. |
-| ㅃ | bb | ⟨B⟩ is allowed but not recommended. |
+| ㄲ | qq |
+| ㄸ | dd |
+| ㅃ | bb |
 | ㅆ | s |
 | ㅉ | j |
 
@@ -127,9 +127,9 @@ ______
 | (ᆖ) | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨x⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
 | ㆎ | vj |
 | Text | Tranliteration | Misc. |
-| ㄲ | qq | ⟨Q⟩ is allowed. |
-| ㄸ | dd | ⟨D⟩ is allowed. |
-| ㅃ | bb | ⟨B⟩ is allowed. |
+| ㄲ | qq |
+| ㄸ | dd |
+| ㅃ | bb |
 | ㅆ | s |
 | ㅉ | j |
 | Text | Tranliteration | Misc. |
