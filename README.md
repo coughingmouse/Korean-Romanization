@@ -1,4 +1,4 @@
-# Mawse Korean-to-Latin Script Romanization 
+# Mawse Korean Script Romanization
 
 Latin Transliteration and Transcription System for Korean Scripts, made to be used.
 
