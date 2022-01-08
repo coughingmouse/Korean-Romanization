@@ -5,7 +5,7 @@ Latin Transliteration and Transcription System for Korean Scripts, made to be us
 마우스 국문 로마자 전자법. 실용성을 중심으로 만든 국문 로마자 전자법을 소개합니다.
 
 #### tl;dr
-| Letter | Tranliteration | Misc. |
+| Letter | Transcription | Misc. |
 | - | - | - |
 | ㅜ | w | Also a semivowel. |
 | ㅡ | e |
