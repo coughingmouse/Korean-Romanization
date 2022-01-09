@@ -173,7 +173,7 @@ These are the better ways to write in latin letters, but they are not transliter
 2. Write ⟨d⟩ whenever archaic word s exists and is not pronounced as a liquid, and ⟨n⟩ when pronounced as a liquid (in front of ⟨i⟩/⟨y⟩)
 
 | Text | Transcription |
-| - | - | - |
+| - | - |
 | 숫자 | xoodca |
 | 멸족 | myuldcog |
 | 냇가 | neidga |
