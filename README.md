@@ -197,6 +197,7 @@ ______
 * Make an alphabetic transliteration system, not a spelling reform
 * Use Latin letters
 * Use only the standard Latin Letters for the transliteration of modern Korean
+* Avoid using two or more letters for a single phoneme
 * Make it computer friendly
 * Respect coalescence and the historic usage of Hangeul and Hunminjeongeum
 * Respect the historic usage of Latin Letters
@@ -204,7 +205,6 @@ ______
 * Be intuitive for Koreans
 * Be intuitive for English users
 * Be intuitive for Chinese
-* Avoid using two or more letters for a single phoneme 
 _______
 
 ## Why...?
