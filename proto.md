@@ -2,7 +2,7 @@
 
 | Text | Transcription | Misc. |
 | - | - | - |
-| ㅇ | ' | Used in between ⟨o⟩s read separately. |
+| ㅇ | x | |
 | ㅏ | a | |
 | ㅓ | u | |
 | ㅗ | o | |
@@ -17,23 +17,23 @@
 
 | Text | Transcription | Misc. |
 | - | - | - |
-| ㄱ | k | 
-| ㄴ | n |
-| ㄷ | t |
-| ㄹ | l |
-| ㅁ | m |
-| ㅂ | p |
-| ㅅ | sh |
-| ㆁ | g |
-| ㅈ | z |
-| ㅊ | ch |
-| ㅋ | kh |
-| ㅌ | th |
-| ㅍ | ph |
-| ㅎ | h |
+| ㄱ | k | |
+| ㄴ | n | |
+| ㄷ | t | |
+| ㄹ | l | |
+| ㅁ | m | |
+| ㅂ | p | |
+| ㅅ | sh | |
+| ㆁ | ng | |
+| ㅈ | z | |
+| ㅊ | ch | |
+| ㅋ | kh | |
+| ㅌ | th | |
+| ㅍ | ph | |
+| ㅎ | h | |
 | Text | Transcription | Misc. |
-| ㄲ | kk |
-| ㄸ | tt |
-| ㅃ | pp |
-| ㅆ | s |
-| ㅉ | zz |
+| ㄲ | kk | |
+| ㄸ | tt | |
+| ㅃ | pp | |
+| ㅆ | s | |
+| ㅉ | zz | |
