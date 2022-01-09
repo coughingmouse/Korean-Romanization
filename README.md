@@ -10,10 +10,10 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㅜ | oo |
 | ㅡ | e |
 | ㅓ | u |
-| ㅔㅐㅢ | ei |
+| ㅔㅐㅢ | ej |
 | - | - |
 | ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
-| ㆁ | g |
+| ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
 | ㄲ | qq |
 | ㆆ | 7 | ⟨ʔ⟩ is allowed but not recommended. |
 
@@ -30,12 +30,12 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㅓ | u | |
 | ㅗ | o | | ⟨wv⟩ in old text. |
 | ㅜ | oo | |
-| ㅐ | ei | ⟨ai⟩ in old text or transliteration. |
-| ㅔ | ei | ⟨ui⟩ in old text or transliteration. |
+| ㅐ | ej | ⟨aj⟩ in old text or transliteration. |
+| ㅔ | ej | ⟨uj⟩ in old text or transliteration. |
 | ㅣ | i | |
 | ㅡ | e | |
-| ㅢ | i/ei | In transcription, use ⟨ei⟩ only when used as the preposition -의. |
-| | y | |
+| ㅢ | i/ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
+| | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | | w | |
 
 | Text | Transcription | Misc. |
@@ -47,7 +47,7 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | x |
-| ㆁ | g |
+| ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but not strongly recommended. |
 | ㅈ | c |
 | ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
 | ㅋ | k |
@@ -59,7 +59,7 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㄸ | dd |
 | ㅃ | bb |
 | ㅆ | s |
-| ㅉ | j |
+| ㅉ | cc |
 
 * ⟨f⟩, ⟨r⟩, ⟨v⟩, and ⟨z⟩ not used for mordern Korean
 ______
@@ -81,25 +81,25 @@ ______
 | ㅠ | yoo | |
 | ㅣ | i | |
 | ㅡ | e | |
-| | y | Used only on onset. |
+| | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | | w | |
 
 | Text | Transcription |
 | - | - |
-| ㅐ | ei | ⟨ai⟩ in old text or transliteration. |
-| ㅒ | yei | ⟨yai⟩ in old text or transliteration. |
-| ㅔ | ei | ⟨ui⟩ in old text or transliteration. |
-| ㅖ | yei | ⟨yai⟩ in old text or transliteration. |
+| ㅐ | ej | ⟨aj⟩ in old text or transliteration. |
+| ㅒ | yej | ⟨yaj⟩ in old text or transliteration. |
+| ㅔ | ej | ⟨uj⟩ in old text or transliteration. |
+| ㅖ | yej | ⟨yaj⟩ in old text or transliteration. |
 
 | Text | Transcription | Misc. |
 | - | - | - |
 | ㅘ | wa | ⟨wva⟩ in old text. |
 | ㅝ | wu | |
-| ㅚ | wei | ⟨wvi⟩ in old text. |
+| ㅚ | wej | ⟨wvj⟩ in old text. |
 | ㅟ | wi | |
-| ㅙ | wei | ⟨wvai⟩ in old text and ⟨wai⟩ in transliteration. |
-| ㅞ | wei | ⟨wui⟩ in old text and transliteration. |
-| ㅢ | i/ei | |
+| ㅙ | wej | ⟨wvaj⟩ in old text and ⟨wai⟩ in transliteration. |
+| ㅞ | wej | ⟨wuj⟩ in old text and transliteration. |
+| ㅢ | i/ej | |
 
 | Text | Transcription | Misc. |
 | - | - | - |
@@ -110,7 +110,7 @@ ______
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | x |
-| ㆁ | g |
+| ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
 | ㅈ | c |
 | ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
 | ㅋ | k |
@@ -125,17 +125,17 @@ ______
 | - | - | - |
 | ᆝ | yv |
 | (ᆢ) | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
-| ㆉ | yoi | ⟨ywvi⟩ in old text. |
-| ㆌ | yooi |
+| ㆉ | yoj | ⟨ywvi⟩ in old text. |
+| ㆌ | yooj |
 | ᆜ | ye |
 | (ᆖ) | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
-| ㆎ | vi |
+| ㆎ | vj |
 | Text | Transcription | Misc. |
 | ㄲ | qq |
 | ㄸ | dd |
 | ㅃ | bb |
 | ㅆ | s |
-| ㅉ | j |
+| ㅉ | cc |
 | Text | Transcription | Misc. |
 | ㅱ | m' |
 | ㅸ | f |
@@ -221,8 +221,8 @@ The main differences from the Yale Romanization are as follows.
 | ㅓ | u | e |
 | ㅡ | e | u |
 | ㅜ | oo | wu |
-| ㅐ | ei | ai | ⟨ai⟩ in old text and transliteration. |
-| ㅔ | ei | ui | ⟨ui⟩ in old text and transliteration. |
+| ㅐ | ej | aj | ⟨aj⟩ in old text and transliteration. |
+| ㅔ | ej | uj | ⟨uj⟩ in old text and transliteration. |
 | ㄱ | q | k |
 | ㄷ | d | t |
 | ㅂ | b | p |
@@ -233,7 +233,7 @@ The main differences from the Yale Romanization are as follows.
 | ㄸ | dd | tt |
 | ㅃ | bb | pp |
 | ㅅ | x | s |
-| ㆁ | g | ng' |
+| ㆁ | g | ng(') | Allowed but strongly not recommended. |
 | ㅆ | s | ss |
 | ㆆ | 7 | q |
 | ㅱ | m' | W? |
@@ -250,6 +250,7 @@ ______
 
 | Transcription | Text |
 | - | - |
+| ko'olog | 코오롱 |
 | muqbag | 먹방 |
 | qim cugen | 김정은 |
 | xuool | 서울 |
