@@ -20,7 +20,7 @@ Latin Transcription System for Korean Scripts, made to be used.
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
-) romanization of Korean is in general not in a great condition. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). They can be used for mapping regular, phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
+) romanization of Korean is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). They can be used for mapping regular, phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
 
 ## Modern Korean version
 
@@ -30,8 +30,8 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㅓ | u | |
 | ㅗ | o | | ⟨wv⟩ in old text. |
 | ㅜ | w | | Also used as a semivowel. |
-| ㅐ | ei |
-| ㅔ | ei |
+| ㅐ | ei | ⟨ai⟩ in old text. |
+| ㅔ | ei | ⟨ui⟩ in old text. |
 | ㅣ | i/y | | ⟨y⟩ when used as onset. |
 | ㅡ | e | |
 | ㅢ | i/ei | In transcription, use ⟨ei⟩ only when uesd as the preposition -의. |
@@ -80,10 +80,10 @@ ______
 
 | Text | Transcription |
 | - | - |
-| ㅐ | ei |
-| ㅒ | yei |
-| ㅔ | ei |
-| ㅖ | yei |
+| ㅐ | ei | ⟨ai⟩ in old text. |
+| ㅒ | yei | ⟨yai⟩ in old text. |
+| ㅔ | ei | ⟨ui⟩ in old text. |
+| ㅖ | yei | ⟨yai⟩ in old text. |
 
 | Text | Transcription | Misc. |
 | - | - | - |
@@ -94,8 +94,8 @@ ______
 | ㅚ | wei | ⟨wvi⟩ in old text. |
 | ㅟ | wi | |
 | ㅙ | wei | ⟨wvai⟩ in old text. |
-| ㅞ | wei |
-| ㅢ | i/ei | In transcription, use ⟨ei⟩ only when uesd as the preposition -의. |
+| ㅞ | wei | ⟨wui⟩ in old text. |
+| ㅢ | i/ei | |
 
 | Text | Transcription | Misc. |
 | - | - | - |
@@ -209,14 +209,16 @@ There are some transcription systems in use, the most common being Revised Roman
 
 Yale Romanization of Korean is used often and it's a pretty sound system overall, but there are slight problems regarding intuitivity, casual readability, and effeciency, all of which are not critical in academic use case but more necessary in everyday use. It also doesn't get much support from Korea just because it wasn't made in or by a Korean, which is quite significant to the point that RRK is being more often used where it should not be.
 
-The differences from the Yale Romanization are as follows.
+The main differences from the Yale Romanization are as follows.
 | Text | Here | Yale | Misc. |
 | - | - | - | - |
 | ㅇ | ' | G | Difference in usage |
 | ㆍ | v | o |
 | ㅓ | u | e |
 | ㅡ | e | u |
-| ㅜ | w | wu |
+| ㅜ | w | wu | ⟨wv⟩ in old text. |
+| ㅐ | ei | ai | ⟨ai⟩ in old text. |
+| ㅔ | ei | ui | ⟨ui⟩ in old text. |
 | ㄱ | q | k |
 | ㄷ | d | t |
 | ㅂ | b | p | 
@@ -236,7 +238,7 @@ The differences from the Yale Romanization are as follows.
 | ㆄ | p' | ? |
 | ᄛ(ퟝ) | r | ? |
 
-The other romanization systems that I looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing.
+The other romanization systems that I'd looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing.
 
 ______
 
