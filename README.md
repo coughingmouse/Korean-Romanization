@@ -1,6 +1,6 @@
 # Mawse Korean Script Romanization
 
-Latin Transliteration and Transcription System for Korean Scripts, made to be used.
+Latin Transcription System for Korean Scripts, made to be used.
 
 마우스 국문 로마자 전자법. 실용성을 중심으로 만든 국문 로마자 전자법을 소개합니다.
 
@@ -24,19 +24,19 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 
 ## Modern Korean version
 
-| Text | Tranliteration | Alternative (diff) | Misc. |
-| - | - | - | - |
+| Text | Transcription | Misc. |
+| - | - | - |
 | ㅏ | a | |
 | ㅓ | u | |
 | ㅗ | o | | ⟨wv⟩ in old text. |
 | ㅜ | w | | Also used as a semivowel. |
-| ㅐ | ai | ei |
-| ㅔ | ui | ei |
+| ㅐ | ei |
+| ㅔ | ei |
 | ㅣ | i/y | | ⟨y⟩ when used as onset. |
 | ㅡ | e | |
-| ㅢ | ei | i/ei | In transcription, use ⟨ei⟩ only when uesd as the preposition -의. |
+| ㅢ | i/ei | In transcription, use ⟨ei⟩ only when uesd as the preposition -의. |
 
-| Text | Tranliteration | Misc. |
+| Text | Transcription | Misc. |
 | - | - | - |
 | ㄱ | q | 
 | ㄴ | n |
@@ -52,7 +52,7 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㅌ | t |
 | ㅍ | p |
 | ㅎ | h |
-| Text | Tranliteration | Misc. |
+| Text | Transcription | Misc. |
 | ㄲ | qq |
 | ㄸ | dd |
 | ㅃ | bb |
@@ -64,11 +64,11 @@ ______
 
 ## Full specifications
 
-| Text | Tranliteration | Misc. |
+| Text | Transcription | Misc. |
 | - | - | - |
 | ㅇ | ' | Apostrophe; can also be used to indicate abbreviation. |
 | ㆍ | v | |
-| Text | Tranliteration | Misc. |
+| Text | Transcription | Misc. |
 | ㅏ | a | |
 | ㅑ | ya | |
 | ㅓ | u | |
@@ -78,26 +78,26 @@ ______
 | ㅣ | i/y | ⟨y⟩ when used as onset. |
 | ㅡ | e | |
 
-| Text | Tranliteration | Alternative |
-| - | - | - |
-| ㅐ | ai | ei |
-| ㅒ | yai | yei |
-| ㅔ | ui | ei |
-| ㅖ | yui | yei |
+| Text | Transcription |
+| - | - |
+| ㅐ | ei |
+| ㅒ | yei |
+| ㅔ | ei |
+| ㅖ | yei |
 
-| Text | Transliteration | Alternative | Misc. |
-| - | - | - | - |
+| Text | Transcription | Misc. |
+| - | - | - |
 | ㅜ | w | |
 | ㅠ | yw | |
-| ㅘ | wa | | ⟨wva⟩ in old text. |
+| ㅘ | wa | ⟨wva⟩ in old text. |
 | ㅝ | wu | |
-| ㅚ | oi | wei | ⟨wvi⟩ in old text. |
+| ㅚ | wei | ⟨wvi⟩ in old text. |
 | ㅟ | wi | |
-| ㅙ | wai | wei | ⟨wvai⟩ in old text. |
-| ㅞ | wui | wei |
-| ㅢ | ei | i/ei | In transcription, use ⟨ei⟩ only when uesd as the preposition -의. |
+| ㅙ | wei | ⟨wvai⟩ in old text. |
+| ㅞ | wei |
+| ㅢ | i/ei | In transcription, use ⟨ei⟩ only when uesd as the preposition -의. |
 
-| Text | Tranliteration | Misc. |
+| Text | Transcription | Misc. |
 | - | - | - |
 | ㄱ | q |
 | ㄴ | n |
@@ -113,11 +113,11 @@ ______
 | ㅌ | t |
 | ㅍ | p |
 | ㅎ | h |
-| Text | Tranliteration | Misc. |
+| Text | Transcription | Misc. |
 | ㆆ | 7 | ⟨ʔ⟩ is allowed but not recommended. |
 | ㅿ | z |
 
-| Text | Tranliteration | Misc. |
+| Text | Transcription | Misc. |
 | - | - | - |
 | ᆝ | yv |
 | (ᆢ) | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨x⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
@@ -126,13 +126,13 @@ ______
 | ᆜ | ye |
 | (ᆖ) | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨x⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
 | ㆎ | vj |
-| Text | Tranliteration | Misc. |
+| Text | Transcription | Misc. |
 | ㄲ | qq |
 | ㄸ | dd |
 | ㅃ | bb |
 | ㅆ | s |
 | ㅉ | j |
-| Text | Tranliteration | Misc. |
+| Text | Transcription | Misc. |
 | ㅱ | m' |
 | ㅸ | f |
 | ㅹ | b' |
@@ -161,18 +161,18 @@ These are the better ways to write in latin letters, but they are not transliter
 
 1. Write 사이히읗 as ⟨h'⟩ explicitly
 
-| Text | Transliteration | Phonemic Transliteration | Phonetic Transliteration |
+| Text | Transcription | Phonemic Transcription | Phonetic Transcription |
 | - | - | - | - |
 | 가당치도 | qadagchido | qadaghcido | qadagchido
 | 가당ㅎ지도 | qadagh'cido | qadaghcido | qadagchido
 
 2. Write ⟨d⟩ whenever archaic word s exists and is not pronounced as a liquid, and ⟨n⟩ when pronounced as a liquid (in front of ⟨i⟩/⟨y⟩)
 
-| Text | Transliteration | Alternative |
+| Text | Transcription |
 | - | - | - |
 | 숫자 | xwdca |
 | 멸족 | myuldcog |
-| 냇가 | naidga | neidga |
+| 냇가 | neidga |
 | 콧등 | koddeng |
 | 나뭇잎 | namwnip |
 | 한 일 | hann il |
@@ -180,7 +180,7 @@ These are the better ways to write in latin letters, but they are not transliter
 
 3. Possibly recover original forms
 
-| Text | Transliteration |
+| Text | Transcription |
 | - | - |
 | 붕어 | bwgu |
 | 어류 | gulyw |
@@ -242,7 +242,7 @@ ______
 
 ### Examples
 
-| Transliteration | Text |
+| Transcription | Text |
 | - | - |
 | muqbag | 먹방 |
 | qim cugen | 김정은 |
