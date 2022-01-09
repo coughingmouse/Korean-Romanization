@@ -1,18 +1,17 @@
 # Mawse Korean Script Romanization
 
-Latin Transcription System for Korean Scripts, made to be used.
+Latin Transcription & transliteration System for Korean Scripts, made to be used.
 
-마우스 국문 로마자 전자법. 실용성을 중심으로 만든 국문 로마자 전자법을 소개합니다.
+마우스 국문 로마자 전사법 및 전자법. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다.
 
 #### tl;dr
 | Letter | Transcription | Misc. |
 | - | - | - |
-| ㅜ | w | Also a semivowel. |
+| ㅜ | oo |
 | ㅡ | e |
 | ㅓ | u |
 | ㅔㅐㅢ | ei |
 | - | - |
-| ㅇ | ' | Not used in Modern Korean. |
 | ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
 | ㆁ | g |
 | ㄲ | qq |
@@ -20,21 +19,24 @@ Latin Transcription System for Korean Scripts, made to be used.
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
-) romanization of Korean is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). They can be used for mapping regular, phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
+) romanization of Korean is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). It can be used for mapping regular, phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
 
 ## Modern Korean version
 
 | Text | Transcription | Misc. |
 | - | - | - |
+| ㅇ | ' | Used in between ⟨o⟩s read separately. |
 | ㅏ | a | |
 | ㅓ | u | |
 | ㅗ | o | | ⟨wv⟩ in old text. |
-| ㅜ | w | | Also used as a semivowel. |
-| ㅐ | ei | ⟨ai⟩ in old text. |
-| ㅔ | ei | ⟨ui⟩ in old text. |
-| ㅣ | i/y | | ⟨y⟩ when used as onset. |
+| ㅜ | oo | |
+| ㅐ | ei | ⟨ai⟩ in old text or transliteration. |
+| ㅔ | ei | ⟨ui⟩ in old text or transliteration. |
+| ㅣ | i | |
 | ㅡ | e | |
-| ㅢ | i/ei | In transcription, use ⟨ei⟩ only when uesd as the preposition -의. |
+| ㅢ | i/ei | In transcription, use ⟨ei⟩ only when used as the preposition -의. |
+| | y | |
+| | w | |
 
 | Text | Transcription | Misc. |
 | - | - | - |
@@ -66,7 +68,7 @@ ______
 
 | Text | Transcription | Misc. |
 | - | - | - |
-| ㅇ | ' | Apostrophe; can also be used to indicate abbreviation. |
+| ㅇ | ' | Apostrophe, used in between ⟨o⟩s that are read separately; can also be used to indicate abbreviation. |
 | ㆍ | v | |
 | Text | Transcription | Misc. |
 | ㅏ | a | |
@@ -75,26 +77,28 @@ ______
 | ㅕ | yu | |
 | ㅗ | o | ⟨wv⟩ in old text. |
 | ㅛ | yo | ⟨ywv⟩ in old text. |
-| ㅣ | i/y | ⟨y⟩ when used as onset. |
+| ㅜ | oo | |
+| ㅠ | yoo | |
+| ㅣ | i | |
 | ㅡ | e | |
+| | y | Used only on onset. |
+| | w | |
 
 | Text | Transcription |
 | - | - |
-| ㅐ | ei | ⟨ai⟩ in old text. |
-| ㅒ | yei | ⟨yai⟩ in old text. |
-| ㅔ | ei | ⟨ui⟩ in old text. |
-| ㅖ | yei | ⟨yai⟩ in old text. |
+| ㅐ | ei | ⟨ai⟩ in old text or transliteration. |
+| ㅒ | yei | ⟨yai⟩ in old text or transliteration. |
+| ㅔ | ei | ⟨ui⟩ in old text or transliteration. |
+| ㅖ | yei | ⟨yai⟩ in old text or transliteration. |
 
 | Text | Transcription | Misc. |
 | - | - | - |
-| ㅜ | w | |
-| ㅠ | yw | |
 | ㅘ | wa | ⟨wva⟩ in old text. |
 | ㅝ | wu | |
 | ㅚ | wei | ⟨wvi⟩ in old text. |
 | ㅟ | wi | |
-| ㅙ | wei | ⟨wvai⟩ in old text. |
-| ㅞ | wei | ⟨wui⟩ in old text. |
+| ㅙ | wei | ⟨wvai⟩ in old text and ⟨wai⟩ in transliteration. |
+| ㅞ | wei | ⟨wui⟩ in old text and transliteration. |
 | ㅢ | i/ei | |
 
 | Text | Transcription | Misc. |
@@ -120,12 +124,12 @@ ______
 | Text | Transcription | Misc. |
 | - | - | - |
 | ᆝ | yv |
-| (ᆢ) | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨x⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
-| ㆉ | yoj | ⟨ywvj⟩ in old text. |
-| ㆌ | ywj |
+| (ᆢ) | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
+| ㆉ | yoi | ⟨ywvi⟩ in old text. |
+| ㆌ | yooi |
 | ᆜ | ye |
-| (ᆖ) | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨x⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
-| ㆎ | vj |
+| (ᆖ) | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
+| ㆎ | vi |
 | Text | Transcription | Misc. |
 | ㄲ | qq |
 | ㄸ | dd |
@@ -139,8 +143,8 @@ ______
 | ㆄ | p' |
 | ᄛ(ퟝ) | r |
 
-* For sibilant variants, use IPA characters
-* For combinational consonents, just write by each letter
+* For sibilant variants, use IPA equivalent and use of X-SAMPA is allowed
+* For combinational letters, just write them out by each compositing letter
 
 ### Misc.
 * Halfwidth font is strongly preferred.
@@ -170,11 +174,11 @@ These are the better ways to write in latin letters, but they are not transliter
 
 | Text | Transcription |
 | - | - | - |
-| 숫자 | xwdca |
+| 숫자 | xoodca |
 | 멸족 | myuldcog |
 | 냇가 | neidga |
 | 콧등 | koddeng |
-| 나뭇잎 | namwnip |
+| 나뭇잎 | namoonip |
 | 한 일 | hann il |
 | 할 일 | haln il |
 
@@ -182,9 +186,9 @@ These are the better ways to write in latin letters, but they are not transliter
 
 | Text | Transcription |
 | - | - |
-| 붕어 | bwgu |
-| 어류 | gulyw |
-| 이순신 | lixwnxin |
+| 붕어 | boogu |
+| 어류 | gulyoo |
+| 이순신 | lixoonxin |
 ______
 
 ## Design Goals
@@ -216,12 +220,12 @@ The main differences from the Yale Romanization are as follows.
 | ㆍ | v | o |
 | ㅓ | u | e |
 | ㅡ | e | u |
-| ㅜ | w | wu | ⟨wv⟩ in old text. |
-| ㅐ | ei | ai | ⟨ai⟩ in old text. |
-| ㅔ | ei | ui | ⟨ui⟩ in old text. |
+| ㅜ | oo | wu |
+| ㅐ | ei | ai | ⟨ai⟩ in old text and transliteration. |
+| ㅔ | ei | ui | ⟨ui⟩ in old text and transliteration. |
 | ㄱ | q | k |
 | ㄷ | d | t |
-| ㅂ | b | p | 
+| ㅂ | b | p |
 | ㅋ | k | kh |
 | ㅌ | t | th |
 | ㅍ | p | ph |
@@ -238,7 +242,7 @@ The main differences from the Yale Romanization are as follows.
 | ㆄ | p' | ? |
 | ᄛ(ퟝ) | r | ? |
 
-The other romanization systems that I'd looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing.
+The other romanization systems that I'd looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing. Although I'm most certainly one of them, I thought maybe I can make it better. That being said, this system, being the type of system it is, does not and cannot cover the proper use case of the current version of offical South Korean romanization.
 
 ______
 
@@ -248,17 +252,17 @@ ______
 | - | - |
 | muqbag | 먹방 |
 | qim cugen | 김정은 |
-| xuwl | 서울 |
+| xuool | 서울 |
 | Seoul | 스오얼 |
 | qqoch | 꽃 |
 | qoc | 곶 |
 | qox | 곳 |
 | jag | 짱 |
-| qemdogmileqboxalbangaxaywxag | 금동미륵보살반가사유상 |
+| qemdogmileqboxalbangaxayooxag | 금동미륵보살반가사유상 |
 | milke | 밀크 |
 | ladio | 라디오 |
 | bulaq obama | 버락 오바마 |
 | xinchug | 신청 |
 | xachunxug | 사천성 |
 | manhwa | 만화 |
-| il i xam xa o lywq chil pal qw xip | 일 이 … 십 |
+| il i xam xa o lyooq chil pal qoo xip | 일 이 … 십 |
