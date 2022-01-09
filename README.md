@@ -244,6 +244,8 @@ The main differences from the Yale Romanization are as follows.
 
 The other romanization systems that I'd looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing. Although I'm most certainly one of them, I thought maybe I can make it better. That being said, this system, being the type of system it is, does not and cannot cover the proper use case of the current version of offical South Korean romanization.
 
+But honestly, what I originally intended making was a system where I could use ⟨zz⟩ for ⟨ㅉ⟩. That's all I wanted but apparently that's not possible without completely breaking compatibility with Old Korean.
+
 ______
 
 ### Examples
