@@ -12,10 +12,12 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㅓ | u |
 | ㅐㅔㅢ | ej | ⟨aj⟩, ⟨uj⟩, and ⟨ej⟩ in old text or transliteration. |
 | - | - |
+| ㅈ | z |
 | ㅊ | c |
 | ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
-| ㆆ | 7 | ⟨ʔ⟩ is allowed but not recommended. |
+| ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
+| ㅿ | x |
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
