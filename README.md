@@ -61,7 +61,7 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
 | ㅆ | ss | ⟨S⟩ is allowed but strongly not recommended. |
-| ㅉ | cc | ⟨C⟩ is allowed but strongly not recommended. |
+| ㅉ | zz | ⟨Z⟩ is allowed but strongly not recommended. |
 
 * ⟨f⟩, ⟨r⟩, ⟨v⟩, and ⟨x⟩ not used for mordern Korean
 ______
