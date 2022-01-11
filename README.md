@@ -10,11 +10,11 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㅜ | oo |
 | ㅡ | e |
 | ㅓ | u |
-| ㅔㅐㅢ | ej |
+| ㅐㅔㅢ | ej | ⟨aj⟩, ⟨uj⟩, and ⟨ej⟩ in old text or transliteration. |
 | - | - |
 | ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
 | ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
-| ㄲ | qq |
+| ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㆆ | 7 | ⟨ʔ⟩ is allowed but not recommended. |
 
 ## Introduction
@@ -55,11 +55,11 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㅍ | p |
 | ㅎ | h |
 | Text | Transcription | Misc. |
-| ㄲ | qq |
-| ㄸ | dd |
-| ㅃ | bb |
+| ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
+| ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
+| ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
 | ㅆ | s |
-| ㅉ | cc |
+| ㅉ | cc | ⟨C⟩ is allowed but strongly not recommended. |
 
 * ⟨f⟩, ⟨r⟩, ⟨v⟩, and ⟨z⟩ not used for mordern Korean
 ______
@@ -145,7 +145,7 @@ ______
 
 * For sibilant variants, use IPA equivalent and use of X-SAMPA is allowed
 * For combinational letters, just write them out by each compositing letter
-* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, and ⟨B⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, and ⟨bb⟩. But it's strongly not recommended, as they practice does not play well with the conventions regarding letter cases.
+* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨C⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, and ⟨cc⟩. But it's strongly not recommended, as this practice does not play well with the conventions regarding letter cases.
 
 ### Misc.
 * Halfwidth font is strongly preferred.
