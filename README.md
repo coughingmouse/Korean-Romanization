@@ -5,7 +5,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 마우스 국문 로마자 전사법 및 전자법. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다.
 
 #### tl;dr
-| Letter | Transcription | Misc. |
+| Example | Transcription | Misc. |
 | - | - | - |
 | ㅜ | oo |
 | ㅡ | e |
@@ -18,6 +18,12 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
 | ㅿ | x |
+| 한글 | hanqel | Korean word for Hangul. |
+| 훈민정음 | hoonminzugem | Or ⟨hoonminzuŋem⟩. Korean word for Hunminjeongeum, a predecessor to Hangul. |
+| 동국정운 | dogqooqzugoon | Or ⟨doŋqooqzuŋoon⟩. Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 라디오 | ladio | Korean word for "radio". |
+| 서울 | suool | Korean word for "Seoul". |
+| 김정은 | qim zugen | Or ⟨qim zuŋen⟩. Korean word for "Kim Jong-un". |
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
@@ -245,14 +251,12 @@ But honestly, what I originally intended making was a system where I could use �
 
 ______
 
-### Examples
+### More Examples
 
 | Transcription | Alternative | Text |
 | - | - | - |
 | ko'olog | | 코오롱 |
 | muqbag | muqbaŋ | 먹방 |
-| qim zugen | | 김정은 |
-| suool | | 서울 |
 | Seoul | | 스오얼 |
 | qqoch | | 꽃 |
 | qoz | | 곶 |
@@ -260,7 +264,6 @@ ______
 | zzag | zzaŋ | 짱 |
 | qemdogmileqbosalbangasayoosag | qemdoŋmileqbosalbangasayoosaŋ | 금동미륵보살반가사유상 |
 | milke | | 밀크 |
-| ladio | | 라디오 |
 | bulaq obama | | 버락 오바마 |
 | sincug | sincuŋ | 신청 |
 | sacunsug | sacunsuŋ | 사천성 |
