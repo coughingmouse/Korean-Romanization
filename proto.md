@@ -24,16 +24,19 @@
 | ㅁ | m | |
 | ㅂ | p | |
 | ㅅ | sh | |
-| ㆁ | ng | |
-| ㅈ | z | |
+| ㆁ | g | ŋ |
+| ㅈ | c | z |
 | ㅊ | ch | |
 | ㅋ | kh | |
 | ㅌ | th | |
 | ㅍ | ph | |
+| ㆆ | q | |
 | ㅎ | h | |
 | Text | Transcription | Misc. |
 | ㄲ | kk | |
 | ㄸ | tt | |
 | ㅃ | pp | |
 | ㅆ | s | |
-| ㅉ | zz | |
+| ㅉ | cc | zz |
+
+⟨b⟩, ⟨d⟩, ⟨f⟩, and ⟨r⟩ not used.
