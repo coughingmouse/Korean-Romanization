@@ -12,7 +12,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㅓ | u |
 | ㅐㅔㅢ | ej | ⟨aj⟩, ⟨uj⟩, and ⟨ej⟩ in old text or transliteration. |
 | - | - |
-| ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
+| ㅊ | c |
 | ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㆆ | 7 | ⟨ʔ⟩ is allowed but not recommended. |
@@ -46,10 +46,10 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㄹ | l |
 | ㅁ | m |
 | ㅂ | b |
-| ㅅ | x |
+| ㅅ | s |
 | ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but not strongly recommended. |
-| ㅈ | c |
-| ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
+| ㅈ | z |
+| ㅊ | c |
 | ㅋ | k |
 | ㅌ | t |
 | ㅍ | p |
@@ -58,10 +58,10 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
-| ㅆ | s |
+| ㅆ | ss | ⟨S⟩ is allowed but strongly not recommended. |
 | ㅉ | cc | ⟨C⟩ is allowed but strongly not recommended. |
 
-* ⟨f⟩, ⟨r⟩, ⟨v⟩, and ⟨z⟩ not used for mordern Korean
+* ⟨f⟩, ⟨r⟩, ⟨v⟩, and ⟨x⟩ not used for mordern Korean
 ______
 
 ## Full specifications
@@ -109,17 +109,17 @@ ______
 | ㄹ | l |
 | ㅁ | m |
 | ㅂ | b |
-| ㅅ | x |
+| ㅅ | s |
 | ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
-| ㅈ | c |
-| ㅊ | ch | ⟨ç⟩ is allowed but not recommended. |
+| ㅈ | z |
+| ㅊ | c |
 | ㅋ | k |
 | ㅌ | t |
 | ㅍ | p |
 | ㅎ | h |
 | Text | Transcription | Misc. |
 | ㆆ | 7 | ⟨ʔ⟩ is allowed but not recommended. |
-| ㅿ | z |
+| ㅿ | x |
 
 | Text | Transcription | Misc. |
 | - | - | - |
@@ -134,8 +134,8 @@ ______
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
-| ㅆ | s |
-| ㅉ | cc | ⟨C⟩ is allowed but strongly not recommended. |
+| ㅆ | ss | ⟨S⟩ is allowed but strongly not recommended. |
+| ㅉ | zz | ⟨Z⟩ is allowed but strongly not recommended. |
 | Text | Transcription | Misc. |
 | ㅱ | m' |
 | ㅸ | f |
@@ -145,7 +145,7 @@ ______
 
 * For sibilant variants, use IPA equivalent and use of X-SAMPA is allowed
 * For combinational letters, just write them out by each compositing letter
-* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨C⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, and ⟨cc⟩. But it's strongly not recommended, as this practice does not play well with the conventions regarding letter cases.
+* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨Z⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, and ⟨zz⟩. But it's strongly not recommended, as this practice does not play well with the conventions regarding letter cases.
 
 ### Misc.
 * Halfwidth font is strongly preferred.
@@ -157,7 +157,6 @@ Spacing, hyphenation, etc. follow [한글맞춤법](https://kornorms.korean.go.k
 
 Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_regltn.do#a) 부록. But additionally, 
 1. Quotation marks are preferred over other types of punctuations.
-1. For 숨김표, 동그라미표 ⟨○⟩ is preferred over 가새표 ⟨×⟩, to avoid confusion with ⟨x⟩
 1. American conventions regarding typographic forms are recommended.
 1. Use ⟨.⟩ to separate by syllables.
 1. For academic usage for what is not specified here, various practices using Yale Romanization are accepted.
@@ -168,28 +167,20 @@ These are the better ways to write in latin letters, but they are not transliter
 
 | Text | Transcription | Phonemic Transcription | Phonetic Transcription |
 | - | - | - | - |
-| 가당치도 | qadagchido | qadaghcido | qadagchido
-| 가당ㅎ지도 | qadagh'cido | qadaghcido | qadagchido
+| 가당치도 | qadagcido | qadaghzido | qadagcido
+| 가당ㅎ지도 | qadagh'zido | qadaghzido | qadagcido
 
 2. Write ⟨d⟩ whenever archaic word s exists and is not pronounced as a liquid, and ⟨n⟩ when pronounced as a liquid (in front of ⟨i⟩/⟨y⟩)
 
-| Text | Transcription |
-| - | - |
-| 숫자 | xoodca |
-| 멸족 | myuldcog |
-| 냇가 | neidga |
-| 콧등 | koddeng |
-| 나뭇잎 | namoonip |
-| 한 일 | hann il |
-| 할 일 | haln il |
-
-3. Possibly recover original forms
-
-| Text | Transcription |
-| - | - |
-| 붕어 | boogu |
-| 어류 | gulyoo |
-| 이순신 | lixoonxin |
+| Text | Suggestion | Current |
+| - | - | - |
+| 숫자 | soodza | soosza |
+| 멸족 | myuldzog | myulszog |
+| 냇가 | neidga | neisga |
+| 콧등 | koddeng | kosdeng |
+| 나뭇잎 | namoonip | namoosip |
+| 한 일 | hann il | han il |
+| 할 일 | haln il | hal il |
 ______
 
 ## Design Goals
@@ -233,11 +224,11 @@ The main differences from the Yale Romanization are as follows.
 | ㄲ | qq | kk | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㄸ | dd | tt | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | pp | ⟨B⟩ is allowed but strongly not recommended. |
-| ㅅ | x | s |
 | ㆁ | g | ng(') | Allowed but strongly not recommended. |
-| ㅆ | s | ss |
-| ㅉ | cc | cc | ⟨C⟩ is allowed but strongly not recommended. |
+| ㅈ | z | c |
+| ㅉ | zz | cc | ⟨Z⟩ is allowed but strongly not recommended. |
 | ㆆ | 7 | q |
+| ㅿ | x | z |
 | ㅱ | m' | ? |
 | ㅸ | f | ? |
 | ㅹ | b' | ? |
@@ -246,7 +237,7 @@ The main differences from the Yale Romanization are as follows.
 
 The other romanization systems that I'd looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing. Although I'm most certainly one of them, I thought maybe I can make it better. That being said, this system, being the type of system it is, does not and cannot cover the proper use case of the current version of offical South Korean romanization.
 
-But honestly, what I originally intended making was a system where I could use ⟨zz⟩ for ⟨ㅉ⟩. That's all I wanted but apparently that's not possible.
+But honestly, what I originally intended making was a system where I could use ⟨zz⟩ for ⟨ㅉ⟩, which was most intuitive. I thought it would work better when teaching Korean. It took longer than I initially imagined, but I somehow got here.
 
 ______
 
@@ -256,18 +247,18 @@ ______
 | - | - |
 | ko'olog | 코오롱 |
 | muqbag | 먹방 |
-| qim cugen | 김정은 |
-| xuool | 서울 |
+| qim zugen | 김정은 |
+| suool | 서울 |
 | Seoul | 스오얼 |
 | qqoch | 꽃 |
-| qoc | 곶 |
-| qox | 곳 |
-| ccag | 짱 |
-| qemdogmileqboxalbangaxayooxag | 금동미륵보살반가사유상 |
+| qoz | 곶 |
+| qos | 곳 |
+| zzag | 짱 |
+| qemdogmileqbosalbangasayoosag | 금동미륵보살반가사유상 |
 | milke | 밀크 |
 | ladio | 라디오 |
 | bulaq obama | 버락 오바마 |
-| xinchug | 신청 |
-| xachunxug | 사천성 |
+| sincug | 신청 |
+| sacunsug | 사천성 |
 | manhwa | 만화 |
-| il i xam xa o lyooq chil pal qoo xib | 일 이 … 십 |
+| il i sam sa o lyooq cil pal qoo sib | 일 이 … 십 |
