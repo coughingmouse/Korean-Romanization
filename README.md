@@ -131,11 +131,11 @@ ______
 | (ᆖ) | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
 | ㆎ | vj |
 | Text | Transcription | Misc. |
-| ㄲ | qq |
-| ㄸ | dd |
-| ㅃ | bb |
+| ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
+| ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
+| ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
 | ㅆ | s |
-| ㅉ | cc |
+| ㅉ | cc | ⟨C⟩ is allowed but strongly not recommended. |
 | Text | Transcription | Misc. |
 | ㅱ | m' |
 | ㅸ | f |
@@ -230,14 +230,15 @@ The main differences from the Yale Romanization are as follows.
 | ㅋ | k | kh |
 | ㅌ | t | th |
 | ㅍ | p | ph |
-| ㄲ | qq | kk |
-| ㄸ | dd | tt |
-| ㅃ | bb | pp |
+| ㄲ | qq | kk | ⟨Q⟩ is allowed but strongly not recommended. |
+| ㄸ | dd | tt | ⟨D⟩ is allowed but strongly not recommended. |
+| ㅃ | bb | pp | ⟨B⟩ is allowed but strongly not recommended. |
 | ㅅ | x | s |
 | ㆁ | g | ng(') | Allowed but strongly not recommended. |
 | ㅆ | s | ss |
+| ㅉ | cc | cc | ⟨C⟩ is allowed but strongly not recommended. |
 | ㆆ | 7 | q |
-| ㅱ | m' | W? |
+| ㅱ | m' | ? |
 | ㅸ | f | ? |
 | ㅹ | b' | ? |
 | ㆄ | p' | ? |
@@ -261,7 +262,7 @@ ______
 | qqoch | 꽃 |
 | qoc | 곶 |
 | qox | 곳 |
-| jag | 짱 |
+| ccag | 짱 |
 | qemdogmileqboxalbangaxayooxag | 금동미륵보살반가사유상 |
 | milke | 밀크 |
 | ladio | 라디오 |
@@ -269,4 +270,4 @@ ______
 | xinchug | 신청 |
 | xachunxug | 사천성 |
 | manhwa | 만화 |
-| il i xam xa o lyooq chil pal qoo xip | 일 이 … 십 |
+| il i xam xa o lyooq chil pal qoo xib | 일 이 … 십 |
