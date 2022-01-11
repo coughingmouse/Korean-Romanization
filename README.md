@@ -118,7 +118,7 @@ ______
 | ㅍ | p |
 | ㅎ | h |
 | Text | Transcription | Misc. |
-| ㆆ | 7 | ⟨ʔ⟩ is allowed but not recommended. |
+| ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
 | ㅿ | x |
 
 | Text | Transcription | Misc. |
@@ -227,7 +227,7 @@ The main differences from the Yale Romanization are as follows.
 | ㆁ | g | ng(') | Allowed but strongly not recommended. |
 | ㅈ | z | c |
 | ㅉ | zz | cc | ⟨Z⟩ is allowed but strongly not recommended. |
-| ㆆ | 7 | q |
+| ㆆ | ? | q |
 | ㅿ | x | z |
 | ㅱ | m' | ? |
 | ㅸ | f | ? |
