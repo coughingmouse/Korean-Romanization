@@ -97,7 +97,7 @@ ______
 | ㅝ | wu | |
 | ㅚ | wej | ⟨wvj⟩ in old text. |
 | ㅟ | wi | |
-| ㅙ | wej | ⟨wvaj⟩ in old text and ⟨wai⟩ in transliteration. |
+| ㅙ | wej | ⟨wvaj⟩ in old text and ⟨waj⟩ in transliteration. |
 | ㅞ | wej | ⟨wuj⟩ in old text and transliteration. |
 | ㅢ | i/ej | |
 
