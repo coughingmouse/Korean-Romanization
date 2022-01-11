@@ -36,7 +36,7 @@
 | ㄲ | kk | |
 | ㄸ | tt | |
 | ㅃ | pp | |
-| ㅆ | s | |
+| ㅆ | ss | |
 | ㅉ | cc | zz |
 
 ⟨b⟩, ⟨d⟩, ⟨f⟩, and ⟨r⟩ not used.
