@@ -23,6 +23,8 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 ) romanization of Korean is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). It can be used for mapping regular, phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
 
+It was first made to follow phonological sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it could be more intuitive (⟨v⟩ to ⟨oo⟩) and be compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
+
 ## Modern Korean version
 
 | Text | Transcription | Misc. |
