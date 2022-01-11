@@ -14,7 +14,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | - | - |
 | ㅈ | z |
 | ㅊ | c |
-| ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
+| ㆁ | g | ⟨ŋ⟩ is allowed but not recommended. ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
 | ㅿ | x |
@@ -49,7 +49,7 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | s |
-| ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but not strongly recommended. |
+| ㆁ | g | ⟨ŋ⟩ is allowed but not recommended. ⟨ng⟩ with contextual ⟨'⟩ is allowed but not strongly recommended. |
 | ㅈ | z |
 | ㅊ | c |
 | ㅋ | k |
@@ -112,7 +112,7 @@ ______
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | s |
-| ㆁ | g | ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
+| ㆁ | g | ⟨ŋ⟩ is allowed but not recommended. ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
 | ㅈ | z |
 | ㅊ | c |
 | ㅋ | k |
@@ -174,15 +174,15 @@ These are the better ways to write in latin letters, but they are not transliter
 
 2. Write ⟨d⟩ whenever archaic word s exists and is not pronounced as a liquid, and ⟨n⟩ when pronounced as a liquid (in front of ⟨i⟩/⟨y⟩)
 
-| Text | Suggestion | Current |
-| - | - | - |
-| 숫자 | soodza | soosza |
-| 멸족 | myuldzog | myulszog |
-| 냇가 | neidga | neisga |
-| 콧등 | koddeng | kosdeng |
-| 나뭇잎 | namoonip | namoosip |
-| 한 일 | hann il | han il |
-| 할 일 | haln il | hal il |
+| Text | Suggestion | Alternative | Current |
+| - | - | - | - |
+| 숫자 | soodza | | soosza |
+| 멸족 | myuldzog | myuldzoŋ | myulszog |
+| 냇가 | nejdga | najdga | nejsga |
+| 콧등 | koddeng | | kosdeng |
+| 나뭇잎 | namoonip | | namoosip |
+| 한 일 | hann il | | han il |
+| 할 일 | haln il | | hal il |
 ______
 
 ## Design Goals
@@ -226,7 +226,7 @@ The main differences from the Yale Romanization are as follows.
 | ㄲ | qq | kk | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㄸ | dd | tt | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | pp | ⟨B⟩ is allowed but strongly not recommended. |
-| ㆁ | g | ng(') | Allowed but strongly not recommended. |
+| ㆁ | g | ng(') | Allowed along with ⟨ŋ⟩ but strongly not recommended. |
 | ㅈ | z | c |
 | ㅉ | zz | cc | ⟨Z⟩ is allowed but strongly not recommended. |
 | ㆆ | ? | q |
@@ -245,22 +245,22 @@ ______
 
 ### Examples
 
-| Transcription | Text |
-| - | - |
-| ko'olog | 코오롱 |
-| muqbag | 먹방 |
-| qim zugen | 김정은 |
-| suool | 서울 |
-| Seoul | 스오얼 |
-| qqoch | 꽃 |
-| qoz | 곶 |
-| qos | 곳 |
-| zzag | 짱 |
-| qemdogmileqbosalbangasayoosag | 금동미륵보살반가사유상 |
-| milke | 밀크 |
-| ladio | 라디오 |
-| bulaq obama | 버락 오바마 |
-| sincug | 신청 |
-| sacunsug | 사천성 |
-| manhwa | 만화 |
-| il i sam sa o lyooq cil pal qoo sib | 일 이 … 십 |
+| Transcription | Alternative | Text |
+| - | - | - |
+| ko'olog | | 코오롱 |
+| muqbag | muqbaŋ | 먹방 |
+| qim zugen | | 김정은 |
+| suool | | 서울 |
+| Seoul | | 스오얼 |
+| qqoch | | 꽃 |
+| qoz | | 곶 |
+| qos | | 곳 |
+| zzag | zzaŋ | 짱 |
+| qemdogmileqbosalbangasayoosag | qemdoŋmileqbosalbangasayoosaŋ | 금동미륵보살반가사유상 |
+| milke | | 밀크 |
+| ladio | | 라디오 |
+| bulaq obama | | 버락 오바마 |
+| sincug | sincuŋ | 신청 |
+| sacunsug | sacunsuŋ | 사천성 |
+| manhwa | | 만화 |
+| il i sam sa o lyooq cil pal qoo sib | | 일 이 … 십 |
