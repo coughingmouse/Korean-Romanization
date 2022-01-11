@@ -145,6 +145,7 @@ ______
 
 * For sibilant variants, use IPA equivalent and use of X-SAMPA is allowed
 * For combinational letters, just write them out by each compositing letter
+* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, and ⟨B⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, and ⟨bb⟩. But it's strongly not recommended, as they practice does not play well with the conventions regarding letter cases.
 
 ### Misc.
 * Halfwidth font is strongly preferred.
@@ -244,7 +245,7 @@ The main differences from the Yale Romanization are as follows.
 
 The other romanization systems that I'd looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing. Although I'm most certainly one of them, I thought maybe I can make it better. That being said, this system, being the type of system it is, does not and cannot cover the proper use case of the current version of offical South Korean romanization.
 
-But honestly, what I originally intended making was a system where I could use ⟨zz⟩ for ⟨ㅉ⟩. That's all I wanted but apparently that's not possible without completely breaking compatibility with Old Korean.
+But honestly, what I originally intended making was a system where I could use ⟨zz⟩ for ⟨ㅉ⟩. That's all I wanted but apparently that's not possible.
 
 ______
 
