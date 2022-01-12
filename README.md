@@ -33,24 +33,24 @@ It was first made to follow phonological sense, and was simply compressed to mak
 
 ## Modern Korean version
 
-| Text | Transcription | Misc. |
-| - | - | - |
-| ㅇ | ' | Used in between ⟨o⟩s read separately. |
-| ㅏ | a | |
-| ㅓ | u | |
-| ㅗ | o | | ⟨wv⟩ in old text. |
-| ㅜ | oo | |
-| ㅐ | ej | ⟨aj⟩ in old text or transliteration. |
-| ㅔ | ej | ⟨uj⟩ in old text or transliteration. |
-| ㅣ | i | |
-| ㅡ | e | |
-| ㅢ | i/ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
-| | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| | w | |
+| Text | Transcription | Transliteration | Old Text | Misc. |
+| - | - | - | - | - | 
+| ㅇ | ' | | | Used in between ⟨o⟩s read separately. |
+| ㅏ | a | a | a |
+| ㅓ | u | u | u |
+| ㅗ | o | o | wv |
+| ㅜ | oo | oo | oo |
+| ㅐ | ej | aj | aj |
+| ㅔ | ej | uj | uj |
+| ㅣ | i | i | i |
+| ㅡ | e | e | e |
+| ㅢ | i/ej | ej | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
+| | y/j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| | w | w | w |
 
-| Text | Transcription | Misc. |
+| Text | Transcription & Transliteration & Old Text | Misc. |
 | - | - | - |
-| ㄱ | q | 
+| ㄱ | q |
 | ㄴ | n |
 | ㄷ | d |
 | ㄹ | l |
@@ -64,7 +64,6 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㅌ | t |
 | ㅍ | p |
 | ㅎ | h |
-| Text | Transcription | Misc. |
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
@@ -76,42 +75,41 @@ ______
 
 ## Full specifications
 
-| Text | Transcription | Misc. |
-| - | - | - |
-| ㅇ | ' | Apostrophe, used in between ⟨o⟩s that are read separately; can also be used to indicate abbreviation. |
-| ㆍ | v | |
-| Text | Transcription | Misc. |
-| ㅏ | a | |
-| ㅑ | ya | |
-| ㅓ | u | |
-| ㅕ | yu | |
-| ㅗ | o | ⟨wv⟩ in old text. |
-| ㅛ | yo | ⟨ywv⟩ in old text. |
-| ㅜ | oo | |
-| ㅠ | yoo | |
-| ㅣ | i | |
-| ㅡ | e | |
-| | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| | w | |
+| Text | Transcription & Transliteration | Old Text | Misc. |
+| - | - | - | - |
+| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩s that are read separately; can also be used to indicate abbreviation. |
+| ㆍ | v | v |
+| ㅏ | a | a |
+| ㅑ | ya | ya |
+| ㅓ | u | u |
+| ㅕ | yu | yu |
+| ㅗ | o | wv |
+| ㅛ | yo | ywv |
+| ㅜ | oo | oo |
+| ㅠ | yoo | yoo |
+| ㅣ | i | i |
+| ㅡ | e | e |
+| | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| | w | w |
 
-| Text | Transcription |
-| - | - |
-| ㅐ | ej | ⟨aj⟩ in old text or transliteration. |
-| ㅒ | yej | ⟨yaj⟩ in old text or transliteration. |
-| ㅔ | ej | ⟨uj⟩ in old text or transliteration. |
-| ㅖ | yej | ⟨yaj⟩ in old text or transliteration. |
+| Text | Transcription | Transliteration | Old Text |
+| - | - | - | - |
+| ㅐ | ej | aj | aj |
+| ㅒ | yej | yaj | yaj |
+| ㅔ | ej | uj | uj |
+| ㅖ | yej | yaj | yaj |
 
-| Text | Transcription | Misc. |
-| - | - | - |
-| ㅘ | wa | ⟨wva⟩ in old text. |
-| ㅝ | wu | |
-| ㅚ | wej | ⟨wvj⟩ in old text. |
-| ㅟ | wi | |
-| ㅙ | wej | ⟨wvaj⟩ in old text and ⟨waj⟩ in transliteration. |
-| ㅞ | wej | ⟨wuj⟩ in old text and transliteration. |
-| ㅢ | i/ej | |
+| Text | Transcription | Transliteration | Old Text |
+| - | - | - | - |
+| ㅘ | wa | wa | wva |
+| ㅝ | wu | wu | wu |
+| ㅚ | wej | oj | wvj |
+| ㅟ | wi | ooj | ooj |
+| ㅙ | wej | waj | wvaj |
+| ㅞ | wej | wuj | wuj |
+| ㅢ | i/ej | ej | ej |
 
-| Text | Transcription | Misc. |
+| Text | Transcription & Transliteration & Old Text | Misc. |
 | - | - | - |
 | ㄱ | q |
 | ㄴ | n |
@@ -127,26 +125,29 @@ ______
 | ㅌ | t |
 | ㅍ | p |
 | ㅎ | h |
-| Text | Transcription | Misc. |
 | ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
 | ㅿ | x |
 
-| Text | Transcription | Misc. |
+| Text | Old Text | Transcription  & Transliteration | Misc. |
+| - | - | - | - |
+| ᆝ | yv | yv |
+| (ᆢ) | vv | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
+| ㆉ | ywvi | yoj |
+| ㆌ | yooj | yooj |
+| ᆜ | ye | ye |
+| (ᆖ) | ee | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
+| ㆎ | vj | vj |
+
+| Text | Transcription & Transliteration & Old Text | Misc. |
 | - | - | - |
-| ᆝ | yv |
-| (ᆢ) | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
-| ㆉ | yoj | ⟨ywvi⟩ in old text. |
-| ㆌ | yooj |
-| ᆜ | ye |
-| (ᆖ) | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
-| ㆎ | vj |
-| Text | Transcription | Misc. |
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
 | ㅆ | ss | ⟨S⟩ is allowed but strongly not recommended. |
 | ㅉ | zz | ⟨Z⟩ is allowed but strongly not recommended. |
-| Text | Transcription | Misc. |
+
+| Text | Transcription & Transliteration & Old Text | Misc. |
+| - | - | - |
 | ㅱ | m' |
 | ㅸ | f |
 | ㅹ | b' |
@@ -175,7 +176,7 @@ These are the better ways to write in latin letters, but they are not transliter
 
 1. Write 사이히읗 as ⟨h'⟩ explicitly
 
-| Text | Transcription | Phonemic Transcription | Phonetic Transcription |
+| Text | Transcription Suggestion | Phonemic Transcription Suggestion | Phonetic Transcription Suggestion |
 | - | - | - | - |
 | 가당치도 | qadagcido | qadaghzido | qadagcido
 | 가당ㅎ지도 | qadagh'zido | qadaghzido | qadagcido
