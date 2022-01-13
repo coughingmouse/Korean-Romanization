@@ -39,7 +39,7 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㅏ | a | a |
 | ㅐ | ej | aj |
 | ㅔ | ej | uj |
-| ㅢ | i | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
+| ㅢ | ei | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
 | ㅣ | i | i |
 | ㅓ | u | u |
 | ㅗ | o | o |
@@ -127,6 +127,7 @@ ______
 | ㅒ | yej | yaj | yaj |
 | ㅔ | ej | uj | uj |
 | ㅖ | yej | yaj | yaj |
+| ㅢ | ei | ej | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
 
 | Text | Transcription | Transliteration | Old Text |
 | - | - | - | - |
@@ -136,7 +137,6 @@ ______
 | ㅟ | wi | ooj | ooj |
 | ㅙ | wej | waj | wvaj |
 | ㅞ | wej | wuj | wuj |
-| ㅢ | i/ej | ej | ej |
 
 | Text | Transcription & Transliteration & Old Text | Misc. |
 | - | - | - |
