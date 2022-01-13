@@ -1,42 +1,43 @@
 ## Full specifications
 
-| Text | Transcription | Transliteration | Old Text | Misc. |
-| - | - | - | - | - |
+| Text | Transcription | Transliteration | Misc. |
+| - | - | - | - |
 | ㅇ | ' | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩s that are read separately; can also be used to indicate abbreviation. |
-| ㅏ | a | a | a |
-| ㅐ | ej | aj | aj |
-| ㅔ | ej | uj | uj |
-| ㅢ | i | ej | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
-| ㅣ | i | i | i |
-| ㅓ | u | u | u |
-| ㅗ | o | o | wv |
-| ㅡ | e | e | e |
-| | y | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| | w | w |
+| ㅏ | a | a |
+| ㅐ | ej | aj |
+| ㅔ | ej | uj |
+| ㅢ | i | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
+| ㅣ | i | i |
+| ㅓ | u | u |
+| ㅗ | o | o |
+| ㅡ | e | e |
 
-| Text | Transcription | Transliteration | Old Text |
-| - | - | - | - |
-| ㅑ | ya | ya |
-| ㅒ | yej | yaj | yaj |
-| ㅖ | yej | yaj | yaj |
-| - | - | - | - |
+
+| Text | Transcription | Transliteration |
+| - | - | - |
+| | y | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅑ | ya |
+| ㅒ | yej | yaj |
+| ㅖ | yej | yaj |
+| - | - | - |
 | ㅕ | yu | yu |
 | ㅛ | yo | ywv |
 | ㅠ | yoo | yoo |
 
-| Text | Transcription | Transliteration | Old Text |
-| - | - | - | - |
-| ㅘ | wa | wa | wva |
-| ㅚ | wej | oj | wvj |
-| ㅙ | wej | waj | wvaj |
-| ㅞ | wej | wuj | wuj |
-| ㅟ | wi | ooj | ooj |
-| ㅝ | wu | wu | wu |
-| - | - | - | - |
+| Text | Transcription | Transliteration |
+| - | - | - |
+| | w | w |
+| ㅘ | wa | wa |
+| ㅚ | wej | oj |
+| ㅙ | wej | waj |
+| ㅞ | wej | wuj |
+| ㅟ | wi | ooj |
+| ㅝ | wu | wu |
+| - | - | - |
 | ㅜ | oo | oo |
 
 
-| Text | Transcription & Transliteration & Old Text | Misc. |
+| Text | Transcription & Transliteration | Misc. |
 | - | - | - |
 | ㄱ | q |
 | ㄴ | n |
@@ -54,7 +55,7 @@
 | ㅎ | h |
 
 
-| Text | Transcription & Transliteration & Old Text | Misc. |
+| Text | Transcription & Transliteration | Misc. |
 | - | - | - |
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
