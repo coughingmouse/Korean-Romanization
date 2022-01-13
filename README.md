@@ -45,7 +45,7 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㅣ | i | i | i |
 | ㅡ | e | e | e |
 | ㅢ | i/ej | ej | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
-| | y/j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| | y | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | | w | w | w |
 
 | Text | Transcription & Transliteration & Old Text | Misc. |
