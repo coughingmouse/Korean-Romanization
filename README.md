@@ -310,25 +310,41 @@ ______
 ### FAQ
 
 * Why not ⟨k⟩/⟨g⟩ for ⟨ㄱ⟩?
+
 Were I to make a system that translated Korean to English, I would happily just use the revised romanization of korean (again, if using breves), and you should, too. But the purpose of writing systems including Korean ones is not to depict phones or phonemes but to convey granular meaning, or morphophonemes.
 
 * Why ⟨q⟩ for ⟨ㄱ⟩?
+
 ⟨g⟩ was in use.
 
 * Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨kk⟩ for ⟨ㄲ⟩?
+
 Because we can reduce the number of double letters per phoneme. And also because it feels slightly more intuitive to use ⟨g⟩ for ⟨ㄱ⟩, since ⟨ㄱ⟩ is more often pronounced as /g/.
 
 * Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨g⟩ for ⟨ㄲ⟩? It would also be more intuitive for Chinese users.
+
 True, but it will be less intuitive for Korean users. What's the point, if Korean users don't understand?
 
-* Why ⟨g⟩, not ⟨ng⟩? Why ⟨c⟩, not ⟨ch⟩? 
+* Why ⟨g⟩, not ⟨ng⟩? Why ⟨c⟩, not ⟨ch⟩?
+
 There is no particular reason in Korean language to use multiple letters against the design requirement, and it doesn't feel too far-fetched. It also induces ⟨'⟩ to be used more often.
 
 * Why ⟨g⟩, not ⟨ŋ⟩?
+
 You can't type that with Qwerty. Likewise, ⟨?⟩ over ⟨ʔ⟩. This is important for more people than you might imagine.
 
-* Why are Old Korean letters here?
-Because they are used by some people, and this system is for (almost) everyone.
+* Using ⟨oo⟩ for ⟨ㅜ⟩ is ugly. Why did you take this from English?
+
+Using only ASCII compliant letters for Korean script means using at least one unusual and ugly coordination for a vowel. Fortunately, ⟨ㅜ⟩ can be transcripted as ⟨we⟩ in the context of this system. All I did was to make it look more like a single vowel as well as making sure 우 isn't read as /we/. So at least it makes sense.
+
+* ⟨u⟩ for ⟨ㅓ⟩? Really?
+
+What else?
+
+* Why are Old Korean letters here?/Why are some Latin letters unused for Modern Korean?
+
+Because Old Korean is used by some people, and this system is for (almost) everyone.
 
 * You have Hangul. Why are you doing this?
-Because you can't type it with Qwerty, nor on every barebone computing systems. 
+
+I've explained above. But it's also because you can't type it with Qwerty layout on barebone computing systems. Unlike European letter systems, Korean scripts require a little more powerful input method engine.
