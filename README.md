@@ -7,10 +7,10 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 #### tl;dr
 | Example | Transcription | Misc. |
 | - | - | - |
-| ㅜ | oo | Technically equivalent to the unallowed form ⟨we⟩. |
-| ㅡ | e |
-| ㅓ | u |
 | ㅐㅔㅢ | ej | ⟨aj⟩, ⟨uj⟩, and ⟨ej⟩ in old text or transliteration. |
+| ㅓ | u |
+| ㅡ | e |
+| ㅜ | oo | Technically equivalent to the unallowed form ⟨we⟩. |
 | - | - |
 | ㅈ | z |
 | ㅊ | c |
@@ -33,22 +33,42 @@ It was first made to follow phonological sense, and was simply compressed to mak
 
 ## Modern Korean version
 
-| Text | Transcription | Transliteration | Old Text | Misc. |
-| - | - | - | - | - | 
-| ㅇ | ' | | | Used in between ⟨o⟩s read separately. |
-| ㅏ | a | a | a |
-| ㅓ | u | u | u |
-| ㅗ | o | o | wv |
-| ㅜ | oo | oo | oo | Technically equivalent to ⟨we⟩, but don't actually use ⟨we⟩. |
-| ㅐ | ej | aj | aj |
-| ㅔ | ej | uj | uj |
-| ㅣ | i | i | i |
-| ㅡ | e | e | e |
-| ㅢ | i/ej | ej | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
-| | y | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| | w | w | w |
+| Text | Transcription | Transliteration | Misc. |
+| - | - | - | - |
+| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩s that are read separately; can also be used to indicate abbreviation. |
+| ㅏ | a | a |
+| ㅐ | ej | aj |
+| ㅔ | ej | uj |
+| ㅢ | i | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
+| ㅣ | i | i |
+| ㅓ | u | u |
+| ㅗ | o | o |
+| ㅡ | e | e |
 
-| Text | Transcription & Transliteration & Old Text | Misc. |
+| Text | Transcription | Transliteration |
+| - | - | - |
+| | w | w |
+| ㅘ | wa | wa |
+| ㅚ | wej | oj |
+| ㅙ | wej | waj |
+| ㅞ | wej | wuj |
+| ㅟ | wi | ooj |
+| ㅝ | wu | wu |
+| - | - | - |
+| ㅜ | oo | oo |
+
+| Text | Transcription | Transliteration | Misc. |
+| - | - | - | - |
+| | y | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅑ | ya |
+| ㅒ | yej | yaj |
+| ㅖ | yej | yaj |
+| - | - | - |
+| ㅕ | yu | yu |
+| ㅛ | yo | yo |
+| ㅠ | yoo | yoo |
+
+| Text | Transcription & Transliteration | Misc. |
 | - | - | - |
 | ㄱ | q |
 | ㄴ | n |
@@ -57,20 +77,29 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | s |
-| ㆁ | g | ⟨ŋ⟩ is allowed but not recommended. ⟨ng⟩ with contextual ⟨'⟩ is allowed but not strongly recommended. |
+| ㆁ | g | ⟨ŋ⟩ is allowed but not recommended. ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
 | ㅈ | z |
 | ㅊ | c |
 | ㅋ | k |
 | ㅌ | t |
 | ㅍ | p |
 | ㅎ | h |
+
+
+| Text | Transcription & Transliteration | Misc. |
+| - | - | - |
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
 | ㅆ | ss | ⟨S⟩ is allowed but strongly not recommended. |
 | ㅉ | zz | ⟨Z⟩ is allowed but strongly not recommended. |
 
-* ⟨f⟩, ⟨r⟩, ⟨v⟩, and ⟨x⟩ not used for mordern Korean
+* For combinational letters, just write them out by each compositing letter
+* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨S⟩, ⟨Z⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, ⟨ss⟩, and ⟨zz⟩. But it's strongly not recommended, as this practice does not play well with the conventions regarding letter cases.
+
+### Misc.
+* Halfwidth font is strongly preferred.
+* ⟨f⟩, ⟨r⟩, ⟨v⟩, and ⟨x⟩ are not used for the transcription/transliteration of Mordern Korean.
 ______
 
 ## Full specifications
@@ -156,7 +185,7 @@ ______
 
 * For sibilant variants, use IPA equivalent and use of X-SAMPA is allowed
 * For combinational letters, just write them out by each compositing letter
-* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨Z⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, and ⟨zz⟩. But it's strongly not recommended, as this practice does not play well with the conventions regarding letter cases.
+* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨S⟩, ⟨Z⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, ⟨ss⟩, and ⟨zz⟩. But it's strongly not recommended, as this practice does not play well with the conventions regarding letter cases.
 
 ### Misc.
 * Halfwidth font is strongly preferred.
@@ -223,7 +252,7 @@ The main differences from the Yale Romanization are as follows.
 | ㆍ | v | o |
 | ㅓ | u | e |
 | ㅡ | e | u |
-| ㅜ | oo | wu |
+| ㅜ | oo | (w)u | ⟨oo⟩ is used instead of ⟨(w)e⟩. |
 | ㅐ | ej | aj | ⟨aj⟩ in old text and transliteration. |
 | ㅔ | ej | uj | ⟨uj⟩ in old text and transliteration. |
 | ㄱ | q | k |
