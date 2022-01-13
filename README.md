@@ -147,7 +147,7 @@ ______
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | s |
-| ㆁ | g | ⟨ŋ⟩ is allowed but not recommended. ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
+| ㆁ | g | ⟨ng⟩ is allowed. ⟨ŋ⟩ is allowed but not recommended. |
 | ㅈ | z |
 | ㅊ | c |
 | ㅋ | k |
