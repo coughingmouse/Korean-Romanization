@@ -2,7 +2,7 @@
 
 Latin Transcription & transliteration System for Korean Scripts, made to be used.
 
-마우스 국문 로마자 전사법 및 전자법. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다.
+마우스식 국문 로마자화. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다.
 
 #### tl;dr
 | Example | Transcription | Misc. |
@@ -84,7 +84,6 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㅌ | t |
 | ㅍ | p |
 | ㅎ | h |
-
 
 | Text | Transcription & Transliteration | Misc. |
 | - | - | - |
