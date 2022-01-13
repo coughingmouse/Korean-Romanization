@@ -339,7 +339,7 @@ Using only ASCII compliant letters for Korean script means using at least one un
 
 * ⟨u⟩ for ⟨ㅓ⟩? Really?
 
-What else?
+What else? Do you really want ⟨e⟩?
 
 * Why are Old Korean letters here?/Why are some Latin letters unused for Modern Korean?
 
@@ -348,3 +348,17 @@ Because Old Korean is used by some people, and this system is for (almost) every
 * You have Hangul. Why are you doing this?
 
 I've explained above. But it's also because you can't type it with Qwerty layout on barebone computing systems. Unlike European letter systems, Korean scripts require a little more powerful input method engine.
+
+* About ⟨ㅢ⟩...
+
+Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. This system is mainly a transliteration, and the only real reason transcription is included here is to compensate for the outdated official standard pronunciation.
+
+## To read more about the topic...
+
+정경일. (2013). 규범적 측면에서 본 로마자표기법의 제 문제. 언어학, 21(1), 139-154.
+
+EDWARD F. KLEIN.(1982).Romanization of Korean.코리아저널,22(8),16-23.
+
+Kyung Il Jung. (2013). Some Issues on the Korean Romanization as the Normative Law. The Linguistic Association of Korea Journal, 21(1), 139-154.
+
+李相億. "국어의 로마자 표기법 문제 종합 검토." 언어와 언어학 7.- (1981): 15-48. "누구를 위하여 로마자 표기를 하여야 하나?". 
