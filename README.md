@@ -27,7 +27,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
-) romanization of Korean is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). It can be used for mapping regular, phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
+) romanization of Korean is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). It can be used for regular (morphophonemic), phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
 
 It was first made to follow phonological sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it could be more intuitive (⟨v⟩ to ⟨oo⟩) and be compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
 
@@ -205,7 +205,7 @@ These are the better ways to write in latin letters, but they are not transliter
 
 1. Write 사이히읗 as ⟨h'⟩ explicitly
 
-| Text | Transcription Suggestion | Phonemic Transcription Suggestion | Phonetic Transcription Suggestion |
+| Text | Transcription Suggestion | Morphophonemic Transcription Suggestion | Phonemic Transcription Suggestion |
 | - | - | - | - |
 | 가당치도 | qadagcido | qadaghzido | qadagcido
 | 가당ㅎ지도 | qadagh'zido | qadaghzido | qadagcido
@@ -234,18 +234,29 @@ ______
 * Respect coalescence and the historic usage of Hangeul and Hunminjeongeum
 * Respect the historic usage of Latin Letters
 * Be Korean while designing
-* Be intuitive for Koreans
+* Be intuitive for Korean users
 * Be intuitive for English users
-* Be intuitive for Chinese
+* Be okay for Chinese
 _______
 
 ## Why...?
 
-There are some transcription systems in use, the most common being Revised Romanization of Korean, but they just don't work. As for the RRK, the transcription system relies on the pronunciation, but also because there's not enough correlation between the romanized forms and the form written in Korea-originated scripts. Korean is a language with numerous liasons and sandhis. Phonetic transcription makes it impossible to comprehend what the words are. They tried to mitigate that by making a complex hyphenation system that is only used for the romanization, and is not very well kept anyway. All in all, it kinda works when you're trying to make someone pronounce a meaningless phrase without knowing what it means. The romanization is too complicated for uses other than just that.
+There are some transcription systems in use, the most common being Revised Romanization of Korean, but they just don't work. So I decided to make a [better one that works for everyone](https://xkcd.com/927/).
 
-Yale Romanization of Korean is used often and it's a pretty sound system overall, but there are slight problems regarding intuitivity, casual readability, and effeciency, all of which are not critical in academic use case but more necessary in everyday use. It also doesn't get much support from Korea just because it wasn't made in or by a Korean, which is quite significant to the point that RRK is being more often used where it should not be.
+As for the RRK, the transcription system relies on the pronunciation, but also because there's not enough correlation between the romanized forms and the form written in Korea-originated scripts. Korean is a language with numerous liasons and sandhis. Phonetic transcription makes it impossible to comprehend what the words are. They tried to mitigate that by making a complex hyphenation system that is only used for the romanization, and is not very well kept anyway. All in all, it kinda works when you're trying to make someone pronounce a meaningless phrase without knowing what it means. It's an absolutely great tool for fooling western foreigners into thinking that they understand Korean phonetics–as long as ⟨ĕ⟩, ⟨ŏ⟩, and ⟨ŭ⟩ are used instead of ⟨ae⟩, ⟨eo⟩, and ⟨eu⟩. The problem is that it's a weird use case. It's complicated to use, phonologically inconsistent, and caters only to western tourists. This because the system is made to be used by and only by "foreigners", a dichotomous concept which to the eyes of the people behind the system, were seemingly western tourists. On the contrary, most foreigners in Korea are from East Asia and Southeast Asia, and they speak not "some foreign language" but their own respective languages, each with their own writing system and pronunciation.
 
-The main differences from the Yale Romanization are as follows.
+Almost all other romanization systems that I'd looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing. Although I'm most certainly one of them, I thought maybe I can make it better. Honestly, what I originally intended designing was a system where I could use ⟨zz⟩ for ⟨ㅉ⟩, which was most intuitive (as can be seen in [the frequenct use of the word ⟨zzang⟩](https://www.google.com/search?q=zzang) despite it having never been a part of any major romanization attempt). I also thought it would work better when teaching Korean if I actually could integrate it to a working system. It took longer than I initially imagined, but I somehow got here.
+
+Yale Romanization of Korean is used often and it's a good system overall. But it also doesn't get much support from Korea just because it wasn't made in or by a Korean, which is quite significant to the point that RRK is being more often used where it should not be. The more time I spent on this subject, the more I realized it made quite a lot of sense. But comparatively, there are slight problems regarding intuitivity, casual readability, and effeciency, all of which are not critical in academic use case but more necessary in everyday use. Although the system I was making looked completely different at first, it started looking more like Yale's and in the end, the differences were minimal.
+
+The major differences are that
+1. transliterations for ⟨ㅓ⟩ and ⟨ㅡ⟩ are switched,
+2. semivowel /j/ is written as ⟨j⟩ in coda to indicate change in articulation and to refrain from using too many transliteration for ⟨ㅇ⟩,
+3. ⟨ㅇ⟩ is transliterated with ⟨'⟩ in between ⟨o⟩s that are read separately,
+4. ⟨ㄱ⟩ is transliterated with ⟨q⟩ to save ⟨g⟩ for /ŋ/,
+5. and ⟨ㄷ⟩, ⟨ㅂ⟩, and ⟨ㅈ⟩ are transliterated with ⟨d⟩, ⟨b⟩, and ⟨z⟩ to make it more intuitive.
+
+The differences from the Yale Romanization are as follows.
 | Text | Here | Yale | Misc. |
 | - | - | - | - |
 | ㅇ | ' | G | Difference in usage |
@@ -253,8 +264,8 @@ The main differences from the Yale Romanization are as follows.
 | ㅓ | u | e |
 | ㅡ | e | u |
 | ㅜ | oo | (w)u | ⟨oo⟩ is used instead of ⟨(w)e⟩. |
-| ㅐ | ej | aj | ⟨aj⟩ in old text and transliteration. |
-| ㅔ | ej | uj | ⟨uj⟩ in old text and transliteration. |
+| ㅐ | ej | ay | ⟨aj⟩ in old text and transliteration. |
+| ㅔ | ej | ey | ⟨uj⟩ in old text and transliteration. |
 | ㄱ | q | k |
 | ㄷ | d | t |
 | ㅂ | b | p |
@@ -274,11 +285,6 @@ The main differences from the Yale Romanization are as follows.
 | ㅹ | b' | ? |
 | ㆄ | p' | ? |
 | ᄛ(ퟝ) | r | ? |
-
-The other romanization systems that I'd looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing. Although I'm most certainly one of them, I thought maybe I can make it better. That being said, this system, being the type of system it is, does not and cannot cover the proper use case of the current version of offical South Korean romanization.
-
-But honestly, what I originally intended making was a system where I could use ⟨zz⟩ for ⟨ㅉ⟩, which was most intuitive. I thought it would work better when teaching Korean. It took longer than I initially imagined, but I somehow got here.
-
 ______
 
 ### More Examples
@@ -288,7 +294,7 @@ ______
 | ko'olog | | 코오롱 |
 | muqbag | muqbaŋ | 먹방 |
 | Seoul | | 스오얼 |
-| qqoch | | 꽃 |
+| qqoc | | 꽃 |
 | qoz | | 곶 |
 | qos | | 곳 |
 | zzag | zzaŋ | 짱 |
@@ -299,3 +305,30 @@ ______
 | sacunsug | sacunsuŋ | 사천성 |
 | manhwa | | 만화 |
 | il i sam sa o lyooq cil pal qoo sib | | 일 이 … 십 |
+______
+
+### FAQ
+
+* Why not ⟨k⟩/⟨g⟩ for ⟨ㄱ⟩?
+Were I to make a system that translated Korean to English, I would happily just use the revised romanization of korean (again, if using breves), and you should, too. But the purpose of writing systems including Korean ones is not to depict phones or phonemes but to convey granular meaning, or morphophonemes.
+
+* Why ⟨q⟩ for ⟨ㄱ⟩?
+⟨g⟩ was in use.
+
+* Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨kk⟩ for ⟨ㄲ⟩?
+Because we can reduce the number of double letters per phoneme. And also because it feels slightly more intuitive to use ⟨g⟩ for ⟨ㄱ⟩, since ⟨ㄱ⟩ is more often pronounced as /g/.
+
+* Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨g⟩ for ⟨ㄲ⟩? It would also be more intuitive for Chinese users.
+True, but it will be less intuitive for Korean users. What's the point, if Korean users don't understand?
+
+* Why ⟨g⟩, not ⟨ng⟩? Why ⟨c⟩, not ⟨ch⟩? 
+There is no particular reason in Korean language to use multiple letters against the design requirement, and it doesn't feel too far-fetched. It also induces ⟨'⟩ to be used more often.
+
+* Why ⟨g⟩, not ⟨ŋ⟩?
+You can't type that with Qwerty. Likewise, ⟨?⟩ over ⟨ʔ⟩. This is important for more people than you might imagine.
+
+* Why are Old Korean letters here?
+Because they are used by some people, and this system is for (almost) everyone.
+
+* You have Hangul. Why are you doing this?
+Because you can't type it with Qwerty, nor on every barebone computing systems. 
