@@ -19,11 +19,11 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
 | ㅿ | x |
 | 한글 | hanqel | Korean word for Hangul. |
-| 훈민정음 | hoonminzugem | Or ⟨hoonminzungem⟩. Korean word for Hunminjeongeum, a predecessor to Hangul. |
-| 동국정운 | dogqooqzugoon | Or ⟨dongqooqzungoon⟩. Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 훈민정음 | hoonminzungem | Or ⟨hoonminzugem⟩. Korean word for Hunminjeongeum, a predecessor to Hangul. |
+| 동국정운 | dongqooqzungoon | Or ⟨dogqooqzugoon⟩. Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 라디오 | ladio | Korean word for "radio". |
 | 서울 | suool | Korean word for "Seoul". |
-| 김정은 | qim zugen | Or ⟨qim zungen⟩. Korean word for "Kim Jong-un". |
+| 김정은 | qim zungeng | Or ⟨qim zugen⟩. Korean word for "Kim Jong-un". |
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
