@@ -7,7 +7,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 #### tl;dr
 | Example | Transcription | Misc. |
 | - | - | - |
-| ㅜ | oo |
+| ㅜ | oo | Technically equivalent to the unallowed form ⟨we⟩. |
 | ㅡ | e |
 | ㅓ | u |
 | ㅐㅔㅢ | ej | ⟨aj⟩, ⟨uj⟩, and ⟨ej⟩ in old text or transliteration. |
@@ -39,7 +39,7 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㅏ | a | a | a |
 | ㅓ | u | u | u |
 | ㅗ | o | o | wv |
-| ㅜ | oo | oo | oo |
+| ㅜ | oo | oo | oo | Technically equivalent to ⟨we⟩, but don't actually use ⟨we⟩. |
 | ㅐ | ej | aj | aj |
 | ㅔ | ej | uj | uj |
 | ㅣ | i | i | i |
@@ -85,7 +85,7 @@ ______
 | ㅕ | yu | yu |
 | ㅗ | o | wv |
 | ㅛ | yo | ywv |
-| ㅜ | oo | oo |
+| ㅜ | oo | oo | Technically equivalent to the unallowed form ⟨we⟩. |
 | ㅠ | yoo | yoo |
 | ㅣ | i | i |
 | ㅡ | e | e |
