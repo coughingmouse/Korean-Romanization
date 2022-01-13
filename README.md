@@ -63,7 +63,7 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㅑ | ya |
 | ㅒ | yej | yaj |
 | ㅖ | yej | yaj |
-| - | - | - |
+| - | - | - | - |
 | ㅕ | yu | yu |
 | ㅛ | yo | yo |
 | ㅠ | yoo | yoo |
