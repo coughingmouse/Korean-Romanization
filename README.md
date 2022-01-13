@@ -14,7 +14,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | - | - |
 | ㅈ | z |
 | ㅊ | c |
-| ㆁ | g | ⟨ŋ⟩ is allowed but not recommended. ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
+| ㆁ | g | ⟨ng⟩ is allowed. ⟨ŋ⟩ is allowed but not recommended. |
 | ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
 | ㅿ | x |
@@ -77,7 +77,7 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | s |
-| ㆁ | g | ⟨ŋ⟩ is allowed but not recommended. ⟨ng⟩ with contextual ⟨'⟩ is allowed but strongly not recommended. |
+| ㆁ | g | ⟨ng⟩ is allowed. ⟨ŋ⟩ is allowed but not recommended. |
 | ㅈ | z |
 | ㅊ | c |
 | ㅋ | k |
