@@ -19,11 +19,11 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
 | ㅿ | x |
 | 한글 | hanqel | Korean word for Hangul. |
-| 훈민정음 | hoonminzugem | Or ⟨hoonminzuŋem⟩. Korean word for Hunminjeongeum, a predecessor to Hangul. |
-| 동국정운 | dogqooqzugoon | Or ⟨doŋqooqzuŋoon⟩. Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 훈민정음 | hoonminzugem | Or ⟨hoonminzungem⟩. Korean word for Hunminjeongeum, a predecessor to Hangul. |
+| 동국정운 | dogqooqzugoon | Or ⟨dongqooqzungoon⟩. Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 라디오 | ladio | Korean word for "radio". |
 | 서울 | suool | Korean word for "Seoul". |
-| 김정은 | qim zugen | Or ⟨qim zuŋen⟩. Korean word for "Kim Jong-un". |
+| 김정은 | qim zugen | Or ⟨qim zungen⟩. Korean word for "Kim Jong-un". |
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
@@ -207,16 +207,16 @@ These are the better ways to write in latin letters, but they are not transliter
 
 | Text | Transcription Suggestion | Morphophonemic Transcription Suggestion | Phonemic Transcription Suggestion |
 | - | - | - | - |
-| 가당치도 | qadagcido | qadaghzido | qadagcido
-| 가당ㅎ지도 | qadagh'zido | qadaghzido | qadagcido
+| 가당치도 | qadangcido | qadanghzido | qadangcido
+| 가당ㅎ지도 | qadangh'zido | qadanghzido | qadangcido
 
 2. Write ⟨d⟩ whenever archaic word s exists and is not pronounced as a liquid, and ⟨n⟩ when pronounced as a liquid (in front of ⟨i⟩/⟨y⟩)
 
 | Text | Suggestion | Alternative | Current |
 | - | - | - | - |
 | 숫자 | soodza | | soosza |
-| 멸족 | myuldzog | myuldzoŋ | myulszog |
-| 냇가 | nejdga | najdga | nejsga |
+| 멸족 | myuldzoq | myuldzoq | myulszoq |
+| 냇가 | nejdqa | najdqa | nejsqa |
 | 콧등 | koddeng | | kosdeng |
 | 나뭇잎 | namoonip | | namoosip |
 | 한 일 | hann il | | han il |
@@ -275,7 +275,7 @@ The differences from the Yale Romanization are as follows.
 | ㄲ | qq | kk | ⟨Q⟩ is allowed but strongly not recommended. |
 | ㄸ | dd | tt | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | pp | ⟨B⟩ is allowed but strongly not recommended. |
-| ㆁ | g | ng(') | Allowed along with ⟨ŋ⟩ but strongly not recommended. |
+| ㆁ | g | ng(') | Allowed along with ⟨ŋ⟩ but not recommended. |
 | ㅈ | z | c |
 | ㅉ | zz | cc | ⟨Z⟩ is allowed but strongly not recommended. |
 | ㆆ | ? | q |
@@ -291,18 +291,18 @@ ______
 
 | Transcription | Alternative | Text |
 | - | - | - |
-| ko'olog | | 코오롱 |
-| muqbag | muqbaŋ | 먹방 |
+| ko'olong | | 코오롱 |
+| muqbang | muqbaŋ | 먹방 |
 | Seoul | | 스오얼 |
 | qqoc | | 꽃 |
 | qoz | | 곶 |
 | qos | | 곳 |
-| zzag | zzaŋ | 짱 |
-| qemdogmileqbosalbangasayoosag | qemdoŋmileqbosalbangasayoosaŋ | 금동미륵보살반가사유상 |
+| zzang | zzaŋ | 짱 |
+| qemdongmileqbosalbanqasayoosang | qemdoŋmileqbosalbangasayoosaŋ | 금동미륵보살반가사유상 |
 | milke | | 밀크 |
 | bulaq obama | | 버락 오바마 |
-| sincug | sincuŋ | 신청 |
-| sacunsug | sacunsuŋ | 사천성 |
+| sincung | sincug | 신청 |
+| sacunsung | sacunsug | 사천성 |
 | manhwa | | 만화 |
 | il i sam sa o lyooq cil pal qoo sib | | 일 이 … 십 |
 ______
@@ -325,9 +325,9 @@ Because we can reduce the number of double letters per phoneme. And also because
 
 True, but it will be less intuitive for Korean users. What's the point, if Korean users don't understand?
 
-* Why ⟨g⟩, not ⟨ng⟩? Why ⟨c⟩, not ⟨ch⟩?
+* Why ⟨c⟩, not ⟨ch⟩?
 
-There is no particular reason in Korean language to use multiple letters against the design requirement, and it doesn't feel too far-fetched. It also induces ⟨'⟩ to be used more often.
+There is no particular reason in Korean language to use multiple letters against the design requirement, and it doesn't feel too far-fetched.
 
 * Why ⟨g⟩, not ⟨ŋ⟩?
 
