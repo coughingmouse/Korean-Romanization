@@ -47,7 +47,7 @@ It was first made to follow phonological sense, and was simply compressed to mak
 
 | Text | Transcription | Transliteration |
 | - | - | - |
-| | w | w |
+| (ㅗ) | w | w |
 | ㅘ | wa | wa |
 | ㅚ | wej | oj |
 | ㅙ | wej | waj |
@@ -59,7 +59,7 @@ It was first made to follow phonological sense, and was simply compressed to mak
 
 | Text | Transcription | Transliteration | Misc. |
 | - | - | - | - |
-| | y | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| (ㅣ) | y | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | ㅑ | ya |
 | ㅒ | yej | yaj |
 | ㅖ | yej | yaj |
