@@ -238,7 +238,7 @@ ______
 * Be okay for Chinese
 _______
 
-## Why...?
+## ...Why?
 
 There are some transcription systems in use, the most common being Revised Romanization of Korean, but they just don't work. So I decided to make a [better one that works for everyone](https://xkcd.com/927/).
 
@@ -284,6 +284,8 @@ The differences from the Yale Romanization are as follows.
 | ㅹ | b' | ? |
 | ㆄ | p' | ? |
 | ᄛ(ퟝ) | r | ? |
+
+Switching Latin letter for ⟨ㅓ⟩ and ⟨ㅡ⟩ was what made me publish the system. Although I have approached rather naïvely, the switch seemed to illustrate well the pronunciation change of ⟨ㅢ⟩, and felt like a novel approach. There are also other interesting parts of the system, some of which may not look great to some. Because they are the reason the system is being published, I've introduced them in the tl;dr section, just in case they may help future designers make decisions. As such, the system is completely free to use, modify, etc. without warranty or liability on me.
 ______
 
 ### More Examples
