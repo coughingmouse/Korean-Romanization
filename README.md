@@ -1,4 +1,4 @@
-# Maoose Korean Script Romanization
+# Maoese Korean Script Romanization
 
 Latin Transcription & transliteration System for Korean Scripts, made to be used.
 
