@@ -10,7 +10,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㅐㅔㅢ | ej | ⟨aj⟩, ⟨uj⟩, and ⟨ej⟩ in old text or transliteration. |
 | ㅓ | u |
 | ㅡ | e |
-| ㅜ | oo | Technically equivalent to the unallowed form ⟨we⟩. |
+| ㅜ | oe | Technically equivalent to the unallowed form ⟨we⟩. |
 | - | - |
 | ㅈ | z |
 | ㅊ | c |
@@ -19,23 +19,23 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
 | ㅿ | x |
 | 한글 | hanqel | Korean word for Hangul. |
-| 훈민정음 | hoonminzungem | Or ⟨hoonminzugem⟩. Korean word for Hunminjeongeum, a predecessor to Hangul. |
-| 동국정운 | dongqooqzungoon | Or ⟨dogqooqzugoon⟩. Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 훈민정음 | hoenminzungem | Or ⟨hoenminzugem⟩. Korean word for Hunminjeongeum, a predecessor to Hangul. |
+| 동국정운 | dongqoeqzungoen | Or ⟨dogqoeqzugoen⟩. Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 라디오 | ladio | Korean word for "radio". |
-| 서울 | suool | Korean word for "Seoul". |
-| 김정은 | qim zungeng | Or ⟨qim zugen⟩. Korean word for "Kim Jong-un". |
+| 서울 | suoel | Korean word for "Seoul". |
+| 김정은 | qim zungen | Or ⟨qim zugen⟩. Korean word for "Kim Jong-un". |
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 ) romanization of Korean is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). It can be used for regular (morphophonemic), phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
 
-It was first made to follow phonological sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it could be more intuitive (⟨v⟩ to ⟨oo⟩) and be compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
+It was first made to follow phonological sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it could be more intuitive (⟨v⟩ to ⟨oe⟩) and be compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
 
 ## Modern Korean version
 
 | Text | Transcription | Transliteration | Misc. |
 | - | - | - | - |
-| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩s that are read separately; can also be used to indicate abbreviation. |
+| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩ and ⟨e⟩ that are read separately; can also be used to indicate abbreviation. |
 | ㅏ | a | a |
 | ㅐ | ej | aj |
 | ㅔ | ej | uj |
@@ -52,10 +52,10 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㅚ | wej | oj |
 | ㅙ | wej | waj |
 | ㅞ | wej | wuj |
-| ㅟ | wi | ooj |
+| ㅟ | wi | oej |
 | ㅝ | wu | wu |
 | - | - | - |
-| ㅜ | oo | oo |
+| ㅜ | oe | oe |
 
 | Text | Transcription | Transliteration | Misc. |
 | - | - | - | - |
@@ -66,7 +66,7 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | - | - | - | - |
 | ㅕ | yu | yu |
 | ㅛ | yo | yo |
-| ㅠ | yoo | yoo |
+| ㅠ | yoe | yoe |
 
 | Text | Transcription & Transliteration | Misc. |
 | - | - | - |
@@ -105,7 +105,7 @@ ______
 
 | Text | Transcription & Transliteration | Old Text | Misc. |
 | - | - | - | - |
-| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩s that are read separately; can also be used to indicate abbreviation. |
+| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩ and ⟨e⟩ that are read separately; can also be used to indicate abbreviation. |
 | ㆍ | v | v |
 | ㅏ | a | a |
 | ㅑ | ya | ya |
@@ -113,8 +113,8 @@ ______
 | ㅕ | yu | yu |
 | ㅗ | o | wv |
 | ㅛ | yo | ywv |
-| ㅜ | oo | oo | Technically equivalent to the unallowed form ⟨we⟩. |
-| ㅠ | yoo | yoo |
+| ㅜ | oe | oe | Technically equivalent to the unallowed form ⟨we⟩. |
+| ㅠ | yoe | yoe |
 | ㅣ | i | i |
 | ㅡ | e | e |
 | (ㅣ) | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
@@ -133,7 +133,7 @@ ______
 | ㅘ | wa | wa | wva |
 | ㅝ | wu | wu | wu |
 | ㅚ | wej | oj | wvj |
-| ㅟ | wi | ooj | ooj |
+| ㅟ | wi | oej | oej |
 | ㅙ | wej | waj | wvaj |
 | ㅞ | wej | wuj | wuj |
 
@@ -159,11 +159,11 @@ ______
 | Text | Old Text | Transcription  & Transliteration | Misc. |
 | - | - | - | - |
 | ᆝ | yv | yv |
-| (ᆢ) | vv | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
+| (ᆢ) | vv | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel. |
 | ㆉ | ywvi | yoj |
-| ㆌ | yooj | yooj |
+| ㆌ | yoej | yoej |
 | ᆜ | ye | ye |
-| (ᆖ) | ee | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel letters (⟨a⟩, ⟨e⟩, ⟨i⟩, ⟨o⟩, ⟨u⟩, or ⟨v⟩). |
+| (ᆖ) | ee | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel. |
 | ㆎ | vj | vj |
 
 | Text | Transcription & Transliteration & Old Text | Misc. |
@@ -213,11 +213,11 @@ These are the better ways to write in latin letters, but they are not transliter
 
 | Text | Suggestion | Alternative | Current |
 | - | - | - | - |
-| 숫자 | soodza | | soosza |
+| 숫자 | soedza | | soesza |
 | 멸족 | myuldzoq | myuldzoq | myulszoq |
 | 냇가 | nejdqa | najdqa | nejsqa |
 | 콧등 | koddeng | | kosdeng |
-| 나뭇잎 | namoonip | | namoosip |
+| 나뭇잎 | namoenip | | namoesip |
 | 한 일 | hann il | | han il |
 | 할 일 | haln il | | hal il |
 ______
@@ -262,7 +262,7 @@ The differences from the Yale Romanization are as follows.
 | ㆍ | v | o |
 | ㅓ | u | e |
 | ㅡ | e | u |
-| ㅜ | oo | (w)u | ⟨oo⟩ is used instead of ⟨(w)e⟩. |
+| ㅜ | oe | (w)u |
 | ㅐ | ej | ay | ⟨aj⟩ in old text and transliteration. |
 | ㅔ | ej | ey | ⟨uj⟩ in old text and transliteration. |
 | ㄱ | q | k |
@@ -292,20 +292,20 @@ ______
 
 | Transcription | Alternative | Text |
 | - | - | - |
-| ko'olong | | 코오롱 |
-| muqbang | muqbaŋ | 먹방 |
+| bo'en | | ㅂㅗㅇㅡㄴ |
+| muqbang | muqbag | 먹방 |
 | Seoul | | 스오얼 |
 | qqoc | | 꽃 |
 | qoz | | 곶 |
 | qos | | 곳 |
-| zzang | zzaŋ | 짱 |
-| qemdongmileqbosalbanqasayoosang | qemdoŋmileqbosalbangasayoosaŋ | 금동미륵보살반가사유상 |
+| zzang | zzag | 짱 |
+| qemdongmileqbosalbanqasayoesang | qemdoŋmileqbosalbanqasayoesaŋ | 금동미륵보살반가사유상 |
 | milke | | 밀크 |
 | bulaq obama | | 버락 오바마 |
 | sincung | sincug | 신청 |
 | sacunsung | sacunsug | 사천성 |
 | manhwa | | 만화 |
-| il i sam sa o lyooq cil pal qoo sib | | 일 이 … 십 |
+| il i sam sa o lyoeq cil pal qoe sib | | 일 이 … 십 |
 ______
 
 ### FAQ
@@ -334,13 +334,13 @@ There is no particular reason in Korean language to use multiple letters against
 
 You can't type that with Qwerty. Likewise, ⟨?⟩ over ⟨ʔ⟩. This is important for more people than you might imagine.
 
-* Using ⟨oo⟩ for ⟨ㅜ⟩ is ugly. Why did you take this from English?
+* Using ⟨oe⟩ for ⟨ㅜ⟩ is ugly. Why did you take this from Dutch/Africaans?
 
 Using only ASCII compliant letters for Korean script means using at least one unusual and ugly coordination for a vowel. Fortunately, ⟨ㅜ⟩ can be transcripted as ⟨we⟩ in the context of this system. All I did was to make it look more like a single vowel as well as making sure 우 isn't read as /we/. So at least it makes sense.
 
 * ⟨u⟩ for ⟨ㅓ⟩? Really?
 
-What else? Do you really want ⟨e⟩?
+What else? As mentioned on the question above, Using only ASCII compliant letters for Korean script means using at least one unusual and ugly coordination for a vowel. This is the one.
 
 * Why are Old Korean letters here?/Why are some Latin letters unused for Modern Korean?
 
