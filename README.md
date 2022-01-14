@@ -338,9 +338,13 @@ You can't type that with Qwerty. Likewise, ⟨?⟩ over ⟨ʔ⟩. This is import
 
 Using only ASCII compliant letters for Korean script means using at least one unusual and ugly coordination for a vowel. Fortunately, ⟨ㅜ⟩ can be transcripted as ⟨we⟩ in the context of this system. All I did was to make it look more like a single vowel as well as making sure 우 isn't read as /we/. So at least it makes sense.
 
+* Why ⟨e⟩ for ⟨ㅡ⟩?
+
+What initially made try it out was that the articulation of ⟨ㅡ⟩ is weak, like how ⟨e⟩s tend to be in popular languages. It also better explains how ⟨ㅢ⟩ came to be pronounced as /e/ at times.
+
 * ⟨u⟩ for ⟨ㅓ⟩? Really?
 
-What else? As mentioned on the question above, Using only ASCII compliant letters for Korean script means using at least one unusual and ugly coordination for a vowel. This is the one.
+What else, when ⟨o⟩ had to be used for ⟨ㅗ⟩, and ⟨a⟩ for ⟨ㅏ⟩? Thankfully there's a major language which pronounces similarly. As mentioned on the question above, Using only ASCII compliant letters for Korean script means using at least one unusual and ugly coordination for a vowel. This is the one.
 
 * Why are Old Korean letters here?/Why are some Latin letters unused for Modern Korean?
 
