@@ -117,8 +117,8 @@ ______
 | ㅠ | yoo | yoo |
 | ㅣ | i | i |
 | ㅡ | e | e |
-| | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| | w | w |
+| (ㅣ) | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| (ㅜ) | w | w |
 
 | Text | Transcription | Transliteration | Old Text |
 | - | - | - | - |
