@@ -5,7 +5,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 마우스식 국문 로마자화. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다. 고문에 더 적합한 전자법도 있습니다.
 
 #### tl;dr
-| Example | Transcription | Transliteration | Old text | Misc. |
+| Example | Transcription | Transliteration | Old Text | Misc. |
 | - | - | - | - | - |
 | ㆍ | @ | @ | v |
 | ㅐ/ㅔ/ㅢ | e | aj/uj/ej | aj/uj/ej |
@@ -20,26 +20,29 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㆆ | ? | ? | ? |
 | ㅿ | x | x | x |
 | 한글 | hanqyl | hanqel | hanqel | Korean word for Hangul. |
-| 훈민정음 | hvnminzungem / hvnminzugem | hvnminzungem / hvnminzugem | hunminzongem / hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
-| 동국정운 | dongqvqzungvn / dogqvqzugvn | dongqvqzungvn / dogqvqzugvn | dwvngquqzongun / dwvngquqzongun | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 훈민정음 | hvnminzungem | hvnminzungem | hunminzongem / hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
+| 동국정운 | dongqvqzungvn | dongqvqzungvn | dwvngquqzongun / dwvngquqzongun | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 라디오 | ladio | ladio | ladiwv | Korean word for "radio". |
 | 서울 | suvl | suvl | soul | Korean word for "Seoul". |
-| 김정은 | qim zungyn / qim zugyn | qim zungen / qim zugen | qim zongen / qim zogen | Korean word for "Kim Jong-un". |
-| 마라탕 | malatang / maratang / malatag / maratag | | | Spicy hot pot. Delicious.
+| 김정은 | qim zungyn | qim zungen | qim zongen / qim zogen | Korean word for "Kim Jong-un". |
+| 마라탕 | malatang / maratang | malatang | malatang / malatag | Spicy hot pot. Delicious.
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
-) romanization of Korean is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). It can be used for regular (morphophonemic), phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
+) romanization of Korean and Korean script is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). It can be used for regular (morphophonemic), phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
 
 It was first made to follow phonological sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it is compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
 
-The transcription wasn't made to be used definitively, so for such use, you will have to decide on whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
+The transcription is made to better fit Modern Korean.
+It wasn't made to be used definitively, so for such use, you will have to decide on whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
+For official use in Korea or academic use, allowing only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will do. 
+For use for foreigners visiting Korea, allow only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels in Korean words.
 
 ## Modern Korean version
 
-| Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration |  Text | Transcription | Transliteration | Misc. |
+| Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. |
 | - | - | - | - | - | - | - | - | - | - | - |
-| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩ and ⟨e⟩ that are read separately; can also be used to indicate abbreviation. | (ㅗ) | w | w | (ㅣ) | j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | (ㅗ) | w | w | (ㅣ) | j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ja | ya |
 | ㅐ | e | aj | | ㅙ | we | waj | ㅒ | je | yaj |
 | ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yaj |
@@ -236,7 +239,7 @@ The major differences are that
 5. and ⟨ㄷ⟩, ⟨ㅂ⟩, and ⟨ㅈ⟩ are transliterated with ⟨d⟩, ⟨b⟩, and ⟨z⟩ to make it more intuitive.
 
 The differences from the Yale Romanization are as follows.
-| Text | Here (old text) | Yale |
+| Text | Here (Old Text) | Yale |
 | - | - | - |
 | ㅇ | ' | G |
 | ㆍ | v | o |
@@ -273,17 +276,17 @@ ______
 | Transcription | Transliteration | Text |
 | - | - | - |
 | boyn | boen | 보은 |
-| muqbang / muqbag | muqbang / muqbag | 먹방 |
+| muqbang | muqbang | 먹방 |
 | Seoul | Seoul | 세오얼 / 스오얼 |
 | qqoc | qqoc | 꽃 |
 | qoz | qoz | 곶 |
 | qos | qos | 곳 |
-| zzang/zzag | zzang/zzag | 짱 |
-| qymdongmiryqbosalbanqasajvsang / qymdogmiryqbosalbanqasajvsag / qymdongmilyqbosalbanqasajvsang / qymdogmilyqbosalbanqasajvsag | qemdongmilyqbosalbanqasayvsang / qemdogmilyqbosalbanqasayvsag | 금동미륵보살반가사유상 |
+| zzang | zzang | 짱 |
+| qymdongmiryqbosalbanqasajvsang / qymdongmilyqbosalbanqasajvsang | qemdongmilyqbosalbanqasayvsang | 금동미륵보살반가사유상 |
 | milky | milke | 밀크 |
 | buraq obama / bulaq obama | bulaq obama | 버락 오바마 |
-| sincung / sincug | sincung / sincug | 신청 |
-| sacunsung / sacunsug | sacunsung / sacunsug | 사천성 |
+| sincung | sincung | 신청 |
+| sacunsung | sacunsung | 사천성 |
 | manhwa | manhwa | 만화 |
 | (?)il i sam sa o ljvq cil pal qv sib | (?)il i sam sa o lyvq cil pal qv sib | 일 이…십 |
 ______
@@ -292,7 +295,8 @@ ______
 
 * Why not ⟨k⟩/⟨g⟩ for ⟨ㄱ⟩?
 
-Were I to make a system that translated Korean to English, I would happily just use the revised romanization of korean (again, if using breves), and you should, too. But the purpose of writing systems including Korean ones is not to depict phones or phonemes but to convey granular meaning, or morphophonemes.
+Were I to make a system that translated Korean to English, I would happily just use the revised romanization of korean (again, if using breves), and you should, too.
+But the purpose of writing systems including Korean ones is not to depict phones or phonemes but to convey granular meaning, or morphophonemes.
 
 * Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨kk⟩ for ⟨ㄲ⟩?
 
@@ -300,7 +304,7 @@ Because we can reduce the number of double letters per phoneme. And also because
 
 * Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨g⟩ for ⟨ㄲ⟩? It would also be more intuitive for Chinese users.
 
-True, but it will be less intuitive for Korean users. What's the point, if Korean users don't understand?
+True, but it will be less intuitive for Korean users. What's the point, if users don't understand?
 
 * Why ⟨c⟩, not ⟨ch⟩?
 
@@ -308,9 +312,9 @@ There is no particular reason in Korean language to use multiple letters against
 
 * Why ⟨q⟩ for ⟨ㄱ⟩?
 
-⟨g⟩ was in use. And something had to be there.
+⟨g⟩ was in use for ⟨ㆁ⟩.
 
-* Why ⟨g⟩, not ⟨ŋ⟩?
+* Why ⟨ng⟩, not ⟨ŋ⟩?
 
 You can't type that with Qwerty. This is important for more people than you might imagine.
 
@@ -322,9 +326,17 @@ What initially made try it out was that the articulation of ⟨ㅡ⟩ is weak, l
 
 What else, when ⟨o⟩ had to be used for ⟨ㅗ⟩, and ⟨a⟩ for ⟨ㅏ⟩? Thankfully there's a major language which pronounces similarly. As mentioned on the question above, Using only ASCII compliant letters for Korean script means using at least one unusual and ugly coordination for a vowel. This is the one.
 
+* ⟨v⟩ for ⟨ㅜ⟩?
+
+The other option was ⟨oy⟩/⟨oe⟩ and my friend didn't like it.
+
 * Why are Old Korean letters here?/Why are some Latin letters unused for Modern Korean?
 
 Because Old Korean is used by some people, and this system is for (almost) everyone.
+
+* Why are not all the Old Koreans letters here?
+
+Because I don't want to spend more time here.
 
 * You have Hangul. Why are you doing this?
 
