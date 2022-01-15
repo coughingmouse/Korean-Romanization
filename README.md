@@ -7,11 +7,11 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 #### tl;dr
 | Example | Transcription | Transliteration | Old Text | Misc. |
 | - | - | - | - | - |
-| ㆍ | @ | @ | v |
+| ㆍ | @ | @ | u |
 | ㅐ/ㅔ/ㅢ | e | aj/uj/ej | aj/uj/ej |
 | ㅓ | u | u | o |
 | ㅡ | y | e | e |
-| ㅜ | v | v | u | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
+| ㅜ | v | v | v | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
 | ㄹ | l | l | l | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅈ | z | z | z |
 | ㅊ | c | c | c |
@@ -21,9 +21,9 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㅿ | x | x | x |
 | 한글 | hanqyl | hanqel | hanqel | Korean word for Hangul. |
 | 훈민정음 | hvnminzungem | hvnminzungem | hunminzongem / hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
-| 동국정운 | dongqvqzungvn | dongqvqzungvn | dwvngquqzongun / dwvngquqzongun | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
-| 라디오 | ladio | ladio | ladiwv | Korean word for "radio". |
-| 서울 | suvl | suvl | soul | Korean word for "Seoul". |
+| 동국정운 | dongqvqzungvn | dongqvqzungvn | dwvngquqzongvn / dwvngquqzongvn | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 라디오 | ladio | ladio | ladiwu | Korean word for "radio". |
+| 서울 | suvl | suvl | sovl | Korean word for "Seoul". |
 | 김정은 | qim zungyn | qim zungen | qim zongen / qim zogen | Korean word for "Kim Jong-un". |
 | 마라탕 | malatang / maratang | malatang | malatang / malatag | Spicy hot pot. Delicious.
 
@@ -87,15 +87,15 @@ ______
 | Text | Transcription | Transliteration | Old Text | Misc. |
 | - | - | - | - | - |
 | ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
-| ㆍ | @ | @ | v |
+| ㆍ | @ | @ | u |
 | ㅏ | a | a | a |
 | ㅑ | ja | ya | ya |
 | ㅓ | u | u | o |
 | ㅕ | ju | yu | yo |
-| ㅗ | o | o | wv |
-| ㅛ | jo | yo | ywv |
-| ㅜ | v | v | u | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
-| ㅠ | jv | yv | yu |
+| ㅗ | o | o | wu |
+| ㅛ | jo | yo | ywu |
+| ㅜ | v | v | v | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
+| ㅠ | jv | yv | yv |
 | ㅣ | i | i | i |
 | ㅡ | y | e | e |
 | (ㅣ) | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
@@ -111,11 +111,11 @@ ______
 
 | Text | Transcription | Transliteration | Old Text |
 | - | - | - | - |
-| ㅘ | wa | wa | wva |
+| ㅘ | wa | wa | wua |
 | ㅝ | wu | wu | wo |
-| ㅚ | we | oj | wvj |
-| ㅟ | wi | vj | uj |
-| ㅙ | we | waj | wvaj |
+| ㅚ | we | oj | wuj |
+| ㅟ | wi | vj | vj |
+| ㅙ | we | waj | wuaj |
 | ㅞ | we | wuj | woj |
 
 | Text | Transcription & Transliteration & Old Text | Misc. |
@@ -139,13 +139,13 @@ ______
 
 | Text | Old Text | Transcription | Transliteration | Misc. |
 | - | - | - | - | - |
-| ᆝ | yv | j@ | y@ |
-| (ᆢ) | vv | @@ | @@ | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆉ | ywvi | jwe | yoj |
-| ㆌ | yuj | jwi | y@j |
+| ᆝ | yu | j@ | y@ |
+| (ᆢ) | uu | @@ | @@ | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㆉ | ywuj | jwe | yoj |
+| ㆌ | yvj | jwi | y@j |
 | ᆜ | ye | jy | ye |
 | (ᆖ) | ee | yy | ee | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆎ | vj | @j' | @j |
+| ㆎ | uj | @j' | @j |
 
 | Text | Transcription & Transliteration & Old Text |
 | - | - |
@@ -337,6 +337,7 @@ Because Old Korean is used by some people, and this system is for (almost) every
 * Why are not all the Old Koreans letters here?
 
 Because I don't want to spend more time here.
+Honestly, the existing vowels may not be so reliable either.
 
 * You have Hangul. Why are you doing this?
 
