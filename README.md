@@ -93,13 +93,13 @@ ______
 | ㅓ | u | u | o |
 | ㅕ | ju | yu | yo |
 | ㅗ | o | o | wu |
+| (ㅗ) | w | w | w |
 | ㅛ | jo | yo | ywu |
 | ㅜ | v | v | v | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
 | ㅠ | jv | yv | yv |
 | ㅣ | i | i | i |
-| ㅡ | y | e | e |
 | (ㅣ) | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| (ㅗ) | w | w | w |
+| ㅡ | y | e | e |
 
 | Text | Transcription | Transliteration | Old Text |
 | - | - | - | - |
@@ -108,9 +108,6 @@ ______
 | ㅔ | e | uj | oj |
 | ㅖ | je | yuj | yoj |
 | ㅢ | yi | ej | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
-
-| Text | Transcription | Transliteration | Old Text |
-| - | - | - | - |
 | ㅘ | wa | wa | wua |
 | ㅝ | wu | wu | wo |
 | ㅚ | we | oj | wuj |
@@ -130,12 +127,12 @@ ______
 | ㆁ | g/ng |
 | ㅈ | z |
 | ㅊ | c |
+| ㅿ | x |
 | ㅋ | k |
 | ㅌ | t |
 | ㅍ | p |
-| ㅎ | h |
 | ㆆ | ? |
-| ㅿ | x |
+| ㅎ | h |
 
 | Text | Old Text | Transcription | Transliteration | Misc. |
 | - | - | - | - | - |
@@ -257,7 +254,7 @@ The differences from the Yale Romanization are as follows.
 | ㄲ | qq | kk |
 | ㄸ | dd | tt |
 | ㅃ | bb | pp |
-| ㆁ | g/ng | ng(') |
+| ㆁ | g/ng | ng |
 | ㅈ | z | c |
 | ㅉ | zz | cc |
 | ㆆ | ? | q |
