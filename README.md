@@ -5,25 +5,25 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 마우스식 국문 로마자화. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다.
 
 #### tl;dr
-| Example | Transcription | Misc. |
-| - | - | - |
-| ㅐㅔㅢ | ej | ⟨aj⟩, ⟨uj⟩, and ⟨ej⟩ in old text or transliteration. |
-| ㅓ | u |
-| ㅡ | e |
-| ㅜ | oe | Technically equivalent to the unallowed form ⟨we⟩. |
-| - | - |
-| ㅈ | z |
-| ㅊ | c |
-| ㆁ | g | ⟨ng⟩ is allowed. ⟨ŋ⟩ is allowed but not recommended. |
-| ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
-| ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
-| ㅿ | x |
-| 한글 | hanqel | Korean word for Hangul. |
-| 훈민정음 | hoenminzungem | Or ⟨hoenminzugem⟩. Korean word for Hunminjeongeum, a predecessor to Hangul. |
-| 동국정운 | dongqoeqzungoen | Or ⟨dogqoeqzugoen⟩. Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
-| 라디오 | ladio | Korean word for "radio". |
-| 서울 | suoel | Korean word for "Seoul". |
-| 김정은 | qim zungen | Or ⟨qim zugen⟩. Korean word for "Kim Jong-un". |
+| Example | Transcription | Transliteration | Misc. |
+| - | - | - | - |
+| ㆍ | @ | @ |
+| ㅐㅔㅢ | e | aj/uj/ej |
+| ㅓ | u | u |
+| ㅡ | y | e |
+| ㅜ | v | v | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
+| ㅈ | z | z |
+| ㅊ | c | c |
+| ㆁ | g/ng | g/ng |
+| ㄲ | qq | qq |
+| ㆆ | ? | ? |
+| ㅿ | x | x |
+| 한글 | hangyl | hanqel | Korean word for Hangul. |
+| 훈민정음 | hvnminzungem / hvnminzugem | hoenminzungem / hoenminzugem | Or Korean word for Hunminjeongeum, a predecessor to Hangul. |
+| 동국정운 | dongqvqzungvn / dogqvqzugvn | dongqoeqzungoen / dogqoeqzugoen | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 라디오 | ladio | ladio | Korean word for "radio". |
+| 서울 | suvl | suoel | Korean word for "Seoul". |
+| 김정은 | qim zungen / qim zugen | qim zungen / qim zugen | Korean word for "Kim Jong-un". |
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
@@ -35,35 +35,35 @@ It was first made to follow phonological sense, and was simply compressed to mak
 
 | Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration |  Text | Transcription | Transliteration | Misc. |
 | - | - | - | - | - | - | - | - | - | - | - |
-| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩ and ⟨e⟩ that are read separately; can also be used to indicate abbreviation. | (ㅗ) | w | w | (ㅣ) | y | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ya | ya |
-| ㅐ | ej | aj | | ㅙ | wej | waj | ㅒ | yej | yaj |
-| ㅔ | ej | uj | | ㅞ | wej | wuj | ㅖ | yej | yaj |
-| ㅡ | e | e | | ㅜ | oe | oe | ㅠ | yoe | yoe |
-| ㅓ | u | u | | ㅝ | wu | wu | ㅕ | yu | yu |
-| ㅗ | o | o | | ㅚ | wej | oj | ㅛ | yo | yo |
-| ㅣ | i | i | | ㅟ | wi | oej | - | - | - | - |
-| ㅢ | ei | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
+| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩ and ⟨e⟩ that are read separately; can also be used to indicate abbreviation. | (ㅗ) | w | w | (ㅣ) | j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ja | ya |
+| ㅐ | e | aj | | ㅙ | we | waj | ㅒ | je | yaj |
+| ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yaj |
+| ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv |
+| ㅓ | u | u | | ㅝ | wu | wu | ㅕ | ju | yu |
+| ㅗ | o | o | | ㅚ | wej | oj | ㅛ | jo | yo |
+| ㅣ | i | i | | ㅟ | wi | vj | - | - | - | - |
+| ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 
 | Text | Transcription & Transliteration | Misc. |
 | - | - | - |
 | ㅁ | m |
 | ㅂ | b |
-| ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
+| ㅃ | bb |
 | ㅍ | p |
 | ㄴ | n |
 | ㄷ | d |
-| ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
+| ㄸ | dd |
 | ㅌ | t |
 | ㄹ | l |
 | ㅅ | s |
-| ㅆ | ss | ⟨S⟩ is allowed but strongly not recommended. |
+| ㅆ | ss |
 | ㅈ | z |
-| ㅉ | zz | ⟨Z⟩ is allowed but strongly not recommended. |
+| ㅉ | zz |
 | ㅊ | c |
-| ㆁ | g | ⟨ng⟩ is allowed. ⟨ŋ⟩ is allowed but not recommended. |
+| ㆁ | g/ng | ⟨ŋ⟩ is allowed but not recommended. |
 | ㄱ | q |
-| ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
+| ㄲ | qq |
 | ㅋ | k |
 | ㅎ | h |
 
@@ -72,44 +72,44 @@ It was first made to follow phonological sense, and was simply compressed to mak
 
 ### Misc.
 * Halfwidth font is strongly preferred.
-* ⟨f⟩, ⟨r⟩, ⟨v⟩, and ⟨x⟩ are not used for the transcription/transliteration of Mordern Korean.
+* ⟨f⟩, ⟨r⟩, and ⟨x⟩ are not used for the transcription/transliteration of Mordern Korean.
 ______
 
 ## Full specifications
 
-| Text | Transcription & Transliteration | Old Text | Misc. |
-| - | - | - | - |
-| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩ and ⟨e⟩ that are read separately; can also be used to indicate abbreviation. |
-| ㆍ | v | v |
-| ㅏ | a | a |
-| ㅑ | ya | ya |
-| ㅓ | u | u |
-| ㅕ | yu | yu |
-| ㅗ | o | wv |
-| ㅛ | yo | ywv |
-| ㅜ | oe | oe | Technically equivalent to the unallowed form ⟨we⟩. |
-| ㅠ | yoe | yoe |
-| ㅣ | i | i |
-| ㅡ | e | e |
-| (ㅣ) | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| (ㅜ) | w | w |
+| Text | Transcription | Transliteration | Old Text | Misc. |
+| - | - | - | - | - |
+| ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
+| ㆍ | @ | @ | v |
+| ㅏ | a | a | a |
+| ㅑ | ja | ya | ya |
+| ㅓ | u | u | o |
+| ㅕ | ju | yu | yo |
+| ㅗ | o | o | wv |
+| ㅛ | jo | yo | ywv |
+| ㅜ | v | v | u | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
+| ㅠ | jv | yv | yu |
+| ㅣ | i | i | i |
+| ㅡ | y | e | e |
+| (ㅣ) | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| (ㅗ) | w | w | w |
 
 | Text | Transcription | Transliteration | Old Text |
 | - | - | - | - |
-| ㅐ | ej | aj | aj |
-| ㅒ | yej | yaj | yaj |
-| ㅔ | ej | uj | uj |
-| ㅖ | yej | yaj | yaj |
-| ㅢ | ei | ej | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
+| ㅐ | e | aj | aj |
+| ㅒ | je | yaj | yaj |
+| ㅔ | e | uj | oj |
+| ㅖ | je | yuj | yoj |
+| ㅢ | yi | ej | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 
 | Text | Transcription | Transliteration | Old Text |
 | - | - | - | - |
 | ㅘ | wa | wa | wva |
-| ㅝ | wu | wu | wu |
-| ㅚ | wej | oj | wvj |
-| ㅟ | wi | oej | oej |
-| ㅙ | wej | waj | wvaj |
-| ㅞ | wej | wuj | wuj |
+| ㅝ | wu | wu | wo |
+| ㅚ | we | oj | wvj |
+| ㅟ | wi | vj | uj |
+| ㅙ | we | waj | wvaj |
+| ㅞ | we | wuj | woj |
 
 | Text | Transcription & Transliteration & Old Text | Misc. |
 | - | - | - |
@@ -120,33 +120,33 @@ ______
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | s |
-| ㆁ | g | ⟨ng⟩ is allowed. ⟨ŋ⟩ is allowed but not recommended. |
+| ㆁ | g/ng |
 | ㅈ | z |
 | ㅊ | c |
 | ㅋ | k |
 | ㅌ | t |
 | ㅍ | p |
 | ㅎ | h |
-| ㆆ | ? | ⟨ʔ⟩ is allowed but not recommended. |
+| ㆆ | ? |
 | ㅿ | x |
 
-| Text | Old Text | Transcription  & Transliteration | Misc. |
-| - | - | - | - |
-| ᆝ | yv | yv |
-| (ᆢ) | vv | vv | Use of ⟨ᆝ⟩/⟨yv⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel. |
-| ㆉ | ywvi | yoj |
-| ㆌ | yoej | yoej |
-| ᆜ | ye | ye |
-| (ᆖ) | ee | ee | Use of ⟨ᆜ⟩/⟨ye⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowel. |
-| ㆎ | vj | vj |
+| Text | Old Text | Transcription | Transliteration | Misc. |
+| - | - | - | - | - |
+| ᆝ | yv | j@ | y@ |
+| (ᆢ) | vv | @@ | @@ | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㆉ | ywvi | jwe | yoj |
+| ㆌ | yuj | jwi | y@j |
+| ᆜ | ye | jy | ye |
+| (ᆖ) | ee | yy | ee | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㆎ | vj | @j' | @j |
 
-| Text | Transcription & Transliteration & Old Text | Misc. |
-| - | - | - |
-| ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
-| ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
-| ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
-| ㅆ | ss | ⟨S⟩ is allowed but strongly not recommended. |
-| ㅉ | zz | ⟨Z⟩ is allowed but strongly not recommended. |
+| Text | Transcription & Transliteration & Old Text |
+| - | - |
+| ㄲ | qq |
+| ㄸ | dd |
+| ㅃ | bb |
+| ㅆ | ss |
+| ㅉ | zz |
 
 | Text | Transcription & Transliteration & Old Text | Misc. |
 | - | - | - |
@@ -183,17 +183,19 @@ These are the better ways to write in latin letters, but they are not transliter
 | 가당치도 | qadangcido | qadanghzido | qadangcido
 | 가당ㅎ지도 | qadangh'zido | qadanghzido | qadangcido
 
-2. Write ⟨d⟩ whenever archaic word s exists and is not pronounced as a liquid, and ⟨n⟩ when pronounced as a liquid (in front of ⟨i⟩/⟨y⟩)
+2. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a liquid, and ⟨n⟩ when pronounced as a liquid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Or, write 사이시읏 as ⟨s⟩ explicitly.
 
-| Text | Suggestion | Alternative | Current |
+| Text | Suggested Transcription | Alternative Transcription | Current Transcription |
 | - | - | - | - |
-| 숫자 | soedza | | soesza |
-| 멸족 | myuldzoq | myuldzoq | myulszoq |
-| 냇가 | nejdqa | najdqa | nejsqa |
-| 콧등 | koddeng | | kosdeng |
-| 나뭇잎 | namoenip | | namoesip |
-| 한 일 | hann il | | han il |
-| 할 일 | haln il | | hal il |
+| 숫자 | svdza | svsza | svsza |
+| 멸족 | myuldzoq | myulszoq | myulzoq |
+| 냇가 | nedqa | nesqa | nesqa |
+| 콧등 | koddeng | kosdeng | kosdeng |
+| 뱃나루 | bennalu | besnaru | besnaru |
+| 나뭇잎 | namvnnip | namvsip | namvsip |
+| 볼일 | bolnil | bolsil | bolil |
+| 할 일 | hal (n) il | hal (s) il | hal il |
+| 한 일 | han (n) il | han (s) il | han il |
 ______
 
 ## Design Goals
