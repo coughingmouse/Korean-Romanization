@@ -1,35 +1,39 @@
-# Maoese Korean Script Romanization
+# Mavse Korean Script Romanization
 
-Latin Transcription & transliteration System for Korean Scripts, made to be used.
+Latin Transcription & transliteration System for Korean Scripts, made to be used. And a transliteration system more fit for old text.
 
-마우스식 국문 로마자화. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다.
+마우스식 국문 로마자화. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다. 고문에 더 적합한 전자법도 있습니다.
 
 #### tl;dr
-| Example | Transcription | Transliteration | Misc. |
-| - | - | - | - |
-| ㆍ | @ | @ |
-| ㅐㅔㅢ | e | aj/uj/ej |
-| ㅓ | u | u |
-| ㅡ | y | e |
-| ㅜ | v | v | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
-| ㅈ | z | z |
-| ㅊ | c | c |
-| ㆁ | g/ng | g/ng |
-| ㄲ | qq | qq |
-| ㆆ | ? | ? |
-| ㅿ | x | x |
-| 한글 | hangyl | hanqel | Korean word for Hangul. |
-| 훈민정음 | hvnminzungem / hvnminzugem | hoenminzungem / hoenminzugem | Or Korean word for Hunminjeongeum, a predecessor to Hangul. |
-| 동국정운 | dongqvqzungvn / dogqvqzugvn | dongqoeqzungoen / dogqoeqzugoen | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
-| 라디오 | ladio | ladio | Korean word for "radio". |
-| 서울 | suvl | suoel | Korean word for "Seoul". |
-| 김정은 | qim zungen / qim zugen | qim zungen / qim zugen | Korean word for "Kim Jong-un". |
+| Example | Transcription | Transliteration | Old text | Misc. |
+| - | - | - | - | - |
+| ㆍ | @ | @ | v |
+| ㅐ/ㅔ/ㅢ | e | aj/uj/ej | aj/uj/ej |
+| ㅓ | u | u | o |
+| ㅡ | y | e | e |
+| ㅜ | v | v | u | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
+| ㄹ | l | l | l | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㅈ | z | z | z |
+| ㅊ | c | c | c |
+| ㆁ | g/ng | g/ng | g/ng |
+| ㄲ | qq | qq | qq |
+| ㆆ | ? | ? | ? |
+| ㅿ | x | x | x |
+| 한글 | hanqyl | hanqel | hanqel | Korean word for Hangul. |
+| 훈민정음 | hvnminzungem / hvnminzugem | hvnminzungem / hvnminzugem | hunminzongem / hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
+| 동국정운 | dongqvqzungvn / dogqvqzugvn | dongqvqzungvn / dogqvqzugvn | dwvngquqzongun / dwvngquqzongun | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 라디오 | ladio | ladio | ladiwv | Korean word for "radio". |
+| 서울 | suvl | suvl | soul | Korean word for "Seoul". |
+| 김정은 | qim zungyn / qim zugyn | qim zungen / qim zugen | qim zongen / qim zogen | Korean word for "Kim Jong-un". |
+| 마라탕 | malatang / maratang / malatag / maratag | | | Spicy hot pot. Delicious.
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 ) romanization of Korean is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). It can be used for regular (morphophonemic), phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
 
-It was first made to follow phonological sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it could be more intuitive (⟨v⟩ to ⟨oe⟩) and be compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
+It was first made to follow phonological sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it is compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
+
+The transcription wasn't made to be used definitively, so for such use, you will have to decide on whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
 
 ## Modern Korean version
 
@@ -55,13 +59,13 @@ It was first made to follow phonological sense, and was simply compressed to mak
 | ㄷ | d |
 | ㄸ | dd |
 | ㅌ | t |
-| ㄹ | l |
+| ㄹ | l | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅅ | s |
 | ㅆ | ss |
 | ㅈ | z |
 | ㅉ | zz |
 | ㅊ | c |
-| ㆁ | g/ng | ⟨ŋ⟩ is allowed but not recommended. |
+| ㆁ | g/ng |
 | ㄱ | q |
 | ㄲ | qq |
 | ㅋ | k |
@@ -72,7 +76,7 @@ It was first made to follow phonological sense, and was simply compressed to mak
 
 ### Misc.
 * Halfwidth font is strongly preferred.
-* ⟨f⟩, ⟨r⟩, and ⟨x⟩ are not used for the transcription/transliteration of Mordern Korean.
+* ⟨f⟩ and ⟨x⟩ are not used for the transcription/transliteration of Mordern Korean. ⟨r⟩ not used for transliteration.
 ______
 
 ## Full specifications
@@ -116,7 +120,7 @@ ______
 | ㄱ | q |
 | ㄴ | n |
 | ㄷ | d |
-| ㄹ | l |
+| ㄹ | l | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | s |
@@ -148,8 +152,8 @@ ______
 | ㅆ | ss |
 | ㅉ | zz |
 
-| Text | Transcription & Transliteration & Old Text | Misc. |
-| - | - | - |
+| Text | Transcription & Transliteration & Old Text |
+| - | - |
 | ㅱ | m' |
 | ㅸ | f |
 | ㅹ | b' |
@@ -191,7 +195,7 @@ These are the better ways to write in latin letters, but they are not transliter
 | 멸족 | myuldzoq | myulszoq | myulzoq |
 | 냇가 | nedqa | nesqa | nesqa |
 | 콧등 | koddeng | kosdeng | kosdeng |
-| 뱃나루 | bennalu | besnaru | besnaru |
+| 뱃나루 | bennalu / bennaru | besnalu / besnaru | besnalu / besnaru |
 | 나뭇잎 | namvnnip | namvsip | namvsip |
 | 볼일 | bolnil | bolsil | bolil |
 | 할 일 | hal (n) il | hal (s) il | hal il |
@@ -227,32 +231,32 @@ Yale Romanization of Korean is used often and it's a good system overall. But it
 The major differences are that
 1. transliterations for ⟨ㅓ⟩ and ⟨ㅡ⟩ are switched,
 2. semivowel /j/ is written as ⟨j⟩ in coda to indicate change in articulation and to refrain from using too many transliteration for ⟨ㅇ⟩,
-3. ⟨ㅇ⟩ is transliterated with ⟨'⟩ in between ⟨o⟩s that are read separately,
+3. ⟨ㅇ⟩ is transliterated with ⟨'⟩,
 4. ⟨ㄱ⟩ is transliterated with ⟨q⟩ to save ⟨g⟩ for /ŋ/,
 5. and ⟨ㄷ⟩, ⟨ㅂ⟩, and ⟨ㅈ⟩ are transliterated with ⟨d⟩, ⟨b⟩, and ⟨z⟩ to make it more intuitive.
 
 The differences from the Yale Romanization are as follows.
-| Text | Here | Yale | Misc. |
-| - | - | - | - |
-| ㅇ | ' | G | Difference in usage |
+| Text | Here (old text) | Yale |
+| - | - | - |
+| ㅇ | ' | G |
 | ㆍ | v | o |
-| ㅓ | u | e |
+| ㅓ | o | e |
 | ㅡ | e | u |
-| ㅜ | oe | (w)u |
-| ㅐ | ej | ay | ⟨aj⟩ in old text and transliteration. |
-| ㅔ | ej | ey | ⟨uj⟩ in old text and transliteration. |
+| ㅜ | u | (w)u |
+| ㅐ | aj | ay |
+| ㅔ | oj | ey |
 | ㄱ | q | k |
 | ㄷ | d | t |
 | ㅂ | b | p |
 | ㅋ | k | kh |
 | ㅌ | t | th |
 | ㅍ | p | ph |
-| ㄲ | qq | kk | ⟨Q⟩ is allowed but strongly not recommended. |
-| ㄸ | dd | tt | ⟨D⟩ is allowed but strongly not recommended. |
-| ㅃ | bb | pp | ⟨B⟩ is allowed but strongly not recommended. |
-| ㆁ | g | ng(') | Allowed along with ⟨ŋ⟩ but not recommended. |
+| ㄲ | qq | kk |
+| ㄸ | dd | tt |
+| ㅃ | bb | pp |
+| ㆁ | g/ng | ng(') |
 | ㅈ | z | c |
-| ㅉ | zz | cc | ⟨Z⟩ is allowed but strongly not recommended. |
+| ㅉ | zz | cc |
 | ㆆ | ? | q |
 | ㅿ | x | z |
 | ㅱ | m' | ? |
@@ -266,22 +270,22 @@ ______
 
 ### More Examples
 
-| Transcription | Alternative | Text |
-| - | - | - |
-| bo'en | | ㅂㅗㅇㅡㄴ |
-| muqbang | muqbag | 먹방 |
-| Seoul | | 스오얼 |
-| qqoc | | 꽃 |
-| qoz | | 곶 |
-| qos | | 곳 |
-| zzang | zzag | 짱 |
-| qemdongmileqbosalbanqasayoesang | qemdoŋmileqbosalbanqasayoesaŋ | 금동미륵보살반가사유상 |
-| milke | | 밀크 |
-| bulaq obama | | 버락 오바마 |
-| sincung | sincug | 신청 |
-| sacunsung | sacunsug | 사천성 |
-| manhwa | | 만화 |
-| il i sam sa o lyoeq cil pal qoe sib | | 일 이 … 십 |
+| Transcription | Text |
+| - | - |
+| boyn | 보은 |
+| muqbang / muqbag | 먹방 |
+| Seoul | 세오얼 |
+| qqoc | 꽃 |
+| qoz | 곶 |
+| qos | 곳 |
+| zzang/zzag | 짱 |
+| qymdongmiryqbosalbanqasajvsang / qymdogmiryqbosalbanqasajvsag / qymdongmilyqbosalbanqasajvsang / qymdogmilyqbosalbanqasajvsag | 금동미륵보살반가사유상 |
+| milky | 밀크 |
+| buraq obama / bulaq obama | 버락 오바마 |
+| sincung / sincug | 신청 |
+| sacunsung / sacunsug | 사천성 |
+| manhwa | 만화 |
+| (?)il i sam sa o ljvq cil pal qv sib | 일 이 … 십 |
 ______
 
 ### FAQ
@@ -289,10 +293,6 @@ ______
 * Why not ⟨k⟩/⟨g⟩ for ⟨ㄱ⟩?
 
 Were I to make a system that translated Korean to English, I would happily just use the revised romanization of korean (again, if using breves), and you should, too. But the purpose of writing systems including Korean ones is not to depict phones or phonemes but to convey granular meaning, or morphophonemes.
-
-* Why ⟨q⟩ for ⟨ㄱ⟩?
-
-⟨g⟩ was in use.
 
 * Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨kk⟩ for ⟨ㄲ⟩?
 
@@ -306,13 +306,13 @@ True, but it will be less intuitive for Korean users. What's the point, if Korea
 
 There is no particular reason in Korean language to use multiple letters against the design requirement, and it doesn't feel too far-fetched.
 
+* Why ⟨q⟩ for ⟨ㄱ⟩?
+
+⟨g⟩ was in use. And something had to be there.
+
 * Why ⟨g⟩, not ⟨ŋ⟩?
 
-You can't type that with Qwerty. Likewise, ⟨?⟩ over ⟨ʔ⟩. This is important for more people than you might imagine.
-
-* Using ⟨oe⟩ for ⟨ㅜ⟩ is ugly. Why did you take this from Dutch/Africaans?
-
-Using only ASCII compliant letters for Korean script means using at least one unusual and ugly coordination for a vowel. Fortunately, ⟨ㅜ⟩ can be transcripted as ⟨we⟩ in the context of this system. All I did was to make it look more like a single vowel as well as making sure 우 isn't read as /we/. So at least it makes sense.
+You can't type that with Qwerty. This is important for more people than you might imagine.
 
 * Why ⟨e⟩ for ⟨ㅡ⟩?
 
