@@ -36,13 +36,14 @@ It was first made to follow phonological sense, and was simply compressed to mak
 The transcription is made to better fit Modern Korean.
 It wasn't made to be used definitively, so for such use, you will have to decide on whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
 For official use in Korea or academic use, allowing only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will do. 
-For use for foreigners visiting Korea, allow only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels in Korean words.
+For use for foreigners visiting Korea, allow only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels or /h/ in Korean words.
 
 ## Modern Korean version
 
 | Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. |
 | - | - | - | - | - | - | - | - | - | - | - |
 | ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | (ㅗ) | w | w | (ㅣ) | j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅎ | h | h |
 | ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ja | ya |
 | ㅐ | e | aj | | ㅙ | we | waj | ㅒ | je | yaj |
 | ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yaj |
@@ -72,7 +73,6 @@ For use for foreigners visiting Korea, allow only ⟨ng⟩ and only ⟨r⟩ when
 | ㄱ | q |
 | ㄲ | qq |
 | ㅋ | k |
-| ㅎ | h |
 
 * For combinational letters, just write them out by each compositing letter
 * Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨S⟩, ⟨Z⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, ⟨ss⟩, and ⟨zz⟩. But it's strongly not recommended, as this practice does not play well with the conventions regarding letter cases.
