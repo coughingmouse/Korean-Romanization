@@ -270,22 +270,22 @@ ______
 
 ### More Examples
 
-| Transcription | Text |
-| - | - |
-| boyn | 보은 |
-| muqbang / muqbag | 먹방 |
-| Seoul | 세오얼 |
-| qqoc | 꽃 |
-| qoz | 곶 |
-| qos | 곳 |
-| zzang/zzag | 짱 |
-| qymdongmiryqbosalbanqasajvsang / qymdogmiryqbosalbanqasajvsag / qymdongmilyqbosalbanqasajvsang / qymdogmilyqbosalbanqasajvsag | 금동미륵보살반가사유상 |
-| milky | 밀크 |
-| buraq obama / bulaq obama | 버락 오바마 |
-| sincung / sincug | 신청 |
-| sacunsung / sacunsug | 사천성 |
-| manhwa | 만화 |
-| (?)il i sam sa o ljvq cil pal qv sib | 일 이 … 십 |
+| Transcription | Transliteration | Text |
+| - | - | - |
+| boyn | boen | 보은 |
+| muqbang / muqbag | muqbang / muqbag | 먹방 |
+| Seoul | Seoul | 세오얼 / 스오얼 |
+| qqoc | qqoc | 꽃 |
+| qoz | qoz | 곶 |
+| qos | qos | 곳 |
+| zzang/zzag | zzang/zzag | 짱 |
+| qymdongmiryqbosalbanqasajvsang / qymdogmiryqbosalbanqasajvsag / qymdongmilyqbosalbanqasajvsang / qymdogmilyqbosalbanqasajvsag | qemdongmilyqbosalbanqasayvsang / qemdogmilyqbosalbanqasayvsag | 금동미륵보살반가사유상 |
+| milky | milke | 밀크 |
+| buraq obama / bulaq obama | bulaq obama | 버락 오바마 |
+| sincung / sincug | sincung / sincug | 신청 |
+| sacunsung / sacunsug | sacunsung / sacunsug | 사천성 |
+| manhwa | manhwa | 만화 |
+| (?)il i sam sa o ljvq cil pal qv sib | (?)il i sam sa o lyvq cil pal qv sib | 일 이…십 |
 ______
 
 ### FAQ
