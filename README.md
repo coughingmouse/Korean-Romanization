@@ -79,7 +79,7 @@ For use for foreigners visiting Korea, allow only ⟨ng⟩ and only ⟨r⟩ when
 
 ### Misc.
 * Halfwidth font is strongly preferred.
-* ⟨f⟩ and ⟨x⟩ are not used for the transcription/transliteration of Mordern Korean. ⟨r⟩ not used for transliteration.
+* ⟨f⟩ and ⟨x⟩ are not used for the transcription/transliteration of Mordern Korean. ⟨r⟩ is not used for transliteration.
 ______
 
 ## Full specifications
