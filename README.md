@@ -33,65 +33,39 @@ It was first made to follow phonological sense, and was simply compressed to mak
 
 ## Modern Korean version
 
-| Text | Transcription | Transliteration | Misc. |
-| - | - | - | - |
-| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩ and ⟨e⟩ that are read separately; can also be used to indicate abbreviation. |
-| ㅏ | a | a |
-| ㅐ | ej | aj |
-| ㅔ | ej | uj |
+| Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration |  Text | Transcription | Transliteration | Misc. |
+| - | - | - | - | - | - | - | - | - | - | - |
+| ㅇ | ' | ' | Apostrophe. In transcription, used in between ⟨o⟩ and ⟨e⟩ that are read separately; can also be used to indicate abbreviation. | (ㅗ) | w | w | (ㅣ) | y | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ya | ya |
+| ㅐ | ej | aj | | ㅙ | wej | waj | ㅒ | yej | yaj |
+| ㅔ | ej | uj | | ㅞ | wej | wuj | ㅖ | yej | yaj |
+| ㅡ | e | e | | ㅜ | oe | oe | ㅠ | yoe | yoe |
+| ㅓ | u | u | | ㅝ | wu | wu | ㅕ | yu | yu |
+| ㅗ | o | o | | ㅚ | wej | oj | ㅛ | yo | yo |
+| ㅣ | i | i | | ㅟ | wi | oej | - | - | - | - |
 | ㅢ | ei | ej | In transcription, use ⟨ej⟩ only when used as the preposition -의. |
-| ㅣ | i | i |
-| ㅓ | u | u |
-| ㅗ | o | o |
-| ㅡ | e | e |
-
-| Text | Transcription | Transliteration |
-| - | - | - |
-| (ㅗ) | w | w |
-| ㅘ | wa | wa |
-| ㅚ | wej | oj |
-| ㅙ | wej | waj |
-| ㅞ | wej | wuj |
-| ㅟ | wi | oej |
-| ㅝ | wu | wu |
-| - | - | - |
-| ㅜ | oe | oe |
-
-| Text | Transcription | Transliteration | Misc. |
-| - | - | - | - |
-| (ㅣ) | y | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| ㅑ | ya |
-| ㅒ | yej | yaj |
-| ㅖ | yej | yaj |
-| - | - | - | - |
-| ㅕ | yu | yu |
-| ㅛ | yo | yo |
-| ㅠ | yoe | yoe |
 
 | Text | Transcription & Transliteration | Misc. |
 | - | - | - |
-| ㄱ | q |
-| ㄴ | n |
-| ㄷ | d |
-| ㄹ | l |
 | ㅁ | m |
 | ㅂ | b |
-| ㅅ | s |
-| ㆁ | g | ⟨ng⟩ is allowed. ⟨ŋ⟩ is allowed but not recommended. |
-| ㅈ | z |
-| ㅊ | c |
-| ㅋ | k |
-| ㅌ | t |
-| ㅍ | p |
-| ㅎ | h |
-
-| Text | Transcription & Transliteration | Misc. |
-| - | - | - |
-| ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
-| ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
 | ㅃ | bb | ⟨B⟩ is allowed but strongly not recommended. |
+| ㅍ | p |
+| ㄴ | n |
+| ㄷ | d |
+| ㄸ | dd | ⟨D⟩ is allowed but strongly not recommended. |
+| ㅌ | t |
+| ㄹ | l |
+| ㅅ | s |
 | ㅆ | ss | ⟨S⟩ is allowed but strongly not recommended. |
+| ㅈ | z |
 | ㅉ | zz | ⟨Z⟩ is allowed but strongly not recommended. |
+| ㅊ | c |
+| ㆁ | g | ⟨ng⟩ is allowed. ⟨ŋ⟩ is allowed but not recommended. |
+| ㄱ | q |
+| ㄲ | qq | ⟨Q⟩ is allowed but strongly not recommended. |
+| ㅋ | k |
+| ㅎ | h |
 
 * For combinational letters, just write them out by each compositing letter
 * Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨S⟩, ⟨Z⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, ⟨ss⟩, and ⟨zz⟩. But it's strongly not recommended, as this practice does not play well with the conventions regarding letter cases.
