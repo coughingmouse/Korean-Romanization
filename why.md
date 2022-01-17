@@ -1,3 +1,18 @@
+## Design Goals
+
+* Don't be a D.
+* Make an alphabetic transliteration system, not a spelling reform
+* Use Latin letters
+* Use only the standard Latin Letters for the transliteration of modern Korean
+* Avoid using two or more letters for a single phoneme
+* Make it computer friendly
+* Respect coalescence and the historic usage of Hangeul and Hunminjeongeum
+* Respect the historic usage of Latin Letters
+* Be Korean while designing
+* Be intuitive for Korean users
+* Be intuitive for English users
+* Be okay for Chinese
+
 ## ...Why?
 
 There are some transcription systems in use, the most common being Revised Romanization of Korean, but they just don't work. So I decided to make a [better one that works for everyone](https://xkcd.com/927/).
