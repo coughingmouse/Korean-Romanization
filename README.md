@@ -38,6 +38,8 @@ It wasn't made to be used definitively, so for such use, you will have to decide
 For official use in Korea or academic use, allowing only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will do. 
 For use for foreigners visiting Korea, allow only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels or /h/ in Korean words.
 
+[But what is this for?](https://github.com/coughingmouse/MKSR/blob/main/why.md)
+
 ## Modern Korean version
 
 | Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. |
@@ -200,40 +202,10 @@ These are the better ways to write in latin letters, but they are not transliter
 | 볼일 | bolnil | bolsil | bolil |
 | 할 일 | hal (n) il | hal (s) il | hal il |
 | 한 일 | han (n) il | han (s) il | han il |
-______
 
-## Design Goals
-
-* Don't be a D.
-* Make an alphabetic transliteration system, not a spelling reform
-* Use Latin letters
-* Use only the standard Latin Letters for the transliteration of modern Korean
-* Avoid using two or more letters for a single phoneme
-* Make it computer friendly
-* Respect coalescence and the historic usage of Hangeul and Hunminjeongeum
-* Respect the historic usage of Latin Letters
-* Be Korean while designing
-* Be intuitive for Korean users
-* Be intuitive for English users
-* Be okay for Chinese
 _______
 
-## ...Why?
-
-There are some transcription systems in use, the most common being Revised Romanization of Korean, but they just don't work. So I decided to make a [better one that works for everyone](https://xkcd.com/927/).
-
-As for the RRK, the transcription system relies on the pronunciation, but also because there's not enough correlation between the romanized forms and the form written in Korea-originated scripts. Korean is a language with numerous liasons and sandhis. Phonetic transcription makes it impossible to comprehend what the words are. They tried to mitigate that by making a complex hyphenation system that is only used for the romanization, and is not very well kept anyway. All in all, it kinda works when you're trying to make someone pronounce a meaningless phrase without knowing what it means. It's an absolutely great tool for fooling western foreigners into thinking that they understand Korean phonetics–as long as ⟨ĕ⟩, ⟨ŏ⟩, and ⟨ŭ⟩ are used instead of ⟨ae⟩, ⟨eo⟩, and ⟨eu⟩. The problem is that it's a weird use case. It's complicated to use, phonologically inconsistent, and caters only to western tourists. This because the system is made to be used by and only by "foreigners", a dichotomous concept which to the eyes of the people behind the system, were seemingly western tourists. On the contrary, most foreigners in Korea are from East Asia and Southeast Asia, and they speak not "some foreign language" but their own respective languages, each with their own writing system and pronunciation.
-
-Almost all other romanization systems that I'd looked through look like they were made by people who seem to think that American English is the only language using Latin Alphabet or have no idea what they're doing. Although I'm most certainly one of them, I thought maybe I can make it better. Honestly, what I originally intended designing was a system where I could use ⟨zz⟩ for ⟨ㅉ⟩, which was most intuitive (as can be seen in [the frequenct use of the word ⟨zzang⟩](https://www.google.com/search?q=zzang) despite it having never been a part of any major romanization attempt). I also thought it would work better when teaching Korean if I actually could integrate it to a working system. It took longer than I initially imagined, but I somehow got here.
-
-Yale Romanization of Korean is used often and it's a good system overall. But it also doesn't get much support from Korea just because it wasn't made in or by a Korean, which is quite significant to the point that RRK is being more often used where it should not be. The more time I spent on this subject, the more I realized it made quite a lot of sense. But comparatively, there are slight problems regarding intuitivity, casual readability, and effeciency, all of which are not critical in academic use case but more necessary in everyday use. Although the system I was making looked completely different at first, it started looking more like Yale's and in the end, the differences were minimal.
-
-The major differences are that
-1. transliterations for ⟨ㅓ⟩ and ⟨ㅡ⟩ are switched,
-2. semivowel /j/ is written as ⟨j⟩ in coda to indicate change in articulation and to refrain from using too many transliteration for ⟨ㅇ⟩,
-3. ⟨ㅇ⟩ is transliterated with ⟨'⟩,
-4. ⟨ㄱ⟩ is transliterated with ⟨q⟩ to save ⟨g⟩ for /ŋ/,
-5. and ⟨ㄷ⟩, ⟨ㅂ⟩, and ⟨ㅈ⟩ are transliterated with ⟨d⟩, ⟨b⟩, and ⟨z⟩ to make it more intuitive.
+## Comparison
 
 The differences from the Yale Romanization are as follows.
 | Text | Here (Old Text) | Yale |
@@ -265,7 +237,6 @@ The differences from the Yale Romanization are as follows.
 | ㆄ | p' | ? |
 | ᄛ(ퟝ) | r | ? |
 
-Switching Latin letter for ⟨ㅓ⟩ and ⟨ㅡ⟩ was what made me publish the system. Although I have approached rather naïvely, the switch seemed to illustrate well the pronunciation change of ⟨ㅢ⟩, and felt like a novel approach. There are also other interesting parts of the system, some of which may not look great to some. Because they are the reason the system is being published, I've introduced them in the tl;dr section, just in case they may help future designers make decisions. As such, the system is completely free to use, modify, etc. without warranty or liability on me.
 ______
 
 ### More Examples
