@@ -54,7 +54,7 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 | ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yaj |
 | ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv |
 | ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. | ㅝ | wu | wu | ㅕ | ju | yu |
-| ㅗ | o | o | | ㅚ | wej | oj | ㅛ | jo | yo |
+| ㅗ | o | o | | ㅚ | we | oj | ㅛ | jo | yo |
 | ㅣ | i | i | | ㅟ | wi | vj | - | - | - | - |
 | ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 
