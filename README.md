@@ -278,7 +278,7 @@ ______
 
 ### FAQ
 
-* ...Did you just use ⟨g⟩ instrad of ⟨ng⟩ and ⟨q⟩ instead of ⟨g⟩?
+* ...Did you just use ⟨g⟩ instead of ⟨ng⟩ and ⟨q⟩ instead of ⟨g⟩?
 
 Yes, yes, I did.
 
