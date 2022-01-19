@@ -12,7 +12,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㅓ | u | u | o | Using ⟨uh'⟩ in transcription is permitted but strongly recommended against. |
 | ㅡ | y | e | e |
 | ㅜ | v | v | v | Technically equivalent to the disallowed form ⟨wy⟩/⟨we⟩. |
-| ㄹ | l | l | l | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㄹ | l | l | l | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅈ | z | z | z |
 | ㅊ | c | c | c |
 | ㆁ | g/ng | g/ng | g/ng |
@@ -22,10 +22,13 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | 한글 | hanqyl | hanqel | hanqel | Korean word for Hangul. |
 | 훈민정음 | hvnminzungem | hvnminzungem | hunminzongem / hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
 | 동국정운 | dongqvqzungvn | dongqvqzungvn | dwvngquqzongvn / dwvngquqzongvn | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
-| 라디오 | ladio | ladio | ladiwu | Korean word for "radio". |
+| 리어카 | liuka | liuka | lioka | Loanword from Japanese "リヤカー". |
+| 우리 | vri | vli | vli | Korean word for "us". |
+| 미란다 | miranda | miranda | milanda |
+| 레드 | redy | rujde | lojde | Loanword from English "red". |
 | 서울 | suvl | suvl | sovl | Korean word for "Seoul". |
 | 김정은 | qim zungyn | qim zungen | qim zongen / qim zogen | Korean word for "Kim Jong-un". |
-| 마라탕 | malatang / maratang | malatang | malatang / malatag | Spicy hot pot. Delicious.
+| 마라탕 | malatang | malatang | malatang / malatag | Spicy hot pot. Delicious.
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
@@ -34,11 +37,10 @@ It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
 It was first made to follow phonological sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it is compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
 
 The transcription is made to better fit Modern Korean.
-It wasn't made to be used definitively, so for such use, you will have to decide on whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
-* For general use, using the transliteration system allowing only ⟨l⟩ and ⟨ng⟩ will do.
-* For (fictional) official use in Korea or academic use, using the transliteration system allowing only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will do. 
-* For use for foreigners visiting Korea, use the morphophonemic or phonemic (in slashes ```/.../```) transcription system allowing only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels or /h/ in Korean words.
-
+It wasn't made to be used definitively, so for each use, you will have to decide on whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
+* For general use or (fictional) official use in Korea, using either the transcription or the transliteration system allowing only ⟨l⟩ and ⟨ng⟩ will do, with exception for loanwords to use ⟨r⟩.
+* For academic use, using the transliteration or old text transliteration system allowing only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will do. 
+* For use for foreigners visiting Korea, use the morphophonemic or phonemic (in slashes ```/.../```, svp) transcription system allowing only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels or /h/ in Korean words.
 
 
 ## Modern Korean version
@@ -66,7 +68,7 @@ It wasn't made to be used definitively, so for such use, you will have to decide
 | ㄷ | d |
 | ㄸ | dd |
 | ㅌ | t |
-| ㄹ | l | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㄹ | l | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅅ | s |
 | ㅆ | ss |
 | ㅈ | z |
@@ -267,7 +269,7 @@ ______
 | zzang | zzang | 짱 |
 | qymdongmiryqbosalbanqasajvsang / qymdongmilyqbosalbanqasajvsang | qemdongmilyqbosalbanqasayvsang | 금동미륵보살반가사유상 |
 | milky | milke | 밀크 |
-| buraq obama / bulaq obama | bulaq obama | 버락 오바마 |
+| buraq obama / bulaq obama | buraq obama | 버락 오바마 |
 | sincung | sincung | 신청 |
 | sacunsung | sacunsung | 사천성 |
 | manhwa | manhwa | 만화 |
