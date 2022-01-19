@@ -9,9 +9,9 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | - | - | - | - | - |
 | ㆍ | @ | @ | u |
 | ㅐ/ㅔ/ㅢ | e | aj/uj/ej | aj/uj/ej |
-| ㅓ | u | u | o |
+| ㅓ | u | u | o | Using ⟨uh'⟩ in transcription is permitted but strongly recommended against. |
 | ㅡ | y | e | e |
-| ㅜ | v | v | v | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
+| ㅜ | v | v | v | Technically equivalent to the disallowed form ⟨wy⟩/⟨we⟩. |
 | ㄹ | l | l | l | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅈ | z | z | z |
 | ㅊ | c | c | c |
@@ -29,16 +29,17 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
-) romanization of Korean and Korean script is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one that may come in handy](https://xkcd.com/927/). It can be used for regular (morphophonemic), phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
+) romanization of Korean and Korean script is in general not in a great condition. In particular, they would not be very useful for learning Modern Korean in an academic setting. So I decided I'd make a [better one](https://xkcd.com/927/). You can read why I've made it in detail [here](https://github.com/coughingmouse/MKSR/blob/main/why.md). It can be used for regular (morphophonemic), phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
 
 It was first made to follow phonological sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it is compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
 
 The transcription is made to better fit Modern Korean.
 It wasn't made to be used definitively, so for such use, you will have to decide on whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
-For official use in Korea or academic use, allowing only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will do. 
-For use for foreigners visiting Korea, allow only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels or /h/ in Korean words.
+* For general use, using the transliteration system allowing only ⟨l⟩ and ⟨ng⟩ will do.
+* For (fictional) official use in Korea or academic use, using the transliteration system allowing only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will do. 
+* For use for foreigners visiting Korea, use the morphophonemic or phonemic (in slashes ```/.../```) transcription system allowing only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels or /h/ in Korean words.
 
-[But what is this for?](https://github.com/coughingmouse/MKSR/blob/main/why.md)
+
 
 ## Modern Korean version
 
@@ -50,7 +51,7 @@ For use for foreigners visiting Korea, allow only ⟨ng⟩ and only ⟨r⟩ when
 | ㅐ | e | aj | | ㅙ | we | waj | ㅒ | je | yaj |
 | ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yaj |
 | ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv |
-| ㅓ | u | u | | ㅝ | wu | wu | ㅕ | ju | yu |
+| ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strongly recommended against. | ㅝ | wu | wu | ㅕ | ju | yu |
 | ㅗ | o | o | | ㅚ | wej | oj | ㅛ | jo | yo |
 | ㅣ | i | i | | ㅟ | wi | vj | - | - | - | - |
 | ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
@@ -92,12 +93,12 @@ ______
 | ㆍ | @ | @ | u |
 | ㅏ | a | a | a |
 | ㅑ | ja | ya | ya |
-| ㅓ | u | u | o |
+| ㅓ | u | u | o | Using ⟨uh'⟩ in transcription is permitted but strongly recommended against. |
 | ㅕ | ju | yu | yo |
 | ㅗ | o | o | wu |
 | (ㅗ) | w | w | w |
 | ㅛ | jo | yo | ywu |
-| ㅜ | v | v | v | Technically equivalent to the unallowed form ⟨wy⟩/⟨we⟩. |
+| ㅜ | v | v | v | Technically equivalent to the disallowed form ⟨wy⟩/⟨we⟩. |
 | ㅠ | jv | yv | yv |
 | ㅣ | i | i | i |
 | (ㅣ) | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
@@ -180,14 +181,14 @@ Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_reg
 1. Use ⟨.⟩ to separate by syllables.
 1. For academic usage for what is not specified here, various practices using Yale Romanization are accepted.
 
-These are the better ways to write in latin letters, but they are not transliterally compatible with older systems. Here are some suggestions.
+These are some design compromizes associated with using a syllabary system for a non-monosyllabic language in the existing spelling system. Since we are not using a syllabary here, we don't need them. Here are some examples.
 
 1. Write 사이히읗 as ⟨h'⟩ explicitly
 
-| Text | Transcription Suggestion | Morphophonemic Transcription Suggestion | Phonemic Transcription Suggestion |
-| - | - | - | - |
-| 가당치도 | qadangcido | qadanghzido | qadangcido
-| 가당ㅎ지도 | qadangh'zido | qadanghzido | qadangcido
+| Text | Transcription |
+| - | - |
+| Current: 가당치도 | qadangcido |
+| Suggestion: 가당ㅎ지도 | qadangh'zido |
 
 2. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a liquid, and ⟨n⟩ when pronounced as a liquid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Or, write 사이시읏 as ⟨s⟩ explicitly.
 
@@ -202,6 +203,20 @@ These are the better ways to write in latin letters, but they are not transliter
 | 볼일 | bolnil | bolsil | bolil |
 | 할 일 | hal (n) il | hal (s) il | hal il |
 | 한 일 | han (n) il | han (s) il | han il |
+
+3. Write 'ㅂ' 불규칙 활용 explicitly
+
+| Text | Suggested Transcription |
+| - | - |
+| Current: 덥다, 더워 | dubda, duwu |
+| Suggestion: 덥w다, 더워 | dubwda, dubwu |
+
+4. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
+
+| Text | Suggested Transcription |
+| - | - |
+| Current: 낫다, 나아 | nasda, naa |
+| Suggestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
 
 _______
 
@@ -261,30 +276,35 @@ ______
 
 ### FAQ
 
-* Why not ⟨k⟩/⟨g⟩ for ⟨ㄱ⟩?
+* Why not use both ⟨k⟩/⟨g⟩ for ⟨ㄱ⟩, ⟨t⟩/⟨d⟩ for ⟨ㄷ⟩, and ⟨p⟩/⟨b⟩ for ⟨ㅂ⟩?
 
-Were I to make a system that translated Korean to English, I would happily just use the revised romanization of korean (again, if using breves), and you should, too.
-But the purpose of writing systems including Korean ones is not to depict phones or phonemes but to convey granular meaning, or morphophonemes.
+Were I to make a system that translated Korean to English, I would happily just use the revised romanization of korean (again, if using breves), and you should, too. But the purpose of writing systems including Korean ones is not to depict phones or phonemes but to convey granular meaning, or morphophonemes. Using both letters for the phonemes will help understand more Korean at first, but will not only make it hard to understand for Korean users, but be very inconsistent as one learns more of the language. 
 
-* Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨kk⟩ for ⟨ㄲ⟩?
+But anyway, come on, it's not that hard to memorize that Koreans pronounce voiced plosives voicelessly (although I do agree that it sounds counterintuitive at first, until you hear that the voiceless phonemes is becoming voiced, not the other way around) and with [˩] tone when it's the first letter of a word.
 
-Because we can reduce the number of double letters per phoneme. And also because it feels slightly more intuitive to use ⟨g⟩ for ⟨ㄱ⟩, since ⟨ㄱ⟩ is more often pronounced as /g/.
+* Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨kk⟩ for ⟨ㄲ⟩? (also applies for t/th/d, p/ph/b)
 
-* Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨g⟩ for ⟨ㄲ⟩? It would also be more intuitive for Chinese users.
+Because we can reduce the number of double letters per phoneme. And also because it feels slightly more intuitive to use ⟨g⟩ for ⟨ㄱ⟩, since ⟨ㄱ⟩ is more often pronounced as /g/. Also, it's changing in this direction, so it's more future-proof.
 
-True, but it will be less intuitive for Korean users. What's the point, if users don't understand?
+* Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨g⟩ for ⟨ㄲ⟩, like Thai? It would also be more intuitive for Chinese users. (also applies for t/th/d, p/ph/b)
+
+It will be, but it will be less intuitive for Korean users. As I've mentioned above, it feels slightly more intuitive to use ⟨g⟩ for ⟨ㄱ⟩, since ⟨ㄱ⟩ is more often pronounced as /g/. What's the point, if users don't understand?
 
 * Why ⟨c⟩, not ⟨ch⟩?
 
 There is no particular reason in Korean language to use multiple letters against the design requirement, and it doesn't feel too far-fetched.
 
-* Why ⟨q⟩ for ⟨ㄱ⟩?
+* Why ⟨q⟩ for ⟨ㄱ⟩? or Why ⟨g⟩, for ⟨ㆁ⟩?
 
-⟨g⟩ was in use for ⟨ㆁ⟩.
+⟨g⟩ was in use for ⟨ㆁ⟩ to meet design requirement. It needs be used exclusively for the character to avoid use of apostrophe.
 
 * Why ⟨ng⟩, not ⟨ŋ⟩?
 
 You can't type that with Qwerty. This is important for more people than you might imagine.
+
+* Why allow both ⟨ng⟩ and ⟨g⟩?
+
+Although using ⟨ng⟩ does not meet design requirement, it does fit well, and people like it that way. But if this system were to be used for long, it's likely that providing the option to use ⟨g⟩ instead of ⟨ng⟩ will come in handy.
 
 * Why ⟨e⟩ for ⟨ㅡ⟩?
 
