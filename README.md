@@ -20,7 +20,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㆆ | ? | ? | ? |
 | ㅿ | x | x | x |
 | 한글 | hanqyl | hanqel | hanqel | Korean word for Hangul. |
-| 훈민정음 | hvnminzungem | hvnminzungem | hunminzongem / hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
+| 훈민정음 | hvnminzungym | hvnminzungem | hunminzongem / hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
 | 동국정운 | dongqvqzungvn | dongqvqzungvn | dwvngquqzongvn / dwvngquqzongvn | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 리어카 | liuka | liuka | lioka | Loanword from Japanese "リヤカー". |
 | 우리 | vri | vli | vli | Korean word for "us". |
