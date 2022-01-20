@@ -5,6 +5,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 마우스식 국문 로마자화. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다. 고문에 더 적합한 전자법도 있습니다.
 
 #### tl;dr
+
 | Example | Transcription | Transliteration | Old Text | Misc. |
 | - | - | - | - | - |
 | ㆍ | @ | @ | u |
@@ -217,6 +218,7 @@ _______
 ## Comparison
 
 The differences from the Yale Romanization are as follows.
+
 | Text | Here (Old Text) | Yale |
 | - | - | - |
 | ㅇ | ' | G |
