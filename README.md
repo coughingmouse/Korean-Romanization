@@ -47,16 +47,16 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 
 | Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. |
 | - | - | - | - | - | - | - | - | - | - | - |
-| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | (ㅗ) | w | w | (ㅣ) | j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | (ㅜ) | w | w | (ㅣ) | j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | ㅎ | h | h |
 | ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ja | ya |
-| ㅐ | e | aj | | ㅙ | we | waj | ㅒ | je | yaj |
-| ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yaj |
-| ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv |
 | ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. | ㅝ | wu | wu | ㅕ | ju | yu |
 | ㅗ | o | o | | ㅚ | we | oj | ㅛ | jo | yo |
+| ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv |
 | ㅣ | i | i | | ㅟ | wi | vj | - | - | - | - |
 | ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| ㅐ | e | aj | | ㅙ | we | waj | ㅒ | je | yaj |
+| ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yaj |
 
 | Text | Transcription & Transliteration | Misc. |
 | - | - | - |
@@ -98,9 +98,9 @@ ______
 | ㅓ | u | u | o | Using ⟨uh'⟩ in transcription is permitted but strogly recommended against. |
 | ㅕ | ju | yu | yo |
 | ㅗ | o | o | wu |
-| (ㅗ) | w | w | w |
 | ㅛ | jo | yo | ywu |
 | ㅜ | v | v | v | Technically equivalent to the disallowed form ⟨wy⟩/⟨we⟩. |
+| (ㅜ) | w | w | w |
 | ㅠ | jv | yv | yv |
 | ㅣ | i | i | i |
 | (ㅣ) | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
@@ -120,6 +120,16 @@ ______
 | ㅙ | we | waj | wuaj |
 | ㅞ | we | wuj | woj |
 
+| Text | Old Text | Transcription | Transliteration | Misc. |
+| - | - | - | - | - |
+| ᆝ | yu | j@ | y@ |
+| (ᆢ) | uu | @@ | @@ | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㆉ | ywuj | jwe | yoj |
+| ㆌ | yvj | jwi | y@j |
+| ᆜ | ye | jy | ye |
+| (ᆖ) | ee | yy | ee | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㆎ | uj | @j' | @j |
+
 | Text | Transcription & Transliteration & Old Text | Misc. |
 | - | - | - |
 | ㄱ | q |
@@ -138,16 +148,6 @@ ______
 | ㅍ | p |
 | ㆆ | ? |
 | ㅎ | h |
-
-| Text | Old Text | Transcription | Transliteration | Misc. |
-| - | - | - | - | - |
-| ᆝ | yu | j@ | y@ |
-| (ᆢ) | uu | @@ | @@ | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆉ | ywuj | jwe | yoj |
-| ㆌ | yvj | jwi | y@j |
-| ᆜ | ye | jy | ye |
-| (ᆖ) | ee | yy | ee | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆎ | uj | @j' | @j |
 
 | Text | Transcription & Transliteration & Old Text |
 | - | - |
