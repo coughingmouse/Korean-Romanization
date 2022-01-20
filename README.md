@@ -92,11 +92,11 @@ ______
 | Text | Transcription | Transliteration | Old Text | Misc. |
 | - | - | - | - | - |
 | ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
-| ㆍ | @ | @ | u |
 | ㅏ | a | a | a |
 | ㅑ | ja | ya | ya |
 | ㅓ | u | u | o | Using ⟨uh'⟩ in transcription is permitted but strogly recommended against. |
 | ㅕ | ju | yu | yo |
+| ㆍ | @ | @ | u |
 | ㅗ | o | o | wu |
 | ㅛ | jo | yo | ywu |
 | ㅜ | v | v | v | Technically equivalent to the disallowed form ⟨wy⟩/⟨we⟩. |
@@ -105,9 +105,7 @@ ______
 | ㅣ | i | i | i |
 | (ㅣ) | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | ㅡ | y | e | e |
-
-| Text | Transcription | Transliteration | Old Text |
-| - | - | - | - |
+| Text | Transcription | Transliteration | Old Text | Misc. |
 | ㅐ | e | aj | aj |
 | ㅒ | je | yaj | yaj |
 | ㅔ | e | uj | oj |
@@ -119,16 +117,14 @@ ______
 | ㅟ | wi | vj | vj |
 | ㅙ | we | waj | wuaj |
 | ㅞ | we | wuj | woj |
-
-| Text | Old Text | Transcription | Transliteration | Misc. |
-| - | - | - | - | - |
-| ᆝ | yu | j@ | y@ |
-| (ᆢ) | uu | @@ | @@ | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆉ | ywuj | jwe | yoj |
-| ㆌ | yvj | jwi | y@j |
-| ᆜ | ye | jy | ye |
-| (ᆖ) | ee | yy | ee | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆎ | uj | @j' | @j |
+| Text | Transcription | Transliteration | Old Text | Misc. |
+| ᆝ | j@ | y@ | yu |
+| (ᆢ) | @@ | @@ | uu | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㆉ | jwe | yoj | ywuj |
+| ㆌ | jwi | y@j | yvj |
+| ᆜ | jy | ye | ye |
+| (ᆖ) | yy | ee | ee | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㆎ | @j' | @j | uj |
 
 | Text | Transcription & Transliteration & Old Text | Misc. |
 | - | - | - |
@@ -148,17 +144,13 @@ ______
 | ㅍ | p |
 | ㆆ | ? |
 | ㅎ | h |
-
 | Text | Transcription & Transliteration & Old Text |
-| - | - |
 | ㄲ | qq |
 | ㄸ | dd |
 | ㅃ | bb |
 | ㅆ | ss |
 | ㅉ | zz |
-
 | Text | Transcription & Transliteration & Old Text |
-| - | - |
 | ㅱ | m' |
 | ㅸ | f |
 | ㅹ | b' |
@@ -228,10 +220,10 @@ The differences from the Yale Romanization are as follows.
 | Text | Here (Old Text) | Yale |
 | - | - | - |
 | ㅇ | ' | G |
-| ㆍ | v | o |
+| ㆍ | u | o |
 | ㅓ | o | e |
 | ㅡ | e | u |
-| ㅜ | u | (w)u |
+| ㅜ | v | (w)u |
 | ㅐ | aj | ay |
 | ㅔ | oj | ey |
 | ㄱ | q | k |
