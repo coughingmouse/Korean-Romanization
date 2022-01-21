@@ -561,7 +561,7 @@ Suggestion: 덥w다, 더워 dubwda, dubwu
 Text                          Suqqested Transcription
 ============================= =======================
 Current: 낫다, 나아           nasda, naa
-Suqqestion: 나ᇫ다, 나ᅀᅡ  naxda, naxa
+Suqqestion: 나ᇫ다, 나ᅀᅡ        naxda, naxa
 ============================= =======================
 
 
