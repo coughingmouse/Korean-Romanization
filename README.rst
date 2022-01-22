@@ -67,10 +67,10 @@ tl;dr
 | 한글     | hanqyl      | hanqel      | hanqel      | Korean word |
 |          |             |             |             | for Hangul. |
 +----------+-------------+-------------+-------------+-------------+
-| 훈민정음 | hvnmin      | hvnmin      | hunmin      | Korean word |
-|          | zungym      | zungem      | zongem      | for         |
-|          |             |             | /           | Hunm        |
-|          |             |             | hunminzogem | injeongeum, |
+| 훈민정음 | hvnmin      | hvnmin      | hunminzogem | Korean word |
+|          | zungym      | zugem       |             | for         |
+|          |             |             |             | Hunm        |
+|          |             |             |             | injeongeum, |
 |          |             |             |             | a           |
 |          |             |             |             | predecessor |
 |          |             |             |             | to Hangul.  |
@@ -80,11 +80,11 @@ tl;dr
 |          |             |             |             | hun         |
 |          |             |             |             | minzyog?em) |
 +----------+-------------+-------------+-------------+-------------+
-| 동국정운 | dongqvq     | dongqvq     | dwvngquq    | Korean word |
-|          | zungvn      | zungvn      | zongvn      | for Dongguk |
-|          |             |             | /           | Jeongun     |
-|          |             |             | dwvngquq    | (Standard   |
-|          |             |             | zongvn      | Rhymes of   |
+| 동국정운 | dongqvq     | dogqvq      | dwvgquq     | Korean word |
+|          | zungvn      | zugvn       | zogvn       | for Dongguk |
+|          |             |             |             | Jeongun     |
+|          |             |             |             | (Standard   |
+|          |             |             |             | Rhymes of   |
 |          |             |             |             | the Eastern |
 |          |             |             |             | States), a  |
 |          |             |             |             | companion   |
@@ -116,12 +116,12 @@ tl;dr
 |          |             |             |             | for         |
 |          |             |             |             | "Seoul".    |
 +----------+-------------+-------------+-------------+-------------+
-| 김정은   | qim zungyn  | qim zungen  | qim zongen  | Korean word |
-|          |             |             | / qim zogen | for "Kim    |
+| 김정은   | qim zungyn  | qim zugen   | qim zogen   | Korean word |
+|          |             |             |             | for "Kim    |
 |          |             |             |             | Jong-un".   |
 +----------+-------------+-------------+-------------+-------------+
-| 마라탕   | malatang    | malatang    | malatang /  | Spicy hot   |
-|          |             |             | malatag     | pot.        |
+| 마라탕   | malatang    | malatag     | malatag     | Spicy hot   |
+|          |             |             |             | pot.        |
 |          |             |             |             | Delicious.  |
 +----------+-------------+-------------+-------------+-------------+
 
@@ -152,7 +152,7 @@ be used definitively, so for each use, you will have to decide on
 whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
 
 -  For qeneral use or (fictional) official use in Korea, usig either the
-   transcription or the transliteration system allowig only ⟨l⟩ and ⟨ng⟩
+   transcription or the transliteration system allowig only ⟨l⟩ and ⟨g⟩
    will do, with exception for loanwords to use ⟨r⟩.
 -  For academic use, using the transliteration or old text
    transliteration system allowig only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will
@@ -610,7 +610,7 @@ More Examples
 +======================+======================+======================+
 | boyn                 | boen                 | 보은                 |
 +----------------------+----------------------+----------------------+
-| muqbang              | muqbang              | 먹방                 |
+| muqbang              | muqbag               | 먹방                 |
 +----------------------+----------------------+----------------------+
 | Seoul                | Seoul                | 세오얼 / 스오얼      |
 +----------------------+----------------------+----------------------+
@@ -620,10 +620,10 @@ More Examples
 +----------------------+----------------------+----------------------+
 | qos                  | qos                  | 곳                   |
 +----------------------+----------------------+----------------------+
-| zzang                | zzang                | 짱                   |
+| zzang                | zzag                 | 짱                   |
 +----------------------+----------------------+----------------------+
-| qymdongmiryqbosal    | qemdongmilyqbosal    | 금동미륵보살         |
-| banqasajvsang        | banqasayvsang        | 반가사유상           |
+| qymdongmiryqbosal    | qemdogmilyqbosal     | 금동미륵보살         |
+| banqasajvsang        | banqasayvsag         | 반가사유상           |
 | /                    |                      |                      |
 | qymdongmilyqbosal    |                      |                      |
 | banqasajvsang        |                      |                      |
@@ -633,13 +633,13 @@ More Examples
 | buraq obama / bulaq  | buraq obama          | 버락 오바마          |
 | obama                |                      |                      |
 +----------------------+----------------------+----------------------+
-| sincung              | sincung              | 신청                 |
+| sincung              | sincug               | 신청                 |
 +----------------------+----------------------+----------------------+
-| sacunsung            | sacunsung            | 사천성               |
+| sacunsung            | sacunsug             | 사천성               |
 +----------------------+----------------------+----------------------+
 | manhwa               | manhwa               | 만화                 |
 +----------------------+----------------------+----------------------+
-| (?)il i sam sa o     | (?)il i sam sa o     | 일 이…십             |
+| ?il i sam sa o       | ?il i sam sa o       | 일 이…십             |
 | ljvq cil pal qv sib  | lyvq cil pal qv sib  |                      |
 +----------------------+----------------------+----------------------+
 
