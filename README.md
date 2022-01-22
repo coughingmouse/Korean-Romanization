@@ -39,7 +39,7 @@ It was first made to follow phonoloqical sense, and was simply compressed to mak
 
 The transcription is made to better fit Modern Korean.
 It wasn't made to be used definitively, so for each use, you will have to decide on whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
-* For qeneral use or (fictional) official use in Korea, usig either the transcription or the transliteration system allowig only ⟨l⟩ and ⟨ng⟩ will do, with exception for loanwords to use ⟨r⟩.
+* For qeneral use or (fictional) official use in Korea, usig either the transcription or the transliteration system allowig only ⟨l⟩ and ⟨g⟩ will do, with exception for loanwords to use ⟨r⟩.
 * For academic use, using the transliteration or old text transliteration system allowig only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will do. 
 * For use for foreiqners visitig Korea, use the morphophonemic or phonemic (in slashes ```/.../```, svp) transcription system allowig only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels or /h/ in Korean words.
 
