@@ -21,15 +21,15 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 | ㆆ | ? | ? | ? |
 | ㅿ | x | x | x |
 | 한글 | hanqyl | hanqel | hanqel | Korean word for Hangul. |
-| 훈민정음 | hvnminzungym | hvnminzungem | hunminzongem / hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
-| 동국정운 | dongqvqzungvn | dongqvqzungvn | dwvngquqzongvn / dwvngquqzongvn | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 훈민정음 | hvnminzungym | hvnminzugem | hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
+| 동국정운 | dongqvqzungvn | dongqvqzugvn | dwvngquqzongvn | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 리어카 | liuka | liuka | lioka | Loanword from Japanese "リヤカー". |
 | 우리 | vri | vli | vli | Korean word for "us". |
 | 미란다 | miranda | miranda | milanda |
 | 레드 | redy | rujde | lojde | Loanword from English "red". |
 | 서울 | suvl | suvl | sovl | Korean word for "Seoul". |
-| 김정은 | qim zungyn | qim zungen | qim zongen / qim zogen | Korean word for "Kim Jong-un". |
-| 마라탕 | malatang | malatang | malatang / malatag | Spicy hot pot. Delicious. |
+| 김정은 | qim zungyn | qim zugen | qim zogen | Korean word for "Kim Jong-un". |
+| 마라탕 | malatang | malatag | malatag | Spicy hot pot. Delicious. |
 
 ## Introduction
 It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
@@ -255,19 +255,19 @@ ______
 | Transcription | Transliteration | Text |
 | - | - | - |
 | boyn | boen | 보은 |
-| muqbang | muqbang | 먹방 |
+| muqbang | muqbag | 먹방 |
 | Seoul | Seoul | 세오얼 / 스오얼 |
 | qqoc | qqoc | 꽃 |
 | qoz | qoz | 곶 |
 | qos | qos | 곳 |
-| zzang | zzang | 짱 |
-| qymdongmiryqbosalbanqasajvsang / qymdongmilyqbosalbanqasajvsang | qemdongmilyqbosalbanqasayvsang | 금동미륵보살반가사유상 |
+| zzang | zzag | 짱 |
+| qymdongmiryqbosalbanqasajvsang / qymdongmilyqbosalbanqasajvsang | qemdogmilyqbosalbanqasayvsag | 금동미륵보살반가사유상 |
 | milky | milke | 밀크 |
 | buraq obama / bulaq obama | buraq obama | 버락 오바마 |
-| sincung | sincung | 신청 |
-| sacunsung | sacunsung | 사천성 |
+| sincung | sincug | 신청 |
+| sacunsung | sacunsug | 사천성 |
 | manhwa | manhwa | 만화 |
-| (?)il i sam sa o ljvq cil pal qv sib | (?)il i sam sa o lyvq cil pal qv sib | 일 이…십 |
+| ?il i sam sa o ljvq cil pal qv sib | ?il i sam sa o lyvq cil pal qv sib | 일 이…십 |
 ______
 
 ### FAQ
