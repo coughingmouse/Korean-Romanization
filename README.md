@@ -46,18 +46,17 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 
 ## Modern Korean version
 
-| Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. |
-| - | - | - | - | - | - | - | - | - | - | - |
-| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | (ㅜ) | w | w | (ㅣ) | j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Misc. |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | ㅎ | h | h |
+| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | (ㅜ) | w | w | (ㅣ) | j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ja | ya |
 | ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. | ㅝ | wu | wu | ㅕ | ju | yu |
-| ㅗ | o | o | | ㅚ | we | oj | ㅛ | jo | yo |
-| ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv |
+| | | | | ㅗ | o | o | ㅛ | jo | yo | | ㅚ | we | oj |
+| ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv | | ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 | ㅣ | i | i | | ㅟ | wi | vj | - | - | - | - |
-| ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
-| ㅐ | e | aj | | ㅙ | we | waj | ㅒ | je | yaj |
-| ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yaj |
+| ㅐ | e | aj | | ㅙ | we | waj | | | | | ㅒ | je | yaj |
+| ㅔ | e | uj | | ㅞ | we | wuj | | | | | ㅖ | je | yaj |
 
 | Text | Transcription & Transliteration | Misc. |
 | - | - | - |
