@@ -46,17 +46,17 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 
 ## Modern Korean version
 
-| Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Misc. |
-| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | ㅎ | h | h |
-| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | (ㅜ) | w | w | (ㅣ) | j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ja | ya |
-| ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. | ㅝ | wu | wu | ㅕ | ju | yu |
-| | | | | ㅗ | o | o | ㅛ | jo | yo | | ㅚ | we | oj |
-| ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv | | ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
-| ㅣ | i | i | | ㅟ | wi | vj | - | - | - | - |
-| ㅐ | e | aj | | ㅙ | we | waj | | | | | ㅒ | je | yaj |
-| ㅔ | e | uj | | ㅞ | we | wuj | | | | | ㅖ | je | yaj |
+| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | | w | w | | j | y | | | j |
+| ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ja | ya | ㅐ | e | aj |
+| ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. | ㅝ | wu | wu | ㅕ | ju | yu | ㅔ | e | uj |
+| | | | | ㅗ | o | o | ㅛ | jo | yo | ㅚ | we | oj |
+| ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv | ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| ㅣ | i | i | | ㅟ | wi | vj |
+| ㅐ | e | aj | | ㅙ | we | waj | ㅒ | je | yaj | | | |
+| ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yaj | | | |
 
 | Text | Transcription & Transliteration | Misc. |
 | - | - | - |
@@ -100,11 +100,11 @@ ______
 | ㅗ | o | o | wu |
 | ㅛ | jo | yo | ywu |
 | ㅜ | v | v | v | Technically equivalent to the disallowed form ⟨wy⟩/⟨we⟩. |
-| (ㅜ) | w | w | w |
 | ㅠ | jv | yv | yv |
 | ㅣ | i | i | i |
-| (ㅣ) | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | ㅡ | y | e | e |
+| | w | w | w |
+| | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | Text | Transcription | Transliteration | Old Text | Misc. |
 | ㅐ | e | aj | aj |
 | ㅒ | je | yaj | yaj |
