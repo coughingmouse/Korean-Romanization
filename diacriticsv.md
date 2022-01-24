@@ -36,17 +36,42 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
 ## Modern Korean version
 
-| Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. |
-| - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Text | Transcription | Transliteration | Misc. |
+| - | - | - | - |
 | ㅎ | h | h |
-| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | | w | w | | j | y | | | j |
-| ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ya | ya | ㅐ | e | aj |
-| ㅓ | o | o |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. | ㅝ | wo | wo | ㅕ | yo | yo | ㅔ | e | oj |
-| | | | | ㅗ | ó | ó | ㅛ | jó | yó | ㅚ | we | ój |
-| ㅡ | u | u | | ㅜ | ú | ú | ㅠ | yú | yú | ㅢ | ui | uj | In transcription, use ⟨e⟩ only when used as the preposition -의. |
-| ㅣ | i | i | | ㅟ | wi | ü |
-| ㅐ | e | é | | ㅙ | we | wej | ㅒ | ye | yej | | | |
-| ㅔ | e | e | | ㅞ | we | wéj | ㅖ | ye | yéj | | | |
+| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. |
+| ㅏ | a | a |
+| ㅣ | i | i |
+| ㅡ | u | u |
+| ㅐ | e | é |
+| ㅔ | e | e |
+| ㅓ | o | o |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
+| Text | Transcription | Transliteration | Misc. |
+| | w | w |
+| ㅘ | wa | wa |
+| ㅟ | wi | ü |
+| ㅜ | ú | ú |
+| ㅙ | we | wej |
+| ㅞ | we | wéj |
+| ㅝ | wo | wo |
+| ㅗ | ó | ó |
+| Text | Transcription | Transliteration | Misc. |
+| | j | y |
+| ㅑ | ya | ya |
+| | | |
+| ㅠ | yú | yú |
+| ㅒ | ye | yej |
+| ㅖ | ye | yéj |
+| ㅕ | yo | yo |
+| ㅛ | jó | yó |
+| Text | Transcription | Transliteration | Misc. |
+| | | j |
+| ㅐ | e | aj |
+| | | |
+| ㅢ | ui | uj | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| | | |
+| ㅔ | e | oj |
+| ㅚ | we | ój |
 
 | Text | Transcription & Transliteration | Misc. |
 | - | - | - |
@@ -82,7 +107,7 @@ ______
 | ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
 | ㅏ | a | a | a |
 | ㅑ | ya | ya | ya |
-| ㅓ | o | o | v | Using ⟨uh'⟩ in transcription is permitted but strogly recommended against. |
+| ㅓ | o | o | v | Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
 | ㅕ | yo | yo | yv |
 | ㆍ | v | v | o |
 | ㅗ | ó | ó | ó |
