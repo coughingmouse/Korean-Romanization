@@ -46,17 +46,42 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 
 ## Modern Korean version
 
-| Text | Transcription | Transliteration | Misc. | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Text | Transcription | Transliteration | Misc. |
-| - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Text | Transcription | Transliteration | Misc. |
+| - | - | - | - |
 | ㅎ | h | h |
-| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. | | w | w | | j | y | | | j |
-| ㅏ | a | a | | ㅘ | wa | wa | ㅑ | ja | ya | ㅐ | e | aj |
-| ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. | ㅝ | wu | wu | ㅕ | ju | yu | ㅔ | e | uj |
-| | | | | ㅗ | o | o | ㅛ | jo | yo | ㅚ | we | oj |
-| ㅡ | y | e | | ㅜ | v | v | ㅠ | jv | yv | ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
-| ㅣ | i | i | | ㅟ | wi | vj |
-| ㅐ | e | aj | | ㅙ | we | waj | ㅒ | je | yaj | | | |
-| ㅔ | e | uj | | ㅞ | we | wuj | ㅖ | je | yuj | | | |
+| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. |
+| ㅏ | a | a |
+| ㅣ | i | i |
+| ㅡ | y | e |
+| ㅐ | e | aj |
+| ㅔ | e | uj |
+| ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
+| Text | Transcription | Transliteration | Misc. |
+| | w | w |
+| ㅘ | wa | wa |
+| ㅟ | wi | vj |
+| ㅜ | v | v |
+| ㅙ | we | waj |
+| ㅞ | we | wuj |
+| ㅝ | wu | wu |
+| ㅗ | o | o |
+| Text | Transcription | Transliteration | Misc. | 
+| | j | y |
+| ㅑ | ja | ya |
+| | | |
+| ㅠ | jv | yv |
+| ㅒ | je | yaj |
+| ㅖ | je | yuj |
+| ㅕ | ju | yu |
+| ㅛ | jo | yo |
+| Text | Transcription | Transliteration | Misc. | 
+| | | j |
+| ㅐ | e | aj |
+| | | |
+| ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| | | |
+| ㅔ | e | uj |
+| ㅚ | we | oj |
 
 | Text | Transcription & Transliteration | Misc. |
 | - | - | - |
@@ -94,7 +119,7 @@ ______
 | ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
 | ㅏ | a | a | a |
 | ㅑ | ja | ya | ya |
-| ㅓ | u | u | o | Using ⟨uh'⟩ in transcription is permitted but strogly recommended against. |
+| ㅓ | u | u | o | Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
 | ㅕ | ju | yu | yo |
 | ㆍ | @ | @ | u |
 | ㅗ | o | o | wu |
@@ -311,11 +336,11 @@ What initially made try it out was that the articulation of ⟨ㅡ⟩ is weak, l
 
 * ⟨u⟩ for ⟨ㅓ⟩? Really?
 
-What else, when ⟨o⟩ had to be used for ⟨ㅗ⟩, and ⟨a⟩ for ⟨ㅏ⟩? Thankfully there's a major language which pronounces similarly. As mentioned on the question above, Using only ASCII compliant letters for Korean script means using at least one unusual and ugly coordination for a vowel. This is the one.
+What else, when ⟨o⟩ had to be used for ⟨ㅗ⟩, and ⟨a⟩ for ⟨ㅏ⟩? Thankfully there's a major language which pronounces ⟨u⟩ similarly. As mentioned on the question above, Using only ASCII compliant letters for Korean script means using at least one unusual choice in coordinating for vowels. This is the one. There's a [version that you may like](https://github.com/coughingmouse/MKSR/blob/main/diacriticsv.md) if you are fine with using diacritics.
 
 * ⟨v⟩ for ⟨ㅜ⟩?
 
-The other option was ⟨oy⟩/⟨oe⟩ and my friend didn't like it.
+The other option was ⟨oy⟩/⟨oe⟩ and my friend didn't like it, so I got ⟨v⟩ from are-a.
 
 * Why are Old Korean letters here?/Why are some Latin letters unused for Modern Korean?
 
