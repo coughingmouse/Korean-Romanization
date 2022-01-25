@@ -1,4 +1,6 @@
-# Mavse Korean Script Romanization
+# Deprecated Mavse Korean Script Romanization v0.0.0
+
+Soon going to be changed to a version that people would like more. This version will be preserved.
 
 Latin Transcription & transliteration System for Korean Scripts, made to be used. And a transliteration system more fit for old text.
 
@@ -7,6 +9,7 @@ Latin Transcription & transliteration System for Korean Scripts, made to be used
 ```
 
 모든   인간은    태어날    때부터     자유로우며    그 존엄과     권리에     있어  동등하다.        인간은   천부적으로     이성과     양심을      부여받았으며       서로  형제애의       정신으로      행동하여야         한다.
+moden inqanen teunal  ddebvtu  zayvlovmju qy zonumqwa qwunlie  issu dongdynghada. inqanyn cunbvzuqelo isungqwa yangsimel bvyubadassemyu sulo hyungzeee    zungsinelo hengdonghayuya  handa.
 moden inqanen tajunal ddajbvtu zayvlovmju qy zonumqwa qwunliuj issu dongdynghada. inqanyn cunbvzuqelo isungqwa yangsimel bvyubadassemyu sulo hyungzujajej zungsinelo hajngdonghayuya handa.
 ```
 
@@ -346,7 +349,7 @@ What else, when ⟨o⟩ had to be used for ⟨ㅗ⟩, and ⟨a⟩ for ⟨ㅏ⟩?
 
 * ⟨v⟩ for ⟨ㅜ⟩?
 
-The other option was ⟨oy⟩/⟨oe⟩ and my friend didn't like it, so I got ⟨v⟩ from are-a.
+The other option was ⟨oy⟩/⟨oe⟩ and my friend didn't like it, so I got ⟨v⟩ from are-a. Yes, this does not look cool, and this is why I'm not promoting this system. The system itself has interesting features regardless, so I'll keep it online.
 
 * Why are Old Korean letters here?/Why are some Latin letters unused for Modern Korean?
 
