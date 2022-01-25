@@ -46,7 +46,7 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 
 ## Modern Korean version
 
-| Text | Transcription | Transliteration | Misc. |
+| Text | Transc. | Transl. | Misc. |
 | - | - | - | - |
 | ㅎ | h | h |
 | ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. |
@@ -56,7 +56,7 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 | ㅐ | e | aj |
 | ㅔ | e | uj |
 | ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
-| Text | Transcription | Transliteration | Misc. |
+| Text | Transc. | Transl. | Misc. |
 | | w | w |
 | ㅘ | wa | wa |
 | ㅟ | wi | vj |
@@ -65,7 +65,7 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 | ㅞ | we | wuj |
 | ㅝ | wu | wu |
 | ㅗ | o | o |
-| Text | Transcription | Transliteration | Misc. | 
+| Text | Transc. | Transl. | Misc. | 
 | | j | y |
 | ㅑ | ja | ya |
 | | | |
@@ -74,7 +74,7 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 | ㅖ | je | yuj |
 | ㅕ | ju | yu |
 | ㅛ | jo | yo |
-| Text | Transcription | Transliteration | Misc. | 
+| Text | Transc. | Transl. | Misc. | 
 | | | j |
 | ㅐ | e | aj |
 | | | |
@@ -83,7 +83,7 @@ It wasn't made to be used definitively, so for each use, you will have to decide
 | ㅔ | e | uj |
 | ㅚ | we | oj |
 
-| Text | Transcription & Transliteration | Misc. |
+| Text | Transc. & Transl. | Misc. |
 | - | - | - |
 | ㅁ | m |
 | ㅂ | b |
@@ -114,7 +114,7 @@ ______
 
 ## Full specifications
 
-| Text | Transcription | Transliteration | Old Text | Misc. |
+| Text | Transc. | Transl. | Old Text | Misc. |
 | - | - | - | - | - |
 | ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
 | ㅏ | a | a | a |
@@ -130,7 +130,7 @@ ______
 | ㅡ | y | e | e |
 | | w | w | w |
 | | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| Text | Transcription | Transliteration | Old Text | Misc. |
+| Text | Transc. | Transl. | Old Text | Misc. |
 | ㅐ | e | aj | aj |
 | ㅒ | je | yaj | yaj |
 | ㅔ | e | uj | oj |
@@ -142,7 +142,7 @@ ______
 | ㅟ | wi | vj | vj |
 | ㅙ | we | waj | wuaj |
 | ㅞ | we | wuj | woj |
-| Text | Transcription | Transliteration | Old Text | Misc. |
+| Text | Transc. | Transl. | Old Text | Misc. |
 | ᆝ | j@ | y@ | yu |
 | (ᆢ) | @@ | @@ | uu | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
 | ㆉ | jwe | yoj | ywuj |
@@ -151,31 +151,31 @@ ______
 | (ᆖ) | yy | ee | ee | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
 | ㆎ | @j' | @j | uj |
 
-| Text | Transcription & Transliteration & Old Text | Misc. |
-| - | - | - |
-| ㄱ | q |
+| Text | Transc. & Transl. | Old Text | Misc. |
+| - | - | - | - |
+| ㄱ | q | k |
 | ㄴ | n |
-| ㄷ | d |
-| ㄹ | l | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㄷ | d | t |
+| ㄹ | l | | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅁ | m |
-| ㅂ | b |
+| ㅂ | b | p |
 | ㅅ | s |
 | ㆁ | g/ng |
 | ㅈ | z |
 | ㅊ | c |
 | ㅿ | x |
-| ㅋ | k |
-| ㅌ | t |
-| ㅍ | p |
-| ㆆ | ? |
+| ㅋ | k | kh |
+| ㅌ | t | th |
+| ㅍ | p | ph |
+| ㆆ | ? | q |
 | ㅎ | h |
-| Text | Transcription & Transliteration & Old Text |
-| ㄲ | qq |
-| ㄸ | dd |
-| ㅃ | bb |
+| Text | Transcription & Transliteration | Old Text |
+| ㄲ | qq | kk |
+| ㄸ | dd | tt |
+| ㅃ | bb | pp |
 | ㅆ | ss |
 | ㅉ | zz |
-| Text | Transcription & Transliteration & Old Text |
+| Text | Transc. & Transl. | Old Text |
 | ㅱ | m' |
 | ㅸ | f |
 | ㅹ | b' |
@@ -211,7 +211,7 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
 2. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Or, write 사이시읏 as ⟨s⟩ explicitly.
 
-| Text | Suqqested Transcription | Alternative Transcription | Current Transcription |
+| Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
 | - | - | - | - |
 | 숫자 | svdza | svsza | svsza |
 | 멸족 | myuldzoq | myulszoq | myulzoq |
@@ -225,14 +225,14 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
 3. Write 'ㅂ' 불규칙 활용 explicitly
 
-| Text | Suqqested Transcription |
+| Text | Suqqested Transc. |
 | - | - |
 | Current: 덥다, 더워 | dubda, duwu |
 | Suggestion: 덥w다, 더워 | dubwda, dubwu |
 
 4. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
 
-| Text | Suqqested Transcription |
+| Text | Suqqested Transc. |
 | - | - |
 | Current: 낫다, 나아 | nasda, naa |
 | Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
