@@ -1,7 +1,7 @@
-# Romanization for Korean
+# Y Romanization for Korean
 
 Was intending to make a contemporary version of MKSR using diacritics, the way it Should have been made in the past. If you know how to read, this would look like a better version.
-
+Basically became a Revised Yale Romanization of Korean.
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
 국문 로마자화.
@@ -11,12 +11,13 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 | Example | Transcription | Transliteration | Misc. |
 | - | - | - | - |
 | ㆍ | v | v |
-| ㅐ/ㅔ/ㅢ | e | é(aj)/e/uj |
-| ㅓ | o | o |
+| ㅐ/ㅔ/ㅢ | e/e/ui | é(aj)/e/uj |
 | ㅡ | u | u |
-| ㅗ | ó(wv) | ó(wv) |
+| ㅓ | o | o |
 | ㅜ | ú(wu) | ú(wu) |
-| ㄹ | l | l | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㅗ | ó(wv) | ó(wv) |
+| ㅟ | wi | ü(wi) |
+| ㅚ | we | ö(wj) |
 | ㅈ | z | z |
 | ㅊ | c | c |
 | ㆁ | g/ng | g/ng |
@@ -27,7 +28,7 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 | 훈민정음 | húnminzongum | húnminzogum | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
 | 동국정운 | dóngqúqzongún | dógqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 리어카 | lioka | lioka | Loanword from Japanese "リヤカー". |
-| 우리 | úri | úli | Korean word for "us". |
+| 우리 | úli | úli | Korean word for "us". |
 | 미란다 | miranda | miranda |
 | 레드 | redu | redu | Loanword from English "red". |
 | 서울 | soúl | soúl | Korean word for "Seoul". |
@@ -45,7 +46,7 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 | ㅡ | u | u |
 | ㅐ | e | é(aj) |
 | ㅔ | e | e |
-| ㅓ | o | o |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
+| ㅓ | o | o |
 | Text | Transc. | Transl. | Misc. |
 | | w | w |
 | ㅘ | wa | wa |
@@ -107,12 +108,12 @@ ______
 | ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
 | ㅏ | a | a | a |
 | ㅑ | ya | ya | ya |
-| ㅓ | o | o | v | Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
+| ㅓ | o | o | v |
 | ㅕ | yo | yo | yv |
 | ㆍ | v | v | o |
 | ㅗ | ó(wv) | ó(wv) | ó(wo) |
 | ㅛ | yó(ywv) | yó(ywv) | yó(yo) |
-| ㅜ | ú(wu) | ú(wu) | ú(wu) | Technically equivalent to the disallowed form ⟨wu⟩. |
+| ㅜ | ú(wu) | ú(wu) | ú(wu) |
 | ㅠ | yú(yu) | yú(yu) | yú(yu) |
 | ㅣ | i | i | i |
 | ㅡ | u | u | u |
