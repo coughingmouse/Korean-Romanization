@@ -16,7 +16,7 @@ mwodun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdu
 ```
 #### tl;dr
 
-| Example | Transcription | Transliteration | Misc. |
+| Text | Transcription | Transliteration | Misc. |
 | - | - | - | - |
 | ㆍ | v | v |
 | ㅐ/ㅔ/ㅢ | e/e/ui | é(aj)/e/uj |
@@ -45,68 +45,120 @@ mwodun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdu
 
 ## Modern Korean version
 
-| Text | Transc. | Transl. | Misc. |
-| - | - | - | - |
-| ㅎ | h | h |
-| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. |
-| ㅏ | a | a |
-| ㅣ | i | i |
-| ㅡ | u | u |
-| ㅐ | e | é(aj) |
-| ㅔ | e | e |
-| ㅓ | o | o |
-| Text | Transc. | Transl. | Misc. |
+| Text | Transc. | Transl. | Example | Misc. |
+| - | - | - | - | - |
+| ㅎ | h | h | 한강 |
+| ㅇ | ’(') | ’(') |  | Apostrophe; can also be used to indicate abbreviation. |
+| ㅏ | a | a | 아빠 |
+| ㅣ | i | i | 이순신 |
+| ㅡ | u | u | 은방울 |
+| ㅐ | e | é(aj) | 앵무새 |
+| ㅔ | e | e | 엑스레이 |
+| ㅓ | o | o | 엄마 |
+| Text | Transc. | Transl. | Example | Misc. |
 | | w | w |
-| ㅘ | wa | wa |
-| ㅟ | wi | ü(wi) |
-| ㅜ | ú(wu) | ú(wu) |
-| ㅙ | we | wé(waj) |
-| ㅞ | we | we |
-| ㅝ | wo | wo |
-| ㅗ | ó(wv) | ó(wv) |
-| Text | Transc. | Transl. | Misc. |
+| ㅘ | wa | wa | 과자 |
+| ㅟ | wi | ü(wi) | 휘파람 |
+| ㅜ | ú(wu) | ú(wu) | 우편 |
+| ㅙ | we | wé(waj) | 돼지 |
+| ㅞ | we | we | 궤도 |
+| ㅝ | wo | wo | 원숭이 |
+| ㅗ | ó(wv) | ó(wv) | 오징어 |
+| Text | Transc. | Transl. | Example | Misc. |
 | | y | y |
-| ㅑ | ya | ya |
+| ㅑ | ya | ya | 야자수 |
 | | | |
-| ㅠ | yú(yu) | yú(yu) |
-| ㅒ | ye | yé(yaj) |
-| ㅖ | ye | ye |
-| ㅕ | yo | yo |
-| ㅛ | yó(ywv) | yó(ywv) |
-| Text | Transc. | Transl. | Misc. |
+| ㅠ | yú(yu) | yú(yu) | 유치원 |
+| ㅒ | ye | yé(yaj) | 섀도 |
+| ㅖ | ye | ye | 계란 |
+| ㅕ | yo | yo | 연못 |
+| ㅛ | yó(ywv) | yó(ywv) | 요지경 |
+| Text | Transc. | Transl. | Example | Misc. |
 | | | j |
-| ㅐ | e | é(aj) |
+| ㅐ | e | é(aj) | 엑스레이 |
 | | | |
-| ㅢ | ui | uj | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| ㅢ | ui | uj | 의사 | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 | | | |
-| ㅔ | e | e |
-| ㅚ | we | ö(wj) |
+| ㅔ | e | e | 앵무새 |
+| ㅚ | we | ö(wj) | 회색 |
 
-| Text | Transc. & Transl. | Misc. |
-| - | - | - |
-| ㅁ | m |
-| ㅂ | b |
-| ㅃ | bb |
-| ㅍ | p |
-| ㄴ | n |
-| ㄷ | d |
+| Text | Transc. & Transl. | Example | Misc. |
+| - | - | - | - |
+| ㅁ | m | 미나리 |
+| ㅂ | b | 바가지 |
+| ㅃ | bb | 빵 |
+| ㅍ | p | 파고다 |
+| ㅸ | f | 더위 |
+| ㄴ | n | 나폴리 |
+| ㄷ | d | 도라지 |
 | ㄸ | dd |
-| ㅌ | t |
-| ㄹ | l | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
-| ㅅ | s |
+| ㅌ | t | 통신 |
+| ㄹ | l | 로마 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㅅ | s | 서울 |
 | ㅆ | ss |
-| ㅈ | z |
-| ㅉ | zz |
-| ㅊ | c |
-| ㆁ | g/ng |
-| ㄱ | q |
+| ㅈ | z | 지게 |
+| ㅉ | zz | 짜장면 |
+| ㅊ | c | 치마 |
+| ㅿ | x | 젓가락 |
+| ㆁ | g/ng | 잉어 |
+| ㄱ | q | 기러기 |
 | ㄲ | qq |
-| ㅋ | k |
+| ㅋ | k | 키다리 |
 
 * For combinational letters, just write them out by each compositig letter
 
 ### Misc.
 * Halfwidth font is strogly preferred.
+
+Spacig, hyphenation, etc. follow [한글맞춤법](httpt://kornorms.korean.go.kr/m/m_regltn.do#a).
+
+Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_regltn.do#a) 부록. But additionally, 
+1. Kwotation marks are preferred over other types of punctuations.
+1. American conventions reqardig typoqraphic forms are recommended.
+1. Use ⟨.⟩ to separate by syllables.
+1. For academic usage for what is not specified here, various practices using Yale Romanization are accepted.
+
+______
+
+## Korean Specific Additions
+
+These are some desiqn compromizes associated with usig a syllabary system for a non-monosyllabic lanquaqe in the existig spellig system. Since we are not usig a syllabary here, we don't need them. Here are some examples.
+
+1. Write 사이히읗 as ⟨h'⟩ explicitly
+
+| Text | Transcription |
+| - | - |
+| Current: 가당치도 | qadangcido |
+| Suqqestion: 가당ㅎ지도 | qadangh'zido |
+
+2. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Or, write 사이시읏 as ⟨s⟩ explicitly.
+
+| Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
+| - | - | - | - |
+| 숫자 | súdza | súsza | súsza |
+| 멸족 | myoldzóq | myolszóq | myolzóq |
+| 냇가 | nedqa | nesqa | nesqa |
+| 콧등 | kóddeng | kósdeng | kósdeng |
+| 뱃나루 | bennalú / bennarú | besnalú / besnarú | besnalú / besnarú |
+| 나뭇잎 | namúnnip | namúsip | namúsip |
+| 볼일 | bólnil | bólsil | bólil |
+| 빵 조각 | bbang d zoqaq | bbang s zoqaq | bbang zoqaq |
+| 할 일 | hal n il | hal s il | hal il |
+| 한 일 | han n il | han s il | han il |
+
+3. Write 'ㅂ' 불규칙 활용 explicitly with ⟨f⟩
+
+| Text | Suqqested Transc. |
+| - | - |
+| Current: 덥다, 더워 | dobda, dowu |
+| Suggestion: 덥w다, 더워 | dofda, dofo |
+
+4. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
+
+| Text | Suqqested Transc. |
+| - | - |
+| Current: 낫다, 나아 | nasda, naa |
+| Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
 ______
 
 ## Full specifications
@@ -185,54 +237,6 @@ ______
 
 ### Misc.
 * Halfwidth font is strogly preferred.
-______
-
-## Korean Specific Additions
-
-Spacig, hyphenation, etc. follow [한글맞춤법](httpt://kornorms.korean.go.kr/m/m_regltn.do#a).
-
-Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_regltn.do#a) 부록. But additionally, 
-1. Kwotation marks are preferred over other types of punctuations.
-1. American conventions reqardig typoqraphic forms are recommended.
-1. Use ⟨.⟩ to separate by syllables.
-1. For academic usage for what is not specified here, various practices using Yale Romanization are accepted.
-
-These are some desiqn compromizes associated with usig a syllabary system for a non-monosyllabic lanquaqe in the existing spelling system. Since we are not usig a syllabary here, we don't need them. Here are some examples.
-
-1. Write 사이히읗 as ⟨h'⟩ explicitly
-
-| Text | Transcription |
-| - | - |
-| Current: 가당치도 | qadangcido |
-| Suqqestion: 가당ㅎ지도 | qadangh'zido |
-
-2. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Or, write 사이시읏 as ⟨s⟩ explicitly.
-
-| Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
-| - | - | - | - |
-| 숫자 | súdza | súsza | súsza |
-| 멸족 | myoldzóq | myolszóq | myolzóq |
-| 냇가 | nedqa | nesqa | nesqa |
-| 콧등 | kóddeng | kósdeng | kósdeng |
-| 뱃나루 | bennalú / bennarú | besnalú / besnarú | besnalú / besnarú |
-| 나뭇잎 | namúnnip | namúsip | namúsip |
-| 볼일 | bólnil | bólsil | bólil |
-| 할 일 | hal (n) il | hal (s) il | hal il |
-| 한 일 | han (n) il | han (s) il | han il |
-
-3. Write 'ㅂ' 불규칙 활용 explicitly
-
-| Text | Suqqested Transc. |
-| - | - |
-| Current: 덥다, 더워 | dobda, dowu |
-| Suggestion: 덥w다, 더워 | dobwda, dobwo |
-
-4. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
-
-| Text | Suqqested Transc. |
-| - | - |
-| Current: 낫다, 나아 | nasda, naa |
-| Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
 
 _______
 
