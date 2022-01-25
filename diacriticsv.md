@@ -110,7 +110,7 @@ ______
 | ㅕ | yo | yo | yv |
 | ㆍ | v | v | o |
 | ㅗ | ó(wv) | ó(wv) | ó(wo) |
-| ㅛ | yó(ywv) | yó(ywv) | yó(ywo) |
+| ㅛ | yó(ywv) | yó(ywv) | yó(yo) |
 | ㅜ | ú(wu) | ú(wu) | ú(wu) | Technically equivalent to the disallowed form ⟨wu⟩. |
 | ㅠ | yú(yu) | yú(yu) | yú(yu) |
 | ㅣ | i | i | i |
