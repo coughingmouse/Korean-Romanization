@@ -14,6 +14,7 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 | ㅐ/ㅔ/ㅢ | e | é(aj)/e/uj |
 | ㅓ | o | o |
 | ㅡ | u | u |
+| ㅗ | ó(wv) | ó(wv) |
 | ㅜ | ú(wu) | ú(wu) |
 | ㄹ | l | l | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅈ | z | z |
