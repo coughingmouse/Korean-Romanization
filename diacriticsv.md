@@ -25,14 +25,14 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 | ㆆ | ? | ? |
 | ㅿ | x | x |
 | 한글 | hanqul | hanqul | Korean word for Hangul. |
-| 훈민정음 | húnminzongum | húnminzogum | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
+| 훈민정음 | húnminzongum | húnminzogum | Korean word for Hunminjeongeum, a predecessor to Hangul. (húnminzyong?um / húnminzyog?um) |
 | 동국정운 | dóngqúqzongún | dógqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 리어카 | lioka | lioka | Loanword from Japanese "リヤカー". |
-| 우리 | úli | úli | Korean word for "us". |
+| 우리 | úli | úli | Korean word for "us." |
 | 미란다 | miranda | miranda |
-| 레드 | redu | redu | Loanword from English "red". |
-| 서울 | soúl | soúl | Korean word for "Seoul". |
-| 김정은 | qim zongun | qim zogun | Korean word for "Kim Jong-un". |
+| 레드 | redu | redu | Loanword from English "red." |
+| 서울 | soúl | soúl | Korean word for "Seoul." |
+| 김정은 | qim zongun | qim zogun | "Kim Jong-un." |
 | 마라탕 | malatang | malatag | Spicy hot pot. Delicious. |
 
 ## Modern Korean version
