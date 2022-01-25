@@ -7,11 +7,12 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 국문 로마자화.
 
 ```
-모든   인간은    태어날   때부터    자유로우며    그 존엄과     권리에    있어  동등하다.       인간은    천부적으로     이성과     양심을      부여받았으며       서로  형제애의     정신으로      행동하여야        한다.
-módun inqanun teonal ddebúto zayúlóúmyo qu zónumqwa qwonlie isso dóngdunghada. inqanun conbúzoqulo isongqwa yangsimul búyobadassumyo soló hyongzeeui zongsinulo hengdónghayoya handa.
-módun inqanun téonal ddébúto zayúlóúmyo qu zónumqwa qwonlie isso dóngdunghada. inqanun conbúzoqulo isongqwa yangsimul búyobadassumyo soló hyongzeéui zongsinulo héngdónghayoya handa.
+모든    인간은    태어날    때부터      자유로우며       그 존엄과      권리에    있어  동등하다.         인간은   천부적으로      이성과     양심을      부여받았으며        서로   형제애의      정신으로     행동하여야           한다.
+módun  inqanun teonal  ddebúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeeui  zongsinulo hengdónghayoya   handa.
+módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéui  zongsinulo héngdónghayoya   handa.
 
-mwodun inqanun teonal ddebwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeeui zongsinulo hengdwvnghayoya handa.
+mwodun inqanun teonal  ddebwuto  zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeeui  zongsinulo hengdwvnghayoya  handa.
+mwodun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeajui zongsinulo hajngdwvnghayoya handa.
 ```
 #### tl;dr
 
