@@ -1,6 +1,6 @@
 # Romanization for Korean
 
-Was intending to make a contemporary version of MKSR using diacritics, the way it Should have been made in the past. If you know how to read, this would look like a better version. However, diacritics are a pain in the ass to write, cause of having to use several keyboard layouts, and casual use of them should be eradicated from earth unless they're written below the letter and used for tonal marking.
+Was intending to make a contemporary version of MKSR using diacritics, the way it Should have been made in the past. If you know how to read, this would look like a better version.
 
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
@@ -11,11 +11,10 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 | Example | Transcription | Transliteration | Misc. |
 | - | - | - | - |
 | ㆍ | v | v |
-| ㅐ/ㅔ/ㅢ | e | é/e/uj |
-| ㅓ | o | o | Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
-| ㅗ | ó | ó | Technically equivalent to the disallowed form ⟨wv⟩. |
+| ㅐ/ㅔ/ㅢ | e | é(aj)/e/uj |
+| ㅓ | o | o |
 | ㅡ | u | u |
-| ㅜ | ú | ú | Technically equivalent to the disallowed form ⟨wu⟩. |
+| ㅜ | ú(wu) | ú(wu) |
 | ㄹ | l | l | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅈ | z | z |
 | ㅊ | c | c |
@@ -25,7 +24,7 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 | ㅿ | x | x |
 | 한글 | hanqul | hanqul | Korean word for Hangul. |
 | 훈민정음 | húnminzongum | húnminzogum | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
-| 동국정운 | dóngqúqzongún | dóngqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 동국정운 | dóngqúqzongún | dógqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 리어카 | lioka | lioka | Loanword from Japanese "リヤカー". |
 | 우리 | úri | úli | Korean word for "us". |
 | 미란다 | miranda | miranda |
@@ -36,44 +35,44 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
 ## Modern Korean version
 
-| Text | Transcription | Transliteration | Misc. |
+| Text | Transc. | Transl. | Misc. |
 | - | - | - | - |
 | ㅎ | h | h |
 | ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. |
 | ㅏ | a | a |
 | ㅣ | i | i |
 | ㅡ | u | u |
-| ㅐ | e | é |
+| ㅐ | e | é(aj) |
 | ㅔ | e | e |
 | ㅓ | o | o |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
-| Text | Transcription | Transliteration | Misc. |
+| Text | Transc. | Transl. | Misc. |
 | | w | w |
 | ㅘ | wa | wa |
-| ㅟ | wi | ü |
-| ㅜ | ú | ú |
-| ㅙ | we | wej |
-| ㅞ | we | wéj |
+| ㅟ | wi | ü(wi) |
+| ㅜ | ú(wu) | ú(wu) |
+| ㅙ | we | wé(waj) |
+| ㅞ | we | we |
 | ㅝ | wo | wo |
-| ㅗ | ó | ó |
-| Text | Transcription | Transliteration | Misc. |
+| ㅗ | ó(wv) | ó(wv) |
+| Text | Transc. | Transl. | Misc. |
 | | j | y |
 | ㅑ | ya | ya |
 | | | |
-| ㅠ | yú | yú |
-| ㅒ | ye | yej |
-| ㅖ | ye | yéj |
+| ㅠ | yú(yu) | yú(yu) |
+| ㅒ | ye | yé(yaj) |
+| ㅖ | ye | ye |
 | ㅕ | yo | yo |
-| ㅛ | jó | yó |
-| Text | Transcription | Transliteration | Misc. |
+| ㅛ | yó(ywv) | yó(ywv) |
+| Text | Transc. | Transl. | Misc. |
 | | | j |
-| ㅐ | e | aj |
+| ㅐ | e | é(aj) |
 | | | |
 | ㅢ | ui | uj | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 | | | |
-| ㅔ | e | oj |
-| ㅚ | we | ój |
+| ㅔ | e | e |
+| ㅚ | we | ö(wj) |
 
-| Text | Transcription & Transliteration | Misc. |
+| Text | Transc. & Transl. | Misc. |
 | - | - | - |
 | ㅁ | m |
 | ㅂ | b |
@@ -102,7 +101,7 @@ ______
 
 ## Full specifications
 
-| Text | Transcription | Transliteration | Old Text | Misc. |
+| Text | Transc. | Transl. | Old Text | Misc. |
 | - | - | - | - | - |
 | ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
 | ㅏ | a | a | a |
@@ -110,60 +109,60 @@ ______
 | ㅓ | o | o | v | Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
 | ㅕ | yo | yo | yv |
 | ㆍ | v | v | o |
-| ㅗ | ó | ó | ó |
-| ㅛ | yó | yó | yó |
-| ㅜ | ú | ú | ú | Technically equivalent to the disallowed form ⟨wu⟩. |
-| ㅠ | yú | yú | yú |
+| ㅗ | ó(wv) | ó(wv) | ó(wo) |
+| ㅛ | yó(ywv) | yó(ywv) | yó(ywo) |
+| ㅜ | ú(wu) | ú(wu) | ú(wu) | Technically equivalent to the disallowed form ⟨wu⟩. |
+| ㅠ | yú(yu) | yú(yu) | yú(yu) |
 | ㅣ | i | i | i |
 | ㅡ | u | u | u |
 | | w | w | w |
 | | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| Text | Transcription | Transliteration | Old Text | Misc. |
-| ㅐ | e | é | aj |
-| ㅒ | ye | yé | yaj |
+| Text | Trans. | Transl. | Old Text | Misc. |
+| ㅐ | e | é(aj) | aj |
+| ㅒ | ye | yé(yaj) | yaj |
 | ㅔ | e | e | vj |
-| ㅖ | je | ye | yvj |
+| ㅖ | ye | ye | yvj |
 | ㅢ | ui | uj | uj | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 | ㅘ | wa | wa | wa |
 | ㅝ | wo | wo | wv |
-| ㅚ | we | ój | ój |
-| ㅟ | wi | új | új |
-| ㅙ | we | wé | waj |
+| ㅚ | we | ö(wj) | ój(woj) |
+| ㅟ | wi | ü(wi) | új(wuj) |
+| ㅙ | we | wé(waj) | waj |
 | ㅞ | we | we | wvj |
-| Text | Transcription | Transliteration | Old Text | Misc. |
+| Text | Transc. | Transl. | Old Text | Misc. |
 | ᆝ | yv | yv | yo |
 | (ᆢ) | vv | vv | oo | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆉ | ywe | yö | yój |
-| ㆌ | ywi | yü | yúj |
+| ㆉ | ywe | yö(ywj) | yój(ywoj) |
+| ㆌ | ywi | yü(ywi) | yúj(ywuj) |
 | ᆜ | yu | yu | yu |
 | (ᆖ) | uu | uu | uu | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆎ | vj' | vj | oj |
+| ㆎ | vj | vj | oj |
 
-| Text | Transcription & Transliteration & Old Text | Misc. |
-| - | - | - |
-| ㄱ | q |
+| Text | Transc. & Transl. | Old Text | Misc. |
+| - | - | - | - |
+| ㄱ | q | k |
 | ㄴ | n |
-| ㄷ | d |
-| ㄹ | l | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㄷ | d | t |
+| ㄹ | l | | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅁ | m |
-| ㅂ | b |
+| ㅂ | b | p |
 | ㅅ | s |
 | ㆁ | g/ng |
 | ㅈ | z |
 | ㅊ | c |
 | ㅿ | x |
-| ㅋ | k |
-| ㅌ | t |
-| ㅍ | p |
-| ㆆ | ? |
+| ㅋ | k | kh |
+| ㅌ | t | th |
+| ㅍ | p | ph |
+| ㆆ | ? | q |
 | ㅎ | h |
-| Text | Transcription & Transliteration & Old Text |
-| ㄲ | qq |
-| ㄸ | dd |
-| ㅃ | bb |
+| Text | Transc. & Transl. | Old Text | Misc. |
+| ㄲ | qq | kk |
+| ㄸ | dd | tt |
+| ㅃ | bb | pp |
 | ㅆ | ss |
 | ㅉ | zz |
-| Text | Transcription & Transliteration & Old Text |
+| Text | Transc. & Transl. | Old Text | Misc. |
 | ㅱ | m' |
 | ㅸ | f |
 | ㅹ | b' |
@@ -199,7 +198,7 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
 2. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Or, write 사이시읏 as ⟨s⟩ explicitly.
 
-| Text | Suqqested Transcription | Alternative Transcription | Current Transcription |
+| Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
 | - | - | - | - |
 | 숫자 | súdza | súsza | súsza |
 | 멸족 | myoldzóq | myolszóq | myolzóq |
@@ -213,14 +212,14 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
 3. Write 'ㅂ' 불규칙 활용 explicitly
 
-| Text | Suqqested Transcription |
+| Text | Suqqested Transc. |
 | - | - |
 | Current: 덥다, 더워 | dobda, dowu |
 | Suggestion: 덥w다, 더워 | dobwda, dobwo |
 
 4. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
 
-| Text | Suqqested Transcription |
+| Text | Suqqested Transc. |
 | - | - |
 | Current: 낫다, 나아 | nasda, naa |
 | Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
@@ -234,24 +233,14 @@ The differences from the Yale Romanization are as follows.
 | Text | Here (Old Text) | Yale |
 | - | - | - |
 | ㅇ | ' | G |
-| ㅓ | o | e |
-| ㅗ | ó | (w)o |
-| ㅜ | ú | (w)u |
+| ㅓ | v | e |
+| ㅗ | ó(wo) | (w)o |
+| ㅜ | ú(wu) | (w)u |
 | ㅐ | aj | ay |
 | ㅔ | oj | ey |
-| ㄱ | q | k |
-| ㄷ | d | t |
-| ㅂ | b | p |
-| ㅋ | k | kh |
-| ㅌ | t | th |
-| ㅍ | p | ph |
-| ㄲ | qq | kk |
-| ㄸ | dd | tt |
-| ㅃ | bb | pp |
 | ㆁ | g/ng | ng |
 | ㅈ | z | c |
 | ㅉ | zz | cc |
-| ㆆ | ? | q |
 | ㅿ | x | z |
 | ㅱ | m' | ? |
 | ㅸ | f | ? |
@@ -309,9 +298,9 @@ There is no particular reason in Korean language to use multiple letters against
 
 ⟨g⟩ was in use for ⟨ㆁ⟩ to meet design requirement. It needs be used exclusively for the character to avoid use of apostrophe.
 
-* Why ⟨ng⟩, not ⟨ŋ⟩?
+* Why ⟨g⟩ and ⟨ng⟩, not ⟨ŋ⟩?
 
-You can't type that with Qwerty. This is important for more people than you might imagine.
+It's not a commonly used letter, so it's hard to type that letter. Also, you can't type that with Qwerty. This is important for more people than you might imagine.
 
 * Why allow both ⟨ng⟩ and ⟨g⟩?
 
@@ -332,7 +321,7 @@ I've explained above. But it's also because you can't type it with Qwerty layout
 
 * About ⟨ㅢ⟩...
 
-Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. This system is mainly a transliteration, and the only real reason transcription is included here is to compensate for the outdated official standard pronunciation.
+Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. This system is mainly a transliteration, and the only real reason transcription is included here is to compensate for the outdated official standard pronunciation. If you are wondering how to pronounce it, let me tell you that Koreans are also not sure how they should pronounce it, so everyone's mileage varies. I personally use the short i sound from English.
 
 ## To read more about the topic...
 
