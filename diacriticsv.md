@@ -55,7 +55,7 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 | ㅝ | wo | wo |
 | ㅗ | ó(wv) | ó(wv) |
 | Text | Transc. | Transl. | Misc. |
-| | j | y |
+| | y | y |
 | ㅑ | ya | ya |
 | | | |
 | ㅠ | yú(yu) | yú(yu) |
