@@ -91,18 +91,18 @@ mwodun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdu
 | ㅸ | f | 더위 |
 | ㄴ | n | 나폴리 |
 | ㄷ | d | 도라지 |
-| ㄸ | dd |
+| ㄸ | dd | 딸기 |
 | ㅌ | t | 통신 |
 | ㄹ | l | 로마 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅅ | s | 서울 |
-| ㅆ | ss |
+| ㅆ | ss | 씨름 |
 | ㅈ | z | 지게 |
 | ㅉ | zz | 짜장면 |
 | ㅊ | c | 치마 |
 | ㅿ | x | 젓가락 |
 | ㆁ | g/ng | 잉어 |
 | ㄱ | q | 기러기 |
-| ㄲ | qq |
+| ㄲ | qq | 깐부 |
 | ㅋ | k | 키다리 |
 
 * For combinational letters, just write them out by each compositig letter
