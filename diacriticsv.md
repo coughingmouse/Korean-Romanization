@@ -150,7 +150,7 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
 | Text | Suqqested Transc. |
 | - | - |
-| Current: 덥다, 더워 | dobda, dowu |
+| Current: 덥다, 더워 | dobda, dowo |
 | Suggestion: 덥w다, 더워 | dofda, dofo |
 
 4. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
