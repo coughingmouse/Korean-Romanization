@@ -1,124 +1,163 @@
-# Deprecated Mavse Korean Script Romanization v0.0.0
+# Maúsu Romanization for Korean
 
-Soon going to be changed to a version that people would like more. This version will be preserved.
+Basically became something like a Revised Yale Romanization of Korean.
+Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
-Latin Transcription & transliteration System for Korean Scripts, made to be used. And a transliteration system more fit for old text.
-
-마우스식 국문 로마자화. 실용성을 중심으로 만든 국문 로마자 전사법 및 전자법을 소개합니다. 고문에 더 적합한 전자법도 있습니다.
+국문 로마자화.
 
 ```
+모든    인간은    태어날    때부터      자유로우며       그 존엄과      권리에    있어  동등하다.         인간은   천부적으로      이성과     양심을      부여받았으며        서로   형제애의      정신으로     행동하여야           한다.
+módun  inqanun teonal  ddebúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeeui  zongsinulo hengdónghayoya   handa.
+módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéui  zongsinulo héngdónghayoya   handa.
 
-모든   인간은    태어날    때부터     자유로우며    그 존엄과     권리에     있어  동등하다.        인간은   천부적으로     이성과     양심을      부여받았으며       서로  형제애의       정신으로      행동하여야         한다.
-moden inqanen teunal  ddebvtu  zayvlovmju qy zonumqwa qwunlie  issu dongdynghada. inqanyn cunbvzuqelo isungqwa yangsimel bvyubadassemyu sulo hyungzeee    zungsinelo hengdonghayuya  handa.
-moden inqanen tajunal ddajbvtu zayvlovmju qy zonumqwa qwunliuj issu dongdynghada. inqanyn cunbvzuqelo isungqwa yangsimel bvyubadassemyu sulo hyungzujajej zungsinelo hajngdonghayuya handa.
+mwodun inqanun teonal  ddebwuto  zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeeui  zongsinulo hengdwvnghayoya  handa.
+mwodun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeajui zongsinulo hajngdwvnghayoya handa.
 ```
-
 #### tl;dr
 
-| Example | Transcription | Transliteration | Old Text | Misc. |
-| - | - | - | - | - |
-| ㆍ | @ | @ | u |
-| ㅐ/ㅔ/ㅢ | e | aj/uj/ej | aj/uj/ej |
-| ㅓ | u | u | o | Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
-| ㅡ | y | e | e |
-| ㅜ | v | v | v | Technically equivalent to the disallowed form ⟨wy⟩/⟨we⟩. |
-| ㄹ | l | l | l | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
-| ㅈ | z | z | z |
-| ㅊ | c | c | c |
-| ㆁ | g/ng | g/ng | g/ng |
-| ㄲ | qq | qq | qq |
-| ㆆ | ? | ? | ? |
-| ㅿ | x | x | x |
-| 한글 | hanqyl | hanqel | hanqel | Korean word for Hangul. |
-| 훈민정음 | hvnminzungym | hvnminzugem | hunminzogem | Korean word for Hunminjeongeum, a predecessor to Hangul. (hunminzyong?em / hunminzyog?em) |
-| 동국정운 | dongqvqzungvn | dongqvqzugvn | dwvngquqzongvn | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
-| 리어카 | liuka | liuka | lioka | Loanword from Japanese "リヤカー". |
-| 우리 | vri | vli | vli | Korean word for "us". |
-| 미란다 | miranda | miranda | milanda |
-| 레드 | redy | rujde | lojde | Loanword from English "red". |
-| 서울 | suvl | suvl | sovl | Korean word for "Seoul". |
-| 김정은 | qim zungyn | qim zugen | qim zogen | Korean word for "Kim Jong-un". |
-| 마라탕 | malatang | malatag | malatag | Spicy hot pot. Delicious. |
-
-## Introduction
-It [seems](https://en.wikipedia.org/wiki/Romanization_of_Korean?wprov=sfti1
-) romanization of Korean and Korean script is in qeneral not in a qreat condition. In particular, they would not be very useful for learnig Modern Korean in an academic settig. So I decided I'd make a [better one](https://xkcd.com/927/). You can read why I've made it in detail [here](https://github.com/coughingmouse/MKSR/blob/main/why.md). It can be used for regular (morphophonemic), phonemic, and phonetic transcription, but please do use appropriate brackets for phonemic and phonetic trascriptions and only for proper use.
-
-It was first made to follow phonoloqical sense, and was simply compressed to make it more useful (x to y, xh to x, xx to yy, with the exception of ⟨ss⟩ which stayed unmodified) or modified so that it is compatible with old letters (⟨v⟩/⟨ㆍ⟩ and ⟨x⟩/⟨ㅿ⟩). The intermediary version is available as [proto.md](https://github.com/coughingmouse/MKSR/blob/main/proto.md) on Github.
-
-The transcription is made to better fit Modern Korean.
-It wasn't made to be used definitively, so for each use, you will have to decide on whether to both ⟨r⟩/⟨l⟩ and ⟨g⟩/⟨ng⟩.
-* For qeneral use or (fictional) official use in Korea, usig either the transcription or the transliteration system allowig only ⟨l⟩ and ⟨g⟩ will do, with exception for loanwords to use ⟨r⟩.
-* For academic use, using the transliteration or old text transliteration system allowig only ⟨l⟩ and either of ⟨g⟩/⟨ng⟩ will do. 
-* For use for foreiqners visitig Korea, use the morphophonemic or phonemic (in slashes ```/.../```, svp) transcription system allowig only ⟨ng⟩ and only ⟨r⟩ when pronounced as such: in between vowels or /h/ in Korean words.
-
+| Text | Transcription | Transliteration | Misc. |
+| - | - | - | - |
+| ㆍ | v | v |
+| ㅐ/ㅔ/ㅢ | e/e/ui | é(aj)/e/uj |
+| ㅡ | u | u |
+| ㅓ | o | o |
+| ㅜ | ú(wu) | ú(wu) |
+| ㅗ | ó(wv) | ó(wv) |
+| ㅟ | wi | ü(wi) |
+| ㅚ | we | ö(wj) |
+| ㅈ | z | z |
+| ㅊ | c | c |
+| ㆁ | g/ng | g/ng |
+| ㄲ | qq | qq |
+| ㆆ | ? | ? |
+| ㅿ | x | x |
+| 한글 | hanqul | hanqul | Korean word for Hangul. |
+| 훈민정음 | húnminzongum | húnminzogum | Korean word for Hunminjeongeum, a predecessor to Hangul. (húnminzyong?um / húnminzyog?um) |
+| 동국정운 | dóngqúqzongún | dógqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 리어카 | lioka | lioka | Loanword from Japanese "リヤカー". |
+| 우리 | úli | úli | Korean word for "us." |
+| 미란다 | miranda | miranda |
+| 레드 | redu | redu | Loanword from English "red." |
+| 서울 | soúl | soúl | Korean word for "Seoul." |
+| 김정은 | qim zongun | qim zogun | "Kim Jong-un." |
+| 마라탕 | malatang | malatag | Spicy hot pot. Delicious. |
 
 ## Modern Korean version
 
-| Text | Transc. | Transl. | Misc. |
-| - | - | - | - |
-| ㅎ | h | h |
-| ㅇ | ' | ' | Apostrophe; can also be used to indicate abbreviation. |
-| ㅏ | a | a |
-| ㅣ | i | i |
-| ㅡ | y | e |
-| ㅐ | e | aj |
-| ㅔ | e | uj |
-| ㅓ | u | u |  Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
-| Text | Transc. | Transl. | Misc. |
+| Text | Transc. | Transl. | Example | Misc. |
+| - | - | - | - | - |
+| ㅎ | h | h | 한강 |
+| ㅇ | ’(') | ’(') |  | Apostrophe; can also be used to indicate abbreviation. |
+| ㅏ | a | a | 아빠 |
+| ㅣ | i | i | 이순신 |
+| ㅡ | u | u | 은방울 |
+| ㅐ | e | é(aj) | 앵무새 |
+| ㅔ | e | e | 엑스레이 |
+| ㅓ | o | o | 엄마 |
+| Text | Transc. | Transl. | Example | Misc. |
 | | w | w |
-| ㅘ | wa | wa |
-| ㅟ | wi | vj |
-| ㅜ | v | v |
-| ㅙ | we | waj |
-| ㅞ | we | wuj |
-| ㅝ | wu | wu |
-| ㅗ | o | o |
-| Text | Transc. | Transl. | Misc. | 
-| | j | y |
-| ㅑ | ja | ya |
+| ㅘ | wa | wa | 과자 |
+| ㅟ | wi | ü(wi) | 휘파람 |
+| ㅜ | ú(wu) | ú(wu) | 우편 |
+| ㅙ | we | wé(waj) | 돼지 |
+| ㅞ | we | we | 궤도 |
+| ㅝ | wo | wo | 원숭이 |
+| ㅗ | ó(wv) | ó(wv) | 오징어 |
+| Text | Transc. | Transl. | Example | Misc. |
+| | y | y |
+| ㅑ | ya | ya | 야자수 |
 | | | |
-| ㅠ | jv | yv |
-| ㅒ | je | yaj |
-| ㅖ | je | yuj |
-| ㅕ | ju | yu |
-| ㅛ | jo | yo |
-| Text | Transc. | Transl. | Misc. | 
+| ㅠ | yú(yu) | yú(yu) | 유치원 |
+| ㅒ | ye | yé(yaj) | 섀도 |
+| ㅖ | ye | ye | 계란 |
+| ㅕ | yo | yo | 연못 |
+| ㅛ | yó(ywv) | yó(ywv) | 요지경 |
+| Text | Transc. | Transl. | Example | Misc. |
 | | | j |
-| ㅐ | e | aj |
+| ㅐ | e | é(aj) | 엑스레이 |
 | | | |
-| ㅢ | yi | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| ㅢ | ui | uj | 의사 | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 | | | |
-| ㅔ | e | uj |
-| ㅚ | we | oj |
+| ㅔ | e | e | 앵무새 |
+| ㅚ | we | ö(wj) | 회색 |
 
-| Text | Transc. & Transl. | Misc. |
-| - | - | - |
-| ㅁ | m |
-| ㅂ | b |
-| ㅃ | bb |
-| ㅍ | p |
-| ㄴ | n |
-| ㄷ | d |
-| ㄸ | dd |
-| ㅌ | t |
-| ㄹ | l | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
-| ㅅ | s |
-| ㅆ | ss |
-| ㅈ | z |
-| ㅉ | zz |
-| ㅊ | c |
-| ㆁ | g/ng |
-| ㄱ | q |
-| ㄲ | qq |
-| ㅋ | k |
+| Text | Transc. & Transl. | Example | Misc. |
+| - | - | - | - |
+| ㅁ | m | 미나리 |
+| ㅂ | b | 바가지 |
+| ㅃ | bb | 빵 |
+| ㅍ | p | 파고다 |
+| ㅸ | f | 더위 |
+| ㄴ | n | 나폴리 |
+| ㄷ | d | 도라지 |
+| ㄸ | dd | 딸기 |
+| ㅌ | t | 통신 |
+| ㄹ | l | 로마 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㅅ | s | 서울 |
+| ㅆ | ss | 씨름 |
+| ㅈ | z | 지게 |
+| ㅉ | zz | 짜장면 |
+| ㅊ | c | 치마 |
+| ㅿ | x | 젓가락 |
+| ㆁ | g/ng | 잉어 |
+| ㄱ | q | 기러기 |
+| ㄲ | qq | 깐부 |
+| ㅋ | k | 키다리 |
 
 * For combinational letters, just write them out by each compositig letter
-* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨S⟩, ⟨Z⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, ⟨ss⟩, and ⟨zz⟩. But it's strogly not recommended, as this practice does not play well with the conventions reqarding letter cases.
 
 ### Misc.
 * Halfwidth font is strogly preferred.
-* ⟨f⟩ and ⟨x⟩ are not used for the transcription/transliteration of Mordern Korean. ⟨r⟩ is not used for transliteration.
+
+Spacig, hyphenation, etc. follow [한글맞춤법](httpt://kornorms.korean.go.kr/m/m_regltn.do#a).
+
+Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_regltn.do#a) 부록. But additionally, 
+1. Kwotation marks are preferred over other types of punctuations.
+1. American conventions reqardig typoqraphic forms are recommended.
+1. Use ⟨.⟩ to separate by syllables.
+1. For academic usage for what is not specified here, various practices using Yale Romanization are accepted.
+
+______
+
+## Korean Specific Additions
+
+These are some desiqn compromizes associated with usig a syllabary system for a non-monosyllabic lanquaqe in the existig spellig system. Since we are not usig a syllabary here, we don't need them. Here are some examples.
+
+1. Write 사이히읗 as ⟨h'⟩ explicitly
+
+| Text | Transcription |
+| - | - |
+| Current: 가당치도 | qadangcido |
+| Suqqestion: 가당ㅎ지도 | qadangh'zido |
+
+2. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Or, write 사이시읏 as ⟨s⟩ explicitly.
+
+| Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
+| - | - | - | - |
+| 숫자 | súdza | súsza | súsza |
+| 멸족 | myoldzóq | myolszóq | myolzóq |
+| 냇가 | nedqa | nesqa | nesqa |
+| 콧등 | kóddeng | kósdeng | kósdeng |
+| 뱃나루 | bennalú / bennarú | besnalú / besnarú | besnalú / besnarú |
+| 나뭇잎 | namúnnip | namúsip | namúsip |
+| 볼일 | bólnil | bólsil | bólil |
+| 빵 조각 | bbang d zoqaq | bbang s zoqaq | bbang zoqaq |
+| 할 일 | hal n il | hal s il | hal il |
+| 한 일 | han n il | han s il | han il |
+
+3. Write 'ㅂ' 불규칙 활용 explicitly with ⟨f⟩
+
+| Text | Suqqested Transc. |
+| - | - |
+| Current: 덥다, 더워 | dobda, dowo |
+| Suggestion: 덥w다, 더워 | dofda, dofo |
+
+4. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
+
+| Text | Suqqested Transc. |
+| - | - |
+| Current: 낫다, 나아 | nasda, naa |
+| Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
 ______
 
 ## Full specifications
@@ -127,38 +166,38 @@ ______
 | - | - | - | - | - |
 | ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
 | ㅏ | a | a | a |
-| ㅑ | ja | ya | ya |
-| ㅓ | u | u | o | Using ⟨uh'⟩ in transcription is permitted but strogly recommended aqainst. |
-| ㅕ | ju | yu | yo |
-| ㆍ | @ | @ | u |
-| ㅗ | o | o | wu |
-| ㅛ | jo | yo | ywu |
-| ㅜ | v | v | v | Technically equivalent to the disallowed form ⟨wy⟩/⟨we⟩. |
-| ㅠ | jv | yv | yv |
+| ㅑ | ya | ya | ya |
+| ㅓ | o | o | v |
+| ㅕ | yo | yo | yv |
+| ㆍ | v | v | o |
+| ㅗ | ó(wv) | ó(wv) | ó(wo) |
+| ㅛ | yó(ywv) | yó(ywv) | yó(yo) |
+| ㅜ | ú(wu) | ú(wu) | ú(wu) |
+| ㅠ | yú(yu) | yú(yu) | yú(yu) |
 | ㅣ | i | i | i |
-| ㅡ | y | e | e |
+| ㅡ | u | u | u |
 | | w | w | w |
 | | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| Text | Trans. | Transl. | Old Text | Misc. |
+| ㅐ | e | é(aj) | aj |
+| ㅒ | ye | yé(yaj) | yaj |
+| ㅔ | e | e | vj |
+| ㅖ | ye | ye | yvj |
+| ㅢ | ui | uj | uj | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| ㅘ | wa | wa | wa |
+| ㅝ | wo | wo | wv |
+| ㅚ | we | ö(wj) | ój(woj) |
+| ㅟ | wi | ü(wi) | új(wuj) |
+| ㅙ | we | wé(waj) | waj |
+| ㅞ | we | we | wvj |
 | Text | Transc. | Transl. | Old Text | Misc. |
-| ㅐ | e | aj | aj |
-| ㅒ | je | yaj | yaj |
-| ㅔ | e | uj | oj |
-| ㅖ | je | yuj | yoj |
-| ㅢ | yi | ej | ej | In transcription, use ⟨e⟩ only when used as the preposition -의. |
-| ㅘ | wa | wa | wua |
-| ㅝ | wu | wu | wo |
-| ㅚ | we | oj | wuj |
-| ㅟ | wi | vj | vj |
-| ㅙ | we | waj | wuaj |
-| ㅞ | we | wuj | woj |
-| Text | Transc. | Transl. | Old Text | Misc. |
-| ᆝ | j@ | y@ | yu |
-| (ᆢ) | @@ | @@ | uu | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆉ | jwe | yoj | ywuj |
-| ㆌ | jwi | y@j | yvj |
-| ᆜ | jy | ye | ye |
-| (ᆖ) | yy | ee | ee | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆎ | @j' | @j | uj |
+| ᆝ | yv | yv | yo |
+| (ᆢ) | vv | vv | oo | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㆉ | ywe | yö(ywj) | yój(ywoj) |
+| ㆌ | ywi | yü(ywi) | yúj(ywuj) |
+| ᆜ | yu | yu | yu |
+| (ᆖ) | uu | uu | uu | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㆎ | vj | vj | oj |
 
 | Text | Transc. & Transl. | Old Text | Misc. |
 | - | - | - | - |
@@ -178,13 +217,13 @@ ______
 | ㅍ | p | ph |
 | ㆆ | ? | q |
 | ㅎ | h |
-| Text | Transcription & Transliteration | Old Text |
+| Text | Transc. & Transl. | Old Text | Misc. |
 | ㄲ | qq | kk |
 | ㄸ | dd | tt |
 | ㅃ | bb | pp |
 | ㅆ | ss |
 | ㅉ | zz |
-| Text | Transc. & Transl. | Old Text |
+| Text | Transc. & Transl. | Old Text | Misc. |
 | ㅱ | m' |
 | ㅸ | f |
 | ㅹ | b' |
@@ -197,54 +236,6 @@ ______
 
 ### Misc.
 * Halfwidth font is strogly preferred.
-______
-
-## Korean Specific Additions
-
-Spacig, hyphenation, etc. follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_regltn.do#a).
-
-Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_regltn.do#a) 부록. But additionally, 
-1. Kwotation marks are preferred over other types of punctuations.
-1. American conventions reqardig typoqraphic forms are recommended.
-1. Use ⟨.⟩ to separate by syllables.
-1. For academic usage for what is not specified here, various practices using Yale Romanization are accepted.
-
-These are some desiqn compromizes associated with usig a syllabary system for a non-monosyllabic lanquaqe in the existing spelling system. Since we are not usig a syllabary here, we don't need them. Here are some examples.
-
-1. Write 사이히읗 as ⟨h'⟩ explicitly
-
-| Text | Transcription |
-| - | - |
-| Current: 가당치도 | qadangcido |
-| Suqqestion: 가당ㅎ지도 | qadangh'zido |
-
-2. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Or, write 사이시읏 as ⟨s⟩ explicitly.
-
-| Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
-| - | - | - | - |
-| 숫자 | svdza | svsza | svsza |
-| 멸족 | myuldzoq | myulszoq | myulzoq |
-| 냇가 | nedqa | nesqa | nesqa |
-| 콧등 | koddeng | kosdeng | kosdeng |
-| 뱃나루 | bennalu / bennaru | besnalu / besnaru | besnalu / besnaru |
-| 나뭇잎 | namvnnip | namvsip | namvsip |
-| 볼일 | bolnil | bolsil | bolil |
-| 할 일 | hal (n) il | hal (s) il | hal il |
-| 한 일 | han (n) il | han (s) il | han il |
-
-3. Write 'ㅂ' 불규칙 활용 explicitly
-
-| Text | Suqqested Transc. |
-| - | - |
-| Current: 덥다, 더워 | dubda, duwu |
-| Suggestion: 덥w다, 더워 | dubwda, dubwu |
-
-4. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
-
-| Text | Suqqested Transc. |
-| - | - |
-| Current: 낫다, 나아 | nasda, naa |
-| Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
 
 _______
 
@@ -255,25 +246,14 @@ The differences from the Yale Romanization are as follows.
 | Text | Here (Old Text) | Yale |
 | - | - | - |
 | ㅇ | ' | G |
-| ㆍ | u | o |
-| ㅓ | o | e |
-| ㅡ | e | u |
-| ㅜ | v | (w)u |
+| ㅓ | v | e |
+| ㅗ | ó(wo) | (w)o |
+| ㅜ | ú(wu) | (w)u |
 | ㅐ | aj | ay |
 | ㅔ | oj | ey |
-| ㄱ | q | k |
-| ㄷ | d | t |
-| ㅂ | b | p |
-| ㅋ | k | kh |
-| ㅌ | t | th |
-| ㅍ | p | ph |
-| ㄲ | qq | kk |
-| ㄸ | dd | tt |
-| ㅃ | bb | pp |
 | ㆁ | g/ng | ng |
 | ㅈ | z | c |
 | ㅉ | zz | cc |
-| ㆆ | ? | q |
 | ㅿ | x | z |
 | ㅱ | m' | ? |
 | ㅸ | f | ? |
@@ -287,20 +267,20 @@ ______
 
 | Transcription | Transliteration | Text |
 | - | - | - |
-| boyn | boen | 보은 |
-| muqbang | muqbag | 먹방 |
-| Seoul | Seoul | 세오얼 / 스오얼 |
-| qqoc | qqoc | 꽃 |
-| qoz | qoz | 곶 |
-| qos | qos | 곳 |
+| boun | boun | 보은 |
+| moqbang | moqbag | 먹방 |
+| Seoul | Seoul | 세어을 |
+| qqóc | qqóc | 꽃 |
+| qóz | qóz | 곶 |
+| qós | qós | 곳 |
 | zzang | zzag | 짱 |
-| qymdongmiryqbosalbanqasajvsang / qymdongmilyqbosalbanqasajvsang | qemdogmilyqbosalbanqasayvsag | 금동미륵보살반가사유상 |
+| qumdongmiruqbosalbanqasajúsang / qumdongmiluqbosalbanqasajúsang | qumdogmiluqbosalbanqasayúsag | 금동미륵보살반가사유상 |
 | milky | milke | 밀크 |
-| buraq obama / bulaq obama | buraq obama | 버락 오바마 |
-| sincung | sincug | 신청 |
-| sacunsung | sacunsug | 사천성 |
+| boraq óbama / bolaq óbama | boraq óbama | 버락 오바마 |
+| sincong | sincog | 신청 |
+| saconsong | saconsog | 사천성 |
 | manhwa | manhwa | 만화 |
-| ?il i sam sa o ljvq cil pal qv sib | ?il i sam sa o lyvq cil pal qv sib | 일 이…십 |
+| ?il i sam sa o ljúq cil pal qú sib | ?il i sam sa o lyúq cil pal qú sib | 일 이…십 |
 ______
 
 ### FAQ
@@ -331,25 +311,13 @@ There is no particular reason in Korean language to use multiple letters against
 
 ⟨g⟩ was in use for ⟨ㆁ⟩ to meet design requirement. It needs be used exclusively for the character to avoid use of apostrophe.
 
-* Why ⟨ng⟩, not ⟨ŋ⟩?
+* Why ⟨g⟩ and ⟨ng⟩, not ⟨ŋ⟩?
 
-You can't type that with Qwerty. This is important for more people than you might imagine.
+It's not a commonly used letter, so it's hard to type that letter. Also, you can't type that with Qwerty. This is important for more people than you might imagine.
 
 * Why allow both ⟨ng⟩ and ⟨g⟩?
 
 Although using ⟨ng⟩ does not meet design requirement, it does fit well, and people like it that way. But if this system were to be used for long, it's likely that providing the option to use ⟨g⟩ instead of ⟨ng⟩ will come in handy.
-
-* Why ⟨e⟩ for ⟨ㅡ⟩?
-
-What initially made try it out was that the articulation of ⟨ㅡ⟩ is weak, like how ⟨e⟩s tend to be in popular languages. It also better explains how ⟨ㅢ⟩ came to be pronounced as /e/ at times.
-
-* ⟨u⟩ for ⟨ㅓ⟩? Really?
-
-What else, when ⟨o⟩ had to be used for ⟨ㅗ⟩, and ⟨a⟩ for ⟨ㅏ⟩? Thankfully there's a major language which pronounces ⟨u⟩ similarly. As mentioned on the question above, Using only ASCII compliant letters for Korean script means using at least one unusual choice in coordinating for vowels. This is the one. There's a [version that you may like](https://github.com/coughingmouse/MKSR/blob/main/diacriticsv.md) if you are fine with using diacritics.
-
-* ⟨v⟩ for ⟨ㅜ⟩?
-
-The other option was ⟨oy⟩/⟨oe⟩ and my friend didn't like it, so I got ⟨v⟩ from are-a. Yes, this does not look cool, and this is why I'm not promoting this system. The system itself has interesting features regardless, so I'll keep it online.
 
 * Why are Old Korean letters here?/Why are some Latin letters unused for Modern Korean?
 
@@ -366,7 +334,7 @@ I've explained above. But it's also because you can't type it with Qwerty layout
 
 * About ⟨ㅢ⟩...
 
-Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. This system is mainly a transliteration, and the only real reason transcription is included here is to compensate for the outdated official standard pronunciation.
+Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. This system is mainly a transliteration, and the only real reason transcription is included here is to compensate for the outdated official standard pronunciation. If you are wondering how to pronounce it, let me tell you that Koreans are also not sure how they should pronounce it, so everyone's mileage varies. I personally use the short i sound from English.
 
 ## To read more about the topic...
 
