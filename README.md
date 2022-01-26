@@ -1,4 +1,4 @@
-# Maúsu Romanization for Korean
+# Maúsu Romanization for Korean Scripts
 
 Basically became something like a Revised Yale Romanization of Korean.
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
