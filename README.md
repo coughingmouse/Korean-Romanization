@@ -167,8 +167,8 @@ ______
 | ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
 | ㅏ | a | a | a |
 | ㅑ | ya | ya | ya |
-| ㅓ | o | o | v |
-| ㅕ | yo | yo | yv |
+| ㅓ | o | o | e |
+| ㅕ | yo | yo | ye |
 | ㆍ | v | v | o |
 | ㅗ | ó(wv) | ó(wv) | ó(wo) |
 | ㅛ | yó(ywv) | yó(ywv) | yó(yo) |
@@ -181,15 +181,15 @@ ______
 | Text | Trans. | Transl. | Old Text | Misc. |
 | ㅐ | e | é(aj) | aj |
 | ㅒ | ye | yé(yaj) | yaj |
-| ㅔ | e | e | vj |
-| ㅖ | ye | ye | yvj |
+| ㅔ | e | e | ej |
+| ㅖ | ye | ye | yej |
 | ㅢ | ui | uj | uj | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 | ㅘ | wa | wa | wa |
-| ㅝ | wo | wo | wv |
+| ㅝ | wo | wo | we |
 | ㅚ | we | ö(wj) | ój(woj) |
 | ㅟ | wi | ü(wi) | új(wuj) |
 | ㅙ | we | wé(waj) | waj |
-| ㅞ | we | we | wvj |
+| ㅞ | we | we | wej |
 | Text | Transc. | Transl. | Old Text | Misc. |
 | ᆝ | yv | yv | yo |
 | (ᆢ) | vv | vv | oo | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
@@ -232,7 +232,6 @@ ______
 
 * For sibilant variants, use IPA equivalent and use of X-SAMPA is allowed
 * For combinational letters, just write them out by each compositig letter
-* Capital Latin letters are not used by default, but ⟨Q⟩, ⟨D⟩, ⟨B⟩, ⟨S⟩, ⟨Z⟩ may be used to abbreviate ⟨qq⟩, ⟨dd⟩, ⟨bb⟩, ⟨ss⟩, and ⟨zz⟩. But it's strogly not recommended, as this practice does not play well with the conventions reqardig letter cases.
 
 ### Misc.
 * Halfwidth font is strogly preferred.
@@ -246,11 +245,10 @@ The differences from the Yale Romanization are as follows.
 | Text | Here (Old Text) | Yale |
 | - | - | - |
 | ㅇ | ' | G |
-| ㅓ | v | e |
 | ㅗ | ó(wo) | (w)o |
 | ㅜ | ú(wu) | (w)u |
 | ㅐ | aj | ay |
-| ㅔ | oj | ey |
+| ㅔ | ej | ey |
 | ㆁ | g/ng | ng |
 | ㅈ | z | c |
 | ㅉ | zz | cc |
