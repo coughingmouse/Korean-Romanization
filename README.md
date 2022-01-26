@@ -201,26 +201,26 @@ ______
 
 | Text | Transc. & Transl. | Old Text | Misc. |
 | - | - | - | - |
-| ㄱ | q | k |
+| ㄱ | q |
 | ㄴ | n |
-| ㄷ | d | t |
+| ㄷ | d |
 | ㄹ | l | | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
 | ㅁ | m |
-| ㅂ | b | p |
+| ㅂ | b |
 | ㅅ | s |
 | ㆁ | g/ng |
 | ㅈ | z |
 | ㅊ | c |
 | ㅿ | x |
-| ㅋ | k | kh |
-| ㅌ | t | th |
-| ㅍ | p | ph |
-| ㆆ | ? | q |
+| ㅋ | k |
+| ㅌ | t |
+| ㅍ | p |
+| ㆆ | ? |
 | ㅎ | h |
 | Text | Transc. & Transl. | Old Text | Misc. |
-| ㄲ | qq | kk |
-| ㄸ | dd | tt |
-| ㅃ | bb | pp |
+| ㄲ | qq |
+| ㄸ | dd |
+| ㅃ | bb |
 | ㅆ | ss |
 | ㅉ | zz |
 | Text | Transc. & Transl. | Old Text | Misc. |
@@ -249,10 +249,14 @@ The differences from the Yale Romanization are as follows.
 | ㅜ | ú(wu) | (w)u |
 | ㅐ | aj | ay |
 | ㅔ | ej | ey |
+| ㄱ | q |
+| ㄷ | d |
+| ㅂ | b |
 | ㆁ | g/ng | ng |
 | ㅈ | z | c |
 | ㅉ | zz | cc |
 | ㅿ | x | z |
+| ㆆ | ? | q |
 | ㅱ | m' | ? |
 | ㅸ | f | ? |
 | ㅹ | b' | ? |
