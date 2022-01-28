@@ -5,7 +5,7 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
 국문 로마자화.
 
-```
+```text
 모든    인간은    태어날    때부터      자유로우며       그 존엄과      권리에    있어  동등하다.         인간은   천부적으로      이성과     양심을      부여받았으며        서로   형제애의      정신으로     행동하여야           한다.
 módun  inqanun teonal  ddebúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeeui  zongsinulo hengdónghayoya   handa.
 módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéui  zongsinulo héngdónghayoya   handa.
@@ -13,7 +13,8 @@ módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso
 mwodun inqanun teonal  ddebwuto  zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeeui  zongsinulo hengdwvnghayoya  handa.
 mwodun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeajui zongsinulo hajngdwvnghayoya handa.
 ```
-#### tl;dr
+
+## tl;dr
 
 | Text | Transcription | Transliteration | Misc. |
 | - | - | - | - |
@@ -106,12 +107,14 @@ mwodun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdu
 
 * For combinational letters, just write them out by each compositig letter
 
-### Misc.
+### Miscellaneous
+
 * Halfwidth font is strogly preferred.
 
 Spacig, hyphenation, etc. follow [한글맞춤법](httpt://kornorms.korean.go.kr/m/m_regltn.do#a).
 
-Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_regltn.do#a) 부록. But additionally, 
+Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_regltn.do#a) 부록. But additionally,
+
 1. Kwotation marks are preferred over other types of punctuations.
 1. American conventions reqardig typoqraphic forms are recommended.
 1. Use ⟨.⟩ to separate by syllables.
@@ -125,39 +128,40 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
 1. Write 사이히읗 as ⟨h'⟩ explicitly
 
-| Text | Transcription |
-| - | - |
-| Current: 가당치도 | qadangcido |
-| Suqqestion: 가당ㅎ지도 | qadangh'zido |
+    | Text | Transcription |
+    | - | - |
+    | Current: 가당치도 | qadangcido |
+    | Suqqestion: 가당ㅎ지도 | qadangh'zido |
 
-2. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Alternatively but less optimally, write 사이시읏 as ⟨s⟩ explicitly.
+1. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Alternatively but less optimally, write 사이시읏 as ⟨s⟩ explicitly.
 
-| Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
-| - | - | - | - |
-| 숫자 | súdza | súsza | súsza |
-| 멸족 | myoldzóq | myolszóq | myolzóq |
-| 냇가 | nedqa | nesqa | nesqa |
-| 콧등 | kóddeng | kósdeng | kósdeng |
-| 뱃나루 | bennalú / bennarú | besnalú / besnarú | besnalú / besnarú |
-| 나뭇잎 | namúnnip | namúsip | namúsip |
-| 볼일 | bólnil | bólsil | bólil |
-| 빵 조각 | bbang d zoqaq | bbang s zoqaq | bbang zoqaq |
-| 할 일 | hal n il | hal s il | hal il |
-| 한 일 | han n il | han s il | han il |
+    | Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
+    | - | - | - | - |
+    | 숫자 | súdza | súsza | súsza |
+    | 멸족 | myoldzóq | myolszóq | myolzóq |
+    | 냇가 | nedqa | nesqa | nesqa |
+    | 콧등 | kóddeng | kósdeng | kósdeng |
+    | 뱃나루 | bennalú / bennarú | besnalú / besnarú | besnalú / besnarú |
+    | 나뭇잎 | namúnnip | namúsip | namúsip |
+    | 볼일 | bólnil | bólsil | bólil |
+    | 빵 조각 | bbang d zoqaq | bbang s zoqaq | bbang zoqaq |
+    | 할 일 | hal n il | hal s il | hal il |
+    | 한 일 | han n il | han s il | han il |
 
-3. Write 'ㅂ' 불규칙 활용 explicitly with ⟨f⟩
+1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨f⟩
 
-| Text | Suqqested Transc. |
-| - | - |
-| Current: 덥다, 더워 | dobda, dowo |
-| Suggestion: 덥w다, 더워 | dofda, dofo |
+    | Text | Suqqested Transc. |
+    | - | - |
+    | Current: 덥다, 더워 | dobda, dowo |
+    | Suggestion: 덥w다, 더워 | dofda, dofo |
 
-4. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
+1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
 
-| Text | Suqqested Transc. |
-| - | - |
-| Current: 낫다, 나아 | nasda, naa |
-| Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
+    | Text | Suqqested Transc. |
+    | - | - |
+    | Current: 낫다, 나아 | nasda, naa |
+    | Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
+
 ______
 
 ## Full specifications
@@ -233,10 +237,9 @@ ______
 * For sibilant variants, use IPA equivalent and use of X-SAMPA is allowed
 * For combinational letters, just write them out by each compositig letter
 
-### Misc.
-* Halfwidth font is strogly preferred.
+### Miscellaneous
 
-_______
+* Halfwidth font is strogly preferred.
 
 ## Comparison
 
@@ -338,7 +341,7 @@ I've explained above. But it's also because you can't type it with Qwerty layout
 
 Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. This system is mainly a transliteration, and the only real reason transcription is included here is to compensate for the outdated official standard pronunciation. If you are wondering how to pronounce it, let me tell you that Koreans are also not sure how they should pronounce it, so everyone's mileage varies. I personally use the short i sound from English.
 
-## To read more about the topic...
+## To read more about the topic
 
 정경일. (2013). 규범적 측면에서 본 로마자표기법의 제 문제. 언어학, 21(1), 139-154.
 
@@ -346,4 +349,4 @@ EDWARD F. KLEIN.(1982).Romanization of Korean.코리아저널,22(8),16-23.
 
 Kyung Il Jung. (2013). Some Issues on the Korean Romanization as the Normative Law. The Linguistic Association of Korea Journal, 21(1), 139-154.
 
-李相億. "국어의 로마자 표기법 문제 종합 검토." 언어와 언어학 7.- (1981): 15-48. "누구를 위하여 로마자 표기를 하여야 하나?". 
+李相億. "국어의 로마자 표기법 문제 종합 검토." 언어와 언어학 7.- (1981): 15-48. "누구를 위하여 로마자 표기를 하여야 하나?".
