@@ -10,8 +10,8 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 módun  inqanun teonal  ddebúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeeui  zongsinulo hengdónghayoya   handa.
 módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéui  zongsinulo héngdónghayoya   handa.
 
-mwodun inqanun teonal  ddebwuto  zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeeui  zongsinulo hengdwvnghayoya  handa.
-mwodun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeajui zongsinulo hajngdwvnghayoya handa.
+mwvdun inqanun teonal  ddebwuto  zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeeui  zongsinulo hengdwvnghayoya  handa.
+mwvdun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeajui zongsinulo hajngdwvnghayoya handa.
 ```
 
 ## tl;dr
