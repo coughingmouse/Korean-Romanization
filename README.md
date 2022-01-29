@@ -10,8 +10,8 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 módun  inqanun teonal  ddebúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeeui  zongsinulo hengdónghayoya   handa.
 módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéui  zongsinulo héngdónghayoya   handa.
 
-mwvdun inqanun teonal  ddebwuto  zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeeui  zongsinulo hengdwvnghayoya  handa.
-mwvdun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwv hyongzeajui zongsinulo hajngdwvnghayoya handa.
+m'odun inqanun teonal  ddebwuto  zaywul'owumyo qu z'onumqwa qwonlie isso d'ongdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo sol'o hyongzeeui  zongsinul'o hengd'onghayoya  handa.
+m'odun inqanun tajonal ddajbwuto zaywul'owumyo qu z'onumqwa qwonlie isso d'ongdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo sol'o hyongzeajui zongsinul'o hajngd'onghayoya handa.
 ```
 
 ## tl;dr
@@ -23,7 +23,7 @@ mwvdun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdu
 | ㅡ | u | u |
 | ㅓ | o | o |
 | ㅜ | ú(wu) | ú(wu) |
-| ㅗ | ó(wv) | ó(wv) |
+| ㅗ | ó('o) | ó('o) |
 | ㅟ | wi | ü(wi) |
 | ㅚ | we | ö(wj) |
 | ㅈ | z | z |
@@ -63,7 +63,7 @@ mwvdun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdu
 | ㅙ | we | wé(waj) | 돼지 |
 | ㅞ | we | we | 궤도 |
 | ㅝ | wo | wo | 원숭이 |
-| ㅗ | ó(wv) | ó(wv) | 오징어 |
+| ㅗ | ó('o) | ó('o) | 오징어 |
 | Text | Transc. | Transl. | Example | Misc. |
 | | y | y |
 | ㅑ | ya | ya | 야자수 |
@@ -72,7 +72,7 @@ mwvdun inqanun tajonal ddajbwuto zaywulwvwumyo qu zwvnumqwa qwonlie isso dwvngdu
 | ㅒ | ye | yé(yaj) | 섀도 |
 | ㅖ | ye | ye | 계란 |
 | ㅕ | yo | yo | 연못 |
-| ㅛ | yó(ywv) | yó(ywv) | 요지경 |
+| ㅛ | yó(y'o) | yó(y'o) | 요지경 |
 | Text | Transc. | Transl. | Example | Misc. |
 | | | j |
 | ㅐ | e | é(aj) | 엑스레이 |
@@ -182,8 +182,8 @@ ______
 | ㅓ | o | o | e |
 | ㅕ | yo | yo | ye |
 | ㆍ | v | v | o |
-| ㅗ | ó(wv) | ó(wv) | ó(wo) |
-| ㅛ | yó(ywv) | yó(ywv) | yó(yo) |
+| ㅗ | ó('o) | ó('o) | ó(wo) |
+| ㅛ | yó(y'o) | yó(y'o) | yó(yo) |
 | ㅜ | ú(wu) | ú(wu) | ú(wu) |
 | ㅠ | yú(yu) | yú(yu) | yú(yu) |
 | ㅣ | i | i | i |
