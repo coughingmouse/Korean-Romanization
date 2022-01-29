@@ -162,6 +162,14 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
     | Current: 낫다, 나아 | nasda, naa |
     | Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
 
+1. 기타
+
+    | Text | Suqqested Transc. |
+    | - | - |
+    | Current RoK: 방귀 뀌어 봐, 돈을 세어 봐./세 봐. | bagqwi qqwio bwa. dónul seo bwa /se bwa. |
+    | Suqqestion: 방귀 꾸ㅕ봐./뀌여봐. 돈을 세봐./세여봐. | bagqwi qqwyobwa / qqwiobwa. dónul sebwa /sejobwa. |
+
+
 ______
 
 ## Full specifications
