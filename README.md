@@ -10,20 +10,20 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 módun  inqanun teonal  ddebúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeeui  zongsinulo hengdónghayoya   handa.
 módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéui  zongsinulo héngdónghayoya   handa.
 
-m'odun inqanun teonal  ddebwuto  zaywul'owumyo qu z'onumqwa qwonlie isso d'ongdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo sol'o hyongzeeui  zongsinul'o hengd'onghayoya  handa.
-m'odun inqanun tajonal ddajbwuto zaywul'owumyo qu z'onumqwa qwonlie isso d'ongdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo sol'o hyongzeajui zongsinul'o hajngd'onghayoya handa.
+mwOdun inqanun teonal  ddebwuto  zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeeui  zongsinulwO hengdwOnghayoya  handa.
+mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeajui zongsinulwO hajngdwOnghayoya handa.
 ```
 
 ## tl;dr
 
 | Text | Transcription | Transliteration | Misc. |
 | - | - | - | - |
-| ㆍ | v | v |
+| ㆍ | ô(O) | ô(O) |
 | ㅐ/ㅔ/ㅢ | e/e/ui | é(aj)/e/uj |
 | ㅡ | u | u |
 | ㅓ | o | o |
 | ㅜ | ú(wu) | ú(wu) |
-| ㅗ | ó('o) | ó('o) |
+| ㅗ | ó(wO) | ó(wO) |
 | ㅟ | wi | ü(wi) |
 | ㅚ | we | ö(wj) |
 | ㅈ | z | z |
@@ -63,7 +63,7 @@ m'odun inqanun tajonal ddajbwuto zaywul'owumyo qu z'onumqwa qwonlie isso d'ongdu
 | ㅙ | we | wé(waj) | 돼지 |
 | ㅞ | we | we | 궤도 |
 | ㅝ | wo | wo | 원숭이 |
-| ㅗ | ó('o) | ó('o) | 오징어 |
+| ㅗ | ó(wO) | ó(wO) | 오징어 |
 | Text | Transc. | Transl. | Example | Misc. |
 | | y | y |
 | ㅑ | ya | ya | 야자수 |
@@ -72,7 +72,7 @@ m'odun inqanun tajonal ddajbwuto zaywul'owumyo qu z'onumqwa qwonlie isso d'ongdu
 | ㅒ | ye | yé(yaj) | 섀도 |
 | ㅖ | ye | ye | 계란 |
 | ㅕ | yo | yo | 연못 |
-| ㅛ | yó(y'o) | yó(y'o) | 요지경 |
+| ㅛ | yó(yO) | yó(yO) | 요지경 |
 | Text | Transc. | Transl. | Example | Misc. |
 | | | j |
 | ㅐ | e | é(aj) | 엑스레이 |
@@ -180,10 +180,10 @@ ______
 | ㅏ | a | a | a |
 | ㅑ | ya | ya | ya |
 | ㅓ | o | o | e |
-| ㅕ | yo | yo | ye |
-| ㆍ | v | v | o |
-| ㅗ | ó('o) | ó('o) | ó(wo) |
-| ㅛ | yó(y'o) | yó(y'o) | yó(yo) |
+| ㅕ | y | yo | ye |
+| ㆍ | ô(O) | ô(O) | o |
+| ㅗ | ó(wO) | ó(wO) | ó(wo) |
+| ㅛ | yó(yO) | yó(yO) | yó(yo) |
 | ㅜ | ú(wu) | ú(wu) | ú(wu) |
 | ㅠ | yú(yu) | yú(yu) | yú(yu) |
 | ㅣ | i | i | i |
@@ -203,12 +203,12 @@ ______
 | ㅙ | we | wé(waj) | waj |
 | ㅞ | we | we | wej |
 | Text | Transc. | Transl. | Old Text | Misc. |
-| ᆝ | yv | yv | yo |
-| (ᆢ) | vv | vv | oo | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ᆝ | yô | yô | yo |
+| (ᆢ) | yô | ôô | oo | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
 | ㆉ | ywe | yö(ywj) | yój(ywoj) |
 | ㆌ | ywi | yü(ywi) | yúj(ywuj) |
 | ᆜ | yu | yu | yu |
-| (ᆖ) | uu | uu | uu | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| (ᆖ) | yu | uu | uu | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
 | ㆎ | vj | vj | oj |
 
 | Text | Transc. & Transl. | Old Text | Misc. |
