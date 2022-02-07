@@ -180,7 +180,7 @@ ______
 | ㅏ | a | a | a |
 | ㅑ | ya | ya | ya |
 | ㅓ | o | o | e |
-| ㅕ | y | yo | ye |
+| ㅕ | yo | yo | ye |
 | ㆍ | ô(O) | ô(O) | o |
 | ㅗ | ó(wO) | ó(wO) | ó(wo) |
 | ㅛ | yó(yO) | yó(yO) | yó(yo) |
@@ -189,7 +189,7 @@ ______
 | ㅣ | i | i | i |
 | ㅡ | u | u | u |
 | | w | w | w |
-| | j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| | y/j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | Text | Trans. | Transl. | Old Text | Misc. |
 | ㅐ | e | é(aj) | aj |
 | ㅒ | ye | yé(yaj) | yaj |
