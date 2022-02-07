@@ -130,8 +130,8 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
     | Text | Transcription |
     | - | - |
-    | Current: 가당치도 | qadangcido |
-    | Suqqestion: 가당ㅎ지도 | qadangh'zido |
+    | Current: 가당치도 | qadangcidó |
+    | Suqqestion: 가당ㅎ지도 | qadangh'zidó |
 
 1. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Alternatively but less optimally, write 사이시읏 as ⟨s⟩ explicitly.
 
