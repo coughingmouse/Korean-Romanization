@@ -3,6 +3,8 @@
 Basically became something like a Revised Yale Romanization of Korean.
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
+To type letters with diacritics on a standard Qwerty keyboard, use English (United States) United States-International keyboard on Windows and us altgr-intl on Linux. You can use <AltGr> + <e> to type <é>, <AltGr> + the key next to <u> to type <ü>, etc. On Apple devices, long pressing a key pops up a menu from which you can select an appropriate diacritic. You can also use  <AltGr> + <e>, <AltGr> + <u>, and <AltGr> + <i> to type diacritics directly there on the default keyboard layout. 
+
 국문 로마자화.
 
 ```text
