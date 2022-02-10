@@ -7,7 +7,7 @@ To type letters with diacritics on a standard Qwerty keyboard, use English (Unit
 
 결과적으로는 예일 로마자 표기법을 고친 꼴이 된 마우스식 국문 로마자화를 소개합니다.
 
-쿼티 자판을 사용해 발음 구별 기호가 있는 글자를 입력하시려면 윈도우즈를 사용 시에는 English (United States) United States-International keyboard 자판을 사용하시고, 리눅스에서는 us altgr-intl 자판을 사용하시면 ⟨AltGr⟩ + ⟨e⟩와 ⟨AltGr⟩ + ⟨u⟩ 옆의 글쇠 등을 누르시면 됩니다. 애플 사의 기기에서는 글자를 길게 누르면 글자에 추가할 발음 구별 기호가 나와서 선택하실 수 있습니다. 또한 기본 쿼티 자판에서는 ⟨AltGr⟩ + ⟨e⟩나 ⟨AltGr⟩ + ⟨u⟩, ⟨AltGr⟩ + ⟨i⟩로 발음 구별 기호를 직접 입력할 수도 있습니다.
+쿼티 자판을 사용해 발음 구별 기호가 있는 글자를 입력하시려면 윈도우즈를 사용 시에는 English (United States) United States-International keyboard 자판을 사용하시고, 리눅스에서는 us altgr-intl 자판을 사용하셔서 ⟨AltGr⟩ + ⟨e⟩와 ⟨AltGr⟩ + ⟨u⟩ 옆의 글쇠 등을 누르시면 됩니다. 애플 사의 기기에서는 글자를 길게 누르면 글자에 추가할 발음 구별 기호가 나와서 선택하실 수 있습니다. 또한 기본 쿼티 자판에서는 ⟨AltGr⟩ + ⟨e⟩나 ⟨AltGr⟩ + ⟨u⟩, ⟨AltGr⟩ + ⟨i⟩로 발음 구별 기호를 직접 입력할 수도 있습니다.
 
 
 ```text
