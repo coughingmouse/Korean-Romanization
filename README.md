@@ -214,7 +214,7 @@ ______
 | ㆌ | ywi | yü(ywi) | yúj(ywuj) |
 | ᆜ | yu | yu | yu |
 | (ᆖ) | yu | uu | uu | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆎ | vj | vj | oj |
+| ㆎ | ôj | ôj | oj |
 
 | Text | Transc. & Transl. | Old Text | Misc. |
 | - | - | - | - |
