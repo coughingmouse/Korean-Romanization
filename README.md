@@ -98,7 +98,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㄷ | d | 도라지 |
 | ㄸ | dd | 딸기 |
 | ㅌ | t | 통신 |
-| ㄹ | l | 로마 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㄹ | l | 로마 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. |
 | ㅅ | s | 서울 |
 | ㅆ | ss | 씨름 |
 | ㅈ | z | 지게 |
@@ -131,7 +131,7 @@ ______
 
 These are some desiqn compromizes associated with usig a syllabary system for a non-monosyllabic lanquaqe in the existig spellig system. Since we are not usig a syllabary here, we don't need them. Here are some examples.
 
-1. Write 사이히읗 as ⟨h'⟩ explicitly
+1. Write 사이히읗 as ⟨h'⟩ or ⟨h⟩ explicitly
 
     | Text | Transcription |
     | - | - |
@@ -167,7 +167,27 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
     | Current: 낫다, 나아 | nasda, naa |
     | Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
 
-1. 기타
+1. Write '르' 불규칙 활용 explicitly with ⟨ll⟩ and '러' 불규칙 with ⟨lll⟩. 
+
+    You would have to read ⟨ll⟩ or ⟨lll⟩ before consonants as /lu/.
+
+    | Text | Suqqested Transc. |
+    | - | - |
+    | Current: 이네, 임, 빠르네, 빠름, 이르네, 이르러 | ine, im, bbalune, bbalum, ilune, iluro |
+    | Suqqestion: 일네, 읾, 빨ㄹ네, 빨ㄹㅁ, 일ㄹㄹ네, 일ㄹ러 | ilne, ilm, bballne, bballm, illlne, illlo |
+
+1. Write 'ㄷ' 불규칙 활용 explicitly with ⟨r⟩
+
+    Here, ⟨r⟩ is almost identical to ⟨l⟩ except that it acts like ⟨d⟩ in front of consonants. Here we assume -리- having replaced -이- instead of making up arbitrary grammar rules.
+
+    | Text | Suqqested Transc. |
+    | - | - |
+    | Current: 듣고, 들어, 들려 | dudgo, dulo, dullyo |
+    | Suggestion: 들고, 들어, 들려 | durgo, duro, durlyo |
+
+1. Write the word 퍼 with ⟨프-⟩ instead of ⟨푸-⟩
+
+1. Write Korean that was not writable due to being incompatible with Hangul.
 
     | Text | Suqqested Transc. |
     | - | - |
