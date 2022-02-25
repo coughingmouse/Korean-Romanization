@@ -93,7 +93,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅂ | b | 바가지 |
 | ㅃ | bb | 빵 |
 | ㅍ | p | 파고다 |
-| ㅸ | f | 더위 |
+| ㅸ | v | 더위 |
 | ㄴ | n | 나폴리 |
 | ㄷ | d | 도라지 |
 | ㄸ | dd | 딸기 |
@@ -153,12 +153,12 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
     | 할 일 | hal n il | hal s il | hal il |
     | 한 일 | han n il | han s il | han il |
 
-1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨f⟩
+1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨v⟩
 
     | Text | Suqqested Transc. |
     | - | - |
     | Current: 덥다, 더워 | dobda, dowo |
-    | Suggestion: 덥w다, 더워 | dofda, dofo |
+    | Suggestion: 더v다, 더v어 | dovda, dovo |
 
 1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
 
@@ -262,7 +262,7 @@ ______
 | ㅉ | zz |
 | Text | Transc. & Transl. | Old Text | Misc. |
 | ㅱ | m' |
-| ㅸ | f |
+| ㅸ | v | | ⟨f⟩ if used to transcribe [f].
 | ㅹ | b' |
 | ㆄ | p' |
 | ᄛ(ퟝ) | r |
@@ -294,7 +294,7 @@ The differences from the Yale Romanization are as follows.
 | ㅿ | x | z |
 | ㆆ | ? | q |
 | ㅱ | m' | ? |
-| ㅸ | f | ? |
+| ㅸ | v/f | ? |
 | ㅹ | b' | ? |
 | ㆄ | p' | ? |
 | ᄛ(ퟝ) | r | ? |
