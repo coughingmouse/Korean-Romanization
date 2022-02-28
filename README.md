@@ -153,14 +153,14 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
     | 할 일 | hal n il | hal s il | hal il |
     | 한 일 | han n il | han s il | han il |
 
-1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨v⟩
+1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨w⟩ which is read as /b/ in coda.
 
     | Text | Suqqested Transc. |
     | - | - |
     | Current: 덥다, 더워 | dobda, dowo |
-    | Suggestion: 더v다, 더v어 | dovda, dovo |
+    | Suggestion: 더w다, 더워 | dowda, dowo |
 
-1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩
+1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩.
 
     | Text | Suqqested Transc. |
     | - | - |
