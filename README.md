@@ -82,33 +82,34 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | | | j |
 | ㅐ | e | é(aj) | 엑스레이 |
 | | | |
-| ㅢ | ui | uj | 의사 | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| ㅢ | uj | uj | 의사 | In transcription, use ⟨e⟩ only when used as the preposition -의. |
 | | | |
 | ㅔ | e | e | 앵무새 |
 | ㅚ | we | ö(wj) | 회색 |
 
-| Text | Transc. & Transl. | Example | Misc. |
-| - | - | - | - |
-| ㅁ | m | 미나리 |
-| ㅂ | b | 바가지 |
-| ㅃ | bb | 빵 |
-| ㅍ | p | 파고다 |
-| ㅸ | v | 더위 |
-| ㄴ | n | 나폴리 |
-| ㄷ | d | 도라지 |
-| ㄸ | dd | 딸기 |
-| ㅌ | t | 통신 |
-| ㄹ | l | 로마 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. |
-| ㅅ | s | 서울 |
-| ㅆ | ss | 씨름 |
-| ㅈ | z | 지게 |
-| ㅉ | zz | 짜장면 |
-| ㅊ | c | 치마 |
-| ㅿ | x | 젓가락 |
-| ㆁ | g/ng | 잉어 |
-| ㄱ | q | 기러기 |
-| ㄲ | qq | 깐부 |
-| ㅋ | k | 키다리 |
+| Text | Transc. | Transl. | Example | Misc. |
+| - | - | - | - | - |
+| ㅁ | m | | 미나리 |
+| ㅂ | b | | 바가지 |
+| ㅃ | bb | | 빵 |
+| ㅍ | p | | 파고다 |
+| (ㅸ) | w | w(/v) | 더위 |
+| | y | y(/j) | 야자수 |
+| ㄴ | n | | 나폴리 |
+| ㄷ | d | | 도라지 |
+| ㄸ | dd | | 딸기 |
+| ㅌ | t | | 통신 |
+| ㄹ | l | | 로마 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. |
+| ㅅ | s | | 서울 |
+| ㅆ | ss | | 씨름 |
+| ㅈ | z | | 지게 |
+| ㅉ | zz | | 짜장면 |
+| ㅊ | c | | 치마 |
+| ㅿ | x | | 젓가락 |
+| ㆁ | g/ng | | 잉어 |
+| ㄱ | q | | 기러기 |
+| ㄲ | qq | | 깐부 |
+| ㅋ | k | | 키다리 |
 
 * For combinational letters, just write them out by each compositig letter
 
