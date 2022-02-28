@@ -1,4 +1,4 @@
-# Maúsu Romanization for Korean Scripts
+# Mawusu Romanization for Korean Scripts
 
 Basically became something like a Revision of Yale Romanization of Korean.
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
@@ -27,7 +27,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅐ/ㅔ/ㅢ | e/e/ui | é(aj)/e/uj |
 | ㅡ | u | u |
 | ㅓ | o | o |
-| ㅜ | ú(wu) | ú(wu) |
+| ㅜ | wu | ú(wu) |
 | ㅗ | ó(wO) | ó(wO) |
 | ㅟ | wi | ü(wi) |
 | ㅚ | we | ö(wj) |
@@ -38,13 +38,13 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㆆ | ? | ? |
 | ㅿ | x | x |
 | 한글 | hanqul | hanqul | Korean word for Hangul. |
-| 훈민정음 | húnminzongum | húnminzogum | Korean word for Hunminjeongeum, a predecessor to Hangul. (húnminzyong?um / húnminzyog?um) |
-| 동국정운 | dóngqúqzongún | dógqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 훈민정음 | hwunminzongum | húnminzogum | Korean word for Hunminjeongeum, a predecessor to Hangul. (húnminzyong?um / húnminzyog?um) |
+| 동국정운 | dóngqúqzongwun | dógqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 리어카 | lioka | lioka | Loanword from Japanese "リヤカー". |
-| 우리 | úli | úli | Korean word for "us." |
+| 우리 | wuli | úli | Korean word for "us." |
 | 미란다 | miranda | miranda |
 | 레드 | redu | redu | Loanword from English "red." |
-| 서울 | soúl | soúl | Korean word for "Seoul." |
+| 서울 | sowul | soúl | Korean word for "Seoul." |
 | 김정은 | qim zongun | qim zogun | "Kim Jong-un." |
 | 마라탕 | malatang | malatag | Spicy hot pot. Delicious. |
 
@@ -64,7 +64,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | | w | w |
 | ㅘ | wa | wa | 과자 |
 | ㅟ | wi | ü(wi) | 휘파람 |
-| ㅜ | ú(wu) | ú(wu) | 우편 |
+| ㅜ | wu | ú(wu) | 우편 |
 | ㅙ | we | wé(waj) | 돼지 |
 | ㅞ | we | we | 궤도 |
 | ㅝ | wo | wo | 원숭이 |
@@ -73,7 +73,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | | y | y |
 | ㅑ | ya | ya | 야자수 |
 | | | |
-| ㅠ | yú(yu) | yú(yu) | 유치원 |
+| ㅠ | yu | yú(yu) | 유치원 |
 | ㅒ | ye | yé(yaj) | 섀도 |
 | ㅖ | ye | ye | 계란 |
 | ㅕ | yo | yo | 연못 |
@@ -143,12 +143,12 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
     | Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
     | - | - | - | - |
-    | 숫자 | súdza | súsza | súsza |
+    | 숫자 | swudza | súsza | súsza |
     | 멸족 | myoldzóq | myolszóq | myolzóq |
     | 냇가 | nedqa | nesqa | nesqa |
     | 콧등 | kóddeng | kósdeng | kósdeng |
-    | 뱃나루 | bennalú / bennarú | besnalú / besnarú | besnalú / besnarú |
-    | 나뭇잎 | namúnnip | namúsip | namúsip |
+    | 뱃나루 | bennalwu / bennarú | besnalú / besnarú | besnalú / besnarú |
+    | 나뭇잎 | namwunnip | namúsip | namúsip |
     | 볼일 | bólnil | bólsil | bólil |
     | 빵 조각 | bbang d zoqaq | bbang s zoqaq | bbang zoqaq |
     | 할 일 | hal n il | hal s il | hal il |
@@ -210,8 +210,8 @@ ______
 | ㆍ | ô(O) | ô(O) | o |
 | ㅗ | ó(wO) | ó(wO) | ó(wo) |
 | ㅛ | yó(yO) | yó(yO) | yó(yo) |
-| ㅜ | ú(wu) | ú(wu) | ú(wu) |
-| ㅠ | yú(yu) | yú(yu) | yú(yu) |
+| ㅜ | wu | ú(wu) | ú(wu) |
+| ㅠ | yu | yú(yu) | yú(yu) |
 | ㅣ | i | i | i |
 | ㅡ | u | u | u |
 | | w | w | w |
@@ -313,13 +313,13 @@ ______
 | qóz | qóz | 곶 |
 | qós | qós | 곳 |
 | zzang | zzag | 짱 |
-| qumdongmiruqbosalbanqasajúsang / qumdongmiluqbosalbanqasajúsang | qumdogmiluqbosalbanqasayúsag | 금동미륵보살반가사유상 |
+| qumdongmiruqbosalbanqasajwusang / qumdongmiluqbosalbanqasajúsang | qumdogmiluqbosalbanqasayúsag | 금동미륵보살반가사유상 |
 | milky | milke | 밀크 |
 | boraq óbama / bolaq óbama | boraq óbama | 버락 오바마 |
 | sincong | sincog | 신청 |
 | saconsong | saconsog | 사천성 |
 | manhwa | manhwa | 만화 |
-| ?il i sam sa o ljúq cil pal qú sib | ?il i sam sa o lyúq cil pal qú sib | 일 이…십 |
+| ?il i sam sa o ljuq cil pal qwu sib | ?il i sam sa o lyúq cil pal qú sib | 일 이…십 |
 ______
 
 ### FAQ
