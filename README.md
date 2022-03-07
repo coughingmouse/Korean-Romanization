@@ -1,4 +1,4 @@
-# Mawusu Romanization for Korean Scripts
+# Mawussu Romanization for Korean Scripts
 
 Basically became something like a Revision of Yale Romanization of Korean.
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
