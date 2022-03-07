@@ -27,7 +27,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅐ/ㅔ/ㅢ | e/e/ui | é(aj)/e/uj |
 | ㅡ | u | u |
 | ㅓ | o | o |
-| ㅜ | wu | ú(wu) |
+| ㅜ | wu | ú(U) |
 | ㅗ | ó(wO) | ó(wO) |
 | ㅟ | wi | ü(wi) |
 | ㅚ | we | ö(wj) |
@@ -64,7 +64,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | | w | w |
 | ㅘ | wa | wa | 과자 |
 | ㅟ | wi | ü(wi) | 휘파람 |
-| ㅜ | wu | ú(wu) | 우편 |
+| ㅜ | wu | ú(U) | 우편 |
 | ㅙ | we | wé(waj) | 돼지 |
 | ㅞ | we | we | 궤도 |
 | ㅝ | wo | wo | 원숭이 |
@@ -73,7 +73,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | | y | y |
 | ㅑ | ya | ya | 야자수 |
 | | | |
-| ㅠ | yu | yú(yu) | 유치원 |
+| ㅠ | yu | yú(yU) | 유치원 |
 | ㅒ | ye | yé(yaj) | 섀도 |
 | ㅖ | ye | ye | 계란 |
 | ㅕ | yo | yo | 연못 |
@@ -210,8 +210,8 @@ ______
 | ㆍ | ô(O) | ô(O) | o |
 | ㅗ | ó(wO) | ó(wO) | ó(wo) |
 | ㅛ | yó(yO) | yó(yO) | yó(yo) |
-| ㅜ | wu | ú(wu) | ú(wu) |
-| ㅠ | yu | yú(yu) | yú(yu) |
+| ㅜ | wu | ú(U) | ú(wu) |
+| ㅠ | yu | yú(yU) | yú(ywu) |
 | ㅣ | i | i | i |
 | ㅡ | u | u | u |
 | | w | w | w |
