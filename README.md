@@ -77,7 +77,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅒ | ye | yé(yaj) | 섀도 |
 | ㅖ | ye | ye | 계란 |
 | ㅕ | yo | yo | 연못 |
-| ㅛ | yó(yO) | yó(yO) | 요지경 |
+| ㅛ | yó(yO) | yó(ywO) | 요지경 |
 | Text | Transc. | Transl. | Example | Misc. |
 | | | j |
 | ㅐ | e | é(aj) | 엑스레이 |
@@ -209,7 +209,7 @@ ______
 | ㅕ | yo | yo | ye |
 | ㆍ | ô(O) | ô(O) | o |
 | ㅗ | ó(wO) | ó(wO) | ó(wo) |
-| ㅛ | yó(yO) | yó(yO) | yó(yo) |
+| ㅛ | yó(yO) | yó(ywO) | yó(ywo) |
 | ㅜ | wu | ú(U) | ú(wu) |
 | ㅠ | yu | yú(yU) | yú(ywu) |
 | ㅣ | i | i | i |
@@ -229,13 +229,13 @@ ______
 | ㅙ | we | wé(waj) | waj |
 | ㅞ | we | we | wej |
 | Text | Transc. | Transl. | Old Text | Misc. |
-| ᆝ | yô | yô | yo |
-| (ᆢ) | yô | ôô | oo | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ᆝ | yô(yO) | yô(yO) | yo |
+| (ᆢ) | yô(yO) | ôô(OO) | oo | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
 | ㆉ | ywe | yö(ywj) | yój(ywoj) |
 | ㆌ | ywi | yü(ywi) | yúj(ywuj) |
 | ᆜ | yu | yu | yu |
 | (ᆖ) | yu | uu | uu | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆎ | ôj | ôj | oj |
+| ㆎ | ôj(Oj) | ôj(wOj) | oj |
 
 | Text | Transc. & Transl. | Old Text | Misc. |
 | - | - | - | - |
