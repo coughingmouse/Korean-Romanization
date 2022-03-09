@@ -12,11 +12,11 @@ To type letters with diacritics on a standard Qwerty keyboard, use English (Unit
 
 ```text
 모든    인간은  태어날   때부터     자유로우며     그  존엄과     권리에   있어  동등하다.       인간은  천부적으로     이성과   양심을     부여받았으며     서로   형제애의    정신으로     행동하여야       한다.
-módun  inqanun teonal  ddebúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeeui  zongsinulo hengdónghayoya   handa.
-módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéui  zongsinulo héngdónghayoya   handa.
+módun  inqanun teonal  ddebúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeeí  zongsinulo hengdónghayoya   handa.
+módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéí  zongsinulo héngdónghayoya   handa.
 
-mwOdun inqanun teonal  ddebwuto  zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeeui  zongsinulwO hengdwOnghayoya  handa.
-mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeajui zongsinulwO hajngdwOnghayoya handa.
+mwOdun inqanun teonal  ddebwuto  zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeeuj  zongsinulwO hengdwOnghayoya  handa.
+mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeajuj zongsinulwO hajngdwOnghayoya handa.
 ```
 
 ## tl;dr
@@ -24,7 +24,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | Text | Transcription | Transliteration | Misc. |
 | - | - | - | - |
 | ㆍ | ô(O) | ô(O) |
-| ㅐ/ㅔ/ㅢ | e/e/ui | é(aj)/e/uj |
+| ㅐ/ㅔ/ㅢ | e/e/í(uj) | é(aj)/e/í(uj) |
 | ㅡ | u | u |
 | ㅓ | o | o |
 | ㅜ | wu | ú(U) |
@@ -82,7 +82,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | | | j |
 | ㅐ | e | é(aj) | 엑스레이 |
 | | | |
-| ㅢ | uj | uj | 의사 | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| ㅢ | í(uj) | í(uj) | 의사 | |
 | | | |
 | ㅔ | e | e | 앵무새 |
 | ㅚ | we | ö(wj) | 회색 |
@@ -221,7 +221,7 @@ ______
 | ㅒ | ye | yé(yaj) | yaj |
 | ㅔ | e | e | ej |
 | ㅖ | ye | ye | yej |
-| ㅢ | ui | uj | uj | In transcription, use ⟨e⟩ only when used as the preposition -의. |
+| ㅢ | í(uj) | í(uj) | í(uj) | In transcription, allow use of ⟨e⟩ or ⟨é⟩ only when used as the preposition -의. |
 | ㅘ | wa | wa | wa |
 | ㅝ | wo | wo | we |
 | ㅚ | we | ö(wj) | ój(woj) |
