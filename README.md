@@ -369,7 +369,7 @@ Honestly, the existing vowels may not be so reliable either.
 
 * You have Hangul. Why are you doing this?
 
-I've explained above. But it's also because you can't type it with Qwerty layout on barebone computing systems. Unlike European letter systems, Korean scripts require a little more powerful input method engine.
+You can't type it with Qwerty layout on barebone computing systems. Unlike European letter systems, Korean scripts require a little more powerful input method engine.
 
 * About ⟨ㅢ⟩...
 
