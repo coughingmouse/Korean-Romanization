@@ -1,4 +1,4 @@
-# Mawussu Romanization for Korean Scripts
+# Mawusu Romanization for Korean Scripts
 
 Basically became something like a Revision of Yale Romanization of Korean.
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
@@ -12,7 +12,7 @@ To type letters with diacritics on a standard Qwerty keyboard, use English (Unit
 
 ```text
 모든    인간은  태어날   때부터     자유로우며     그  존엄과     권리에   있어  동등하다.       인간은  천부적으로     이성과   양심을     부여받았으며     서로   형제애의    정신으로     행동하여야       한다.
-módun  inqanun teonal  ddebúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeeí  zongsinulo hengdónghayoya   handa.
+módun  inqanun teonal  ddebwuto   zayulówumyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbwuzoqulo  isongqwa yangsimul bwuyobadassumyo  soló  hyongzeeí  zongsinulo hengdónghayoya   handa.
 módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéí  zongsinulo héngdónghayoya   handa.
 
 mwOdun inqanun teonal  ddebwuto  zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeeuj  zongsinulwO hengdwOnghayoya  handa.
@@ -39,7 +39,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅿ | x | x |
 | 한글 | hanqul | hanqul | Korean word for Hangul. |
 | 훈민정음 | hwunminzongum | húnminzogum | Korean word for Hunminjeongeum, a predecessor to Hangul. (húnminzyong?um / húnminzyog?um) |
-| 동국정운 | dóngqúqzongwun | dógqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
+| 동국정운 | dóngqwuqzongwun | dógqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
 | 리어카 | lioka | lioka | Loanword from Japanese "リヤカー". |
 | 우리 | wuli | úli | Korean word for "us." |
 | 미란다 | miranda | miranda |
@@ -93,8 +93,8 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅂ | b | | 바가지 |
 | ㅃ | bb | | 빵 |
 | ㅍ | p | | 파고다 |
-| (ㅸ) | w | w(/v) | 더위 |
-| | y | y(/j) | 야자수 |
+| (ㅸ) | w(/v) | w(/v) | 더위 |
+| | y(/j) | y(/j) | 야자수 |
 | ㄴ | n | | 나폴리 |
 | ㄷ | d | | 도라지 |
 | ㄸ | dd | | 딸기 |
@@ -143,23 +143,23 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
     | Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
     | - | - | - | - |
-    | 숫자 | swudza | súsza | súsza |
+    | 숫자 | swudza | swusza | swusza |
     | 멸족 | myoldzóq | myolszóq | myolzóq |
     | 냇가 | nedqa | nesqa | nesqa |
     | 콧등 | kóddeng | kósdeng | kósdeng |
-    | 뱃나루 | bennalwu / bennarú | besnalú / besnarú | besnalú / besnarú |
-    | 나뭇잎 | namwunnip | namúsip | namúsip |
+    | 뱃나루 | bennalwu | besnalu | besnalwu |
+    | 나뭇잎 | namwunnip | namwusip | namwusip |
     | 볼일 | bólnil | bólsil | bólil |
     | 빵 조각 | bbang d zoqaq | bbang s zoqaq | bbang zoqaq |
     | 할 일 | hal n il | hal s il | hal il |
     | 한 일 | han n il | han s il | han il |
 
-1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨w⟩ which is read as /b/ in coda.
+1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨v⟩ which is read as /b/ in coda.
 
     | Text | Suqqested Transc. |
     | - | - |
     | Current: 덥다, 더워 | dobda, dowo |
-    | Suggestion: 더w다, 더워 | dowda, dowo |
+    | Suggestion: 더v다, 더워 | dovda, dovo |
 
 1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩.
 
