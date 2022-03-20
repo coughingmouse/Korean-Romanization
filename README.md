@@ -285,31 +285,31 @@ Old text in the full description refers to the transliteration system made optim
 | ㅓ | e |
 | ㆍ | o |
 | ㅡ | u |
-| | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| ㅑ | ya |
-| ㅕ | ye |
-| ㅛ/ᆝ/ᆢ | yo |
-| ㅠ/ᆜ/ᆖ | yu |
 | | w |
 | ㅘ | wa |
 | ㅝ | we |
 | ㅗ | wo |
 | ㅜ | wu |
+| | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅑ | ya |
+| ㅕ | ye |
+| ㅛ/ᆝ/ᆢ | yo |
+| ㅠ/ᆜ/ᆖ | yu |
 | Text | Old Text Transc. | Misc. |
 | ㅐ | aj |
 | ㅔ | ej |
 | ㆎ | oj |
 | ㅢ | uj | In transcription, allow use of ⟨e⟩ or ⟨é⟩ only when used as the preposition -의. |
 | Text | Old Text Transc. | Misc. |
-| ㅒ | yaj |
-| ㅖ | yej |
-| ㆉ | yoj |
-| ㆌ | yuj |
-| Text | Old Text Transc. | Misc. |
 | ㅙ | waj |
 | ㅞ | wej |
 | ㅚ | woj |
 | ㅟ | wuj |
+| Text | Old Text Transc. | Misc. |
+| ㅒ | yaj |
+| ㅖ | yej |
+| ㆉ | yoj |
+| ㆌ | yuj |
 ______
 
 ### Miscellaneous
