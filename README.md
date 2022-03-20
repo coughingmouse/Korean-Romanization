@@ -293,8 +293,8 @@ Old text in the full description refers to the transliteration system made optim
 | | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
 | ㅑ | ya |
 | ㅕ | ye |
-| ㅛ/ᆝ/ᆢ | yo |
-| ㅠ/ᆜ/ᆖ | yu |
+| ㅛ(ᆝ/ᆢ) | yo |
+| ㅠ(ᆜ/ᆖ) | yu |
 | Text | Old Text Transc. | Misc. |
 | ㅐ | aj |
 | ㅔ | ej |
