@@ -80,11 +80,11 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅛ | yó(yO) | yó(ywO) | 요지경 |
 | Text | Transc. | Transl. | Example | Misc. |
 | | | j |
-| ㅐ | e | é(aj) | 엑스레이 |
+| ㅐ | e | é(aj) | 앵무새 |
 | | | |
 | ㅢ | í(uj) | í(uj) | 의사 | |
 | | | |
-| ㅔ | e | e | 앵무새 |
+| ㅔ | e | e | 엑스레이 |
 | ㅚ | we | ö(wj) | 회색 |
 
 | Text | Transc. | Transl. | Example | Misc. |
