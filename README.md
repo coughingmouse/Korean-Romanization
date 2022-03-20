@@ -128,9 +128,9 @@ Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_reg
 
 ______
 
-## Korean Specific Additions
+## Addon
 
-These are some desiqn compromizes associated with usig a syllabary system for a non-monosyllabic lanquaqe in the existig spellig system. Since we are not usig a syllabary here, we don't need them. Here are some examples.
+These are some desiqn compromizes associated with usig a syllabary system for a non-monosyllabic lanquaqe such as Korean in the existig spellig system. Since we are not usig a syllabary here, we don't need them. Here are some examples.
 
 1. Write 사이히읗 as ⟨h'⟩ or ⟨h⟩ explicitly
 
@@ -270,6 +270,47 @@ ______
 
 * For sibilant variants, use IPA equivalent and use of X-SAMPA is allowed
 * For combinational letters, just write them out by each compositig letter
+______
+
+## Old Text Transcription Addon
+
+Old text in the full description refers to the transliteration system made optimal for old text. Here we present a transcription system based on Seoulite dialect.
+
+| Text | Old Text Transc. | Misc. |
+| - | - | - |
+| ㅇ | ' | Apostrophe. It can also be used to indicate abbreviation. |
+| ㅣ | i |
+| Text | Old Text Transc. | Misc. |
+| ㅏ | a |
+| ㅓ | e |
+| ㆍ | o |
+| ㅡ | u |
+| | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅑ | ya |
+| ㅕ | ye |
+| ㅛ/ᆝ/ᆢ | yo |
+| ㅠ/ᆜ/ᆖ | yu |
+| | w |
+| ㅘ | wa |
+| ㅝ | we |
+| ㅗ | wo |
+| ㅜ | wu |
+| Text | Old Text Transc. | Misc. |
+| ㅐ | aj |
+| ㅔ | ej |
+| ㆎ | oj |
+| ㅢ | uj | In transcription, allow use of ⟨e⟩ or ⟨é⟩ only when used as the preposition -의. |
+| Text | Old Text Transc. | Misc. |
+| ㅒ | yaj |
+| ㅖ | yej |
+| ㆉ | yoj |
+| ㆌ | yuj |
+| Text | Old Text Transc. | Misc. |
+| ㅙ | waj |
+| ㅞ | wej |
+| ㅚ | woj |
+| ㅟ | wuj |
+______
 
 ### Miscellaneous
 
