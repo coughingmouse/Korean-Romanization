@@ -221,7 +221,7 @@ ______
 | ㅒ | ye | yé(yaj) | yaj |
 | ㅔ | e | e | ej |
 | ㅖ | ye | ye | yej |
-| ㅢ | í(uj) | í(uj) | í(uj) | In transcription, allow use of ⟨e⟩ or ⟨é⟩ only when used as the preposition -의. |
+| ㅢ | í(uj) | í(uj) | uj | In transcription, allow use of ⟨e⟩ or ⟨é⟩ only when used as the preposition -의. |
 | ㅘ | wa | wa | wa |
 | ㅝ | wo | wo | we |
 | ㅚ | we | ö(wj) | ój(woj) |
