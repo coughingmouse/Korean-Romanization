@@ -53,7 +53,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | Text | Transc. | Transl. | Example | Misc. |
 | - | - | - | - | - |
 | ㅎ | h | h | 한강 |
-| ㅇ | ’(') | ’(') |  | Apostrophe; can also be used to indicate abbreviation. |
+| ㅇ | | ’(') |  | Apostrophe; can also be used to indicate abbreviation. |
 | ㅏ | a | a | 아빠 |
 | ㅣ | i | i | 이순신 |
 | ㅡ | u | u | 은방울 |
@@ -188,6 +188,8 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
 1. Write the word 퍼 with ⟨프-⟩ instead of ⟨푸-⟩
 
+1. Write the coda ending with ⟨ㅅ⟩ such as ⟨ㅄ⟩ with double ⟨ss⟩, i.e. ⟨bss⟩
+
 1. Write Korean that was not writable due to being incompatible with Hangul.
 
     | Text | Suqqested Transc. |
@@ -202,7 +204,7 @@ ______
 
 | Text | Transc. | Transl. | Old Text | Misc. |
 | - | - | - | - | - |
-| ㅇ | ' | ' | ' | Apostrophe. It can also be used to indicate abbreviation. |
+| ㅇ | | ’(') | ’(') | Apostrophe. It can also be used to indicate abbreviation. |
 | ㅏ | a | a | a |
 | ㅑ | ya | ya | ya |
 | ㅓ | o | o | e |
@@ -267,9 +269,18 @@ ______
 | ㅹ | b' |
 | ㆄ | p' |
 | ᄛ(ퟝ) | r |
+| ᄾ | ś(s\\) |
+| ᄿ | śś(s\\s\\) |
+| ᅐ | ź(z\\) | 
+| ᅑ | źź(z\\z\\) |
+| ᅕ | ć(c\\) |
+| ᄼ | š(s\`) |
+| ᄽ | šš(s\`s\`) |
+| ᅎ | ž(z\`) |
+| ᅏ | žž(z\`z\`) |
+| ᅔ | č(c\`) |
 
-* For sibilant variants, use IPA equivalent and use of X-SAMPA is allowed
-* For combinational letters, just write them out by each compositig letter
+* For combinational letter clusters, just write them out by each compositig letter
 ______
 
 ## Old Text Transcription Addon
@@ -336,9 +347,9 @@ The differences from the Yale Romanization are as follows.
 | ㅿ | x | z |
 | ㆆ | ? | q |
 | ㅱ | m' | ? |
-| ㅸ | v/f | ? |
+| ㅸ | v | ? |
 | ㅹ | b' | ? |
-| ㆄ | p' | ? |
+| ㆄ | f | ? |
 | ᄛ(ퟝ) | r | ? |
 
 ______
