@@ -99,7 +99,8 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㄷ | d | | 도라지 |
 | ㄸ | dd | | 딸기 |
 | ㅌ | t | | 통신 |
-| ㄹ | l | | 로마 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. |
+| ㄹ | l | | 레전드 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. |
+| ᄛ(ퟝ) | r | | |
 | ㅅ | s | | 서울 |
 | ㅆ | ss | | 씨름 |
 | ㅈ | z | | 지게 |
