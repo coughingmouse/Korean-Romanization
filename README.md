@@ -83,7 +83,7 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | ㅕ | yo | yo | 연못 |
 | ㅛ | yó(yO) | yó(ywO) | 요지경 |
 | Text | Transc. | Transl. | Example |
-| | | j |
+| | j | j |
 | ㅢ | í(uj) | í(uj) | 의사 | |
 
 * In transcription, apostrophe can also be used to indicate abbreviation.
