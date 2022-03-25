@@ -18,7 +18,7 @@ MwOdun inqanun teonal  ddebwuto  zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéí  zongsinulo héngdónghayoya   handa.
 MwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. Inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeajuj zongsinulwO hajngdwOnghayoya handa.
 
-Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e dwongdunghada. 'Inqan'un cenbwuzeq'ulwo 'isengqwa yangsim'ul bwuyebad'ass'umye selwo hyengzej'aj'uj zengsin'ulwo hajngdwonghayeya handa.
+Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e dwongdunghada. 'inqan'un cenbwuzeq'ulwo 'isengqwa yangsim'ul bwuyebad'ass'umye selwo hyengzej'aj'uj zengsin'ulwo hajngdwonghayeya handa.
 ```
 
 ## tl;dr
