@@ -15,8 +15,8 @@ To type letters with diacritics on a standard Qwerty keyboard, use English (Unit
 módun  inqanun teonal  ddebwuto   zayulówumyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbwuzoqulo  isongqwa yangsimul bwuyobadassumyo  soló  hyongzeeí  zongsinulo hengdónghayoya   handa.
 módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoqulo  isongqwa yangsimul búyobadassumyo  soló  hyongzeéí  zongsinulo héngdónghayoya   handa.
 
-mwOdun inqanun teonal  ddebwuto  zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeeuj  zongsinulwO hengdwOnghayoya  handa.
-mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeajuj zongsinulwO hajngdwOnghayoya handa.
+MwOdun inqanun teonal  ddebwuto  zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. Inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeeuj  zongsinulwO hengdwOnghayoya  handa.
+MwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. Inqanun conbwuzoqulo isongqwa yangsimul bwuyobadassumyo solwO hyongzeajuj zongsinulwO hajngdwOnghayoya handa.
 ```
 
 ## tl;dr
@@ -27,10 +27,10 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅐ/ㅔ/ㅢ | e/e/í(uj) | é(aj)/e/í(uj) |
 | ㅡ | u | u |
 | ㅓ | o | o |
-| ㅜ | wu | ú(U) |
+| ㅜ | wu | ú(wu) |
 | ㅗ | ó(wO) | ó(wO) |
-| ㅟ | wi | ü(wi) |
-| ㅚ | we | ö(wj) |
+| ㅟ | wi | ü(wuj) |
+| ㅚ | we | ö(wOj) |
 | ㅈ | z | z |
 | ㅊ | c | c |
 | ㆁ | g/ng | g/ng |
@@ -57,36 +57,36 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅏ | a | a | 아빠 |
 | ㅣ | i | i | 이순신 |
 | ㅡ | u | u | 은방울 |
-| ㅐ | e | é(aj) | 앵무새 |
-| ㅔ | e | e | 엑스레이 |
+| ㅐ | e(aj) | é(aj) | 앵무새 |
+| ㅔ | e(oj) | e(oj) | 엑스레이 |
 | ㅓ | o | o | 엄마 |
 | ㆍ | ô(O) | ô(O) | | Unused. |
 | Text | Transc. | Transl. | Example | Misc. |
 | | w | w |
 | ㅘ | wa | wa | 과자 |
-| ㅟ | wi | ü(wi) | 휘파람 |
-| ㅜ | wu | ú(U) | 우편 |
-| ㅙ | we | wé(waj) | 돼지 |
-| ㅞ | we | we | 궤도 |
+| ㅟ | wi(wuj) | ü(wuj) | 휘파람 |
+| ㅜ | wu | ú(wu) | 우편 |
+| ㅙ | we(waj) | wé(waj) | 돼지 |
+| ㅞ | we(woj) | we(wej) | 궤도 |
 | ㅝ | wo | wo | 원숭이 |
 | ㅗ | ó(wO) | ó(wO) | 오징어 |
 | Text | Transc. | Transl. | Example | Misc. |
 | | y | y |
 | ㅑ | ya | ya | 야자수 |
 | | | |
-| ㅠ | yu | yú(yU) | 유치원 |
-| ㅒ | ye | yé(yaj) | 섀도 |
-| ㅖ | ye | ye | 계란 |
+| ㅠ | yu | yú(ywu) | 유치원 |
+| ㅒ | ye(yaj) | yé(yaj) | 섀도 |
+| ㅖ | ye(yoj) | ye(yoj) | 계란 |
 | ㅕ | yo | yo | 연못 |
 | ㅛ | yó(yO) | yó(ywO) | 요지경 |
 | Text | Transc. | Transl. | Example | Misc. |
 | | | j |
-| ㅐ | e | é(aj) | 앵무새 |
+| ㅐ | e(aj) | é(aj) | 앵무새 |
 | | | |
 | ㅢ | í(uj) | í(uj) | 의사 | |
 | | | |
-| ㅔ | e | e | 엑스레이 |
-| ㅚ | we | ö(wj) | 회색 |
+| ㅔ | e(oj) | e(oj) | 엑스레이 |
+| ㅚ | we(Oj) | ö(wOj) | 회색 |
 
 | Text | Transc. | Transl. | Example | Misc. |
 | - | - | - | - | - |
@@ -207,39 +207,40 @@ ______
 | Text | Transc. | Transl. | Old Text | Misc. |
 | - | - | - | - | - |
 | ㅇ | | ’(') | ’(') | Apostrophe. It can also be used to indicate abbreviation. |
-| ㅏ | a | a | a |
-| ㅑ | ya | ya | ya |
-| ㅓ | o | o | e |
-| ㅕ | yo | yo | ye |
-| ㆍ | ô(O) | ô(O) | o |
-| ㅗ | ó(wO) | ó(wO) | ó(wo) |
-| ㅛ | yó(yO) | yó(ywO) | yó(ywo) |
-| ㅜ | wu | ú(U) | ú(wu) |
-| ㅠ | yu | yú(yU) | yú(ywu) |
 | ㅣ | i | i | i |
+| Text | Transc. | Transl. | Old Text | Misc. |
+| ㅏ | a | a | a |
+| ㅓ | o | o | e |
+| ㆍ | ô(O) | ô(O) | o |
 | ㅡ | u | u | u |
 | | w | w | w |
-| | y/j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| Text | Trans. | Transl. | Old Text | Misc. |
-| ㅐ | e | é(aj) | aj |
-| ㅒ | ye | yé(yaj) | yaj |
-| ㅔ | e | e | ej |
-| ㅖ | ye | ye | yej |
-| ㅢ | í(uj) | í(uj) | uj | In transcription, allow use of ⟨e⟩ or ⟨é⟩ only when used as the preposition -의. |
 | ㅘ | wa | wa | wa |
 | ㅝ | wo | wo | we |
-| ㅚ | we | ö(wj) | ój(woj) |
-| ㅟ | wi | ü(wi) | új(wuj) |
-| ㅙ | we | wé(waj) | waj |
-| ㅞ | we | we | wej |
-| Text | Transc. | Transl. | Old Text | Misc. |
+| ㅗ | ó(wO) | ó(wO) | ó(wo) |
+| ㅜ | wu | ú(wu) | ú(wu) |
+| | y/j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| ㅑ | ya | ya | ya |
+| ㅕ | yo | yo | ye |
 | ᆝ | yô(yO) | yô(yO) | yo |
-| (ᆢ) | yô(yO) | ôô(OO) | oo | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆉ | ywe | yö(ywj) | yój(ywoj) |
-| ㆌ | ywi | yü(ywi) | yúj(ywuj) |
+| (ᆢ) | yô(yO) | ôô(OO) | oo(yo) | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㅛ | yó(yO) | yó(ywO) | yó(yo/ywo) |
 | ᆜ | yu | yu | yu |
-| (ᆖ) | yu | uu | uu | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
-| ㆎ | ôj(Oj) | ôj(wOj) | oj |
+| (ᆖ) | yu | uu | uu(yo) | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| ㅠ | yu | yú(ywu) | yú(yu/ywu) |
+| ㅐ | e(aj) | é(aj) | aj |
+| ㅔ | e(oj) | e(oj) | ej |
+| ㆎ | ôj(Oj) | ôj(Oj) | oj |
+| ㅢ | í(uj) | í(uj) | uj | In transcription, allow use of ⟨e⟩ or ⟨é⟩ only when used as the preposition -의. |
+| Text | Trans. | Transl. | Old Text | Misc. |
+| ㅙ | we(waj) | wé(waj) | waj |
+| ㅞ | we(woj) | we(woj) | wej |
+| ㅚ | we(Oj) | ö(wOj) | ój(woj) |
+| ㅟ | wi(wuj) | ü(wuj) | új(wuj) |
+| Text | Transc. | Transl. | Old Text | Misc. |
+| ㅒ | ye(yaj) | yé(yaj) | yaj |
+| ㅖ | ye(yoj) | ye(yoj) | yej |
+| ㆉ | ywe | yö(ywOj) | yój(yoj/ywoj) |
+| ㆌ | ywi | yü(ywuj) | yúj(yuj/ywuj) |
 
 | Text | Transc. & Transl. | Old Text | Misc. |
 | - | - | - | - |
