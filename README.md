@@ -52,18 +52,18 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 
 ## Modern Korean version
 
-| Text | Transc. | Transl. | Example | Misc. |
-| - | - | - | - | - |
+| Text | Transc. | Transl. | Example |
+| - | - | - | - |
 | ㅎ | h | h | 한강 |
-| ㅇ | | ’(') |  | Apostrophe; can also be used to indicate abbreviation. |
+| ㅇ | | ’(') |
 | ㅏ | a | a | 아빠 |
 | ㅣ | i | i | 이순신 |
 | ㅡ | u | u | 은방울 |
 | ㅐ | e(aj) | é(aj) | 앵무새 |
 | ㅔ | e(oj) | e(oj) | 엑스레이 |
 | ㅓ | o | o | 엄마 |
-| ㆍ | ô(O) | ô(O) | | Unused. |
-| Text | Transc. | Transl. | Example | Misc. |
+| ㆍ | ô(O) | ô(O) |
+| Text | Transc. | Transl. | Example |
 | | w | w |
 | ㅘ | wa | wa | 과자 |
 | ㅟ | wi(wuj) | ü(wuj) | 휘파람 |
@@ -72,7 +72,7 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | ㅞ | we(woj) | we(wej) | 궤도 |
 | ㅝ | wo | wo | 원숭이 |
 | ㅗ | ó(wO) | ó(wO) | 오징어 |
-| Text | Transc. | Transl. | Example | Misc. |
+| Text | Transc. | Transl. | Example |
 | | y | y |
 | ㅑ | ya | ya | 야자수 |
 | | | |
@@ -81,7 +81,7 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | ㅖ | ye(yoj) | ye(yoj) | 계란 |
 | ㅕ | yo | yo | 연못 |
 | ㅛ | yó(yO) | yó(ywO) | 요지경 |
-| Text | Transc. | Transl. | Example | Misc. |
+| Text | Transc. | Transl. | Example |
 | | | j |
 | ㅐ | e(aj) | é(aj) | 앵무새 |
 | | | |
@@ -90,8 +90,11 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | ㅔ | e(oj) | e(oj) | 엑스레이 |
 | ㅚ | we(Oj) | ö(wOj) | 회색 |
 
-| Text | Transc. | Transl. | Example | Misc. |
-| - | - | - | - | - |
+* In transcription, apostrophe can also be used to indicate abbreviation.
+* Are-a is unused.
+
+| Text | Transc. | Transl. | Example |
+| - | - | - | - |
 | ㅁ | m | | 미나리 |
 | ㅂ | b | | 바가지 |
 | ㅃ | bb | | 빵 |
@@ -102,7 +105,7 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | ㄷ | d | | 도라지 |
 | ㄸ | dd | | 딸기 |
 | ㅌ | t | | 통신 |
-| ㄹ | l | | 레전드 | Allowed and recommended to use ⟨r⟩ for rhetoric loanwords. |
+| ㄹ | l | | 레전드 |
 | ᄛ(ퟝ) | r | | |
 | ㅅ | s | | 서울 |
 | ㅆ | ss | | 씨름 |
@@ -115,6 +118,7 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | ㄲ | qq | | 깐부 |
 | ㅋ | k | | 키다리 |
 
+* Allowed and recommended to use ⟨r⟩ for rhetoric loanwords.
 * For combinational letters, just write them out by each compositig letter
 
 ### Miscellaneous
@@ -206,11 +210,11 @@ ______
 
 ## Full specifications
 
-| Text | Transc. | Transl. | Old Text | Misc. |
-| - | - | - | - | - |
-| ㅇ | | ’(') | ’(') | Apostrophe. It can also be used to indicate abbreviation. |
+| Text | Transc. | Transl. | Old Text |
+| - | - | - | - |
+| ㅇ | | ’(') | ’(') |
 | ㅣ | i | i | i |
-| Text | Transc. | Transl. | Old Text | Misc. |
+| Text | Transc. | Transl. | Old Text |
 | ㅏ | a | a | a |
 | ㅓ | o | o | e |
 | ㆍ | ô(O) | ô(O) | o |
@@ -220,36 +224,40 @@ ______
 | ㅝ | wo | wo | we |
 | ㅗ | ó(wO) | ó(wO) | ó(wo) |
 | ㅜ | wu | ú(wu) | ú(wu) |
-| | y/j | y/j | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
+| | y/j | y/j | y/j |
 | ㅑ | ya | ya | ya |
 | ㅕ | yo | yo | ye |
 | ᆝ | yô(yO) | yô(yO) | yo |
-| (ᆢ) | yô(yO) | ôô(OO) | oo(yo) | Use of ⟨ᆝ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| (ᆢ) | yô(yO) | ôô(OO) | oo(yo) |
 | ㅛ | yó(yO) | yó(ywO) | yó(yo/ywo) |
 | ᆜ | yu | yu | yu |
-| (ᆖ) | yu | uu | uu(yo) | Use of ⟨ᆜ⟩ is preferred. In text with this character, ⟨'⟩ needs to be used in between any vowels. |
+| (ᆖ) | yu | uu | uu(yo) |
 | ㅠ | yu | yú(ywu) | yú(yu/ywu) |
 | ㅐ | e(aj) | é(aj) | aj |
 | ㅔ | e(oj) | e(oj) | ej |
-| ㆎ | ôj(Oj) | ôj(Oj) | oj |
-| ㅢ | í(uj) | í(uj) | uj | In transcription, allow use of ⟨e⟩ or ⟨é⟩ only when used as the preposition -의. |
-| Text | Trans. | Transl. | Old Text | Misc. |
+| ㆎ | oj(Oj) | ôj(Oj) | oj |
+| ㅢ | í(uj) | í(uj) | uj |
+| Text | Trans. | Transl. | Old Text |
 | ㅙ | we(waj) | wé(waj) | waj |
 | ㅞ | we(woj) | we(woj) | wej |
 | ㅚ | we(Oj) | ö(wOj) | ój(woj) |
 | ㅟ | wi(wuj) | ü(wuj) | új(wuj) |
-| Text | Transc. | Transl. | Old Text | Misc. |
+| Text | Transc. | Transl. | Old Text |
 | ㅒ | ye(yaj) | yé(yaj) | yaj |
 | ㅖ | ye(yoj) | ye(yoj) | yej |
 | ㆉ | ywe | yö(ywOj) | yój(yoj/ywoj) |
 | ㆌ | ywi | yü(ywuj) | yúj(yuj/ywuj) |
 
-| Text | Transc. & Transl. | Old Text | Misc. |
-| - | - | - | - |
+* In transcription, Apostrophe can also be used to indicate abbreviation.
+* ⟨y⟩ is used in onset, ⟨j⟩ in coda.
+* Use of ⟨ᆝ⟩ or ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
+
+| Text | Transc. & Transl. | Old Text |
+| - | - | - |
 | ㄱ | q |
 | ㄴ | n |
 | ㄷ | d |
-| ㄹ | l | | In transcription, allowed to use ⟨r⟩ if pronounced rhotically. |
+| ㄹ | l |
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | s |
@@ -262,13 +270,13 @@ ______
 | ㅍ | p |
 | ㆆ | ? |
 | ㅎ | h |
-| Text | Transc. & Transl. | Old Text | Misc. |
+| Text | Transc. & Transl. | Old Text |
 | ㄲ | qq |
 | ㄸ | dd |
 | ㅃ | bb |
 | ㅆ | ss |
 | ㅉ | zz |
-| Text | Transc. & Transl. | Old Text | Misc. |
+| Text | Transc. & Transl. | Old Text |
 | ㅱ | m' |
 | ㅸ | v |
 | ㅹ | b' |
@@ -285,47 +293,8 @@ ______
 | ᅏ | žž(z\`z\`) |
 | ᅔ | č(c\`) |
 
-* For combinational letter clusters, just write them out by each compositig letter
-______
-
-## Old Text Transcription Addon
-
-Old text in the full description refers to the transliteration system made optimal for old text. Here we present a transcription system based on Seoulite dialect.
-
-| Text | Old Text Transc. | Misc. |
-| - | - | - |
-| ㅇ | ' | Apostrophe. It can also be used to indicate abbreviation. |
-| ㅣ | i |
-| Text | Old Text Transc. | Misc. |
-| ㅏ | a |
-| ㅓ | e |
-| ㆍ | o |
-| ㅡ | u |
-| | w |
-| ㅘ | wa |
-| ㅝ | we |
-| ㅗ | wo |
-| ㅜ | wu |
-| | y/j | ⟨y⟩ in onset, ⟨j⟩ in coda. |
-| ㅑ | ya |
-| ㅕ | ye |
-| ㅛ(ᆝ/ᆢ) | yo |
-| ㅠ(ᆜ/ᆖ) | yu |
-| Text | Old Text Transc. | Misc. |
-| ㅐ | aj |
-| ㅔ | ej |
-| ㆎ | oj |
-| ㅢ | uj | In transcription, allow use of ⟨e⟩ or ⟨é⟩ only when used as the preposition -의. |
-| Text | Old Text Transc. | Misc. |
-| ㅙ | waj |
-| ㅞ | wej |
-| ㅚ | woj |
-| ㅟ | wuj |
-| Text | Old Text Transc. | Misc. |
-| ㅒ | yaj |
-| ㅖ | yej |
-| ㆉ | yoj |
-| ㆌ | yuj |
+* In transcription, allowed to use ⟨r⟩ if pronounced rhotically.
+* For combinational letter clusters, just write them out by each compositig letter.
 ______
 
 ### Miscellaneous
