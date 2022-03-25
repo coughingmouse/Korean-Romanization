@@ -70,6 +70,7 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | ㅜ | wu | ú(wu) | 우편 |
 | ㅙ | we(waj) | wé(waj) | 돼지 |
 | ㅞ | we(woj) | we(wej) | 궤도 |
+| ㅚ | we(Oj) | ö(wOj) | 회색 |
 | ㅝ | wo | wo | 원숭이 |
 | ㅗ | ó(wO) | ó(wO) | 오징어 |
 | Text | Transc. | Transl. | Example |
@@ -83,12 +84,7 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | ㅛ | yó(yO) | yó(ywO) | 요지경 |
 | Text | Transc. | Transl. | Example |
 | | | j |
-| ㅐ | e(aj) | é(aj) | 앵무새 |
-| | | |
 | ㅢ | í(uj) | í(uj) | 의사 | |
-| | | |
-| ㅔ | e(oj) | e(oj) | 엑스레이 |
-| ㅚ | we(Oj) | ö(wOj) | 회색 |
 
 * In transcription, apostrophe can also be used to indicate abbreviation.
 * Are-a is unused.
