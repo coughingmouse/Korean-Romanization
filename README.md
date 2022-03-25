@@ -60,6 +60,7 @@ mwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdu
 | ㅐ | e | é(aj) | 앵무새 |
 | ㅔ | e | e | 엑스레이 |
 | ㅓ | o | o | 엄마 |
+| ㆍ | ô(O) | ô(O) | | Unused. |
 | Text | Transc. | Transl. | Example | Misc. |
 | | w | w |
 | ㅘ | wa | wa | 과자 |
