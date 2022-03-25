@@ -268,9 +268,9 @@ ______
 | ㅉ | zz |
 | Text | Transc. & Transl. | Old Text | Misc. |
 | ㅱ | m' |
-| ㅸ | v | | ⟨f⟩ if used to transcribe [f].
+| ㅸ | v |
 | ㅹ | b' |
-| ㆄ | p' |
+| ㆄ | f |
 | ᄛ(ퟝ) | r |
 | ᄾ | ś(s\\) |
 | ᄿ | śś(s\\s\\) |
