@@ -227,7 +227,7 @@ ______
 | (ᆢ) | yô(yO) | ôô(OO) | oo(yo) |
 | ㅛ | yó(yO) | yó(ywO) | yó(yo/ywo) |
 | ᆜ | yu | yu | yu |
-| (ᆖ) | yu | uu | uu(yo) |
+| (ᆖ) | yu | uu | uu(yu) |
 | ㅠ | yu | yú(ywu) | yú(yu/ywu) |
 | ㅐ | e(aj) | é(aj) | aj |
 | ㅔ | e(oj) | e(oj) | ej |
