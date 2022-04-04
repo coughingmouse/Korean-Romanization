@@ -143,7 +143,7 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
     | Current: 가당치도 | qadangcidó |
     | Suqqestion: 가당ㅎ지도 | qadangh'zidó |
 
-1. Write ⟨d⟩ whenever the archaic word s exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Alternatively but less optimally, write 사이시읏 as ⟨s⟩ explicitly.
+1. Write ⟨d⟩ whenever the archaic word "s" exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Alternatively but less optimally, write 사이시읏 as ⟨s⟩ explicitly.
 
     | Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
     | - | - | - | - |
@@ -370,15 +370,19 @@ There is no particular reason in Korean language to use multiple letters against
 
 * Why ⟨q⟩ for ⟨ㄱ⟩? or Why ⟨g⟩, for ⟨ㆁ⟩?
 
-⟨g⟩ was in use for ⟨ㆁ⟩ to meet design requirement. It needs be used exclusively for the character to avoid use of apostrophe.
+⟨g⟩ was in use for ⟨ㆁ⟩ to meet design requirement. 
+It needs be used exclusively for the character to avoid use of apostrophe.
 
 * Why ⟨g⟩ and ⟨ng⟩, not ⟨ŋ⟩?
 
-It's not a commonly used letter, so it's hard to type that letter. Also, you can't type that with Qwerty. This is important for more people than you might imagine.
+It's not a commonly used letter, so it's hard to type that letter. 
+Also, you can't type that with Qwerty. 
+This is important for more people than you might imagine.
 
 * Why allow both ⟨ng⟩ and ⟨g⟩?
 
-Although using ⟨ng⟩ does not meet design requirement, it does fit well, and people like it that way. But if this system were to be used for long, it's likely that providing the option to use ⟨g⟩ instead of ⟨ng⟩ will come in handy.
+Although using ⟨ng⟩ does not meet design requirement, it does fit well, and people like it that way. 
+But if this system were to be used for long, it's likely that providing the option to use ⟨g⟩ instead of ⟨ng⟩ will come in handy.
 
 * Why are Old Korean letters here?/Why are some Latin letters unused for Modern Korean?
 
@@ -389,13 +393,22 @@ Because Old Korean is used by some people, and this system is for (almost) every
 Because I don't want to spend more time here.
 Honestly, the existing vowels may not be so reliable either.
 
+* Why is there an addon for the archaic "s" but none for tense pronunciations?
+
+This is not a spelling reform. 
+The addons included here take advantage of writing in the unit of alphabets to write what should have been written, but couldn't have been due to the improper system in use.
+
 * You have Hangul. Why are you doing this?
 
-You can't type it with Qwerty layout on barebone computing systems. Unlike European letter systems, Korean scripts require a little more powerful input method engine.
+You can't type it with Qwerty layout on barebone computing systems. 
+Unlike European letter systems, Korean scripts require a little more powerful input method engine.
 
 * About ⟨ㅢ⟩...
 
-Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. This system is mainly a transliteration, and the only real reason transcription is included here is to compensate for the outdated official standard pronunciation. If you are wondering how to pronounce it, let me tell you that Koreans are also not sure how they should pronounce it, so everyone's mileage varies. I personally use the short i sound from English.
+Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. 
+This system is mainly a transliteration, and the only real reason transcription is included here is to compensate for the outdated official standard pronunciation. 
+If you are wondering how to pronounce it, let me tell you that Koreans are also not sure how they should pronounce it, so everyone's mileage varies. 
+I personally use the short i sound from English.
 
 ## To read more about the topic
 
