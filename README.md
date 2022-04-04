@@ -86,7 +86,7 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | | j | j |
 | ㅢ | í(uj) | í(uj) | 의사 | |
 
-* In transcription, apostrophe can also be used to indicate abbreviation.
+* In transcription, apostrophe can be used to indicate abbreviation.
 * Are-a is unused.
 
 | Text | Transc. | Transl. | Example |
@@ -244,7 +244,7 @@ ______
 | ㆉ | ywe | yö(ywOj) | yój(yoj/ywoj) |
 | ㆌ | ywi | yü(ywuj) | yúj(yuj/ywuj) |
 
-* In transcription, Apostrophe can also be used to indicate abbreviation.
+* In transcription, Apostrophe can be used to indicate abbreviation.
 * ⟨y⟩ is used in onset, ⟨j⟩ in coda.
 * Use of ⟨ᆝ⟩ or ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
 
