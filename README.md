@@ -23,8 +23,8 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 
 ## tl;dr
 
-| Text | Transcription | Transliteration | Misc. |
-| - | - | - | - |
+| Text | Transcription | Transliteration |
+| - | - | - |
 | ㆍ | ô(O) | ô(O) |
 | ㅐ/ㅔ/ㅢ | e/e/í(uj) | é(aj)/e/í(uj) |
 | ㅡ | u | u |
@@ -39,16 +39,12 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | ㄲ | qq | qq |
 | ㆆ | ? | ? |
 | ㅿ | x | x |
-| 한글 | hanqul | hanqul | Korean word for Hangul. |
-| 훈민정음 | hwunminzongum | húnminzogum | Korean word for Hunminjeongeum, a predecessor to Hangul. (húnminzyong?um / húnminzyog?um) |
-| 동국정운 | dóngqwuqzongwun | dógqúqzogún | Korean word for Dongguk Jeongun (Standard Rhymes of the Eastern States), a companion volume of Hunminjeongeum for the "correct" pronunciation of Chinese.  |
-| 리어카 | lioka | lioka | Loanword from Japanese "リヤカー". |
-| 우리 | wuli | úli | Korean word for "us." |
-| 미란다 | miranda | miranda |
-| 레드 | redu | redu | Loanword from English "red." |
-| 서울 | sowul | soúl | Korean word for "Seoul." |
-| 김정은 | qim zongun | qim zogun | "Kim Jong-un." |
-| 마라탕 | malatang | malatag | Spicy hot pot. Delicious. |
+| 한글 | hanqul | hanqul |
+| 리어카 빠르네 | lioka bballne | lioka bbalune |
+| 물을 긷는다 | mwulul qirnunda | múlul qidnunda |
+| 미란다 | miranda | milanda |
+| 레드 | redu | redu |
+| 서울 | sowul | soúl |
 
 ## Modern Korean version
 
