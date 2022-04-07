@@ -190,7 +190,7 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
 1. Write the coda ending with ⟨ㅅ⟩ such as ⟨ㅄ⟩ with double ⟨ss⟩, i.e. ⟨bss⟩
 
-1. Write Korean that was not writable due to being incompatible with Hangul.
+1. Write Korean that was not writable without breaking the system due to being incompatible with Hangul.
 
     | Text | Suqqested Transc. |
     | - | - |
@@ -414,4 +414,4 @@ EDWARD F. KLEIN.(1982).Romanization of Korean.코리아저널,22(8),16-23.
 
 Kyung Il Jung. (2013). Some Issues on the Korean Romanization as the Normative Law. The Linguistic Association of Korea Journal, 21(1), 139-154.
 
-李相億. "국어의 로마자 표기법 문제 종합 검토." 언어와 언어학 7.- (1981): 15-48. "누구를 위하여 로마자 표기를 하여야 하나?".
+李相億. "국어의 로마자 표기법 문제 종합 검토." 언어와 언어학 7.- (1981): 15-48. "누구를 위하여 로마자 표기를 하여야 하나?".
