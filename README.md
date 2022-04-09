@@ -85,30 +85,30 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 * In transcription, apostrophe can be used to indicate abbreviation.
 * Are-a is unused.
 
-| Text | Transc. | Transl. | Example |
-| - | - | - | - |
-| ㅁ | m | | 미나리 |
-| ㅂ | b | | 바가지 |
-| ㅃ | bb | | 빵 |
-| ㅍ | p | | 파고다 |
-| (ㅸ) | w(/v) | w(/v) | 더위 |
-| | y(/j) | y(/j) | 야자수 |
-| ㄴ | n | | 나폴리 |
-| ㄷ | d | | 도라지 |
-| ㄸ | dd | | 딸기 |
-| ㅌ | t | | 통신 |
-| ㄹ | l | | 레전드 |
-| ᄛ(ퟝ) | r | | |
-| ㅅ | s | | 서울 |
-| ㅆ | ss | | 씨름 |
-| ㅈ | z | | 지게 |
-| ㅉ | zz | | 짜장면 |
-| ㅊ | c | | 치마 |
-| ㅿ | x | | 젓가락 |
-| ㆁ | g/ng | | 잉어 |
-| ㄱ | q | | 기러기 |
-| ㄲ | qq | | 깐부 |
-| ㅋ | k | | 키다리 |
+| Text | Trans. | Example |
+| - | - | - |
+| ㅁ | m | 미나리 |
+| ㅂ | b | 바가지 |
+| ㅃ | bb | 빵 |
+| ㅍ | p | 파고다 |
+| (ㅸ) | w(/v) | 더위 |
+| | y(/j) | 야자수 |
+| ㄴ | n | 나폴리 |
+| ㄷ | d | 도라지 |
+| ㄸ | dd | 딸기 |
+| ㅌ | t | 통신 |
+| ㄹ | l | 레전드 |
+| ᄛ | r | 듣기 |
+| ㅅ | s | 서울 |
+| ㅆ | ss | 씨름 |
+| ㅈ | z | 지게 |
+| ㅉ | zz | 짜장면 |
+| ㅊ | c | 치마 |
+| ㅿ | x | 젓가락 |
+| ㆁ | g/ng | 잉어 |
+| ㄱ | q | 기러기 |
+| ㄲ | qq | 깐부 |
+| ㅋ | k | 키다리 |
 
 * Allowed and recommended to use ⟨r⟩ for rhetoric loanwords.
 * For combinational letters, just write them out by each compositig letter
@@ -139,27 +139,27 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
     | Current: 가당치도 | qadangcidó |
     | Suqqestion: 가당ㅎ지도 | qadangh'zidó |
 
-1. Write ⟨d⟩ whenever the archaic word "s" exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩). Alternatively but less optimally, write 사이시읏 as ⟨s⟩ explicitly.
+1. Write ⟨d⟩ whenever the archaic word "s" exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩).
 
-    | Text | Suqqested Transc. | Alternative Transc. | Current Transc. |
-    | - | - | - | - |
-    | 숫자 | swudza | swusza | swusza |
-    | 멸족 | myoldzóq | myolszóq | myolzóq |
-    | 냇가 | nedqa | nesqa | nesqa |
-    | 콧등 | kóddeng | kósdeng | kósdeng |
-    | 뱃나루 | bennalwu | besnalu | besnalwu |
-    | 나뭇잎 | namwunnip | namwusip | namwusip |
-    | 볼일 | bólnil | bólsil | bólil |
-    | 빵 조각 | bbang d zoqaq | bbang s zoqaq | bbang zoqaq |
-    | 할 일 | hal n il | hal s il | hal il |
-    | 한 일 | han n il | han s il | han il |
+    | Text | Suqqested Transc. | Current Transc. |
+    | - | - | - |
+    | 숫자 | swudza | swusza |
+    | 멸족 | myoldzóq | myolzóq |
+    | 냇가 | nedqa | nesqa |
+    | 콧등 | kóddeng | kósdeng |
+    | 뱃나루 | bennalwu | besnalwu |
+    | 나뭇잎 | namwunnip | namwusip |
+    | 볼일 | bólnil | bólil |
+    | 빵 조각 | bbang d zoqaq | bbang zoqaq |
+    | 할 일 | hal n il | hal il |
+    | 한 일 | han n il | han il |
 
 1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨v⟩ which is read as /b/ in coda.
 
     | Text | Suqqested Transc. |
     | - | - |
     | Current: 덥다, 더워 | dobda, dowo |
-    | Suggestion: 더v다, 더워 | dovda, dovo |
+    | Suggestion: 더ᇦ다, 더ᄫᅥ dovda, dovo |
 
 1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩.
 
@@ -202,11 +202,11 @@ ______
 
 ## Full specifications
 
-| Text | Transc. | Transl. | Old Text |
+| Text | Transc. | Transl. | Middle KO |
 | - | - | - | - |
 | ㅇ | | ’(') | ’(') |
 | ㅣ | i | i | i |
-| Text | Transc. | Transl. | Old Text |
+| Text | Transc. | Transl. | Middle KO |
 | ㅏ | a | a | a |
 | ㅓ | o | o | e |
 | ㆍ | ô(O) | ô(O) | o |
@@ -229,12 +229,12 @@ ______
 | ㅔ | e(oj) | e(oj) | ej |
 | ㆎ | oj(Oj) | ôj(Oj) | oj |
 | ㅢ | í(uj) | í(uj) | uj |
-| Text | Trans. | Transl. | Old Text |
+| Text | Trans. | Transl. | Middle KO |
 | ㅙ | we(waj) | wé(waj) | waj |
 | ㅞ | we(woj) | we(woj) | wej |
 | ㅚ | we(Oj) | ö(wOj) | ój(woj) |
 | ㅟ | wi(wuj) | ü(wuj) | új(wuj) |
-| Text | Transc. | Transl. | Old Text |
+| Text | Transc. | Transl. | Middle KO |
 | ㅒ | ye(yaj) | yé(yaj) | yaj |
 | ㅖ | ye(yoj) | ye(yoj) | yej |
 | ㆉ | ywe | yö(ywOj) | yój(yoj/ywoj) |
@@ -244,8 +244,8 @@ ______
 * ⟨y⟩ is used in onset, ⟨j⟩ in coda.
 * Use of ⟨ᆝ⟩ or ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
 
-| Text | Transc. & Transl. | Old Text |
-| - | - | - |
+| Text | Trans. |
+| - | - |
 | ㄱ | q |
 | ㄴ | n |
 | ㄷ | d |
@@ -262,18 +262,18 @@ ______
 | ㅍ | p |
 | ㆆ | ? |
 | ㅎ | h |
-| Text | Transc. & Transl. | Old Text |
+| Text | Trans. |
 | ㄲ | qq |
 | ㄸ | dd |
 | ㅃ | bb |
 | ㅆ | ss |
 | ㅉ | zz |
-| Text | Transc. & Transl. | Old Text |
+| Text | Trans. |
 | ㅱ | m' |
 | ㅸ | v |
 | ㅹ | b' |
 | ㆄ | f |
-| ᄛ(ퟝ) | r |
+| ᄛ | r |
 | ᄾ | ś(s\\) |
 | ᄿ | śś(s\\s\\) |
 | ᅐ | ź(z\\) | 
@@ -297,7 +297,7 @@ ______
 
 The differences from the Yale Romanization are as follows.
 
-| Text | Here (Old Text) | Yale |
+| Text | Here (Middle KO) | Yale |
 | - | - | - |
 | ㅇ | ' | G |
 | ㅗ | ó(wo) | (w)o |
@@ -331,13 +331,13 @@ ______
 | qóz | qóz | 곶 |
 | qós | qós | 곳 |
 | zzang | zzag | 짱 |
-| qumdongmiruqbosalbanqasajwusang / qumdongmiluqbosalbanqasajúsang | qumdogmiluqbosalbanqasayúsag | 금동미륵보살반가사유상 |
-| milky | milke | 밀크 |
-| boraq óbama / bolaq óbama | boraq óbama | 버락 오바마 |
+| qumdongmiruqbosalbanqasayusang | qumdogmiluqbosalbanqasayúsag | 금동미륵보살반가사유상 |
+| milku | milku | 밀크 |
+| boraq óbama | bolaq óbama | 버락 오바마 |
 | sincong | sincog | 신청 |
 | saconsong | saconsog | 사천성 |
 | manhwa | manhwa | 만화 |
-| ?il i sam sa o ljuq cil pal qwu sib | ?il i sam sa o lyúq cil pal qú sib | 일 이…십 |
+| ?il i sam sa o lyuq cil pal qwu sib | ?il i sam sa o lyúq cil pal qú sib | 일 이…십 |
 ______
 
 ### FAQ
@@ -402,9 +402,11 @@ Unlike European letter systems, Korean scripts require a little more powerful in
 * About ⟨ㅢ⟩...
 
 Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. 
-This system is mainly a transliteration, and the only real reason transcription is included here is to compensate for the outdated official standard pronunciation. 
-If you are wondering how to pronounce it, let me tell you that Koreans are also not sure how they should pronounce it, so everyone's mileage varies. 
-I personally use the short i sound from English.
+
+* About the difference between the actual pronunciation and the written form of tensed consonants...
+
+Again, not what Romanization is about.
+I do believe it's an issue to be addressed, but it's a problem to be dealt with separately.
 
 ## To read more about the topic
 
