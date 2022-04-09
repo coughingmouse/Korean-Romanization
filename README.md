@@ -407,6 +407,10 @@ To meet every demand, we propose these systems, to be selectively used as needed
 
 Yeah, about that. We don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. 
 
+* About 사이시옷 "s"...
+
+Further improvement from what is suggested here is not a part of a Romanization system but a separate orthographic matter.
+
 * About the difference between the actual pronunciation and the written form of tensed consonants...
 
 Likewise, it's not what Romanization is about, and it should be dealt with separately.
