@@ -354,7 +354,7 @@ But anyway, come on, it's not that hard to memorize that Koreans pronounce voice
 
 * Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨kk⟩ for ⟨ㄲ⟩? (also applies for t/th/d, p/ph/b)
 
-Because we can reduce the number of double letters per phoneme. And also because it feels slightly more intuitive to use ⟨g⟩ for ⟨ㄱ⟩, since ⟨ㄱ⟩ is more often pronounced as /g/. Also, it's changing in this direction, so it's more future-proof.
+Because we can reduce the number of double letters per phoneme. Because it feels intuitive to use ⟨g⟩ for ⟨ㄱ⟩, since ⟨ㄱ⟩ is more often pronounced as /g/, it can be remapped. Also, this would make how ⟨ㅅ⟩ /sʰ/ and ⟨ㅆ⟩ /s/ are mapped counter-intuitive, no matter what.
 
 * Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨g⟩ for ⟨ㄲ⟩, like Thai? It would also be more intuitive for Chinese users. (also applies for t/th/d, p/ph/b)
 
