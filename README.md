@@ -344,13 +344,11 @@ ______
 
 * ...Did you just use ⟨g⟩ instead of ⟨ng⟩ and ⟨q⟩ instead of ⟨g⟩?
 
-Yes, yes, I did.
+Yes. Yes, we did.
 
 * Why not use both ⟨k⟩/⟨g⟩ for ⟨ㄱ⟩, ⟨t⟩/⟨d⟩ for ⟨ㄷ⟩, and ⟨p⟩/⟨b⟩ for ⟨ㅂ⟩?
 
-Were I to make a system that translated Korean to English, I would happily just use the revised romanization of korean (again, if using breves), and you should, too. But the purpose of writing systems including Korean ones is not to depict phones or phonemes but to convey granular meaning, or morphophonemes. Using both letters for the phonemes will help understand more Korean at first, but will not only make it hard to understand for Korean users, but be very inconsistent as one learns more of the language.
-
-But anyway, come on, it's not that hard to memorize that Koreans pronounce voiced plosives voicelessly (although I do agree that it sounds counterintuitive at first, until you hear that the voiceless phonemes is becoming voiced, not the other way around) and with [˩] tone when it's the first letter of a word.
+Were we to make a system that translated Korean to English, we would happily just use the revised romanization of korean (again, if using breves), and you should, too. But the purpose of writing systems including Korean ones is not to depict phones or phonemes but to convey granular meaning, or morphophonemes. Using both letters for the phonemes will help understand more Korean at first, but will not only lose semantic meaning making it hard to understand for Korean users, but be very inconsistent as one learns more of the language. That Koreans pronounce voiced plosives with [˩] tone voicelessly when it's the initial letter of a word is something you'll have to learn when learning the Korean language, not the writing system.
 
 * Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨kk⟩ for ⟨ㄲ⟩? (also applies for t/th/d, p/ph/b)
 
@@ -358,7 +356,7 @@ Because we can reduce the number of double letters per phoneme. Because it feels
 
 * Why not ⟨k⟩ for ⟨ㄱ⟩, ⟨kh⟩ for ⟨ㅋ⟩, and ⟨g⟩ for ⟨ㄲ⟩, like Thai? It would also be more intuitive for Chinese users. (also applies for t/th/d, p/ph/b)
 
-It will be, but it will be less intuitive for Korean users. As I've mentioned above, it feels slightly more intuitive to use ⟨g⟩ for ⟨ㄱ⟩, since ⟨ㄱ⟩ is more often pronounced as /g/. What's the point, if users don't understand?
+It will be, but it will be less intuitive for Korean users. As mentioned above, it feels slightly more intuitive to use ⟨g⟩ for ⟨ㄱ⟩, since ⟨ㄱ⟩ is more often pronounced as /g/. There not being a way to intuitively and coherently map ⟨ㅅ⟩ /sʰ/ and ⟨ㅆ⟩ /s/ is also a factor.
 
 * Why ⟨c⟩, not ⟨ch⟩?
 
@@ -384,11 +382,6 @@ But if this system were to be used for long, it's likely that providing the opti
 
 Because Old Korean is used by some people, and this system is for (almost) everyone.
 
-* Why are not all the Old Koreans letters here?
-
-Because I don't want to spend more time here.
-Honestly, the existing vowels may not be so reliable either.
-
 * Why is there an addon for the archaic "s" but none for tense pronunciations?
 
 This is not a spelling reform. 
@@ -396,7 +389,7 @@ The addons included here take advantage of writing in the unit of alphabets to w
 
 * You have Hangul. Why are you doing this?
 
-We need something like this. I hope to provide a template for the solution to the problems regarding writing Korean which this system tries to solve for.
+We need something like this. We hope to provide a template for the solution to the problems regarding writing Korean which this system tries to solve for.
 Firstly, you can't type Hangul with Qwerty layout on barebone computing systems, so you need an ASCII compatible romanization system. 
 Unlike European letter systems traditional Korean scripts require a little more powerful input method engine.
 Secondly, people starting to learn Korean don't have a decent writing system to start out with. 
