@@ -220,11 +220,11 @@ ______
 | ㅑ | ya | ya | ya |
 | ㅕ | yo | yo | ye |
 | ᆝ | yô(yO) | yô(yO) | yo |
-| (ᆢ) | yô(yO) | ôô(OO) | oo(yo) |
-| ㅛ | yó(yO) | yó(ywO) | yó(yo/ywo) |
+| (ᆢ) | yô(yO) | ôô(OO) | oo{yo} |
+| ㅛ | yó(yO) | yó(ywO) | yó(ywo){yo} |
 | ᆜ | yu | yu | yu |
-| (ᆖ) | yu | uu | uu(yu) |
-| ㅠ | yu | yú(ywu) | yú(yu/ywu) |
+| (ᆖ) | yu | uu | uu{yu} |
+| ㅠ | yu | yú(ywu) | yú(ywu){yu} |
 | ㅐ | e(aj) | é(aj) | aj |
 | ㅔ | e(oj) | e(oj) | ej |
 | ㆎ | oj(Oj) | ôj(Oj) | oj |
@@ -237,12 +237,13 @@ ______
 | Text | Transc. | Transl. | Middle KO |
 | ㅒ | ye(yaj) | yé(yaj) | yaj |
 | ㅖ | ye(yoj) | ye(yoj) | yej |
-| ㆉ | ywe | yö(ywOj) | yój(yoj/ywoj) |
-| ㆌ | ywi | yü(ywuj) | yúj(yuj/ywuj) |
+| ㆉ | ywe | yö(ywOj) | yój(ywoj){yoj} |
+| ㆌ | ywi | yü(ywuj) | yúj(ywuj){yuj} |
 
 * In transcription, Apostrophe can be used to indicate abbreviation.
 * ⟨y⟩ is used in onset, ⟨j⟩ in coda.
 * Use of ⟨ᆝ⟩ or ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
+* Curly bracket contains transcription.
 
 | Text | Trans. |
 | - | - |
