@@ -396,17 +396,22 @@ The addons included here take advantage of writing in the unit of alphabets to w
 
 * You have Hangul. Why are you doing this?
 
-You can't type it with Qwerty layout on barebone computing systems. 
-Unlike European letter systems, Korean scripts require a little more powerful input method engine.
+We need something like this. I hope to provide a template for the solution to the problems regarding writing Korean which this system tries to solve for.
+Firstly, you can't type Hangul with Qwerty layout on barebone computing systems, so you need an ASCII compatible romanization system. 
+Unlike European letter systems traditional Korean scripts require a little more powerful input method engine.
+Secondly, people starting to learn Korean don't have a decent writing system to start out with. 
+Yale romanization is the only system that is in use and is "actually" usable, but it is outdated and not very often used. RR is absurd, and MR does not handle semantics properly.
+Hangul isn't a great fit for the Korean language either. 
+Because the characters are written in syllabic blocks, it can't handle the frequent sandhis properly. For Middle Korean and Cia-cia, combination of two different letters are used to write a single phoneme for an inadequate reason, which makes Hangul a mediocre choice.
+To meet every demand, we propose these systems, to be selectively used as needed.
 
 * About ⟨ㅢ⟩...
 
-Yeah, about that. I don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. 
+Yeah, about that. We don't think that's a topic to be dealt with romanization but rather in stadardizing Korean pronunciation. 
 
 * About the difference between the actual pronunciation and the written form of tensed consonants...
 
-Again, not what Romanization is about.
-I do believe it's an issue to be addressed, but it's a problem to be dealt with separately.
+Likewise, it's not what Romanization is about, and it should be dealt with separately.
 
 ## To read more about the topic
 
