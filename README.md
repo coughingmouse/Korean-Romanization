@@ -284,9 +284,14 @@ ______
 | ᅎ | ž(z\`) |
 | ᅏ | žž(z\`z\`) |
 | ᅔ | č(c\`) |
+| Mark | Trans. |
+| 〮 | ^ |
+| 〯 | : |
+| ː | : |
 
 * In transcription, allowed to use ⟨r⟩ if pronounced rhotically.
 * For combinational letter clusters, just write them out by each compositig letter.
+* Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
 ______
 
 ### Miscellaneous
