@@ -322,7 +322,7 @@ The differences from the Yale Romanization are as follows.
 | ㅸ | v |
 | ㅹ | b' |
 | ㆄ | f |
-| ᄛ(ퟝ) | r |
+| ᄛ | r |
 
 ______
 
