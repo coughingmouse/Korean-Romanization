@@ -159,7 +159,7 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
     | Text | Suqqested Transc. |
     | - | - |
     | Current: 덥다, 더워 | dobda, dowo |
-    | Suggestion: 더ᇦ다, 더ᄫᅥ dovda, dovo |
+    | Suggestion: 더ᇦ다, 더ᄫᅥ | dovda, dovo |
 
 1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩.
 
@@ -310,19 +310,19 @@ The differences from the Yale Romanization are as follows.
 | ㅜ | ú(wu) | (w)u |
 | ㅐ | aj | ay |
 | ㅔ | ej | ey |
-| ㄱ | q |
-| ㄷ | d |
-| ㅂ | b |
+| ㄱ | q | k |
+| ㄷ | d | t |
+| ㅂ | b | p |
 | ㆁ | g/ng | ng |
 | ㅈ | z | c |
 | ㅉ | zz | cc |
 | ㅿ | x | z |
 | ㆆ | ? | q |
-| ㅱ | m' | ? |
-| ㅸ | v | ? |
-| ㅹ | b' | ? |
-| ㆄ | f | ? |
-| ᄛ(ퟝ) | r | ? |
+| ㅱ | m' |
+| ㅸ | v |
+| ㅹ | b' |
+| ㆄ | f |
+| ᄛ(ퟝ) | r |
 
 ______
 
