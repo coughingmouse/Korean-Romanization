@@ -214,8 +214,8 @@ ______
 | | w | w | w |
 | ㅘ | wa | wa | wa |
 | ㅝ | wo | wo | we |
-| ㅗ | ó(wO) | ó(wO) | ó(wo) |
-| ㅜ | wu | ú(wu) | ú(wu) |
+| ㅗ | ó(wO) | ó(wO) | ó{(wo)} |
+| ㅜ | wu | ú(wu) | ú{(wu)} |
 | | y/j | y/j | y/j |
 | ㅑ | ya | ya | ya |
 | ㅕ | yo | yo | ye |
@@ -230,13 +230,13 @@ ______
 | ㆎ | oj(Oj) | ôj(Oj) | oj |
 | ㅢ | í(uj) | í(uj) | uj |
 | Text | Trans. | Transl. | Middle KO |
-| ㅙ | we(waj) | wé(waj) | waj |
-| ㅞ | we(woj) | we(woj) | wej |
-| ㅚ | we(Oj) | ö(wOj) | ój(woj) |
-| ㅟ | wi(wuj) | ü(wuj) | új(wuj) |
+| ㅙ | we(waj) | wé{(waj)} | waj |
+| ㅞ | we(woj) | we{(woj)} | wej |
+| ㅚ | we(Oj) | ö(wOj) | ój{(woj)} |
+| ㅟ | wi(wuj) | ü(wuj) | új{(wuj)} |
 | Text | Transc. | Transl. | Middle KO |
-| ㅒ | ye(yaj) | yé(yaj) | yaj |
-| ㅖ | ye(yoj) | ye(yoj) | yej |
+| ㅒ | ye(yaj) | yé{(yaj)} | yaj |
+| ㅖ | ye(yoj) | ye{(yoj)} | yej |
 | ㆉ | ywe | yö(ywOj) | yój(ywoj){yoj} |
 | ㆌ | ywi | yü(ywuj) | yúj(ywuj){yuj} |
 
