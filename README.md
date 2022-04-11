@@ -351,8 +351,7 @@ ______
 * What about Cia-cia?
 
 That's not what this system addresses.
-Note that this is a "Korean" "Script Romanization" system.
-The existing Latin alphabet system for Cia-cia doesn't look as unfit as the Hangul equivalent being used anyway, and there's no good non-political reason to consider Hangul as a script for Cia-cia in the first place.
+This is a "Korean" "Script Romanization" system.
 
 * ...Did you just use ⟨g⟩ instead of ⟨ng⟩ and ⟨q⟩ instead of ⟨g⟩?
 
