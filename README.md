@@ -1,25 +1,21 @@
-# Mawus Korean Script Romanization
+# Mawus Korean Romanization
 
-Basically became something like a Revision of Yale Romanization of Korean. There are a transliteration system and a phonemic transcription made fit for both Modern Korean and Middle Korean, all made compatible with the international Qwerty layout, as well as ASCII-compatible versions.
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
+
+This is something like a different version of Yale Romanization of Korean. There are a transliteration system and a phonemic transcription made fit for both Modern Korean and Middle Korean, all made compatible with the international Qwerty layout, as well as ASCII-compatible versions. For extra details regarding the Modern Korean MKSR, click [this](https://gitlab.com/coughingmouse/MKSR/blob/main/Modern_Korean_MKSR.md).
 
 To type letters with diacritics on a standard Qwerty layout, use English (United States) United States-International keyboard on Windows and us altgr-intl on Linux. You can use ⟨AltGr⟩ + ⟨e⟩ to type ⟨é⟩, ⟨AltGr⟩ + the key next to ⟨u⟩ to type ⟨ü⟩, etc. On Apple devices, long pressing a key pops up a menu from which you can select an appropriate diacritic. You can also use  ⟨AltGr⟩ + ⟨e⟩, ⟨AltGr⟩ + ⟨u⟩, and ⟨AltGr⟩ + ⟨i⟩ to type diacritics directly there on the default keyboard layout. 
 
-결과적으로는 예일 로마자 표기법을 고친 꼴이 된 마우스식 국문 로마자화를 소개합니다. 국제 쿼티 자판에 맞게 설계된 현대 한국어와 중세 한국어에 대한 전자법과 음운론적 전사법이 있으며, ASCII 호환성을 고려한 버전도 있습니다.
+결과적으로는 예일 로마자 표기법을 고친 꼴이 된 마우스식 국문 로마자화를 소개합니다. 국제 쿼티 자판에 맞게 설계된 현대 한국어와 중세 한국어에 대한 전자법과 음운론적 전사법이 있으며, ASCII 호환성을 고려한 버전도 있습니다. 현대 한국어에 맞춘 국문 로마자화에 대한 추가적인 사항은 [여기서](https://gitlab.com/coughingmouse/MKSR/blob/main/Modern_Korean_MKSR.md) 확인할 수 있습니다.
 
-쿼티 자판을 사용해 발음 구별 기호가 있는 글자를 입력하시려면 윈도우즈를 사용 시에는 English (United States) United States-International keyboard 자판을 사용하시고, 리눅스에서는 us altgr-intl 자판을 사용하셔서 ⟨AltGr⟩ + ⟨e⟩와 ⟨AltGr⟩ + ⟨u⟩ 옆의 글쇠 등을 누르시면 됩니다. 애플 사의 기기에서는 글자를 길게 누르면 글자에 추가할 발음 구별 기호가 나와서 선택하실 수 있습니다. 또한 기본 쿼티 자판에서는 ⟨AltGr⟩ + ⟨e⟩나 ⟨AltGr⟩ + ⟨u⟩, ⟨AltGr⟩ + ⟨i⟩로 발음 구별 기호를 직접 입력할 수도 있습니다.
+쿼티 자판을 사용해 발음 구별 기호가 있는 글자를 입력하려면 윈도우즈를 사용 시에는 English (United States) United States-International keyboard 자판을 사용하고, 리눅스에서는 us altgr-intl 자판을 사용하셔서 ⟨AltGr⟩ + ⟨e⟩와 ⟨AltGr⟩ + ⟨u⟩ 옆의 글쇠 등을 누르면 됩니다. 애플 사의 기기에서는 글자를 길게 누르면 글자에 추가할 발음 구별 기호가 나와서 선택할 수 있습니다. 또한 기본 쿼티 자판에서는 ⟨AltGr⟩ + ⟨e⟩나 ⟨AltGr⟩ + ⟨u⟩, ⟨AltGr⟩ + ⟨i⟩로 발음 구별 기호를 직접 입력할 수도 있습니다.
 
+Why this came to be is written [here](ttps://gitlab.com/coughingmouse/MKSR/blob/main/why.md). In making this system, a [proto](https://gitlab.com/coughingmouse/MKSR/blob/main/proto.md) version was [modified](https://gitlab.com/coughingmouse/MKSR/blob/main/ASCII.md) to fit with ASCII, then was further modified and extended to fit every practical need.
 
-```text
-모든    인간은  태어날   때부터     자유로우며     그  존엄과     권리에   있어  동등하다.       인간은  천부적으로     이성과   양심을     부여받았으며     서로   형제애의    정신으로     행동하여야       한다.
-módun  inqanun teonal  ddebwuto   zayulówumyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbwuzoquló  isongqwa yangsimul bwuyobadassumyo  soló  hyongzeeí  zongsinuló hengdónghayoya   handa.
-MwOdun inqanun teonal  ddebwuto  zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. Inqanun conbwuzoqulwO isongqwa yangsimul bwuyobadassumyo solwO hyongzeeuj  zongsinulwO hengdwOnghayoya  handa.
+## Todo
 
-módun  inqanun téonal  ddébúto   zayúlóúmyo    qu zónumqwa  qwonlie isso dóngdunghada.  inqanun conbúzoquló  isongqwa yangsimul búyobadassumyo  soló  hyongzeéí  zongsinuló héngdónghayoya   handa.
-MwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. Inqanun conbwuzoqulwO isongqwa yangsimul bwuyobadassumyo solwO hyongzeajuj zongsinulwO hajngdwOnghayoya handa.
-
-Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e dwongdunghada. 'inqan'un cenbwuzeq'ulwo 'isengqwa yangsim'ul bwuyebad'ass'umye selwo hyengzej'aj'uj zengsin'ulwo hajngdwonghayeya handa.
-```
+* Implement an IME.
+* Implement a custom layout in case an IME can't run and you would like to write without pressing Alt-Gr.
 
 ## tl;dr
 
@@ -46,158 +42,7 @@ Mwodun 'inqan'n taj'enal ddajbwute zayulwowumye qu zwon'emqwa qwenli'ej 'iss'e d
 | 레드 | redu | redu |
 | 서울 | sowul | soúl |
 
-## Modern Korean version
-
-| Text | Transc. | Transl. | Example |
-| - | - | - | - |
-| ㅎ | h | h | 한강 |
-| ㅇ | | ’(') |
-| ㅏ | a | a | 아빠 |
-| ㅣ | i | i | 이순신 |
-| ㅡ | u | u | 은방울 |
-| ㅐ | e(aj) | é(aj) | 앵무새 |
-| ㅔ | e(oj) | e(oj) | 엑스레이 |
-| ㅓ | o | o | 엄마 |
-| ㆍ | ô(O) | ô(O) |
-| Text | Transc. | Transl. | Example |
-| | w | w |
-| ㅘ | wa | wa | 과자 |
-| ㅟ | wi(wuj) | ü(wuj) | 휘파람 |
-| ㅜ | wu | ú(wu) | 우편 |
-| ㅙ | we(waj) | wé(waj) | 돼지 |
-| ㅞ | we(woj) | we(wej) | 궤도 |
-| ㅚ | we(Oj) | ö(wOj) | 회색 |
-| ㅝ | wo | wo | 원숭이 |
-| ㅗ | ó(wO) | ó(wO) | 오징어 |
-| Text | Transc. | Transl. | Example |
-| | y | y |
-| ㅑ | ya | ya | 야자수 |
-| | | |
-| ㅠ | yu | yú(ywu) | 유치원 |
-| ㅒ | ye(yaj) | yé(yaj) | 섀도 |
-| ㅖ | ye(yoj) | ye(yoj) | 계란 |
-| ㅕ | yo | yo | 연못 |
-| ㅛ | yó(yO) | yó(ywO) | 요지경 |
-| Text | Transc. | Transl. | Example |
-| | j | j |
-| ㅢ | í(uj) | í(uj) | 의사 | |
-
-* In transcription, apostrophe can be used to indicate abbreviation.
-* Are-a is unused.
-
-| Text | Trans. | Example |
-| - | - | - |
-| ㅁ | m | 미나리 |
-| ㅂ | b | 바가지 |
-| ㅃ | bb | 빵 |
-| ㅍ | p | 파고다 |
-| (ㅸ) | w(/v) | 더위 |
-| | y(/j) | 야자수 |
-| ㄴ | n | 나폴리 |
-| ㄷ | d | 도라지 |
-| ㄸ | dd | 딸기 |
-| ㅌ | t | 통신 |
-| ㄹ | l | 레전드 |
-| ᄛ | r | 듣기 |
-| ㅅ | s | 서울 |
-| ㅆ | ss | 씨름 |
-| ㅈ | z | 지게 |
-| ㅉ | zz | 짜장면 |
-| ㅊ | c | 치마 |
-| ㅿ | x | 젓가락 |
-| ㆁ | g/ng | 잉어 |
-| ㄱ | q | 기러기 |
-| ㄲ | qq | 깐부 |
-| ㅋ | k | 키다리 |
-
-* Allowed and recommended to use ⟨r⟩ for rhetoric loanwords.
-* For combinational letters, just write them out by each compositig letter
-
-### Miscellaneous
-
-* Halfwidth font is strogly preferred.
-
-Spacig, hyphenation, etc. follow [한글맞춤법](httpt://kornorms.korean.go.kr/m/m_regltn.do#a).
-
-Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_regltn.do#a) 부록. But additionally,
-
-1. Kwotation marks are preferred over other types of punctuations.
-1. American conventions reqardig typoqraphic forms are recommended.
-1. Use ⟨.⟩ to separate by syllables.
-1. For academic usage for what is not specified here, various practices using Yale Romanization are accepted.
-
-______
-
-## Addon
-
-These are some desiqn compromizes associated with usig a syllabary system for a non-monosyllabic lanquaqe such as Korean in the existig spellig system. Since we are not usig a syllabary here, we don't need them. Here are some examples.
-
-1. Write 사이히읗 as ⟨h'⟩ or ⟨h⟩ explicitly
-
-    | Text | Transcription |
-    | - | - |
-    | Current: 가당치도 | qadangcidó |
-    | Suqqestion: 가당ㅎ지도 | qadangh'zidó |
-
-1. Write ⟨d⟩ whenever the archaic word "s" exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩).
-
-    | Text | Suqqested Transc. | Current Transc. |
-    | - | - | - |
-    | 숫자 | swudza | swusza |
-    | 멸족 | myoldzóq | myolzóq |
-    | 냇가 | nedqa | nesqa |
-    | 콧등 | kóddeng | kósdeng |
-    | 뱃나루 | bennalwu | besnalwu |
-    | 나뭇잎 | namwunnip | namwusip |
-    | 볼일 | bólnil | bólil |
-    | 빵 조각 | bbang d zoqaq | bbang zoqaq |
-    | 할 일 | hal n il | hal il |
-    | 한 일 | han n il | han il |
-
-1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨v⟩ which is read as /b/ in coda.
-
-    | Text | Suqqested Transc. |
-    | - | - |
-    | Current: 덥다, 더워 | dobda, dowo |
-    | Suggestion: 더ᇦ다, 더ᄫᅥ | dovda, dovo |
-
-1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩.
-
-    | Text | Suqqested Transc. |
-    | - | - |
-    | Current: 낫다, 나아 | nasda, naa |
-    | Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
-
-1. Write '르' 불규칙 활용 explicitly with ⟨ll⟩ and '러' 불규칙 with ⟨lll⟩. 
-
-    You would have to read ⟨ll⟩ or ⟨lll⟩ before consonants as /lu/.
-
-    | Text | Suqqested Transc. |
-    | - | - |
-    | Current: 이네, 임, 빠르네, 빠름, 이르네, 이르러 | ine, im, bbalune, bbalum, ilune, iluro |
-    | Suqqestion: 일네, 읾, 빨ㄹ네, 빨ㄹㅁ, 일ㄹㄹ네, 일ㄹ러 | ilne, ilm, bballne, bballm, illlne, illlo |
-
-1. Write 'ㄷ' 불규칙 활용 explicitly with ⟨r⟩
-
-    Here, ⟨r⟩ is almost identical to ⟨l⟩ except that it acts like ⟨d⟩ in front of consonants. Here we assume -리- having replaced -이- instead of making up arbitrary grammar rules.
-
-    | Text | Suqqested Transc. |
-    | - | - |
-    | Current: 듣고, 들어, 들려 | dudgo, dulo, dullyo |
-    | Suggestion: 들고, 들어, 들려 | durgo, duro, durlyo |
-
-1. Write the word 퍼 with ⟨프-⟩ instead of ⟨푸-⟩
-
-1. Write the coda ending with ⟨ㅅ⟩ such as ⟨ㅄ⟩ with double ⟨ss⟩, i.e. ⟨bss⟩
-
-1. Write Korean that was not writable without breaking the system due to being incompatible with Hangul.
-
-    | Text | Suqqested Transc. |
-    | - | - |
-    | Current RoK: 방귀 뀌어 봐, 돈을 세어 봐./세 봐. | bagqwi qqwio bwa. dónul seo bwa /se bwa. |
-    | Suqqestion: 방귀 꾸ㅕ봐./뀌여봐. 돈을 세봐./세여봐. | bagqwi qqwyobwa / qqwiobwa. dónul sebwa /sejobwa. |
-
-
+[A short sample text here](https://gitlab.com/coughingmouse/MKSR/blob/main/sample.md)
 ______
 
 ## Full specifications
@@ -216,7 +61,7 @@ ______
 | ㅝ | wo | wo | we |
 | ㅗ | ó(wO) | ó(wO) | ó{(wo)} |
 | ㅜ | wu | ú(wu) | ú{(wu)} |
-| | y/j | y/j | y/j |
+| | y | y | y |
 | ㅑ | ya | ya | ya |
 | ㅕ | yo | yo | ye |
 | ᆝ | yô(yO) | yô(yO) | yo |
@@ -225,6 +70,7 @@ ______
 | ᆜ | yu | yu | yu |
 | (ᆖ) | yu | uu | uu{yu} |
 | ㅠ | yu | yú(ywu) | yú(ywu){yu} |
+| | j | j | j |
 | ㅐ | e(aj) | é(aj) | aj |
 | ㅔ | e(oj) | e(oj) | ej |
 | ㆎ | oj(Oj) | ôj(Oj) | oj |
@@ -293,7 +139,6 @@ ______
 * In transcription, allowed to use ⟨r⟩ if pronounced rhotically.
 * For combinational letter clusters, just write them out by each compositig letter.
 * Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
-______
 
 ### Miscellaneous
 
@@ -301,7 +146,7 @@ ______
 
 ## Comparison
 
-The differences from the Yale Romanization are as follows.
+The romanization for Middle Korean introduced here covers more letter than Yale Romanization and differs in a few ways.
 
 | Text | Here (Middle KO) | Yale |
 | - | - | - |
@@ -318,40 +163,14 @@ The differences from the Yale Romanization are as follows.
 | ㅉ | zz | cc |
 | ㅿ | x | z |
 | ㆆ | ? | q |
-| ㅱ | m' |
-| ㅸ | v |
-| ㅹ | b' |
-| ㆄ | f |
-| ᄛ | r |
-
 ______
 
-### More Examples
-
-| Transcription | Transliteration | Text |
-| - | - | - |
-| boun | boun | 보은 |
-| moqbang | moqbag | 먹방 |
-| Seoul | Seoul | 세어을 |
-| qqóc | qqóc | 꽃 |
-| qóz | qóz | 곶 |
-| qós | qós | 곳 |
-| zzang | zzag | 짱 |
-| qumdongmiruqbosalbanqasayusang | qumdogmiluqbosalbanqasayúsag | 금동미륵보살반가사유상 |
-| milku | milku | 밀크 |
-| boraq óbama | bolaq óbama | 버락 오바마 |
-| sincong | sincog | 신청 |
-| saconsong | saconsog | 사천성 |
-| manhwa | manhwa | 만화 |
-| ?il i sam sa o lyuq cil pal qwu sib | ?il i sam sa o lyúq cil pal qú sib | 일 이…십 |
-______
-
-### FAQ
+## FAQ
 
 * What about Cia-cia?
 
 That's not what this system addresses.
-This is a "Korean" "Script Romanization" system.
+This is a Korean Romanization system.
 
 * ...Did you just use ⟨g⟩ instead of ⟨ng⟩ and ⟨q⟩ instead of ⟨g⟩?
 
@@ -419,7 +238,7 @@ Further improvement from what is suggested here is not a part of a Romanization 
 
 * About the difference between the actual pronunciation and the written form of tensed consonants...
 
-Likewise, it's not what Romanization is about, and it should be dealt with separately.
+Likewise, it's not what Romanization is about, and it should be dealt with separately. For the same reason, which system to use or whether to use the system or not in certain situation is not a part of this system.
 
 ## To read more about the topic
 

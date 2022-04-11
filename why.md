@@ -1,4 +1,4 @@
-## Design Goals
+## Original Design Goals
 
 * Don't be a D.
 * Make an alphabetic transliteration system, not a spelling reform
