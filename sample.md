@@ -13,7 +13,7 @@ ASCII ver.:
 MwOdun inqanun tajonal ddajbwuto zaywulwOwumyo qu zwOnumqwa qwonlie isso dwOngdunghada. Inqanun conbwuzoqulwO isongqwa yangsimul bwuyobadassumyo solwO hyongzeajuj zongsinulwO hajngdwOnghayoya handa.
 
 Middle Korean transcription:
-Mwodun inqan'un tajenal ddajbwute zayulwowumye qu zwonemqwa qwenliej isse dwongdunghada. inqanun cenbwuzequlwo isengqwa yangsimul bwuyebadassumye selwo hyengzejajuj zengsinulwo hajngdwonghayeya handa.
+Mwodun inqanun tajenal ddajbwute zayulwowumye qu zwonemqwa qwenliej isse dwongdunghada. inqanun cenbwuzequlwo isengqwa yangsimul bwuyebadassumye selwo hyengzejajuj zengsinulwo hajngdwonghayeya handa.
 
 Middle Korean transliteration:
 Módun 'inqan'un taj'enal ddajbúte zayulóúmye qu zón'emqóa qúenli'ej 'iss'e dóngdunghada. 'inqan'un cenbúzeq'uló 'isengqóa yangsim'ul búyebad'ass'umye seló hyengzej'aj'uj zengsin'uló hajngdónghayeya handa.
