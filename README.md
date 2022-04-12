@@ -1,6 +1,10 @@
 # Mawus Korean Romanization
 
+[A short sample text here](https://gitlab.com/coughingmouse/MKSR/blob/main/sample.md)
+
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
+
+## Introduction
 
 This is something like a different version of Yale Romanization of Korean. There are a transliteration system and a phonemic transcription made fit for both Modern Korean and Middle Korean, all made compatible with the international Qwerty layout, as well as ASCII-compatible versions. For extra details regarding the Modern Korean MKSR, click [this](https://gitlab.com/coughingmouse/MKSR/blob/main/Modern_Korean_MKSR.md).
 
@@ -16,80 +20,57 @@ Why this came to be is written [here](ttps://gitlab.com/coughingmouse/MKSR/blob/
 
 * Implement an IME.
 * Implement a custom layout in case an IME can't run and you would like to write without pressing Alt-Gr.
-
-## tl;dr
-
-| Text | Transcription | Transliteration |
-| - | - | - |
-| ㆍ | ô(O) | ô(O) |
-| ㅐ/ㅔ/ㅢ | e/e/í(uj) | é(aj)/e/í(uj) |
-| ㅡ | u | u |
-| ㅓ | o | o |
-| ㅜ | wu | ú(wu) |
-| ㅗ | ó(wO) | ó(wO) |
-| ㅟ | wi | ü(wuj) |
-| ㅚ | we | ö(wOj) |
-| ㅈ | z | z |
-| ㅊ | c | c |
-| ㆁ | g/ng | g/ng |
-| ㄲ | qq | qq |
-| ㆆ | ? | ? |
-| ㅿ | x | x |
-| 한글 | hanqul | hanqul |
-| 리어카 빠르네 | lioka bballne | lioka bbalune |
-| 물을 긷는다 | mwulul qirnunda | múlul qidnunda |
-| 미란다 | miranda | milanda |
-| 레드 | redu | redu |
-| 서울 | sowul | soúl |
-
-[A short sample text here](https://gitlab.com/coughingmouse/MKSR/blob/main/sample.md)
 ______
 
 ## Full specifications
 
-| Text | Transc. | Transl. | Middle KO |
-| - | - | - | - |
-| ㅇ | | ’(') | ’(') |
-| ㅣ | i | i | i |
-| Text | Transc. | Transl. | Middle KO |
-| ㅏ | a | a | a |
-| ㅓ | o | o | e |
-| ㆍ | ô(O) | ô(O) | o |
-| ㅡ | u | u | u |
-| | w | w | w |
-| ㅘ | wa | wa | wa |
-| ㅝ | wo | wo | we |
-| ㅗ | ó(wO) | ó(wO) | ó{(wo)} |
-| ㅜ | wu | ú(wu) | ú{(wu)} |
-| | y | y | y |
-| ㅑ | ya | ya | ya |
-| ㅕ | yo | yo | ye |
-| ᆝ | yô(yO) | yô(yO) | yo |
-| (ᆢ) | yô(yO) | ôô(OO) | oo{yo} |
-| ㅛ | yó(yO) | yó(ywO) | yó(ywo){yo} |
-| ᆜ | yu | yu | yu |
-| (ᆖ) | yu | uu | uu{yu} |
-| ㅠ | yu | yú(ywu) | yú(ywu){yu} |
-| | j | j | j |
-| ㅐ | e(aj) | é(aj) | aj |
-| ㅔ | e(oj) | e(oj) | ej |
-| ㆎ | oj(Oj) | ôj(Oj) | oj |
-| ㅢ | í(uj) | í(uj) | uj |
-| Text | Trans. | Transl. | Middle KO |
-| ㅙ | we(waj) | wé{(waj)} | waj |
-| ㅞ | we(woj) | we{(woj)} | wej |
-| ㅚ | we(Oj) | ö(wOj) | ój{(woj)} |
-| ㅟ | wi(wuj) | ü(wuj) | új{(wuj)} |
-| Text | Transc. | Transl. | Middle KO |
-| ㅒ | ye(yaj) | yé{(yaj)} | yaj |
-| ㅖ | ye(yoj) | ye{(yoj)} | yej |
-| ㆉ | ywe | yö(ywOj) | yój(ywoj){yoj} |
-| ㆌ | ywi | yü(ywuj) | yúj(ywuj){yuj} |
+* Curly brackets contain transcription; transliteration otherwise.
+* Paranthesises contain ASCII compatible version.
 
-* In transcription, Apostrophe can be used to indicate abbreviation.
-* ⟨y⟩ is used in onset, ⟨j⟩ in coda.
-* Use of ⟨ᆝ⟩ or ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
-* Curly bracket contains transcription.
+| Text | Modern | Middle |
+| - | - | - |
+| ㅇ | ’{}(') | ’(') |
+| ㅣ | i | i |
+| Text | Modern | Middle |
+| ㅏ | a | a |
+| ㅓ | o | e |
+| ㆍ | ô(O) | o |
+| ㅡ | u | u |
+| | w | w |
+| ㅘ | wa | óa{wa}(woa) |
+| ㅝ | wo | úe{we}(wue) |
+| ㅗ | ó(wO) | ó{(wo)} |
+| ㅜ | ú{(wu)} | ú{(wu)} |
+| | y | y |
+| ㅑ | ya | ya |
+| ㅕ | yo | ye |
+| ᆝ | yô(yO) | yo |
+| (ᆢ) | ôô{yô(yO)}(OO) | oo{yo} |
+| ㅛ | yó{(yO)}(ywO) | yó{yo}(ywo) |
+| ᆜ | yu | yu |
+| (ᆖ) | uu{yu} | uu{yu} |
+| ㅠ | yú{yu}(ywu) | yú{yu}(ywu) |
+| | j | j |
+| ㅐ | é{e}(aj) | aj |
+| ㅔ | e(oj) | ej |
+| ㆎ | ôj(Oj) | oj |
+| ㅢ | í(uj) | uj |
+| Text | Modern | Middle |
+| ㅙ | wé{we}(waj) | óaj{waj}(woaj) |
+| ㅞ | we{we}(woj) | úej{wej}(wuej) |
+| ㅚ | ö{we}(wOj) | ój{(woj)} |
+| ㅟ | ü{wi}(wuj) | új{(wuj)} |
+| Text | Modern | Middle |
+| ㅒ | yé{ye}(yaj) | yaj |
+| ㅖ | ye{ye}(yoj) | yej |
+| ㆉ | yö{ywe}(ywOj) | yój{yoj}(ywoj) |
+| ㆌ | yü{ywi}(ywuj) | yúj{yuj}(ywuj) |
+
+* In transcription of Modern Korean, Apostrophe is used to indicate abbreviation.
+* ⟨y⟩ is used if the semivowel /j/ is the first letter of a syllable; ⟨j⟩ otherwise.
+* Use of ⟨ᆝ⟩ and ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
+* In the transliteration of Middle Korean, ⟨w⟩ is considered a vowel, so ⟨'⟩ is appended before it if it's the first letter of a syllable.
+* Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels; for them, transcription is not available. Although highly recommended to use the transliteration for Middle Korean, if one wishes to use transliteration for Modern Korean for text with unusual vowel clusters, ⟨w⟩ is considered a vowel, and ⟨'⟩ is appended before it if it's the first letter of a syllable.
 
 | Text | Trans. |
 | - | - |
@@ -146,9 +127,9 @@ ______
 
 ## Comparison
 
-The romanization for Middle Korean introduced here covers more letter than Yale Romanization and differs in a few ways.
+The romanization for Middle Korean introduced here covers more letter than Yale Romanization and differs in a few ways. Here's some very brief examples.
 
-| Text | Here (Middle KO) | Yale |
+| Text | Here (Middle) | Yale |
 | - | - | - |
 | ㅇ | ' | G |
 | ㅗ | ó(wo) | (w)o |

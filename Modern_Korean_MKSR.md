@@ -1,24 +1,53 @@
 # Modern Korean version
 
+## tl;dr
+
+These are examples for the Modern Korean romanization.
+
+| Text | Transcription | Transliteration |
+| - | - | - |
+| ㆍ | ô(O) | ô(O) |
+| ㅐ/ㅔ/ㅢ | e/e/í(uj) | é(aj)/e/í(uj) |
+| ㅡ | u | u |
+| ㅓ | o | o |
+| ㅜ | wu | ú(wu) |
+| ㅗ | ó(wO) | ó(wO) |
+| ㅟ | wi | ü(wuj) |
+| ㅚ | we | ö(wOj) |
+| ㅈ | z | z |
+| ㅊ | c | c |
+| ㆁ | g/ng | g/ng |
+| ㄲ | qq | qq |
+| ㆆ | ? | ? |
+| ㅿ | x | x |
+| 한글 | hanqul | hanqul |
+| 리어카 빠르네 | lioka bballne | lioka bbalune |
+| 물을 긷는다 | mwulul qirnunda | múlul qidnunda |
+| 미란다 | miranda | milanda |
+| 레드 | redu | redu |
+| 서울 | sowul | soúl |
+
+# Specification
+
 | Text | Transc. | Transl. | Example |
 | - | - | - | - |
 | ㅎ | h | h | 한강 |
-| ㅇ | | ’(') |
+| ㅇ | | ’(') | 잉어 |
 | ㅏ | a | a | 아빠 |
 | ㅣ | i | i | 이순신 |
 | ㅡ | u | u | 은방울 |
-| ㅐ | e(aj) | é(aj) | 앵무새 |
-| ㅔ | e(oj) | e(oj) | 엑스레이 |
+| ㅐ | e | é(aj) | 앵무새 |
+| ㅔ | e | e(oj) | 엑스레이 |
 | ㅓ | o | o | 엄마 |
 | ㆍ | ô(O) | ô(O) |
 | Text | Transc. | Transl. | Example |
 | | w | w |
 | ㅘ | wa | wa | 과자 |
-| ㅟ | wi(wuj) | ü(wuj) | 휘파람 |
+| ㅟ | wi | ü(wuj) | 휘파람 |
 | ㅜ | wu | ú(wu) | 우편 |
-| ㅙ | we(waj) | wé(waj) | 돼지 |
-| ㅞ | we(woj) | we(wej) | 궤도 |
-| ㅚ | we(Oj) | ö(wOj) | 회색 |
+| ㅙ | we | wé(waj) | 돼지 |
+| ㅞ | we | we(wej) | 궤도 |
+| ㅚ | we | ö(wOj) | 회색 |
 | ㅝ | wo | wo | 원숭이 |
 | ㅗ | ó(wO) | ó(wO) | 오징어 |
 | Text | Transc. | Transl. | Example |
@@ -26,13 +55,13 @@
 | ㅑ | ya | ya | 야자수 |
 | | | |
 | ㅠ | yu | yú(ywu) | 유치원 |
-| ㅒ | ye(yaj) | yé(yaj) | 섀도 |
-| ㅖ | ye(yoj) | ye(yoj) | 계란 |
+| ㅒ | ye | yé(yaj) | 섀도 |
+| ㅖ | ye | ye(yoj) | 계란 |
 | ㅕ | yo | yo | 연못 |
 | ㅛ | yó(yO) | yó(ywO) | 요지경 |
 | Text | Transc. | Transl. | Example |
 | | j | j |
-| ㅢ | í(uj) | í(uj) | 의사 | |
+| ㅢ | í(uj) | í(uj) | 의사 |
 
 * In transcription, apostrophe can be used to indicate abbreviation.
 * Are-a is unused.
@@ -65,9 +94,9 @@
 * Allowed and recommended to use ⟨r⟩ for rhetoric loanwords.
 * For combinational letters, just write them out by each compositig letter
 
-| Mark | Trans. |
-| - | - |
-| ː | : |
+| Mark | Transc. | Transl. |
+| - | - | - |
+| ː | | : |
 
 ## Miscellaneous
 
@@ -80,8 +109,6 @@ Punctuation marks follow [한글맞춤법](https://kornorms.korean.go.kr/m/m_reg
 1. Kwotation marks are preferred over other types of punctuations.
 1. American conventions reqardig typoqraphic forms are recommended.
 1. Use ⟨.⟩ to separate by syllables.
-1. For academic usage for what is not specified here, various practices using Yale Romanization are accepted.
-
 ______
 
 ## Addon
