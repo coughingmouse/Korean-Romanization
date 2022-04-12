@@ -14,7 +14,7 @@ To type letters with diacritics on a standard Qwerty layout, use English (United
 
 쿼티 자판을 사용해 발음 구별 기호가 있는 글자를 입력하려면 윈도우즈를 사용 시에는 English (United States) United States-International keyboard 자판을 사용하고, 리눅스에서는 us altgr-intl 자판을 사용하셔서 ⟨AltGr⟩ + ⟨e⟩와 ⟨AltGr⟩ + ⟨u⟩ 옆의 글쇠 등을 누르면 됩니다. 애플 사의 기기에서는 글자를 길게 누르면 글자에 추가할 발음 구별 기호가 나와서 선택할 수 있습니다. 또한 기본 쿼티 자판에서는 ⟨AltGr⟩ + ⟨e⟩나 ⟨AltGr⟩ + ⟨u⟩, ⟨AltGr⟩ + ⟨i⟩로 발음 구별 기호를 직접 입력할 수도 있습니다.
 
-Why this came to be is written [here](ttps://gitlab.com/coughingmouse/MKSR/blob/main/why.md). In making this system, a [proto](https://gitlab.com/coughingmouse/MKSR/blob/main/proto.md) version was [modified](https://gitlab.com/coughingmouse/MKSR/blob/main/ASCII.md) to fit with ASCII, then was further modified and extended to fit every practical need.
+Why this came to be is written [here](ttps://gitlab.com/coughingmouse/MKSR/blob/main/why.md). In making this system, a [proto](https://gitlab.com/coughingmouse/MKSR/blob/main/proto.md) version was [modified](https://gitlab.com/coughingmouse/MKSR/blob/main/ASCII.md) to fit with ASCII, then was further modified and extended to fit every practical need coherently.
 
 ## Todo
 
@@ -71,6 +71,7 @@ ______
 * Use of ⟨ᆝ⟩ and ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
 * In the transliteration of Middle Korean, ⟨w⟩ is considered a vowel, so ⟨'⟩ is appended before it if it's the first letter of a syllable.
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels; for them, transcription is not available. Although highly recommended to use the transliteration for Middle Korean, if one wishes to use transliteration for Modern Korean for text with unusual vowel clusters, ⟨w⟩ is considered a vowel, and ⟨'⟩ is appended before it if it's the first letter of a syllable.
+* It is possible to allow omitting ⟨w⟩ for the Modern Korean ASCII representation of ⟨ㅗ⟩ anywhere but at the begining of a sentence.
 
 | Text | Trans. |
 | - | - |

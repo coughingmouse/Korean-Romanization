@@ -65,6 +65,7 @@ These are examples for the Modern Korean romanization.
 
 * In transcription, apostrophe can be used to indicate abbreviation.
 * Are-a is unused.
+* It is possible to allow omitting ⟨w⟩ for the ASCII representation of ⟨ㅗ⟩ anywhere but at the begining of a sentence.
 
 | Text | Trans. | Example |
 | - | - | - |
