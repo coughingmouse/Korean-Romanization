@@ -29,7 +29,7 @@ ______
 
 | Text | Modern | Middle |
 | - | - | - |
-| ㅇ | ’{}(') | ’(') |
+| ㅇ | ’{}(') | ’{}(') |
 | ㅣ | i | i |
 | Text | Modern | Middle |
 | ㅏ | a | a |
@@ -82,7 +82,7 @@ ______
 | ㅁ | m |
 | ㅂ | b |
 | ㅅ | s |
-| ㆁ | g/ng |
+| ㆁ | g |
 | ㅈ | z |
 | ㅊ | c |
 | ㅿ | x |
@@ -118,7 +118,8 @@ ______
 | 〯 | : |
 | ː | : |
 
-* In transcription, allowed to use ⟨r⟩ if pronounced rhotically.
+* ⟨ng⟩ can be used instrad of ⟨g⟩.
+* In transcription, it's allowed to use ⟨r⟩ if pronounced rhotically.
 * For combinational letter clusters, just write them out by each compositig letter.
 * Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
 

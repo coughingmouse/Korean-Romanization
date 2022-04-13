@@ -16,7 +16,7 @@ These are examples for the Modern Korean romanization.
 | ㅚ | we | ö(wOj) |
 | ㅈ | z | z |
 | ㅊ | c | c |
-| ㆁ | g/ng | g/ng |
+| ㆁ | g | g |
 | ㄲ | qq | qq |
 | ㆆ | ? | ? |
 | ㅿ | x | x |
@@ -92,7 +92,8 @@ These are examples for the Modern Korean romanization.
 | ㄲ | qq | 깐부 |
 | ㅋ | k | 키다리 |
 
-* Allowed and recommended to use ⟨r⟩ for rhetoric loanwords.
+* ⟨ng⟩ can be used instead of ⟨g⟩.
+* It's allowed and recommended to use ⟨r⟩ for rhetoric loanwords.
 * For combinational letters, just write them out by each compositig letter
 
 | Mark | Transc. | Transl. |
