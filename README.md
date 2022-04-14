@@ -14,7 +14,7 @@ To type letters with diacritics on a standard Qwerty layout, use English (United
 
 쿼티 자판을 사용해 발음 구별 기호가 있는 글자를 입력하려면 윈도우즈를 사용 시에는 English (United States) United States-International keyboard 자판을 사용하고, 리눅스에서는 us altgr-intl 자판을 사용하셔서 ⟨AltGr⟩ + ⟨e⟩와 ⟨AltGr⟩ + ⟨u⟩ 옆의 글쇠 등을 누르면 됩니다. 애플 사의 기기에서는 글자를 길게 누르면 글자에 추가할 발음 구별 기호가 나와서 선택할 수 있습니다. 또한 기본 쿼티 자판에서는 ⟨AltGr⟩ + ⟨e⟩나 ⟨AltGr⟩ + ⟨u⟩, ⟨AltGr⟩ + ⟨i⟩로 발음 구별 기호를 직접 입력할 수도 있습니다.
 
-Why this came to be is written [here](ttps://gitlab.com/coughingmouse/MKSR/blob/main/why.md). In making this system, a [proto](https://gitlab.com/coughingmouse/MKSR/blob/main/proto.md) version was [modified](https://gitlab.com/coughingmouse/MKSR/blob/main/ASCII.md) to fit with ASCII, then was further modified and extended to fit every practical need coherently.
+Why this came to be is written [here](https://gitlab.com/coughingmouse/MKSR/blob/main/why.md). In making this system, a [proto](https://gitlab.com/coughingmouse/MKSR/blob/main/proto.md) version was [modified](https://gitlab.com/coughingmouse/MKSR/blob/main/ASCII.md) to fit with ASCII, then was further modified and extended to fit every practical need coherently.
 
 ## Todo
 
