@@ -6,7 +6,7 @@ Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
 ## Introduction
 
-This is something like a different version of Yale Romanization of Korean. There are a transliteration system and a phonemic transcription made fit for both Modern Korean and Middle Korean, all made compatible with the international Qwerty layout, as well as ASCII-compatible versions. For extra details regarding the Modern Korean MKSR, click [this](https://gitlab.com/coughingmouse/MKSR/blob/main/Modern_Korean_MKSR.md).
+This is somewhat like a different version of Yale Romanization of Korean. There are a transliteration system and a phonemic transcription made fit for both Modern Korean and Middle Korean, all made compatible with the international Qwerty layout, as well as ASCII-compatible versions. For extra details regarding the Modern Korean MKSR, click [this](https://gitlab.com/coughingmouse/MKSR/blob/main/Modern_Korean_MKSR.md).
 
 To type letters with diacritics on a standard Qwerty layout, use English (United States) United States-International keyboard on Windows and us altgr-intl on Linux. You can use ⟨AltGr⟩ + ⟨e⟩ to type ⟨é⟩, ⟨AltGr⟩ + the key next to ⟨u⟩ to type ⟨ü⟩, etc. On Apple devices, long pressing a key pops up a menu from which you can select an appropriate diacritic. You can also use  ⟨AltGr⟩ + ⟨e⟩, ⟨AltGr⟩ + ⟨u⟩, and ⟨AltGr⟩ + ⟨i⟩ to type diacritics directly there on the default keyboard layout. 
 
