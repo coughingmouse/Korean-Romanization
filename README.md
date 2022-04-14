@@ -29,7 +29,7 @@ ______
 
 | Text | Modern | Middle |
 | - | - | - |
-| ㅇ | ’{}(') | ’{}(') |
+| ㅇ | | ’{}(') |
 | ㅣ | i | i |
 | Text | Modern | Middle |
 | ㅏ | a | a |
@@ -52,17 +52,17 @@ ______
 | ㅠ | yú{yu}(ywu) | yú{yu}(ywu) |
 | | j | j |
 | ㅐ | é{e}(aj) | aj |
-| ㅔ | e(oj) | ej |
+| ㅔ | e | ej |
 | ㆎ | ôj(Oj) | oj |
 | ㅢ | í(uj) | uj |
-| Text | Modern | Middle |
+| Text | Modern | Middle |⟨'⟨'⟩⟩
 | ㅙ | wé{we}(waj) | óaj{waj}(woaj) |
-| ㅞ | we{we}(woj) | úej{wej}(wuej) |
+| ㅞ | we | úej{wej}(wuej) |
 | ㅚ | ö{we}(wOj) | ój{(woj)} |
 | ㅟ | ü{wi}(wuj) | új{(wuj)} |
 | Text | Modern | Middle |
 | ㅒ | yé{ye}(yaj) | yaj |
-| ㅖ | ye{ye}(yoj) | yej |
+| ㅖ | ye | yej |
 | ㆉ | yö{ywe}(ywOj) | yój{yoj}(ywoj) |
 | ㆌ | yü{ywi}(ywuj) | yúj{yuj}(ywuj) |
 
@@ -70,7 +70,7 @@ ______
 * ⟨y⟩ is used if the semivowel /j/ is the first letter of a syllable; ⟨j⟩ otherwise.
 * Use of ⟨ᆝ⟩ and ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
 * In the transliteration of Middle Korean, ⟨w⟩ is considered a vowel, so ⟨'⟩ is appended before it if it's the first letter of a syllable.
-* Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels; for them, transcription is not available. Although highly recommended to use the transliteration for Middle Korean, if one wishes to use transliteration for Modern Korean for text with unusual vowel clusters, ⟨w⟩ is considered a vowel, and ⟨'⟩ is appended before it if it's the first letter of a syllable.
+* Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels; for them, transcription is not available. Although highly recommended to use the transliteration for Middle Korean, if one wishes to use transliteration for Modern Korean for text with unusual vowel clusters, including ⟨ᆢ⟩ and ⟨ᆖ⟩, ⟨w⟩ is considered a vowel, and ⟨’⟩, or in ASCII compatible version ⟨'⟩, is appended before it if it's the first letter of a syllable, as well as for other vowels.
 * It is possible to allow omitting ⟨w⟩ for the Modern Korean ASCII representation of ⟨ㅗ⟩ anywhere but at the begining of a sentence.
 
 | Text | Trans. |

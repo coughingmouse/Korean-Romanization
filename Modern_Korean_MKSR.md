@@ -32,7 +32,7 @@ These are examples for the Modern Korean romanization.
 | Text | Transc. | Transl. | Example |
 | - | - | - | - |
 | ㅎ | h | h | 한강 |
-| ㅇ | | ’(') | 잉어 |
+| ㅇ | | | 잉어 |
 | ㅏ | a | a | 아빠 |
 | ㅣ | i | i | 이순신 |
 | ㅡ | u | u | 은방울 |
@@ -63,7 +63,7 @@ These are examples for the Modern Korean romanization.
 | | j | j |
 | ㅢ | í(uj) | í(uj) | 의사 |
 
-* In transcription, apostrophe can be used to indicate abbreviation.
+* Apostrophe is used to indicate abbreviation.
 * Are-a is unused.
 * It is possible to allow omitting ⟨w⟩ for the ASCII representation of ⟨ㅗ⟩ anywhere but at the begining of a sentence.
 
