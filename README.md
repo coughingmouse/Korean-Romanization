@@ -50,8 +50,8 @@ ______
 | ᆜ | yu | yu |
 | (ᆖ) | uu{yu} | uu{yu} |
 | ㅠ | yú{yu}(ywu) | yú{yu}(ywu) |
-| ㆇ | ywa | yója{ywa}(ywoja) |
-| ㆊ | ywo | yúje{ywe}(ywoje) |
+| ㆇ | ywa | yóia{ywa}(ywoia) |
+| ㆊ | ywo | yúir{ywe}(ywoie) |
 | | j | j |
 | ㅐ | é{e}(aj) | aj |
 | ㅔ | e | ej |
@@ -67,11 +67,11 @@ ______
 | ㅖ | ye | yej |
 | ㆉ | yö{ywe}(ywOj) | yój{yoj}(ywoj) |
 | ㆌ | yü{ywi}(ywuj) | yúj{yuj}(ywuj) |
-| ㆈ | ywaj | yójaj{ywaj}(ywojaj) |
-| ㆋ | ywoj | yújej{ywej}(ywujej) |
+| ㆈ | ywaj | yóiaj{ywaj}(ywoiaj) |
+| ㆋ | ywoj | yúiej{ywej}(ywuiej) |
 
 * In transcription of Modern Korean, Apostrophe is used to indicate abbreviation.
-* ⟨y⟩ is used if the semivowel /j/ is the first letter of a syllable; ⟨j⟩ otherwise.
+* ⟨y⟩ is used if the semivowel /j/ is the first letter of a syllable. Else if it is preceded by a vowel, ⟨j⟩ is used.
 * Use of ⟨ᆝ⟩ and ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
 * In the transliteration of Middle Korean, ⟨w⟩ is considered a vowel, so ⟨'⟩ is appended before it if it's the first letter of a syllable.
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels; for them, transcription is not available. Although highly recommended to use the transliteration for Middle Korean, if one wishes to use transliteration for Modern Korean for text with unusual vowel clusters, including ⟨ᆢ⟩ and ⟨ᆖ⟩, ⟨w⟩ is considered a vowel, and ⟨’⟩, or in ASCII compatible version ⟨'⟩, is appended before it if it's the first letter of a syllable, as well as for other vowels.
