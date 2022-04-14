@@ -50,6 +50,8 @@ ______
 | ᆜ | yu | yu |
 | (ᆖ) | uu{yu} | uu{yu} |
 | ㅠ | yú{yu}(ywu) | yú{yu}(ywu) |
+| ㆇ | ywa | yója{ywa}(ywoja) |
+| ㆊ | ywo | yúje{ywe}(ywoje) |
 | | j | j |
 | ㅐ | é{e}(aj) | aj |
 | ㅔ | e | ej |
@@ -65,6 +67,8 @@ ______
 | ㅖ | ye | yej |
 | ㆉ | yö{ywe}(ywOj) | yój{yoj}(ywoj) |
 | ㆌ | yü{ywi}(ywuj) | yúj{yuj}(ywuj) |
+| ㆈ | ywaj | yójaj{ywaj}(ywojaj) |
+| ㆋ | ywoj | yújej{ywej}(ywujej) |
 
 * In transcription of Modern Korean, Apostrophe is used to indicate abbreviation.
 * ⟨y⟩ is used if the semivowel /j/ is the first letter of a syllable; ⟨j⟩ otherwise.
