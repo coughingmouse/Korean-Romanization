@@ -71,8 +71,8 @@ ______
 | ㆋ | ywoj | yúiej{ywej}(ywuiej) |
 
 * In transcription of Modern Korean, Apostrophe is used to indicate abbreviation.
-* ⟨y⟩ is used if the semivowel /j/ is the first letter of a syllable. Else if it is preceded by a vowel, ⟨j⟩ is used.
-* Use of ⟨ᆝ⟩ and ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩. In text with this character, ⟨'⟩ needs to be used in between any vowels.
+* ⟨y⟩ is used if the semivowel /j/ is the first letter of a syllable. Else ⟨j⟩ is used. ⟨ퟄ⟩ is romanized as ⟨yi⟩.
+* Use of ⟨ᆝ⟩ and ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩.
 * In the transliteration of Middle Korean, ⟨w⟩ is considered a vowel, so ⟨'⟩ is appended before it if it's the first letter of a syllable.
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels; for them, transcription is not available. Although highly recommended to use the transliteration for Middle Korean, if one wishes to use transliteration for Modern Korean for text with unusual vowel clusters, including ⟨ᆢ⟩ and ⟨ᆖ⟩, ⟨w⟩ is considered a vowel, and ⟨’⟩, or in ASCII compatible version ⟨'⟩, is appended before it if it's the first letter of a syllable, as well as for other vowels.
 * It is possible to allow omitting ⟨w⟩ for the Modern Korean ASCII representation of ⟨ㅗ⟩ anywhere but at the begining of a sentence.
