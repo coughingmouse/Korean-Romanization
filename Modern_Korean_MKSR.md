@@ -41,7 +41,7 @@ These are examples for the Modern Korean romanization.
 | ㅓ | o | o | 엄마 |
 | ㆍ | ô(O) | ô(O) |
 | Text | Transc. | Transl. | Example |
-| | w | w |
+| (ㅜ) | w | w |
 | ㅘ | wa | wa | 과자 |
 | ㅟ | wi | ü(wuj) | 휘파람 |
 | ㅜ | wu | ú(wu) | 우편 |
@@ -51,7 +51,7 @@ These are examples for the Modern Korean romanization.
 | ㅝ | wo | wo | 원숭이 |
 | ㅗ | ó(wO) | ó(wO) | 오징어 |
 | Text | Transc. | Transl. | Example |
-| | y | y |
+| (ㅣ) | y | y |
 | ㅑ | ya | ya | 야자수 |
 | | | |
 | ㅠ | yu | yú(ywu) | 유치원 |
@@ -60,7 +60,7 @@ These are examples for the Modern Korean romanization.
 | ㅕ | yo | yo | 연못 |
 | ㅛ | yó(yO) | yó(ywO) | 요지경 |
 | Text | Transc. | Transl. | Example |
-| | j | j |
+| (ㅣ) | j | j |
 | ㅢ | í(uj) | í(uj) | 의사 |
 
 * Apostrophe is used to indicate abbreviation.
@@ -73,8 +73,8 @@ These are examples for the Modern Korean romanization.
 | ㅂ | b | 바가지 |
 | ㅃ | bb | 빵 |
 | ㅍ | p | 파고다 |
-| (ㅸ) | w(/v) | 더위 |
-| | y(/j) | 야자수 |
+| (ㅜ/ㅸ) | w/v | 더위 |
+| (ㅣ) | y/j | 야자수 |
 | ㄴ | n | 나폴리 |
 | ㄷ | d | 도라지 |
 | ㄸ | dd | 딸기 |
