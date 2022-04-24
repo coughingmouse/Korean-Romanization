@@ -32,7 +32,7 @@ These are examples for the Modern Korean romanization.
 | Text | Transc. | Transl. | Example |
 | - | - | - | - |
 | ㅎ | h | h | 한강 |
-| ㅇ | | | 잉어 |
+| ㅇ | | ' | 잉어 |
 | ㅏ | a | a | 아빠 |
 | ㅣ | i | i | 이순신 |
 | ㅡ | u | u | 은방울 |

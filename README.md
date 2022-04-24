@@ -2,6 +2,8 @@
 
 [A short sample text here](https://gitlab.com/coughingmouse/MKSR/blob/main/sample.md)
 
+[Full specifications here](https://gitlab.com/coughingmouse/MKSR/blob/main/main.md).
+
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
 ## Introduction
@@ -22,110 +24,70 @@ Why this came to be is written [here](https://gitlab.com/coughingmouse/MKSR/blob
 * Implement a custom layout in case an IME can't run and you would like to write without pressing Alt-Gr.
 ______
 
-## Full specifications
+## Common
 
-* Curly brackets contain transcription; transliteration otherwise.
-* Paranthesises contain ASCII compatible version.
+| ㅇ | ㅣ | 〮 | 〯 | ː |
+| - | - | - | - | - |
+| ' | i | ^ | : | : |
 
-| Text | Modern | Middle |
-| - | - | - |
-| ㅇ | | '{} |
-| ㅣ | i | i |
-| Text | Modern | Middle |
-| ㅏ | a | a |
-| ㅓ | o | e |
-| ㆍ | ô(O) | o |
-| ㅡ | u | u |
-| | w | w |
-| ㅘ | wa | óa{wa}(woa) |
-| ㅝ | wo | úe{we}(wue) |
-| ㅗ | ó(wO) | ó{(wo)} |
-| ㅜ | ú{(wu)} | ú{(wu)} |
-| | y | y |
-| ㅑ | ya | ya |
-| ㅕ | yo | ye |
-| ᆝ | yô(yO) | yo |
-| (ᆢ) | ôô{yô(yO)}(OO) | oo{yo} |
-| ㅛ | yó{(yO)}(ywO) | yó{yo}(ywo) |
-| ᆜ | yu | yu |
-| (ᆖ) | uu{yu} | uu{yu} |
-| ㅠ | yú{yu}(ywu) | yú{yu}(ywu) |
-| ㆇ | ywa | yóia{ywa}(ywoia) |
-| ㆊ | ywo | yúie{ywe}(ywoie) |
-| | j | j |
-| ㅐ | é{e}(aj) | aj |
-| ㅔ | e | ej |
-| ㆎ | ôj(Oj) | oj |
-| ㅢ | í(uj) | uj |
-| Text | Modern | Middle |
-| ㅙ | wé{we}(waj) | óaj{waj}(woaj) |
-| ㅞ | we | úej{wej}(wuej) |
-| ㅚ | ö{we}(wOj) | ój{(woj)} |
-| ㅟ | ü{wi}(wuj) | új{(wuj)} |
-| Text | Modern | Middle |
-| ㅒ | yé{ye}(yaj) | yaj |
-| ㅖ | ye | yej |
-| ㆉ | yö{ywe}(ywOj) | yój{yoj}(ywoj) |
-| ㆌ | yü{ywi}(ywuj) | yúj{yuj}(ywuj) |
-| ㆈ | ywaj | yóiaj{ywaj}(ywoiaj) |
-| ㆋ | ywoj | yúiej{ywej}(ywuiej) |
-
-* In transcription of Modern Korean, Apostrophe is used to indicate abbreviation.
 * ⟨i⟩ is used if it is or is a part of a nucleus. ⟨y⟩ is used if it is the first letter of a vowel cluster. Else ⟨j⟩ is used: when it's the last letter of a vowel cluster, except when preceded by a semivowel, e.g. ⟨ퟄ⟩, romanized as ⟨yi⟩.
-* Use of ⟨ᆝ⟩ and ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩.
-* In the transliteration of Middle Korean, ⟨w⟩ is considered a vowel, so ⟨'⟩ is appended before it if it's the first letter of a syllable.
-* Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels; for them, transcription is not available. Although highly recommended to use the transliteration for Middle Korean, if one wishes to use transliteration for Modern Korean for text with unusual vowel clusters, including ⟨ᆢ⟩ and ⟨ᆖ⟩, ⟨w⟩ is considered a vowel, and ⟨'⟩, is appended before it if it's the first letter of a syllable, as well as for other vowels.
-* It is possible to allow omitting ⟨w⟩ for the Modern Korean ASCII representation of ⟨ㅗ⟩ anywhere but at the begining of a sentence.
+* Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
 
-| Text | Trans. |
-| - | - |
-| ㄱ | q |
-| ㄴ | n |
-| ㄷ | d |
-| ㄹ | l |
-| ㅁ | m |
-| ㅂ | b |
-| ㅅ | s |
-| ㆁ | g |
-| ㅈ | z |
-| ㅊ | c |
-| ㅿ | x |
-| ㅋ | k |
-| ㅌ | t |
-| ㅍ | p |
-| ㆆ | ? |
-| ㅎ | h |
-| Text | Trans. |
-| ㄲ | qq |
-| ㄸ | dd |
-| ㅃ | bb |
-| ㅆ | ss |
-| ㅉ | zz |
-| Text | Trans. |
-| ㅱ | m' |
-| ㅸ | v |
-| ㅹ | b' |
-| ㆄ | f |
-| ᄛ | r |
-| ᄾ | ś(s\\) |
-| ᄿ | śś(s\\s\\) |
-| ᅐ | ź(z\\) | 
-| ᅑ | źź(z\\z\\) |
-| ᅕ | ć(c\\) |
-| ᄼ | š(s\`) |
-| ᄽ | šš(s\`s\`) |
-| ᅎ | ž(z\`) |
-| ᅏ | žž(z\`z\`) |
-| ᅔ | č(c\`) |
-| Mark | Trans. |
-| 〮 | ^ |
-| 〯 | : |
-| ː | : |
+| ㄱ | ㄴ | ㄷ | ㄹ | ㅁ | ㅂ | ㅅ | ㆁ |
+| - | - | - | - | - | - | - | - |
+| q | n | d | l | m | b | s | g |
+| ㅈ | ㅊ | ㅿ | ㅋ | ㅌ | ㅍ | ㆆ | ㅎ |
+| z | c | x | k | t | p | ? | h |
+| ㄲ | ㄸ | ㅃ | ㅆ | ㅉ |
+| qq | dd | bb | ss | zz |
+| ㅱ | ㅸ | ㅹ | ㆄ | ᄛ |
+| vv | v | bv | f | r |
+| ᄾ | ᄿ | ᅐ | ᅑ | ᅕ |
+| ś(s\\) | śś(s\\s\\) | ź(z\\) | źź(z\\z\\) | ć(c\\) |
+| ᄼ | ᄽ | ᅎ | ᅏ | ᅔ |
+| š(s\`) | šš(s\`s\`) | ž(z\`) | žž(z\`z\`) | č(c\`) |
 
 * ⟨ng⟩ can be used instrad of ⟨g⟩.
 * In transcription, it's allowed to use ⟨r⟩ if pronounced rhotically.
 * For combinational letter clusters, just write them out by each compositig letter.
-* Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
+
+## Vowels in ASCII compatible Modern Korean Transcription
+
+| ㅏ | ㅣ | ㅡ | ㅐ/ㅔ | ㅓ | ᅟㆍ |
+| - | - | - | - | - | - |
+| a | i | ᅟu | e | o | O |
+| ㅘ | ㅟ | ㅜ | ㅙ/ㅞ | ㅝ | ㅗ |
+| wa | wi | wu | we | wo | wO |
+| ㅑ | | ㅠ | ㅒ/ㅖ | ㅕ | ㅛ |
+| ya | | yu | ye | yo | yO |
+| ㅢ |
+| uj |
+
+* Apostrophe is used to indicate abbreviation.
+* Are-a is unused.
+* It is possible to allow omitting ⟨w⟩ for ⟨ㅗ⟩ anywhere but at the beginning of a sentence.
+
+## Vowels in Middle Korean Transliteration
+
+| ㅏ | ㅓ | ᅟㆍ | ㅡ |
+| - | - | - | - |
+| a | e | ᅟo | u |
+| ㅘ | ㅝ | ㅗ | ㅜ |
+| óa | úe | ó | ú |
+| ㅑ | ㅕ | ㅛ | ㅠ |
+| ya | ye | yo | yu |
+| ㆇ | ㆊ |
+| yóia | yúie |
+| ㅐ | ㅔ | ㆎ | ㅢ |
+| aj | ej | oj | uj |
+| ㅙ | ㅞ | ㅚ | ㅟ |
+| óaj | úej | ój | új |
+| ㅒ | ㅖ | ㆉ | ㆌ |
+| yaj | yej | yój | yúj |
+| ㆈ | ㆋ |
+| yóiaj | yúiej |
+
+* Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels.
 
 ### Miscellaneous
 
@@ -133,7 +95,7 @@ ______
 
 ## Comparison
 
-The romanization for Middle Korean introduced here covers more letter than Yale Romanization and differs in a few ways. Here's some very brief examples.
+The romanization for Middle Korean introduced here covers more letter than Yale Romanization and differs in a few ways. Here are some very brief examples.
 
 | Text | Here (Middle) | Yale |
 | - | - | - |
