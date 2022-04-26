@@ -24,68 +24,66 @@ Why this came to be is written [here](https://gitlab.com/coughingmouse/MKSR/blob
 * Implement a custom layout in case an IME can't run and you would like to write without pressing Alt-Gr.
 ______
 
-## Common
+## Sample Romanization
 
-| ㅇ | ㅣ | 〮 | 〯 | ː |
-| - | - | - | - | - |
-| ʼ(') | i | ^ | : | : |
+Hangul | Trans.
+--- | ---
+ㅇ | ʼ
+ㅣ | i
+〮 | ^
+〯 | :
+ː | :
 
 * ⟨i⟩ is used if it is or is a part of a nucleus. ⟨y⟩ is used if it is the first letter of a vowel cluster. Else ⟨j⟩ is used: when it's the last letter of a vowel cluster, except when preceded by a semivowel, e.g. ⟨ퟄ⟩, romanized as ⟨yi⟩.
 * Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
 
-| ㄱ | ㄴ | ㄷ | ㄹ | ㅁ | ㅂ | ㅅ | ㆁ |
-| - | - | - | - | - | - | - | - |
-| q | n | d | l | m | b | s | g |
-| ㅈ | ㅊ | ㅿ | ㅋ | ㅌ | ㅍ | ㆆ | ㅎ |
-| z | c | x | k | t | p | ˮ(") | h |
-| ㄲ | ㄸ | ㅃ | ㅆ | ㅉ |
-| qq | dd | bb | ss | zz |
-| ㅱ | ㅸ | ㅹ | ㆄ | ᄛ |
-| vv | v | bv | f | r |
-| ᄾ | ᄿ | ᅐ | ᅑ | ᅕ |
-| ś(s\\) | śś(s\\s\\) | ź(z\\) | źź(z\\z\\) | ć(c\\) |
-| ᄼ | ᄽ | ᅎ | ᅏ | ᅔ |
-| š(s\`) | šš(s\`s\`) | ž(z\`) | žž(z\`z\`) | č(c\`) |
+| Text | Trans. | Text | Trans. | Text | Trans. |
+| - | - | - | - | - | - |
+| ㄱ | q | ㅈ | z | 
+| ㄴ | n | ㅊ | c | 
+| ㄷ | d | ㅿ | x | 
+| ㄹ | l | ㅋ | k | 
+| ㅁ | m | ㅌ | t | 
+| ㅂ | b | ㅍ | p |
+| ㅅ | s | ㆆ | ˮ(") |
+| ㆁ | g | ㅎ | h |
+| ㄲ | qq | ㅱ | vv | ᄾ | ś(s\\) | ᄼ | š(s\`) |
+| ㄸ | dd | ㅸ | v | ᄿ | śś(s\\s\\) | ᄽ | šš(s\`s\`) |
+| ㅃ | bb | ㅹ | bv | ᅐ | ź(z\\) | ᅎ | ž(z\`) |
+| ㅆ | ss | ㆄ | f | ᅑ | źź(z\\z\\) | ᅏ | žž(z\`z\`) |
+| ㅉ | zz | ᄛ | r | ᅕ | ć(c\\) | ᅔ | č(c\`) |
 
 * ⟨ng⟩ can be used instrad of ⟨g⟩.
 * In transcription, it's allowed to use ⟨r⟩ if pronounced rhotically.
 * For combinational letter clusters, just write them out by each compositig letter.
 
-## Vowels in ASCII compatible Modern Korean Transcription
+### Vowels in ASCII compatible Modern Korean Transcription
 
-| ㅏ | ㅣ | ㅡ | ㅐ/ㅔ | ㅓ | ᅟㆍ |
-| - | - | - | - | - | - |
-| a | i | ᅟu | e | o | O |
-| ㅘ | ㅟ | ㅜ | ㅙ/ㅞ | ㅝ | ㅗ |
-| wa | wi | wu | we | wo | wO |
-| ㅑ | | ㅠ | ㅒ/ㅖ | ㅕ | ㅛ |
-| ya | | yu | ye | yo | yO |
-| ㅢ |
-| uj |
+| Text | Trans. | Text | Trans. | Text | Trans. | Text | Trans. |
+--- | --- | --- | --- | --- | --- | --- | ---
+ㅏ | a | ㅘ | wa | ㅑ | ya | ㅢ | uj
+ㅣ | i | ㅟ | wi |   |    |   | 
+ㅡ | u | ㅜ | wu | ㅠ | yu |   | 
+ㅐ/ㅔ | e | ㅙ/ㅞ | we | ㅒ/ㅖ | ye |   | 
+ㅓ | o | ㅝ | wo | ㅕ | yo |   | 
+ㆍ | O | ㅗ | wO | ㅛ | yO |   | 
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
 * Are-a is unused.
 * It is possible to allow omitting ⟨w⟩ for ⟨ㅗ⟩ anywhere but at the beginning of a sentence.
 
-## Vowels in Middle Korean Transliteration
+### Vowels in Middle Korean Transliteration
 
-| ㅏ | ㅓ | ᅟㆍ | ㅡ |
-| - | - | - | - |
-| a | e | ᅟo | u |
-| ㅘ | ㅝ | ㅗ | ㅜ |
-| óa | úe | ó | ú |
-| ㅑ | ㅕ | ㅛ | ㅠ |
-| ya | ye | yo | yu |
-| ㆇ | ㆊ |
-| yóia | yúie |
-| ㅐ | ㅔ | ㆎ | ㅢ |
-| aj | ej | oj | uj |
-| ㅙ | ㅞ | ㅚ | ㅟ |
-| óaj | úej | ój | új |
-| ㅒ | ㅖ | ㆉ | ㆌ |
-| yaj | yej | yój | yúj |
-| ㆈ | ㆋ |
-| yóiaj | yúiej |
+| Text | Trans. | Text | Trans. | Text | Trans. | Text | Trans. |
+--- | --- | --- | --- | --- | --- | --- | ---
+ㅏ  | a  | ㅘ | óa | ㅑ | ya | ㆇ | yóia
+ㅓ  | e  | ㅝ | úe | ㅕ | ye | ㆊ | yúie
+ㆍ | o | ㅗ | ó | ㅛ | yo |   | 
+ㅡ  | u  | ㅜ | ú  | ㅠ | yu |   | 
+ㅐ | aj | ㅙ | óaj | ㅒ | yaj | ㆈ | yóiaj
+ㅔ | ej | ㅞ | úej | ㅖ | yej | ㆋ | yúiej
+ㆎ | oj | ㅚ | ój  | ㆉ | yój |   | 
+ㅢ | uj | ㅟ | új  | ㆌ | yúj |   | 
 
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels.
 
