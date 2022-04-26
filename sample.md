@@ -8,7 +8,7 @@ ASCII ver.:
 MOdun inqanun teonal  ddebwuto  zaywulOwumyo qu zOnumqwa qwonlie isso dOngdunghada. Inqanun conbwuzoqulO isongqwa yangsimul bwuyobadassumyo solO hyongzeeuj  zongsinulO hengdOnghayoya  handa.
 
 Modern transliteration:
-Módun  'inqan'un té'onal  ddébúto   zayúló'úmyo    qu zón'umqwa  qwonli'e iss'o dóngdunghada.  'Inqan'un conbúzoq'uló  'isongqwa yangsim'ul búyobad'assumyo  soló  hyongze'é'í  zongsin'uló héngdónghayoya   handa.
+Módun  ʼinqan'un téʼonal  ddébúto   zayúlóʼúmyo    qu zónʼumqwa  qwonliʼe issʼo dóngdunghada.  ʼInqanʼun conbúzoqʼuló  ʼisongqwa yangsimʼul búyobadʼassumyo  soló  hyongzeʼéʼí  zongsinʼuló héngdónghayoya   handa.
 ASCII ver.:
 MOdun 'inqan'un taj'onal ddajbwuto zaywulO'wumyo qu zOn'umqwa qwonli'e iss'o dOngdunghada. 'Inqan'un conbwuzoq'ulO 'isongqwa yangsim'ul bwuyobad'assumyo solO hyongze'aj'uj zongsin'ulO hajngdOnghayoya handa.
 
@@ -16,7 +16,7 @@ Middle Korean transcription:
 Mwodun inqanun tajenal ddajbwute zayulwowumye qu zwonemqwa qwenliej isse dwongdunghada. Inqanun cenbwuzequlwo isengqwa yangsimul bwuyebadassumye selwo hyengzejajuj zengsinulwo hajngdwonghayeya handa.
 
 Middle Korean transliteration:
-Módun 'inqan'un taj'enal ddajbúte zayulóúmye qu zón'emqóa qúenli'ej 'iss'e dóngdunghada. 'inqan'un cenbúzeq'uló 'isengqóa yangsim'ul búyebad'ass'umye seló hyengzej'aj'uj zengsin'uló hajngdónghayeya handa.
+Módun ʼinqanʼun tajʼenal ddajbúte zayulóúmye qu zónʼemqóa qúenliʼej ʼissʼe dóngdunghada. ʼinqanʼun cenbúzeqʼuló ʼisengqóa yangsimʼul búyebadʼassʼumye seló hyengzejʼajʼuj zengsinʼuló hajngdónghayeya handa.
 ASCII ver.:
 Mwodun 'inqan'un taj'enal ddajbwute zayulwowumye qu zwon'emqwoa qwenli'ej 'iss'e dwongdunghada. 'inqan'un cenbwuzeq'ulwo 'isengqwoa yangsim'ul bwuyebad'ass'umye selwo hyengzej'aj'uj zengsin'ulwo hajngdwonghayeya handa.
 ```

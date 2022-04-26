@@ -18,7 +18,6 @@ These are examples for the Modern Korean romanization.
 | ㅊ | c | c |
 | ㆁ | g | g |
 | ㄲ | qq | qq |
-| ㆆ | ? | ? |
 | ㅿ | x | x |
 | 한글 | hanqul | hanqul |
 | 리어카 빠르네 | lioka bballne | lioka bbalune |
@@ -32,7 +31,7 @@ These are examples for the Modern Korean romanization.
 | Text | Transc. | Transl. | Example |
 | - | - | - | - |
 | ㅎ | h | h | 한강 |
-| ㅇ | | ' | 잉어 |
+| ㅇ | | ʼ(') | 잉어 |
 | ㅏ | a | a | 아빠 |
 | ㅣ | i | i | 이순신 |
 | ㅡ | u | u | 은방울 |
@@ -63,7 +62,7 @@ These are examples for the Modern Korean romanization.
 | (ㅣ) | j | j |
 | ㅢ | í(uj) | í(uj) | 의사 |
 
-* Apostrophe is used to indicate abbreviation.
+* In transcription, apostrophe is used to indicate abbreviation.
 * Are-a is unused.
 * It is possible to allow omitting ⟨w⟩ for the ASCII representation of ⟨ㅗ⟩ anywhere but at the begining of a sentence.
 
@@ -96,9 +95,9 @@ These are examples for the Modern Korean romanization.
 * It's allowed and recommended to use ⟨r⟩ for rhetoric loanwords.
 * For combinational letters, just write them out by each compositig letter
 
-| Mark | Transc. | Transl. |
-| - | - | - |
-| ː | | : |
+| Mark | Trans. |
+| - | - |
+| ː | : |
 
 ## Miscellaneous
 
@@ -200,4 +199,4 @@ ______
 | sincong | sincog | 신청 |
 | saconsong | saconsog | 사천성 |
 | manhwa | manhwa | 만화 |
-| ?il i sam sa o lyuq cil pal qwu sib | ?il i sam sa o lyúq cil pal qú sib | 일 이…십 |
+| il i sam sa o lyuq cil pal qwu sib | il i sam sa o lyúq cil pal qú sib | 일 이…십 |

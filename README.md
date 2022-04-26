@@ -28,7 +28,7 @@ ______
 
 | ㅇ | ㅣ | 〮 | 〯 | ː |
 | - | - | - | - | - |
-| ' | i | ^ | : | : |
+| ʼ(') | i | ^ | : | : |
 
 * ⟨i⟩ is used if it is or is a part of a nucleus. ⟨y⟩ is used if it is the first letter of a vowel cluster. Else ⟨j⟩ is used: when it's the last letter of a vowel cluster, except when preceded by a semivowel, e.g. ⟨ퟄ⟩, romanized as ⟨yi⟩.
 * Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
@@ -37,7 +37,7 @@ ______
 | - | - | - | - | - | - | - | - |
 | q | n | d | l | m | b | s | g |
 | ㅈ | ㅊ | ㅿ | ㅋ | ㅌ | ㅍ | ㆆ | ㅎ |
-| z | c | x | k | t | p | ? | h |
+| z | c | x | k | t | p | ˮ(") | h |
 | ㄲ | ㄸ | ㅃ | ㅆ | ㅉ |
 | qq | dd | bb | ss | zz |
 | ㅱ | ㅸ | ㅹ | ㆄ | ᄛ |
@@ -63,7 +63,7 @@ ______
 | ㅢ |
 | uj |
 
-* Apostrophe is used to indicate abbreviation.
+* Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
 * Are-a is unused.
 * It is possible to allow omitting ⟨w⟩ for ⟨ㅗ⟩ anywhere but at the beginning of a sentence.
 
@@ -99,7 +99,7 @@ The romanization for Middle Korean introduced here covers more letter than Yale 
 
 | Text | Here (Middle) | Yale |
 | - | - | - |
-| ㅇ | ' | G |
+| ㅇ | ʼ(') | G |
 | ㅗ | ó(wo) | (w)o |
 | ㅜ | ú(wu) | (w)u |
 | ㅐ | aj | ay |
@@ -111,7 +111,7 @@ The romanization for Middle Korean introduced here covers more letter than Yale 
 | ㅈ | z | c |
 | ㅉ | zz | cc |
 | ㅿ | x | z |
-| ㆆ | ? | q |
+| ㆆ | ˮ(") | q |
 ______
 
 ## FAQ
