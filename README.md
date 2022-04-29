@@ -37,8 +37,8 @@ Hangul | Trans.
 * ⟨i⟩ is used if it is or is a part of a nucleus. ⟨y⟩ is used if it is the first letter of a vowel cluster. Else ⟨j⟩ is used: when it's the last letter of a vowel cluster, except when preceded by a semivowel, e.g. ⟨ퟄ⟩, romanized as ⟨yi⟩.
 * Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
 
-| H | T | H | T | H | T | H | T |
-| - | - | - | - | - | - | - | - |
+| H | T | H | T |
+| - | - | - | - |
 | ㄱ | q | ㅈ | z | 
 | ㄴ | n | ㅊ | c | 
 | ㄷ | d | ㅿ | x | 
@@ -47,11 +47,16 @@ Hangul | Trans.
 | ㅂ | b | ㅍ | p |
 | ㅅ | s | ㆆ | ˮ(") |
 | ㆁ | g | ㅎ | h |
-| ㄲ | qq | ㅱ | vv | ᄾ | ś(s\\) | ᄼ | š(s\`) |
-| ㄸ | dd | ㅸ | v | ᄿ | śś(s\\s\\) | ᄽ | šš(s\`s\`) |
-| ㅃ | bb | ㅹ | bv | ᅐ | ź(z\\) | ᅎ | ž(z\`) |
-| ㅆ | ss | ㆄ | f | ᅑ | źź(z\\z\\) | ᅏ | žž(z\`z\`) |
-| ㅉ | zz | ᄛ | r | ᅕ | ć(c\\) | ᅔ | č(c\`) |
+| ㄲ | qq | ㅱ | vv |
+| ㄸ | dd | ㅸ | v |
+| ㅃ | bb | ㅹ | bv |
+| ㅆ | ss | ㆄ | f |
+| ㅉ | zz | ᄛ | r |
+| ᄾ | ś(s\\) | ᄼ | š(s\`) |
+| ᄿ | śś(s\\s\\) | ᄽ | šš(s\`s\`) |
+| ᅐ | ź(z\\) | ᅎ | ž(z\`) |
+| źź(z\\z\\) | ᅏ | žž(z\`z\`) |
+| ᅕ | ć(c\\) | ᅔ | č(c\`) |
 
 * ⟨ng⟩ can be used instrad of ⟨g⟩.
 * In transcription, it's allowed to use ⟨r⟩ if pronounced rhotically.
@@ -59,15 +64,23 @@ Hangul | Trans.
 
 ### Vowels in ASCII compatible Modern Korean Transcription
 
-| H | T | H | T | H | T | H | T |
---- | --- | --- | --- | --- | --- | --- | ---
-ㅏ | a | ㅘ | wa | ㅑ | ya | ㅢ | uj
-ㅣ | i | ㅟ | wi |   |    |   | 
-ㅡ | u | ㅜ | wu | ㅠ | yu |   | 
-ㅔ | e | ㅞ | we | ㅖ | ye |   | 
-ㅐ | e | ㅙ | we | ㅒ | ye |   | 
-ㅓ | o | ㅝ | wo | ㅕ | yo |   | 
-ㆍ | O | ㅗ | wO | ㅛ | yO |   | 
+| H | T | H | T |
+--- | --- | --- | ---
+ㅏ | a | ㅘ | wa |
+ㅣ | i | ㅟ | wi |
+ㅡ | u | ㅜ | wu |
+ㅔ | e | ㅞ | we |
+ㅐ | e | ㅙ | we |
+ㅓ | o | ㅝ | wo | 
+ㆍ | O | ㅗ | wO |
+| ㅑ | ya | ㅢ | uj
+|   |    |   | 
+| ㅠ | yu |   | 
+| ㅖ | ye |   | 
+| ㅒ | ye |   | 
+| ㅕ | yo |   |
+| ㅛ | yO |   | 
+
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
 * Are-a is unused.
@@ -75,16 +88,26 @@ Hangul | Trans.
 
 ### Vowels in Middle Korean Transliteration
 
-| H | T | H | T | H | T | H | T |
---- | --- | --- | --- | --- | --- | --- | ---
-ㅏ  | a  | ㅘ | óa | ㅑ | ya | ㆇ | yóia
-ㅓ  | e  | ㅝ | úe | ㅕ | ye | ㆊ | yúie
-ㆍ | o | ㅗ | ó | ㅛ | yo |   | 
-ㅡ  | u  | ㅜ | ú  | ㅠ | yu |   | 
-ㅐ | aj | ㅙ | óaj | ㅒ | yaj | ㆈ | yóiaj
-ㅔ | ej | ㅞ | úej | ㅖ | yej | ㆋ | yúiej
-ㆎ | oj | ㅚ | ój  | ㆉ | yój |   | 
-ㅢ | uj | ㅟ | új  | ㆌ | yúj |   | 
+| H | T | H | T |
+--- | --- | --- | ---
+ㅏ  | a  | ㅘ | óa
+ㅓ  | e  | ㅝ | úe
+ㆍ | o | ㅗ | ó
+ㅡ  | u  | ㅜ | ú
+ㅐ | aj | ㅙ | óaj
+ㅔ | ej | ㅞ | úej
+ㆎ | oj | ㅚ | ój
+ㅢ | uj | ㅟ | új
+ ㅑ | ya | ㆇ | yóia
+ ㅕ | ye | ㆊ | yúie
+ ㅛ | yo |   | 
+ ㅠ | yu |   | 
+ ㅒ | yaj | ㆈ | yóiaj
+ ㅖ | yej | ㆋ | yúiej
+ ㆉ | yój |   | 
+ ㆌ | yúj |   | 
+
+
 
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels.
 
