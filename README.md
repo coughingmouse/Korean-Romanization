@@ -36,6 +36,7 @@ Hangul | Trans.
 
 * ⟨i⟩ is used if it is or is a part of a nucleus. ⟨y⟩ is used if it is the first letter of a vowel cluster. Else ⟨j⟩ is used: when it's the last letter of a vowel cluster, except when preceded by a semivowel, e.g. ⟨ퟄ⟩, romanized as ⟨yi⟩.
 * Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
+
 | H | T | H | T | H | T | H | T |
 | - | - | - | - | - | - | - | - |
 | ㄱ | q | ㅈ | z | 
@@ -63,7 +64,8 @@ Hangul | Trans.
 ㅏ | a | ㅘ | wa | ㅑ | ya | ㅢ | uj
 ㅣ | i | ㅟ | wi |   |    |   | 
 ㅡ | u | ㅜ | wu | ㅠ | yu |   | 
-ㅐ/ㅔ | e | ㅙ/ㅞ | we | ㅒ/ㅖ | ye |   | 
+ㅔ | e | ㅞ | we | ㅖ | ye |   | 
+ㅐ | e | ㅙ | we | ㅒ | ye |   | 
 ㅓ | o | ㅝ | wo | ㅕ | yo |   | 
 ㆍ | O | ㅗ | wO | ㅛ | yO |   | 
 
