@@ -36,8 +36,7 @@ Hangul | Trans.
 
 * ⟨i⟩ is used if it is or is a part of a nucleus. ⟨y⟩ is used if it is the first letter of a vowel cluster. Else ⟨j⟩ is used: when it's the last letter of a vowel cluster, except when preceded by a semivowel, e.g. ⟨ퟄ⟩, romanized as ⟨yi⟩.
 * Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
-
-| Text | Trans. | Text | Trans. | Text | Trans. | Text | Trans. |
+| H | T | H | T | H | T | H | T |
 | - | - | - | - | - | - | - | - |
 | ㄱ | q | ㅈ | z | 
 | ㄴ | n | ㅊ | c | 
@@ -59,7 +58,7 @@ Hangul | Trans.
 
 ### Vowels in ASCII compatible Modern Korean Transcription
 
-| Text | Trans. | Text | Trans. | Text | Trans. | Text | Trans. |
+| H | T | H | T | H | T | H | T |
 --- | --- | --- | --- | --- | --- | --- | ---
 ㅏ | a | ㅘ | wa | ㅑ | ya | ㅢ | uj
 ㅣ | i | ㅟ | wi |   |    |   | 
@@ -74,7 +73,7 @@ Hangul | Trans.
 
 ### Vowels in Middle Korean Transliteration
 
-| Text | Trans. | Text | Trans. | Text | Trans. | Text | Trans. |
+| H | T | H | T | H | T | H | T |
 --- | --- | --- | --- | --- | --- | --- | ---
 ㅏ  | a  | ㅘ | óa | ㅑ | ya | ㆇ | yóia
 ㅓ  | e  | ㅝ | úe | ㅕ | ye | ㆊ | yúie
