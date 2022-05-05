@@ -21,6 +21,7 @@ Why this came to be is written [here](https://gitlab.com/coughingmouse/MKSR/blob
 ## Todo
 
 * Implement an IME.
+* Make a romanizing bot on some platform.
 * Implement a custom layout in case an IME can't run and you would like to write without pressing Alt-Gr.
 ______
 
