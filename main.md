@@ -95,14 +95,14 @@
 | ᅏ | zž(zz\`) |
 | ᅔ | č(c\`) |
 | Mark | Trans. |
-| 〮 | ^ |
+| 〮 | ꜛ(^) |
 | 〯 | : |
 | ː | : |
 
 * ⟨ng⟩ can be used instrad of ⟨g⟩.
 * In transcription, it's allowed to use ⟨r⟩ if pronounced rhotically.
 * For combinational letter clusters, just write them out by each compositig letter.
-* Tonal markers go before a nucleus, and the long vowel symbol goes after the nucleus.
+* Accent markers go before a nucleus, and the long vowel symbol goes after the nucleus.
 
 ## Miscellaneous
 
