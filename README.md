@@ -85,7 +85,7 @@ Hangul | Trans.
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
 * Are-a is unused.
-* It is possible to allow omitting ⟨w⟩ for ⟨ㅗ⟩ anywhere but at the beginning of a sentence.
+* It is possible to allow omitting ⟨w⟩ for ⟨ㅗ⟩ anywhere but after a whitespace character.
 
 ### Vowels in Middle Korean Transliteration
 
