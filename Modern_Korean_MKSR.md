@@ -64,7 +64,7 @@ These are examples for the Modern Korean romanization.
 
 * In transcription, apostrophe is used to indicate abbreviation.
 * Are-a is unused.
-* It is possible to allow omitting ⟨w⟩ for the ASCII representation of ⟨ㅗ⟩ anywhere but at the begining of a sentence.
+* It is possible to allow omitting ⟨w⟩ for the ASCII representation of ⟨ㅗ⟩ anywhere but after a whitespace character.
 
 | Text | Trans. | Example |
 | - | - | - |
@@ -143,7 +143,7 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
     | Text | Suqqested Transc. |
     | - | - |
     | Current: 덥다, 더워 | dobda, dowo |
-    | Suggestion: 더ᇦ다, 더ᄫᅥ | dovda, dovo |
+    | Suggestion: 더ᇦ다, 더ᄫᅥ | dovda, dovo |
 
 1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩.
 

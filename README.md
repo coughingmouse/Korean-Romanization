@@ -122,7 +122,7 @@ The romanization for Middle Korean introduced here covers more letter than Yale 
 
 | Text | Here (Middle) | Yale |
 | - | - | - |
-| ㅇ | ʼ(') | G |
+| ㅇ | ʼ(') | (G) |
 | ㅗ | ó(wo) | (w)o |
 | ㅜ | ú(wu) | (w)u |
 | ㅐ | aj | ay |
@@ -135,6 +135,8 @@ The romanization for Middle Korean introduced here covers more letter than Yale 
 | ㅉ | zz | cc |
 | ㅿ | x | z |
 | ㆆ | ˮ(") | q |
+| (ㅅ) | n/d | (q) |
+| ㅸ | v | W |
 ______
 
 ## FAQ
