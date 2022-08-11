@@ -50,9 +50,9 @@ Hangul | Trans.
 | ㅂ | b | ㅍ | p |
 | ㅅ | s | ㆆ | ˮ(") |
 | ㆁ | g | ㅎ | h |
-| ㄲ | qq | ㅱ | vv |
+| ㄲ | qq | ㅱ | w |
 | ㄸ | dd | ㅸ | v |
-| ㅃ | bb | ㅹ | bv |
+| ㅃ | bb | ㅹ | vv |
 | ㅆ | ss | ㆄ | f |
 | ㅉ | zz | ᄛ | r |
 | ᄾ | ś(s\\) | ᄼ | š(s\`) |
@@ -74,20 +74,21 @@ Hangul | Trans.
 ㅡ | u | ㅜ | wu |
 ㅔ | e | ㅞ | we |
 ㅐ | e | ㅙ | we |
-ㅓ | o | ㅝ | wo | 
+ㅓ | o | ㅝ | wo |
 ㆍ | O | ㅗ | wO |
-| ㅑ | ya | ㅢ | uj
+| ㅑ | ya |   |
 |   |    |   | 
-| ㅠ | yu |   | 
-| ㅖ | ye |   | 
-| ㅒ | ye |   | 
+| ㅠ | yu | ㅢ | uj
+| ㅖ | ye |   |
+| ㅒ | ye |   |
 | ㅕ | yo |   |
-| ㅛ | yO |   | 
+| ㅛ | yO |   |
 
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
 * Are-a is unused.
 * It is possible to allow omitting ⟨w⟩ for ⟨ㅗ⟩ anywhere but after a whitespace character.
+* ⟨yi⟩ can be used to transcribe ⟨ㅢ⟩ instead.
 
 ### Vowels in Middle Korean Transliteration
 
