@@ -219,6 +219,8 @@ Likewise, it's not what Romanization is about, and it should be dealt with separ
 
 ## To read more about the topic
 
+Heselwood, B. (2013). Phonetic Transcription in Theory and Practice. Edinburgh University Press.
+
 정경일. (2013). 규범적 측면에서 본 로마자표기법의 제 문제. 언어학, 21(1), 139-154.
 
 EDWARD F. KLEIN.(1982).Romanization of Korean.코리아저널,22(8),16-23.
