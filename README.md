@@ -76,19 +76,18 @@ Hangul | Trans.
 ㅐ | e | ㅙ | we |
 ㅓ | o | ㅝ | wo |
 ㆍ | O | ㅗ | wO |
-| ㅑ | ya |   |
-|   |    |   | 
-| ㅠ | yu | ㅢ | uj
-| ㅖ | ye |   |
-| ㅒ | ye |   |
-| ㅕ | yo |   |
-| ㅛ | yO |   |
+| ㅑ | ya |
+| ㅢ | uj |
+| ㅠ | yu |
+| ㅖ | ye |
+| ㅒ | ye |
+| ㅕ | yo |
+| ㅛ | yO |
 
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
 * Are-a is unused.
 * It is possible to allow omitting ⟨w⟩ for ⟨ㅗ⟩ anywhere but after a whitespace character.
-* ⟨yi⟩ can be used to transcribe ⟨ㅢ⟩ instead.
 
 ### Vowels in Middle Korean Transliteration
 
