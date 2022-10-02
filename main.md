@@ -33,7 +33,7 @@
 | ㅐ | é{e}(aj) | aj |
 | ㅔ | e | ej |
 | ㆎ | ôj(Oj) | oj |
-| ㅢ | í(uj) | uj |
+| ㅢ | í(yi) | uj |
 | Text | Modern | Middle |
 | ㅙ | wé{we}(waj) | óaj{waj}(woaj) |
 | ㅞ | we | úej{wej}(wuej) |
