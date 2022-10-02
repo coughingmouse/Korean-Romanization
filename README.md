@@ -77,7 +77,7 @@ Hangul | Trans.
 ㅓ | o | ㅝ | wo |
 ㆍ | O | ㅗ | wO |
 | ㅑ | ya |
-| ㅢ | uj |
+| ㅢ | yi |
 | ㅠ | yu |
 | ㅖ | ye |
 | ㅒ | ye |
