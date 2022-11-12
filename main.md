@@ -4,44 +4,44 @@
 * Paranthesises contain ASCII compatible version.
 * Modern transliteration is designed so that it's readable without apostrophes.
 
-| Text | Modern | Middle |
-| - | - | - |
+| Text | Modern | Middle | pronunciation-educational
+| - | - | - | -
 | ㅇ | ʼ('){} | ʼ('){} |
-| ㅣ | i | i |
-| Text | Modern | Middle |
-| ㅏ | a | a |
-| ㅓ | o | e |
+| ㅣ | i | i | i
+| Text | Modern | Middle | pronunciation-educational
+| ㅏ | a | a | a
+| ㅓ | o | e | o
 | ㆍ | ô(O) | o |
-| ㅡ | u | u |
+| ㅡ | u | u | u
 | | w | w |
-| ㅘ | wa | óa{wa}(woa) |
-| ㅝ | wo | úe{we}(wue) |
-| ㅗ | ó(wO) | ó{(wo)} |
-| ㅜ | ú{(wu)} | ú{(wu)} |
+| ㅘ | wa | óa{wa}(woa) | wa
+| ㅝ | wo | úe{we}(wue) | wo
+| ㅗ | ó(wO) | ó{(wo)} | ó(wO)
+| ㅜ | ú{(wu)} | ú{(wu)} | ú(wu)
 | | y | y |
-| ㅑ | ya | ya |
-| ㅕ | yo | ye |
+| ㅑ | ya | ya | ya
+| ㅕ | yo | ye | yo
 | ᆝ | yô(yO) | yo |
 | (ᆢ) | ôô{yô(yO)}(OO) | oo{yo} |
-| ㅛ | yó{(yO)}(ywO) | yó{yo}(ywo) |
+| ㅛ | yó{(yO)}(ywO) | yó{yo}(ywo) | yó(yO)
 | ᆜ | yu | yu |
 | (ᆖ) | uu{yu} | uu{yu} |
-| ㅠ | yú{yu}(ywu) | yú{yu}(ywu) |
+| ㅠ | yú{yu}(ywu) | yú{yu}(ywu) | yú(yu)
 | ㆇ | ywa | yóia{ywa}(ywoia) |
 | ㆊ | ywo | yúie{ywe}(ywoie) |
 | | j | j |
-| ㅐ | é{e}(aj) | aj |
-| ㅔ | e | ej |
+| ㅐ | é{e}(aj) | aj | e
+| ㅔ | e | ej | e
 | ㆎ | ôj(Oj) | oj |
-| ㅢ | í(yi) | uj |
-| Text | Modern | Middle |
-| ㅙ | wé{we}(waj) | óaj{waj}(woaj) |
-| ㅞ | we | úej{wej}(wuej) |
-| ㅚ | ö{we}(wOj) | ój{(woj)} |
-| ㅟ | ü{wi}(wuj) | új{(wuj)} |
-| Text | Modern | Middle |
-| ㅒ | yé{ye}(yaj) | yaj |
-| ㅖ | ye | yej |
+| ㅢ | í(yi) | uj | yi
+| Text | Modern | Middle | pronunciation-educational
+| ㅙ | wé{we}(waj) | óaj{waj}(woaj) | we
+| ㅞ | we | úej{wej}(wuej) | we
+| ㅚ | ö{we}(wOj) | ój{(woj)} | we
+| ㅟ | ü{wi}(wuj) | új{(wuj)} | wi
+| Text | Modern | Middle | pronunciation-educational
+| ㅒ | yé{ye}(yaj) | yaj | ye
+| ㅖ | ye | yej | ye
 | ㆉ | yö{ywe}(ywOj) | yój{yoj}(ywoj) |
 | ㆌ | yü{ywi}(ywuj) | yúj{yuj}(ywuj) |
 | ㆈ | ywaj | yóiaj{ywaj}(ywoiaj) |
@@ -54,30 +54,30 @@
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels; for them, transcription is not available. Although highly recommended to use the transliteration for Middle Korean, if one wishes to use transliteration for Modern Korean for text with unusual vowel clusters, including ⟨ᆢ⟩ and ⟨ᆖ⟩, ⟨w⟩ is considered a vowel, and ⟨'⟩, is appended before it if it's the first letter of a syllable, as well as for other vowels.
 * It is possible to allow omitting ⟨w⟩ for the Modern Korean ASCII representation of ⟨ㅗ⟩ anywhere but after a whitespace character.
 
-| Text | Trans. |
-| - | - |
-| ㄱ | q |
-| ㄴ | n |
-| ㄷ | d |
-| ㄹ | l |
-| ㅁ | m |
-| ㅂ | b |
-| ㅅ | s |
-| ㆁ | g |
-| ㅈ | z |
-| ㅊ | c |
+| Text | Trans. | pronunciation-educational
+| - | - | -
+| ㄱ | q | kx
+| ㄴ | n | nx
+| ㄷ | d | tx
+| ㄹ | l | l/r
+| ㅁ | m | mx
+| ㅂ | b | px
+| ㅅ | s | sx/sxj
+| ㆁ | g | ng
+| ㅈ | z | zxj
+| ㅊ | c | cj
 | ㅿ | x |
-| ㅋ | k |
-| ㅌ | t |
-| ㅍ | p |
-| ㆆ | ˮ(") |
-| ㅎ | h |
-| Text | Trans. |
-| ㄲ | qq |
-| ㄸ | dd |
-| ㅃ | bb |
-| ㅆ | ss |
-| ㅉ | zz |
+| ㅋ | k | kh
+| ㅌ | t | th
+| ㅍ | p | ph
+| ㆆ | ˮ(") | ˮ(")
+| ㅎ | h | h
+| Text | Trans. | pronunciation-educational
+| ㄲ | qq | k
+| ㄸ | dd | d
+| ㅃ | bb | b
+| ㅆ | ss | s/sj
+| ㅉ | zz | zj
 | Text | Trans. |
 | ㅱ | vv |
 | ㅸ | v |
