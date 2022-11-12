@@ -65,6 +65,24 @@ Hangul | Trans.
 * In transcription, it's allowed to use ⟨r⟩ if pronounced rhotically.
 * For combinational letter clusters, just write them out by each compositig letter.
 
+### Consonants for pronunciation-education
+
+| H | T | H | T |
+| - | - | - | - |
+| ㄱ | kx | ㅈ | zxj | 
+| ㄴ | nx | ㅊ | cj | 
+| ㄷ | tx |    |    |
+| ㄹ | l/r | ㅋ | kh | 
+| ㅁ | mx | ㅌ | th | 
+| ㅂ | px | ㅍ | ph |
+| ㅅ | sx/sxj | ㆆ | ˮ(") |
+| ㆁ | ng | ㅎ | h |
+| ㄲ | k |    |    |
+| ㄸ | t |    |    |
+| ㅃ | p |    |    |
+| ㅆ | s/sj |  |   |
+| ㅉ | zj |   |    |
+
 ### Vowels in ASCII compatible Modern Korean Transcription
 
 | H | T | H | T |
