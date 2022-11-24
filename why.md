@@ -6,6 +6,7 @@
 * Use only the standard Latin Letters for the transliteration of modern Korean
 * Avoid using two or more letters for a single phoneme
 * Make it computer friendly
+* Be usable for passport names
 * Respect coalescence and the historic usage of Hangeul and Hunminjeongeum
 * Respect the historic usage of Latin Letters
 * Be Korean while designing
