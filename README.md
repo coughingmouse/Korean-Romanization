@@ -106,6 +106,7 @@ Hangul | Trans.
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
 * Are-a is unused.
 * It is possible to allow omitting ⟨w⟩ for ⟨ㅗ⟩ anywhere but after a whitespace character.
+* ⟨wO⟩ and ⟨yO⟩ can be transliterated as ⟨ww⟩ and ⟨yw⟩.
 
 ### Vowels in Middle Korean Transliteration
 
@@ -127,9 +128,7 @@ Hangul | Trans.
  ㅖ | yej | ㆋ | yúiej
  ㆉ | yój |   | 
  ㆌ | yúj |   | 
-
-
-
+ 
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels.
 
 ### Miscellaneous
