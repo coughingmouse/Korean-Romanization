@@ -1,24 +1,24 @@
 # Mawus Korean Romanization
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#gitlab.com/coughingmouse/MKSR)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/coughingmouse/Korean-Romanization)
 
-[A short sample text here](https://gitlab.com/coughingmouse/MKSR/blob/main/sample.md)
+[A short sample text here](https://github.com/coughingmouse/Korean-Romanization/blob/main/sample.md)
 
-[Full specifications here](https://gitlab.com/coughingmouse/MKSR/blob/main/main.md).
+[Full specifications here](https://github.com/coughingmouse/Korean-Romanization/blob/main/main.md).
 
 Thanks to a particular Joris Bohnson for urging me toward diacritics.
 
 ## Introduction
 
-This is somewhat like a different version of Yale Romanization of Korean. There are a transliteration system and a phonemic transcription made fit for both Modern Korean and Middle Korean, all made compatible with the international Qwerty layout, as well as ASCII-compatible versions. For extra details regarding the Modern Korean MKSR, click [this](https://gitlab.com/coughingmouse/MKSR/blob/main/Modern_Korean_MKSR.md).
+This is somewhat like a different version of Yale Romanization of Korean. There are a transliteration system and a phonemic transcription made fit for both Modern Korean and Middle Korean, all made compatible with the international Qwerty layout, as well as ASCII-compatible versions. For extra details regarding the Modern Korean Romanization, click [this](https://github.com/coughingmouse/Korean-Romanization/blob/main/Modern_Korean_MKSR.md).
 
 To type letters with diacritics on a standard Qwerty layout, use English (United States) United States-International keyboard on Windows and us altgr-intl on Linux. You can use ⟨AltGr⟩ + ⟨e⟩ to type ⟨é⟩, ⟨AltGr⟩ + the key next to ⟨u⟩ to type ⟨ü⟩, etc. On Apple devices, long pressing a key pops up a menu from which you can select an appropriate diacritic. You can also use  ⟨AltGr⟩ + ⟨e⟩, ⟨AltGr⟩ + ⟨u⟩, and ⟨AltGr⟩ + ⟨i⟩ to type diacritics directly there on the default keyboard layout. 
 
-결과적으로는 예일 로마자 표기법을 고친 꼴이 된 마우스식 국문 로마자화를 소개합니다. 국제 쿼티 자판에 맞게 설계된 현대 한국어와 중세 한국어에 대한 전자법과 음운론적 전사법이 있으며, ASCII 호환성을 고려한 버전도 있습니다. 현대 한국어에 맞춘 국문 로마자화에 대한 추가적인 사항은 [여기서](https://gitlab.com/coughingmouse/MKSR/blob/main/Modern_Korean_MKSR.md) 확인할 수 있습니다.
+결과적으로는 예일 로마자 표기법을 고친 꼴이 된 마우스식 국문 로마자화를 소개합니다. 국제 쿼티 자판에 맞게 설계된 현대 한국어와 중세 한국어에 대한 전자법과 음운론적 전사법이 있으며, ASCII 호환성을 고려한 버전도 있습니다. 현대 한국어에 맞춘 국문 로마자화에 대한 추가적인 사항은 [여기서](https://github.com/coughingmouse/Korean-Romanization/blob/main/Modern_Korean_MKSR.md) 확인할 수 있습니다.
 
 쿼티 자판을 사용해 발음 구별 기호가 있는 글자를 입력하려면 윈도우즈를 사용 시에는 English (United States) United States-International keyboard 자판을 사용하고, 리눅스에서는 us altgr-intl 자판을 사용하셔서 ⟨AltGr⟩ + ⟨e⟩와 ⟨AltGr⟩ + ⟨u⟩ 옆의 글쇠 등을 누르면 됩니다. 애플 사의 기기에서는 글자를 길게 누르면 글자에 추가할 발음 구별 기호가 나와서 선택할 수 있습니다. 또한 기본 쿼티 자판에서는 ⟨AltGr⟩ + ⟨e⟩나 ⟨AltGr⟩ + ⟨u⟩, ⟨AltGr⟩ + ⟨i⟩로 발음 구별 기호를 직접 입력할 수도 있습니다.
 
-Why this came to be is written [here](https://gitlab.com/coughingmouse/MKSR/blob/main/why.md). In making this system, a [proto](https://gitlab.com/coughingmouse/MKSR/blob/main/proto.md) version was [modified](https://gitlab.com/coughingmouse/MKSR/blob/main/ASCII.md) to fit with ASCII, then was further modified and extended to fit every practical need coherently.
+Why this came to be is written [here](https://github.com/coughingmouse/Korean-Romanization/blob/main/why.md). In making this system, a [proto](https://github.com/coughingmouse/Korean-Romanization/blob/main/proto.md) version was [modified](https://github.com/coughingmouse/Korean-Romanization/blob/main/ASCII.md) to fit with ASCII, then was further modified and extended to fit every practical need coherently.
 
 ## Todo
 
