@@ -93,14 +93,14 @@ Hangul | Trans.
 ㅔ | e | ㅞ | we |
 ㅐ | e | ㅙ | we |
 ㅓ | o | ㅝ | wo |
-ㆍ | ö | ㅗ | wö |
+ㆍ | ó | ㅗ | wó |
 | ㅑ | ya |
 | ㅢ | yi |
 | ㅠ | yu |
 | ㅖ | ye |
 | ㅒ | ye |
 | ㅕ | yo |
-| ㅛ | yö |
+| ㅛ | yó |
 
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
@@ -112,20 +112,20 @@ Hangul | Trans.
 
 | H | T | H | T |
 --- | --- | --- | ---
-ㅏ  | a  | ㅘ | óa
-ㅓ  | e  | ㅝ | úe
-ㆍ | o | ㅗ | ó
-ㅡ  | u  | ㅜ | ú
-ㅐ | aj | ㅙ | óaj
-ㅔ | ej | ㅞ | úej
-ㆎ | oj | ㅚ | ój
-ㅢ | uj | ㅟ | új
- ㅑ | ya | ㆇ | yóia
- ㅕ | ye | ㆊ | yúie
+ㅏ  | a  | ㅘ | ôa
+ㅓ  | e  | ㅝ | ûe
+ㆍ | o | ㅗ | ô
+ㅡ  | u  | ㅜ | û
+ㅐ | aj | ㅙ | ôaj
+ㅔ | ej | ㅞ | ûej
+ㆎ | oj | ㅚ | ôj
+ㅢ | uj | ㅟ | ûj
+ ㅑ | ya | ㆇ | yôia
+ ㅕ | ye | ㆊ | yûie
  ㅛ | yo |   | 
  ㅠ | yu |   | 
- ㅒ | yaj | ㆈ | yóiaj
- ㅖ | yej | ㆋ | yúiej
+ ㅒ | yaj | ㆈ | yôiaj
+ ㅖ | yej | ㆋ | yûiej
  ㆉ | yój |   | 
  ㆌ | yúj |   | 
  

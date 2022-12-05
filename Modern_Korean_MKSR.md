@@ -6,12 +6,12 @@ These are examples for the Modern Korean romanization.
 
 | Text | Transcription | Transliteration |
 | - | - | - |
-| ㆍ | ô(O) | ô(O) |
+| ㆍ | ó(O) | ó(O) |
 | ㅐ/ㅔ/ㅢ | e/e/í(uj) | é(aj)/e/í(uj) |
 | ㅡ | u | u |
 | ㅓ | o | o |
-| ㅜ | wu | ú(wu) |
-| ㅗ | ó(wO) | ó(wO) |
+| ㅜ | wu | û(wu) |
+| ㅗ | wó(wO) | ô(wO) |
 | ㅟ | wi | ü(wuj) |
 | ㅚ | we | ö(wOj) |
 | ㅈ | z | z |
@@ -21,10 +21,10 @@ These are examples for the Modern Korean romanization.
 | ㅿ | x | x |
 | 한글 | hanqul | hanqul |
 | 리어카 빠르네 | lioka bballne | lioka bbalune |
-| 물을 긷는다 | mwulul qirnunda | múlul qidnunda |
+| 물을 긷는다 | mwulul qirnunda | mûlul qidnunda |
 | 미란다 | miranda | milanda |
 | 레드 | redu | redu |
-| 서울 | sowul | soúl |
+| 서울 | sowul | soûl |
 
 # Specification
 
@@ -38,7 +38,7 @@ These are examples for the Modern Korean romanization.
 | ㅐ | e | é(aj) | 앵무새 |
 | ㅔ | e | e(oj) | 엑스레이 |
 | ㅓ | o | o | 엄마 |
-| ㆍ | ô(O) | ô(O) |
+| ㆍ | ó(O) | ó(O) |
 | Text | Transc. | Transl. | Example |
 | (ㅜ) | w | w |
 | ㅘ | wa | wa | 과자 |
@@ -48,19 +48,16 @@ These are examples for the Modern Korean romanization.
 | ㅞ | we | we(wej) | 궤도 |
 | ㅚ | we | ö(wOj) | 회색 |
 | ㅝ | wo | wo | 원숭이 |
-| ㅗ | ó(wO) | ó(wO) | 오징어 |
+| ㅗ | wó(wO) | ô(wO) | 오징어 |
 | Text | Transc. | Transl. | Example |
 | (ㅣ) | y | y |
 | ㅑ | ya | ya | 야자수 |
-| | | |
-| ㅠ | yu | yú(ywu) | 유치원 |
+| ㅢ | yi | í(uj) | 의사 |
+| ㅠ | yu | yû(ywu) | 유치원 |
 | ㅒ | ye | yé(yaj) | 섀도 |
 | ㅖ | ye | ye(yoj) | 계란 |
 | ㅕ | yo | yo | 연못 |
-| ㅛ | yó(yO) | yó(ywO) | 요지경 |
-| Text | Transc. | Transl. | Example |
-| (ㅣ) | j | j |
-| ㅢ | í(uj) | í(uj) | 의사 |
+| ㅛ | yó(yO) | yô(ywO) | 요지경 |
 
 * In transcription, apostrophe is used to indicate abbreviation.
 * Are-a is unused.
@@ -120,20 +117,20 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
     | Text | Transcription |
     | - | - |
-    | Current: 가당치도 | qadangcidó |
-    | Suqqestion: 가당ㅎ지도 | qadangh'zidó |
+    | Current: 가당치도 | qadangcidô |
+    | Suqqestion: 가당ㅎ지도 | qadangh'zidô |
 
 1. Write ⟨d⟩ whenever the archaic word "s" exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩).
 
     | Text | Suqqested Transc. | Current Transc. |
     | - | - | - |
     | 숫자 | swudza | swusza |
-    | 멸족 | myoldzóq | myolzóq |
+    | 멸족 | myoldzwóq | myolzwóq |
     | 냇가 | nedqa | nesqa |
-    | 콧등 | kóddeng | kósdeng |
+    | 콧등 | kwóddeng | kwósdeng |
     | 뱃나루 | bennalwu | besnalwu |
     | 나뭇잎 | namwunnip | namwusip |
-    | 볼일 | bólnil | bólil |
+    | 볼일 | bwólnil | bwólil |
     | 빵 조각 | bbang d zoqaq | bbang zoqaq |
     | 할 일 | hal n il | hal il |
     | 한 일 | han n il | han il |
@@ -189,14 +186,14 @@ ______
 | boun | boun | 보은 |
 | moqbang | moqbag | 먹방 |
 | Seoul | Seoul | 세어을 |
-| qqóc | qqóc | 꽃 |
-| qóz | qóz | 곶 |
-| qós | qós | 곳 |
+| qqwóc | qqôc | 꽃 |
+| qwóz | qôz | 곶 |
+| qwós | qôs | 곳 |
 | zzang | zzag | 짱 |
-| qumdongmiruqbosalbanqasayusang | qumdogmiluqbosalbanqasayúsag | 금동미륵보살반가사유상 |
+| qumdwóngmiruqbwósalbanqasayusang | qumdôgmiluqbôsalbanqasayûsag | 금동미륵보살반가사유상 |
 | milku | milku | 밀크 |
-| boraq óbama | bolaq óbama | 버락 오바마 |
+| boraq wóbama | bolaq ôbama | 버락 오바마 |
 | sincong | sincog | 신청 |
 | saconsong | saconsog | 사천성 |
 | manhwa | manhwa | 만화 |
-| il i sam sa o lyuq cil pal qwu sib | il i sam sa o lyúq cil pal qú sib | 일 이…십 |
+| il i sam sa o lyuq cil pal qwu sib | il i sam sa o lyúq cil pal qû sib | 일 이…십 |

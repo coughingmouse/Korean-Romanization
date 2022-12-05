@@ -11,34 +11,34 @@
 | Text | Modern | Middle | pronunciation-educational
 | ㅏ | a | a | a
 | ㅓ | o | e | o
-| ㆍ | ô(O) | o |
+| ㆍ | ó(O) | o |
 | ㅡ | u | u | u
 | | w | w |
-| ㅘ | wa | óa{wa}(woa) | wa
+| ㅘ | wa | ôa{wa}(woa) | wa
 | ㅝ | wo | úe{we}(wue) | wo
-| ㅗ | ó(wO) | ó{(wo)} | ó(wO)
-| ㅜ | ú{(wu)} | ú{(wu)} | ú(wu)
+| ㅗ | ô{wó}(wO) | ô{(wo)} | ô(wO)
+| ㅜ | û{(wu)} | û{(wu)} | û(wu)
 | | y | y |
 | ㅑ | ya | ya | ya
 | ㅕ | yo | ye | yo
-| ᆝ | yô(yO) | yo |
-| (ᆢ) | ôô{yô(yO)}(OO) | oo{yo} |
-| ㅛ | yó{(yO)}(ywO) | yó{yo}(ywo) | yó(yO)
+| ᆝ | yó(yO) | yo |
+| (ᆢ) | óó{yó(yO)}(OO) | oo{yo} |
+| ㅛ | yô{yó(yO)}(ywO) | yó{yo}(ywo) | yó(yO)
 | ᆜ | yu | yu |
 | (ᆖ) | uu{yu} | uu{yu} |
-| ㅠ | yú{yu}(ywu) | yú{yu}(ywu) | yú(yu)
-| ㆇ | ywa | yóia{ywa}(ywoia) |
-| ㆊ | ywo | yúie{ywe}(ywoie) |
+| ㅠ | yû{yu}(ywu) | yû{yu}(ywu) | yû(yu)
+| ㆇ | ywa | yôia{ywa}(ywoia) |
+| ㆊ | ywo | yûie{ywe}(ywoie) |
 | | j | j |
 | ㅐ | é{e}(aj) | aj | e
 | ㅔ | e | ej | e
-| ㆎ | ôj(Oj) | oj |
+| ㆎ | ój(Oj) | oj |
 | ㅢ | í(yi) | uj | yi
 | Text | Modern | Middle | pronunciation-educational
-| ㅙ | wé{we}(waj) | óaj{waj}(woaj) | we
-| ㅞ | we | úej{wej}(wuej) | we
-| ㅚ | ö{we}(wOj) | ój{(woj)} | we
-| ㅟ | ü{wi}(wuj) | új{(wuj)} | wi
+| ㅙ | wé{we}(waj) | ôaj{waj}(woaj) | we
+| ㅞ | we | ûej{wej}(wuej) | we
+| ㅚ | ö{we}(wOj) | ôj{(woj)} | we
+| ㅟ | ü{wi}(wuj) | ûj{(wuj)} | wi
 | Text | Modern | Middle | pronunciation-educational
 | ㅒ | yé{ye}(yaj) | yaj | ye
 | ㅖ | ye | yej | ye
