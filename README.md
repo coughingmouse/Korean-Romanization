@@ -126,8 +126,8 @@ Hangul | Trans.
  ㅠ | yu |   | 
  ㅒ | yaj | ㆈ | yôiaj
  ㅖ | yej | ㆋ | yûiej
- ㆉ | yój |   | 
- ㆌ | yúj |   | 
+ ㆉ | yôj |   | 
+ ㆌ | yûj |   | 
  
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels.
 
@@ -142,8 +142,8 @@ The romanization for Middle Korean introduced here covers more letter than Yale 
 | Text | Here (Middle) | Yale |
 | - | - | - |
 | ㅇ | ʼ(') | (G) |
-| ㅗ | ó(wo) | (w)o |
-| ㅜ | ú(wu) | (w)u |
+| ㅗ | ô(wo) | (w)o |
+| ㅜ | û(wu) | (w)u |
 | ㅐ | aj | ay |
 | ㅔ | ej | ey |
 | ㄱ | q | k |
