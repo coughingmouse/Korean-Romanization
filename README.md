@@ -93,14 +93,14 @@ Hangul | Trans.
 ㅔ | e | ㅞ | we |
 ㅐ | e | ㅙ | we |
 ㅓ | o | ㅝ | wo |
-ㆍ | O | ㅗ | wO |
+ㆍ | ö | ㅗ | wö |
 | ㅑ | ya |
 | ㅢ | yi |
 | ㅠ | yu |
 | ㅖ | ye |
 | ㅒ | ye |
 | ㅕ | yo |
-| ㅛ | yO |
+| ㅛ | yö |
 
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
