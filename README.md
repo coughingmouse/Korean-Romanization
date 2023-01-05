@@ -42,14 +42,14 @@ Hangul | Trans.
 
 | H | T | H | T |
 | - | - | - | - |
-| ㄱ | q | ㅈ | z | 
-| ㄴ | n | ㅊ | c | 
-| ㄷ | d | ㅿ | x | 
-| ㄹ | l | ㅋ | k | 
-| ㅁ | m | ㅌ | t | 
+| ㄱ | q | ㅈ | z |
+| ㄴ | n | ㅊ | c |
+| ㄷ | d | ㅿ | j |
+| ㄹ | l | ㅋ | k |
+| ㅁ | m | ㅌ | t |
 | ㅂ | b | ㅍ | p |
 | ㅅ | s | ㆆ | ˮ(") |
-| ㆁ | g | ㅎ | h |
+| ㆁ | g | ㅎ | x |
 | ㄲ | qq | ㅱ | w |
 | ㄸ | dd | ㅸ | v |
 | ㅃ | bb | ㅹ | vv |
@@ -69,14 +69,14 @@ Hangul | Trans.
 
 | H | T | H | T |
 | - | - | - | - |
-| ㄱ | kx | ㅈ | zxj | 
-| ㄴ | nx | ㅊ | cj | 
-| ㄷ | tx |    |    |
-| ㄹ | l/r | ㅋ | kh | 
-| ㅁ | mx | ㅌ | th | 
-| ㅂ | px | ㅍ | ph |
-| ㅅ | sx/sxj | ㆆ | ˮ(") |
-| ㆁ | ng | ㅎ | h |
+| ㄱ | kh/g/k | ㅈ | zhj/t | 
+| ㄴ | nh/n/n | ㅊ | chj/t | 
+| ㄷ | th/d/t |    |    |
+| ㄹ | l/r | ㅋ | kx/kh | 
+| ㅁ | mh/m/m | ㅌ | tx/t | 
+| ㅂ | ph/b/p | ㅍ | px/p |
+| ㅅ | sh/shj | ㆆ | ˮ(") |
+| ㆁ | ng | ㅎ | x/h |
 | ㄲ | k |    |    |
 | ㄸ | t |    |    |
 | ㅃ | p |    |    |
@@ -92,15 +92,15 @@ Hangul | Trans.
 ㅡ | u | ㅜ | wu |
 ㅔ | e | ㅞ | we |
 ㅐ | e | ㅙ | we |
-ㅓ | o | ㅝ | wo |
-ㆍ | O(ó) | ㅗ | wO(wó) |
+ㅓ | uh | ㅝ | wuh |
+ㆍ | o | ㅗ | wo |
 | ㅑ | ya |
 | ㅢ | yi |
 | ㅠ | yu |
 | ㅖ | ye |
 | ㅒ | ye |
-| ㅕ | yo |
-| ㅛ | yO(yó) |
+| ㅕ | yuh |
+| ㅛ | yo |
 
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
@@ -112,22 +112,22 @@ Hangul | Trans.
 
 | H | T | H | T |
 --- | --- | --- | ---
-ㅏ  | a  | ㅘ | ôa
-ㅓ  | e  | ㅝ | ûe
+ㅏ  | a | ㅘ | ôa
+ㅓ  | e | ㅝ | ûe
 ㆍ | o | ㅗ | ô
-ㅡ  | u  | ㅜ | û
-ㅐ | aj | ㅙ | ôaj
-ㅔ | ej | ㅞ | ûej
-ㆎ | oj | ㅚ | ôj
-ㅢ | uj | ㅟ | ûj
- ㅑ | ya | ㆇ | yôia
- ㅕ | ye | ㆊ | yûie
- ㅛ | yo |   | 
- ㅠ | yu |   | 
- ㅒ | yaj | ㆈ | yôiaj
- ㅖ | yej | ㆋ | yûiej
- ㆉ | yôj |   | 
- ㆌ | yûj |   | 
+ㅡ  | u | ㅜ | û
+ㅐ | ai | ㅙ | ôai
+ㅔ | ei | ㅞ | ûei
+ㆎ | oi | ㅚ | ôi
+ㅢ | ui | ㅟ | ûi
+ ㅑ | ya | ㆇ | yôya
+ ㅕ | ye | ㆊ | yûye
+ ㅛ | yô |   | 
+ ㅠ | yû |   | 
+ ㅒ | yai | ㆈ | yôyai
+ ㅖ | yei | ㆋ | yûyei
+ ㆉ | yôi |   | 
+ ㆌ | yûi |   | 
  
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels.
 
@@ -144,15 +144,15 @@ The romanization for Middle Korean introduced here covers more letter than Yale 
 | ㅇ | ʼ(') | (G) |
 | ㅗ | ô(wo) | (w)o |
 | ㅜ | û(wu) | (w)u |
-| ㅐ | aj | ay |
-| ㅔ | ej | ey |
+| ㅐ | ai | ay |
+| ㅔ | ei | ey |
 | ㄱ | q | k |
 | ㄷ | d | t |
 | ㅂ | b | p |
 | ㆁ | g/ng | ng |
 | ㅈ | z | c |
 | ㅉ | zz | cc |
-| ㅿ | x | z |
+| ㅿ | j | z |
 | ㆆ | ˮ(") | q |
 | (ㅅ) | n/d | (q) |
 | ㅸ | v | W |
