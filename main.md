@@ -10,20 +10,20 @@
 | ㅣ | i | i | i
 | Text | Modern | Middle | pronunciation-educational
 | ㅏ | a | a | a
-| ㅓ | o | e | o
-| ㆍ | ó(O) | o |
+| ㅓ | uh | e | o
+| ㆍ | o | o |
 | ㅡ | u | u | u
 | | w | w |
 | ㅘ | wa | ôa{wa}(woa) | wa
 | ㅝ | wo | úe{we}(wue) | wo
-| ㅗ | ô{wó}(wO) | ô{(wo)} | ô(wO)
-| ㅜ | û{(wu)} | û{(wu)} | û(wu)
+| ㅗ | ô{(wo)} | ô{(wo)} | ô(wO)
+| ㅜ | û{(wo)} | û{(wu)} | û(wu)
 | | y | y |
 | ㅑ | ya | ya | ya
-| ㅕ | yo | ye | yo
-| ᆝ | yó(yO) | yo |
-| (ᆢ) | óó{yó(yO)}(OO) | oo{yo} |
-| ㅛ | yô{yó(yO)}(ywO) | yó{yo}(ywo) | yó(yO)
+| ㅕ | yuh | ye | yo
+| ᆝ | yo | yo |
+| (ᆢ) | oo{yo}(oo) | oo{yo} |
+| ㅛ | yô{(yo)}(ywo) | yó{yo}(ywo) | yó(yO)
 | ᆜ | yu | yu |
 | (ᆖ) | uu{yu} | uu{yu} |
 | ㅠ | yû{yu}(ywu) | yû{yu}(ywu) | yû(yu)
@@ -57,22 +57,22 @@
 
 | Text | Trans. | pronunciation-educational
 | - | - | -
-| ㄱ | q | kx
-| ㄴ | n | nx
-| ㄷ | d | tx
+| ㄱ | q | kh
+| ㄴ | n | nh
+| ㄷ | d | th
 | ㄹ | l | l/r
-| ㅁ | m | mx
-| ㅂ | b | px
-| ㅅ | s | sx/sxj
+| ㅁ | m | mh
+| ㅂ | b | ph
+| ㅅ | s | sh/shj
 | ㆁ | g | ng
 | ㅈ | z | zxj
 | ㅊ | c | cj
-| ㅿ | x |
-| ㅋ | k | kh
-| ㅌ | t | th
-| ㅍ | p | ph
+| ㅿ | j |
+| ㅋ | k | kx
+| ㅌ | t | tx
+| ㅍ | p | px
 | ㆆ | ˮ(") | ˮ(")
-| ㅎ | h | h
+| ㅎ | x | x
 | Text | Trans. | pronunciation-educational
 | ㄲ | qq | k
 | ㄸ | dd | d
