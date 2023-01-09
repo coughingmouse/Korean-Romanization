@@ -6,58 +6,59 @@ These are examples for the Modern Korean romanization.
 
 | Text | Transcription | Transliteration |
 | - | - | - |
-| ㆍ | ó(O) | ó(O) |
-| ㅐ/ㅔ/ㅢ | e/e/í(uj) | é(aj)/e/í(uj) |
+| ㆍ | o | o |
+| ㅐ/ㅔ/ㅢ | e/e/ï(yi) | ä/ë/ï(ui) |
+| ㅣ | i | í(yi) |
 | ㅡ | u | u |
-| ㅓ | o | o |
+| ㅓ | uh | e |
 | ㅜ | wu | û(wu) |
-| ㅗ | wó(wO) | ô(wO) |
-| ㅟ | wi | ü(wuj) |
-| ㅚ | we | ö(wOj) |
+| ㅗ | wo | ô(wo) |
+| ㅟ | wi | ü(wui) |
+| ㅚ | we | ö(woi) |
 | ㅈ | z | z |
 | ㅊ | c | c |
 | ㆁ | g | g |
 | ㄲ | qq | qq |
-| ㅿ | x | x |
-| 한글 | hanqul | hanqul |
-| 리어카 빠르네 | lioka bballne | lioka bbalune |
+| ㅿ | j | j |
+| 한글 | xanqul | xanqul |
+| 리어카 빠르네 | liuhka bballne | lieka bbalunei |
 | 물을 긷는다 | mwulul qirnunda | mûlul qidnunda |
 | 미란다 | miranda | milanda |
-| 레드 | redu | redu |
-| 서울 | sowul | soûl |
+| 레드 | redu | rëdu |
+| 서울 | suhwul | seûl |
 
 # Specification
 
 | Text | Transc. | Transl. | Example |
 | - | - | - | - |
-| ㅎ | h | h | 한강 |
+| ㅎ | x | x | 한강 |
 | ㅇ | | ʼ(') | 잉어 |
 | ㅏ | a | a | 아빠 |
-| ㅣ | i | i | 이순신 |
+| ㅣ | i | í(yi) | 이순신 |
 | ㅡ | u | u | 은방울 |
-| ㅐ | e | é(aj) | 앵무새 |
-| ㅔ | e | e(oj) | 엑스레이 |
-| ㅓ | o | o | 엄마 |
-| ㆍ | ó(O) | ó(O) |
+| ㅐ | e | ä(ai) | 앵무새 |
+| ㅔ | e | ë(oi) | 엑스레이 |
+| ㅓ | ú(uh) | e | 엄마 |
+| ㆍ | o | o |
 | Text | Transc. | Transl. | Example |
 | (ㅜ) | w | w |
 | ㅘ | wa | wa | 과자 |
-| ㅟ | wi | ü(wuj) | 휘파람 |
+| ㅟ | wi | ü(wui) | 휘파람 |
 | ㅜ | wu | ú(wu) | 우편 |
-| ㅙ | we | wé(waj) | 돼지 |
-| ㅞ | we | we(wej) | 궤도 |
-| ㅚ | we | ö(wOj) | 회색 |
-| ㅝ | wo | wo | 원숭이 |
-| ㅗ | wó(wO) | ô(wO) | 오징어 |
+| ㅙ | we | wä(wai) | 돼지 |
+| ㅞ | we | wë(wei) | 궤도 |
+| ㅚ | we | ö(woi) | 회색 |
+| ㅝ | wú(wuh) | we | 원숭이 |
+| ㅗ | ô(wo) | ô(wo) | 오징어 |
 | Text | Transc. | Transl. | Example |
 | (ㅣ) | y | y |
 | ㅑ | ya | ya | 야자수 |
-| ㅢ | yi | í(uj) | 의사 |
+| ㅢ | yi | ï(ui) | 의사 |
 | ㅠ | yu | yû(ywu) | 유치원 |
-| ㅒ | ye | yé(yaj) | 섀도 |
-| ㅖ | ye | ye(yoj) | 계란 |
-| ㅕ | yo | yo | 연못 |
-| ㅛ | yó(yO) | yô(ywO) | 요지경 |
+| ㅒ | ye | yä(yaj) | 섀도 |
+| ㅖ | ye | yë(yej) | 계란 |
+| ㅕ | yú(yuh) | ye | 연못 |
+| ㅛ | yô(yo) | yô(ywo) | 요지경 |
 
 * In transcription, apostrophe is used to indicate abbreviation.
 * Are-a is unused.
@@ -82,7 +83,7 @@ These are examples for the Modern Korean romanization.
 | ㅈ | z | 지게 |
 | ㅉ | zz | 짜장면 |
 | ㅊ | c | 치마 |
-| ㅿ | x | 젓가락 |
+| ㅿ | j | 젓가락 |
 | ㆁ | g/ng | 잉어 |
 | ㄱ | q | 기러기 |
 | ㄲ | qq | 깐부 |
@@ -117,37 +118,37 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
     | Text | Transcription |
     | - | - |
-    | Current: 가당치도 | qadangcidô |
-    | Suqqestion: 가당ㅎ지도 | qadangh'zidô |
+    | Current: 가당치도 | qadangcido |
+    | Suqqestion: 가당ㅎ지도 | qadangx'zido |
 
 1. Write ⟨d⟩ whenever the archaic word "s" exists and is not pronounced as a likwid, and ⟨n⟩ when pronounced as a likwid (and add ⟨n⟩ in front of ⟨i⟩/⟨y⟩).
 
     | Text | Suqqested Transc. | Current Transc. |
     | - | - | - |
     | 숫자 | swudza | swusza |
-    | 멸족 | myoldzwóq | myolzwóq |
+    | 멸족 | myuhldzwoq | myuhlzwoq |
     | 냇가 | nedqa | nesqa |
-    | 콧등 | kwóddeng | kwósdeng |
+    | 콧등 | kwoddung | kwosdung |
     | 뱃나루 | bennalwu | besnalwu |
     | 나뭇잎 | namwunnip | namwusip |
-    | 볼일 | bwólnil | bwólil |
-    | 빵 조각 | bbang d zoqaq | bbang zoqaq |
-    | 할 일 | hal n il | hal il |
-    | 한 일 | han n il | han il |
+    | 볼일 | bwolnil | bwolil |
+    | 빵 조각 | bbang d'zoqaq | bbang zoqaq |
+    | 할 일 | hal n'il | hal il |
+    | 한 일 | han n'il | han il |
 
 1. Write 'ㅂ' 불규칙 활용 explicitly with ⟨v⟩ which is read as /b/ in coda.
 
     | Text | Suqqested Transc. |
     | - | - |
-    | Current: 덥다, 더워 | dobda, dowo |
-    | Suggestion: 더ᇦ다, 더ᄫᅥ | dovda, dovo |
+    | Current: 덥다, 더워 | duhbda, duhwuh |
+    | Suggestion: 더ᇦ다, 더ᄫᅥ duhvda, duhvuh |
 
-1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨x⟩.
+1. Write 'ㅅ' 불규칙 활용 explicitly with ⟨j⟩.
 
     | Text | Suqqested Transc. |
     | - | - |
     | Current: 낫다, 나아 | nasda, naa |
-    | Suqqestion: 나ᇫ다, 나ᅀᅡ | naxda, naxa |
+    | Suqqestion: 나ᇫ다, 나ᅀᅡ | najda, naja |
 
 1. Write '르' 불규칙 활용 explicitly with ⟨ll⟩ and '러' 불규칙 with ⟨lll⟩. 
 
@@ -175,8 +176,8 @@ These are some desiqn compromizes associated with usig a syllabary system for a 
 
     | Text | Suqqested Transc. |
     | - | - |
-    | Current RoK: 방귀 뀌어 봐, 돈을 세어 봐./세 봐. | bagqwi qqwio bwa. dónul seo bwa /se bwa. |
-    | Suqqestion: 방귀 꾸ㅕ봐./뀌여봐. 돈을 세봐./세여봐. | bagqwi qqwyobwa / qqwiobwa. dónul sebwa /seyobwa. |
+    | Current RoK: 방귀 뀌어 봐, 돈을 세어 봐./세 봐. | bagqwi qqwiuh bwa. donul seuh bwa /se bwa. |
+    | Suqqestion: 방귀 꾸ㅕ봐./뀌여봐. 돈을 세봐./세여봐. | bagqwi qqwyuhbwa / qqwyuhbwa. donul sebwa /seyuhbwa. |
 ______
 
 ## Examples
@@ -184,16 +185,16 @@ ______
 | Transcription | Transliteration | Text |
 | - | - | - |
 | boun | boun | 보은 |
-| moqbang | moqbag | 먹방 |
-| Seoul | Seoul | 세어을 |
-| qqwóc | qqôc | 꽃 |
-| qwóz | qôz | 곶 |
-| qwós | qôs | 곳 |
+| muhqbang | muhqbag | 먹방 |
+| Suhoul | Seoul | 서오을 |
+| qqwoc | qqôc | 꽃 |
+| qwoz | qôz | 곶 |
+| qwos | qôs | 곳 |
 | zzang | zzag | 짱 |
-| qumdwóngmiruqbwósalbanqasayusang | qumdôgmiluqbôsalbanqasayûsag | 금동미륵보살반가사유상 |
+| qumdwongmiruqbwosalbanqasayusang | qumdôgmiluqbôsalbanqasayûsag | 금동미륵보살반가사유상 |
 | milku | milku | 밀크 |
-| boraq wóbama | bolaq ôbama | 버락 오바마 |
-| sincong | sincog | 신청 |
-| saconsong | saconsog | 사천성 |
+| buhraq wobama | bolaq ôbama | 버락 오바마 |
+| sincuhng | sinceg | 신청 |
+| sacuhnsuhng | sacenseg | 사천성 |
 | manhwa | manhwa | 만화 |
-| il i sam sa o lyuq cil pal qwu sib | il i sam sa o lyúq cil pal qû sib | 일 이…십 |
+| il i sam sa wo lyuq cil pal qwu sib | il i sam sa wo lyúq cil pal qû sib | 일 이…십 |
