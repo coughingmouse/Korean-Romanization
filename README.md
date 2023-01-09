@@ -92,21 +92,19 @@ Hangul | Trans.
 ㅡ | u | ㅜ | wu |
 ㅔ | e | ㅞ | we |
 ㅐ | e | ㅙ | we |
-ㅓ | uh | ㅝ | wuh |
-ㆍ | o | ㅗ | wo |
+ㅓ | o | ㅝ | wo |
+ㆍ | oh | ㅗ | woh |
 | ㅑ | ya |
 | ㅢ | yi |
 | ㅠ | yu |
 | ㅖ | ye |
 | ㅒ | ye |
-| ㅕ | yuh |
-| ㅛ | yo |
+| ㅕ | yo |
+| ㅛ | yoh |
 
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
 * Are-a is unused.
-* It is possible to allow omitting ⟨w⟩ for ⟨ㅗ⟩ anywhere but after a whitespace character.
-* ⟨O⟩ can be transliterated as ⟨w⟩.
 
 ### Vowels in Middle Korean Transliteration
 
