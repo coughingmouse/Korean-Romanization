@@ -10,9 +10,9 @@ These are examples for the Modern Korean romanization.
 | ㅐ/ㅔ/ㅢ | e/e/ï(yi) | ä/ë/ï(ui) |
 | ㅣ | i | í(yi) |
 | ㅡ | u | u |
-| ㅓ | uh | e |
-| ㅜ | wu | û(wu) |
-| ㅗ | wo | ô(wo) |
+| ㅓ | é(uh) | e |
+| ㅜ | ú(wu) | ú(wu) |
+| ㅗ | ó(wo) | ó(wo) |
 | ㅟ | wi | ü(wui) |
 | ㅚ | we | ö(woi) |
 | ㅈ | z | z |
@@ -22,10 +22,10 @@ These are examples for the Modern Korean romanization.
 | ㅿ | j | j |
 | 한글 | xanqul | xanqul |
 | 리어카 빠르네 | liuhka bballne | lieka bbalunei |
-| 물을 긷는다 | mwulul qirnunda | mûlul qidnunda |
+| 물을 긷는다 | mwulul qirnunda | múlul qidnunda |
 | 미란다 | miranda | milanda |
 | 레드 | redu | rëdu |
-| 서울 | suhwul | seûl |
+| 서울 | suhwul | seúl |
 
 # Specification
 
@@ -38,27 +38,27 @@ These are examples for the Modern Korean romanization.
 | ㅡ | u | u | 은방울 |
 | ㅐ | e | ä(ai) | 앵무새 |
 | ㅔ | e | ë(oi) | 엑스레이 |
-| ㅓ | ú(uh) | e | 엄마 |
+| ㅓ | é(uh)| e | 엄마 |
 | ㆍ | o | o |
 | Text | Transc. | Transl. | Example |
 | (ㅜ) | w | w |
 | ㅘ | wa | wa | 과자 |
 | ㅟ | wi | ü(wui) | 휘파람 |
-| ㅜ | wu | ú(wu) | 우편 |
+| ㅜ | ú(wu) | ú(wu) | 우편 |
 | ㅙ | we | wä(wai) | 돼지 |
 | ㅞ | we | wë(wei) | 궤도 |
 | ㅚ | we | ö(woi) | 회색 |
-| ㅝ | wú(wuh) | we | 원숭이 |
-| ㅗ | ô(wo) | ô(wo) | 오징어 |
+| ㅝ | wé(wuh) | we | 원숭이 |
+| ㅗ | ó(wo) | ó(wo) | 오징어 |
 | Text | Transc. | Transl. | Example |
 | (ㅣ) | y | y |
 | ㅑ | ya | ya | 야자수 |
 | ㅢ | yi | ï(ui) | 의사 |
-| ㅠ | yu | yû(ywu) | 유치원 |
-| ㅒ | ye | yä(yaj) | 섀도 |
-| ㅖ | ye | yë(yej) | 계란 |
-| ㅕ | yú(yuh) | ye | 연못 |
-| ㅛ | yô(yo) | yô(ywo) | 요지경 |
+| ㅠ | yú(yu) | yú(ywu) | 유치원 |
+| ㅒ | ye | yä(yai) | 섀도 |
+| ㅖ | ye | yë(yei) | 계란 |
+| ㅕ | yé(yuh) | ye | 연못 |
+| ㅛ | yó(yo) | yó(ywo) | 요지경 |
 
 * In transcription, apostrophe is used to indicate abbreviation.
 * Are-a is unused.
@@ -184,17 +184,17 @@ ______
 
 | Transcription | Transliteration | Text |
 | - | - | - |
-| boun | boun | 보은 |
-| muhqbang | muhqbag | 먹방 |
+| bwoun | bóun | 보은 |
+| muhqbang | méqbag | 먹방 |
 | Suhoul | Seoul | 서오을 |
-| qqwoc | qqôc | 꽃 |
-| qwoz | qôz | 곶 |
-| qwos | qôs | 곳 |
+| qqwoc | qqóc | 꽃 |
+| qwoz | qóz | 곶 |
+| qwos | qós | 곳 |
 | zzang | zzag | 짱 |
-| qumdwongmiruqbwosalbanqasayusang | qumdôgmiluqbôsalbanqasayûsag | 금동미륵보살반가사유상 |
+| qumdwongmiruqbwosalbanqasayusang | qumdógmiluqbósalbanqasayúsag | 금동미륵보살반가사유상 |
 | milku | milku | 밀크 |
-| buhraq wobama | bolaq ôbama | 버락 오바마 |
+| buhraq wobama | belaq óbama | 버락 오바마 |
 | sincuhng | sinceg | 신청 |
 | sacuhnsuhng | sacenseg | 사천성 |
 | manhwa | manhwa | 만화 |
-| il i sam sa wo lyuq cil pal qwu sib | il i sam sa wo lyúq cil pal qû sib | 일 이…십 |
+| il i sam sa wo lyuq cil pal qwu sib | il i sam sa wo lyúq cil pal qú sib | 일 이…십 |
