@@ -92,15 +92,15 @@ Hangul | Trans.
 ㅡ | u | ㅜ | wu |
 ㅔ | e | ㅞ | we |
 ㅐ | e | ㅙ | we |
-ㅓ | o | ㅝ | wo |
-ㆍ | oh | ㅗ | woh |
+ㅓ | uh | ㅝ | wuh |
+ㆍ | o | ㅗ | wo |
 | ㅑ | ya |
 | ㅢ | yi |
 | ㅠ | yu |
 | ㅖ | ye |
 | ㅒ | ye |
-| ㅕ | yo |
-| ㅛ | yoh |
+| ㅕ | yuh |
+| ㅛ | yo |
 
 
 * Apostrophe is used to indicate abbreviation instead of for the transliteration of ⟨ㅇ⟩.
@@ -110,20 +110,20 @@ Hangul | Trans.
 
 | H | T | H | T |
 --- | --- | --- | ---
-ㅏ  | a | ㅘ | ôa
-ㅓ  | e | ㅝ | ûe
-ㆍ | o | ㅗ | ô
-ㅡ  | u | ㅜ | û
-ㅐ | ai | ㅙ | ôai
-ㅔ | ei | ㅞ | ûei
-ㆎ | oi | ㅚ | ôi
-ㅢ | ui | ㅟ | ûi
- ㅑ | ya | ㆇ | yôya
- ㅕ | ye | ㆊ | yûye
+ㅏ  | a | ㅘ | óa
+ㅓ  | e | ㅝ | úe
+ㆍ | o | ㅗ | ó
+ㅡ  | u | ㅜ | ú
+ㅐ | ai | ㅙ | óai
+ㅔ | ei | ㅞ | úei
+ㆎ | oi | ㅚ | ói
+ㅢ | ui | ㅟ | úi
+ ㅑ | ya | ㆇ | yóya
+ ㅕ | ye | ㆊ | yúye
  ㅛ | yô |   | 
  ㅠ | yû |   | 
- ㅒ | yai | ㆈ | yôyai
- ㅖ | yei | ㆋ | yûyei
+ ㅒ | yai | ㆈ | yóyai
+ ㅖ | yei | ㆋ | yúyei
  ㆉ | yôi |   | 
  ㆌ | yûi |   | 
  
@@ -140,8 +140,8 @@ The romanization for Middle Korean introduced here covers more letter than Yale 
 | Text | Here (Middle) | Yale |
 | - | - | - |
 | ㅇ | ʼ(') | (G) |
-| ㅗ | ô(wo) | (w)o |
-| ㅜ | û(wu) | (w)u |
+| ㅗ | ó(wo) | (w)o |
+| ㅜ | ú(wu) | (w)u |
 | ㅐ | ai | ay |
 | ㅔ | ei | ey |
 | ㄱ | q | k |
