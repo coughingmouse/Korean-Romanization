@@ -120,12 +120,12 @@ Hangul | Trans.
 ㅢ | ui | ㅟ | úi
  ㅑ | ya | ㆇ | yóya
  ㅕ | ye | ㆊ | yúye
- ㅛ | yô |   | 
- ㅠ | yû |   | 
+ ㅛ | yó |   | 
+ ㅠ | yú |   | 
  ㅒ | yai | ㆈ | yóyai
  ㅖ | yei | ㆋ | yúyei
- ㆉ | yôi |   | 
- ㆌ | yûi |   | 
+ ㆉ | yói |   | 
+ ㆌ | yúi |   | 
  
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels.
 
