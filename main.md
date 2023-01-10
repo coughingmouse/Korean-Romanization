@@ -14,46 +14,44 @@
 | ㆍ | o | o |
 | ㅡ | u | u | u
 | | w | w |
-| ㅘ | wa | ôa{wa}(woa) | wa
-| ㅝ | wo | úe{we}(wue) | wo
-| ㅗ | ô{(wo)} | ô{(wo)} | ô(wO)
-| ㅜ | û{(wo)} | û{(wu)} | û(wu)
+| ㅘ | wa | óa{wa}(woa) | wa
+| ㅝ | wuh | úe{we}(wue) | wuh
+| ㅗ | ó{(wo)} | ó{(wo)} | ó(wo)
+| ㅜ | ú{(wo)} | ú{(wu)} | ú(wu)
 | | y | y |
 | ㅑ | ya | ya | ya
-| ㅕ | yuh | ye | yo
+| ㅕ | yuh | ye | yuh
 | ᆝ | yo | yo |
 | (ᆢ) | oo{yo}(oo) | oo{yo} |
-| ㅛ | yô{(yo)}(ywo) | yó{yo}(ywo) | yó(yO)
+| ㅛ | yó{(yo)}(ywo) | yó{yo}(ywo) | yó(yO)
 | ᆜ | yu | yu |
 | (ᆖ) | uu{yu} | uu{yu} |
-| ㅠ | yû{yu}(ywu) | yû{yu}(ywu) | yû(yu)
-| ㆇ | ywa | yôia{ywa}(ywoia) |
-| ㆊ | ywo | yûie{ywe}(ywoie) |
+| ㅠ | yú{yu}(ywu) | yú{yu}(ywu) | yú(yu)
+| ㆇ | ywa | yóia{ywa}(ywoia) |
+| ㆊ | ywo | yúie{ywe}(ywoie) |
 | | j | j |
-| ㅐ | é{e}(aj) | aj | e
-| ㅔ | e | ej | e
-| ㆎ | ój(Oj) | oj |
-| ㅢ | í(yi) | uj | yi
+| ㅐ | é{e}(ai) | ai | e
+| ㅔ | e | ei | e
+| ㆎ | oi | oi |
+| ㅢ | í(yi) | ui | yi
 | Text | Modern | Middle | pronunciation-educational
-| ㅙ | wé{we}(waj) | ôaj{waj}(woaj) | we
-| ㅞ | we | ûej{wej}(wuej) | we
-| ㅚ | ö{we}(wOj) | ôj{(woj)} | we
-| ㅟ | ü{wi}(wuj) | ûj{(wuj)} | wi
+| ㅙ | wé{we}(waj) | óai{wai}(woai) | we
+| ㅞ | we | úei{wei}(wuei) | we
+| ㅚ | ö{we}(woi) | ói{(woi)} | we
+| ㅟ | ü{wi}(wui) | új{(wui)} | wi
 | Text | Modern | Middle | pronunciation-educational
-| ㅒ | yé{ye}(yaj) | yaj | ye
-| ㅖ | ye | yej | ye
-| ㆉ | yö{ywe}(ywOj) | yój{yoj}(ywoj) |
-| ㆌ | yü{ywi}(ywuj) | yúj{yuj}(ywuj) |
-| ㆈ | ywaj | yóiaj{ywaj}(ywoiaj) |
-| ㆋ | ywoj | yúiej{ywej}(ywuiej) |
+| ㅒ | yé{ye}(yaj) | yai | ye
+| ㅖ | ye | yei | ye
+| ㆉ | yö{ywe}(ywoi) | yói{yoi}(ywoi) |
+| ㆌ | yü{ywi}(ywui) | yúi{yui}(ywui) |
+| ㆈ | ywai | yóiai{ywai}(ywoiai) |
+| ㆋ | ywoi | yúiei{ywei}(ywuiei) |
 
 * In transcription of Modern Korean, Apostrophe is used to indicate abbreviation.
 * ⟨i⟩ is used if it is or is a part of a nucleus. ⟨y⟩ is used if it is the first letter of a vowel cluster. Else, ⟨j⟩ is used: when it's the last letter of a vowel cluster, except when preceded by a semivowel, e.g. ⟨ퟄ⟩, romanized as ⟨yi⟩.
 * Use of ⟨ᆝ⟩ and ⟨ᆜ⟩ is preferred over ⟨ᆢ⟩ and ⟨ᆖ⟩.
 * In the transliteration of Middle Korean, ⟨w⟩ is considered a vowel, so ⟨'⟩ is appended before it if it's the first letter of a syllable.
 * Unspecified vowel clusters are transliterated as the combination of each traditionally minimal vowels; for them, transcription is not available. Although highly recommended to use the transliteration for Middle Korean, if one wishes to use transliteration for Modern Korean for text with unusual vowel clusters, including ⟨ᆢ⟩ and ⟨ᆖ⟩, ⟨w⟩ is considered a vowel, and ⟨'⟩, is appended before it if it's the first letter of a syllable, as well as for other vowels.
-* It is possible to allow omitting ⟨w⟩ for the Modern Korean ASCII representation of ⟨ㅗ⟩ anywhere but after a whitespace character.
-* ⟨wO⟩ and ⟨yO⟩ can be transliterated as ⟨ww⟩ and ⟨yw⟩.
 
 | Text | Trans. | pronunciation-educational
 | - | - | -
